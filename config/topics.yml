@@ -1,0 +1,144 @@
+# June Bio Grant Scout – Topic Configuration
+# Each topic group has keywords and a weight (0.0–1.0).
+# Higher weight = more relevant to June Bio's mission.
+# Keywords are matched case-insensitively against title + summary.
+
+topic_groups:
+
+  gi_ibd:
+    label: "GI/IBD"
+    weight: 1.0
+    keywords:
+      - ulcerative colitis
+      - inflammatory bowel disease
+      - IBD
+      - Crohn's disease
+      - Crohn disease
+      - gut inflammation
+      - colitis
+      - intestinal inflammation
+      - colorectal
+      - gastrointestinal
+
+  microbiome:
+    label: "Microbiome"
+    weight: 1.0
+    keywords:
+      - gut microbiome
+      - intestinal microbiome
+      - microbiota
+      - dysbiosis
+      - probiotic
+      - prebiotic
+      - commensal bacteria
+      - fecal microbiota
+      - metagenomics
+      - 16S rRNA
+
+  mucins_glycobiology:
+    label: "Mucins/Glycobiology"
+    weight: 1.0
+    keywords:
+      - mucin
+      - mucins
+      - mucus layer
+      - goblet cell
+      - goblet cells
+      - glycobiology
+      - glycosylation
+      - glycan
+      - glycoprotein
+      - O-glycosylation
+      - mucus barrier
+
+  mucosal_immunology:
+    label: "Mucosal Immunology"
+    weight: 0.9
+    keywords:
+      - mucosal immunology
+      - mucosal immunity
+      - mucosal health
+      - intestinal barrier
+      - epithelial barrier
+      - epithelial biology
+      - tight junction
+      - intestinal epithelium
+      - mucosal defense
+      - mucosal inflammation
+      - respiratory mucosa
+      - urogenital mucosa
+
+  vaginal_health:
+    label: "Vaginal Health"
+    weight: 0.9
+    keywords:
+      - vaginal microbiome
+      - vaginal health
+      - bacterial vaginosis
+      - BV
+      - vulvovaginal candidiasis
+      - VVC
+      - cervicovaginal
+      - reproductive tract
+      - women's health
+      - female reproductive
+      - sexually transmitted infection
+      - STI prevention
+      - Lactobacillus crispatus
+      - vaginal dysbiosis
+
+  biomanufacturing:
+    label: "Biomanufacturing"
+    weight: 0.7
+    keywords:
+      - biomanufacturing
+      - bioprocessing
+      - live biotherapeutic
+      - LBP
+      - biologics manufacturing
+      - mucosal delivery
+      - drug delivery mucosal
+      - fermentation
+      - cell-free manufacturing
+
+  therapeutics:
+    label: "Therapeutics"
+    weight: 0.6
+    keywords:
+      - therapeutic
+      - clinical trial
+      - drug development
+      - preclinical
+      - phase I
+      - phase II
+      - IND-enabling
+      - translational research
+
+  diagnostics:
+    label: "Diagnostics"
+    weight: 0.5
+    keywords:
+      - diagnostic
+      - biomarker
+      - point-of-care
+      - companion diagnostic
+      - screening
+      - early detection
+
+  delivery:
+    label: "Delivery"
+    weight: 0.6
+    keywords:
+      - mucosal delivery
+      - oral delivery
+      - targeted delivery
+      - nanoparticle delivery
+      - encapsulation
+      - formulation
+
+# Scoring settings
+scoring:
+  keyword_weight: 0.6
+  semantic_weight: 0.4
+  high_priority_score_threshold: 40
+  high_priority_deadline_days: 60
