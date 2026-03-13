@@ -1,0 +1,915 @@
+{
+  "errorcode": 0,
+  "msg": "Webservice Succeeds",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.InFYTjVmY2ZuelUvb09SOC9tTXp1VVdnYmplM3lhZXpTVjJWMEhQVDJKcTg9Ig._qY0OSgffSJIGQIuaZTZ8CkrlqInZXrCzEu3cbqts8Y",
+  "data": {
+    "searchParams": {
+      "resultType": "json",
+      "searchOnly": false,
+      "oppNum": "",
+      "cfda": "",
+      "sortBy": "openDate|desc",
+      "oppStatuses": "posted|forecasted",
+      "startRecordNum": 0,
+      "eligibilities": "",
+      "fundingInstruments": "",
+      "fundingCategories": "",
+      "agencies": "",
+      "rows": 100,
+      "keyword": "immunology autoimmune vaccine immunotherapy",
+      "keywordEncoded": true
+    },
+    "hitCount": 42,
+    "startRecord": 0,
+    "oppHits": [
+      {
+        "id": "361453",
+        "number": "CDC-RFA-CE-26-0061",
+        "title": "Drug-Free Communities (DFC) Support Program &ndash; NEW (Year 1)",
+        "agencyCode": "HHS-CDC-NCIPC",
+        "agency": "Centers for Disease Control - NCIPC",
+        "openDate": "03/11/2026",
+        "closeDate": "04/14/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.276"
+        ]
+      },
+      {
+        "id": "361455",
+        "number": "CDC-RFA-CE21-210206CONT26",
+        "title": "Drug-Free Communities (DFC) Support Program &ndash; COMPETING CONTINUATION (Year 6)",
+        "agencyCode": "HHS-CDC-NCIPC",
+        "agency": "Centers for Disease Control - NCIPC",
+        "openDate": "03/11/2026",
+        "closeDate": "04/14/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.276"
+        ]
+      },
+      {
+        "id": "361430",
+        "number": "DFOP0017826",
+        "title": "Feed the Future Innovation Labs",
+        "agencyCode": "DOS-GFS",
+        "agency": "Office of Global Food Security",
+        "openDate": "03/10/2026",
+        "closeDate": "04/09/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "19.017"
+        ]
+      },
+      {
+        "id": "359701",
+        "number": "PAR-26-106",
+        "title": "Development of Collaborative Research Facilities or Research-Resource Facilities (C06 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "03/06/2026",
+        "closeDate": "01/25/2028",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.310",
+          "93.352"
+        ]
+      },
+      {
+        "id": "361402",
+        "number": "DFOP0017868",
+        "title": "FY 2026 American Film Showcase",
+        "agencyCode": "DOS-ECA",
+        "agency": "Bureau Of Educational and Cultural Affairs",
+        "openDate": "03/03/2026",
+        "closeDate": "06/01/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "19.415"
+        ]
+      },
+      {
+        "id": "359004",
+        "number": "PAR-26-042",
+        "title": "Research Grants in Clinical Informatics (R01 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "02/11/2026",
+        "closeDate": "03/05/2029",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.879"
+        ]
+      },
+      {
+        "id": "359003",
+        "number": "PAR-26-040",
+        "title": "Advancing Bioinformatics, Translational Bioinformatics and Computational Biology Research (R01 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "02/11/2026",
+        "closeDate": "03/05/2029",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.879"
+        ]
+      },
+      {
+        "id": "359939",
+        "number": "RFA-AI-27-019",
+        "title": "Impact of Initial Influenza Exposure on Immunity in Infants (U01 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "02/10/2026",
+        "closeDate": "06/04/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.855"
+        ]
+      },
+      {
+        "id": "359274",
+        "number": "RFA-DC-26-001",
+        "title": "Early-Stage Dissemination and Implementation Research in Communication Disorders (R21 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "02/05/2026",
+        "closeDate": "06/17/2027",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.173"
+        ]
+      },
+      {
+        "id": "359725",
+        "number": "PAR-26-134",
+        "title": "The Metastasis Research Network (MetNet): MetNet Research Projects (U01 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "02/04/2026",
+        "closeDate": "11/22/2028",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.396"
+        ]
+      },
+      {
+        "id": "361235",
+        "number": "RFA-DK-27-140",
+        "title": "Rigor and Reproducibility for Biomarkers in Type 1 Diabetes Clinical Research",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "02/04/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.847"
+        ]
+      },
+      {
+        "id": "360581",
+        "number": "PA-26-002",
+        "title": "NIH Collaborative International Research Project (Parent PF5 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "01/20/2026",
+        "closeDate": "05/07/2029",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.310"
+        ]
+      },
+      {
+        "id": "358911",
+        "number": "RFA-DK-26-309",
+        "title": "Single Source Renewal for the Continuation of the Liver Cirrhosis Network: Scientific and Data Coordination Center (U24 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "01/09/2026",
+        "closeDate": "01/27/2027",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.847"
+        ]
+      },
+      {
+        "id": "359862",
+        "number": "PAR-26-121",
+        "title": "Maximizing Investigators' Research Award (MIRA) (R35 - Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "12/11/2025",
+        "closeDate": "05/26/2028",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.859"
+        ]
+      },
+      {
+        "id": "360946",
+        "number": "PAR-26-091",
+        "title": "Assay Validation of High Quality Markers for Clinical Studies in Cancer (UH2/UH3 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "12/08/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.394"
+        ]
+      },
+      {
+        "id": "359659",
+        "number": "PAR-26-116",
+        "title": "Opportunities for Collaborative Research at the NIH Clinical Center (U01 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "12/08/2025",
+        "closeDate": "03/06/2027",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.313"
+        ]
+      },
+      {
+        "id": "359145",
+        "number": "RFA-DK-26-310",
+        "title": "Diabetes Research Centers (P30 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "12/05/2025",
+        "closeDate": "01/27/2027",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.847"
+        ]
+      },
+      {
+        "id": "358910",
+        "number": "RFA-DK-26-308",
+        "title": "Limited Competition Renewal for the Continuation of the Liver Cirrhosis Network: Clinical Research Centers (U01 Clinical Trial Required)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "12/05/2025",
+        "closeDate": "03/08/2027",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.847"
+        ]
+      },
+      {
+        "id": "360934",
+        "number": "RFA-AI-27-003",
+        "title": "Autoimmune Diseases Statistical and Clinical Coordinating Center (AD-SCCC)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "12/04/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.855"
+        ]
+      },
+      {
+        "id": "360918",
+        "number": "PAR-25-444",
+        "title": "Cancer Center Support Grants (CCSGs) for NCI-designated Cancer Centers (P30 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "11/26/2025",
+        "closeDate": "09/25/2028",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.397"
+        ]
+      },
+      {
+        "id": "360884",
+        "number": "AFPMB-BAA-26-01",
+        "title": "Deployed Warfighter Protection (DWFP) Program for the Protection of Deployed Military Personnel from Threats Posed by Arthropod Disease Vectors",
+        "agencyCode": "DOD-AMC-ACCAPGD",
+        "agency": "ACC-APG-Detrick",
+        "openDate": "11/19/2025",
+        "closeDate": "03/25/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "12.355"
+        ]
+      },
+      {
+        "id": "360874",
+        "number": "RFA-AI-27-004",
+        "title": "Atopic Dermatitis Research Network &ndash; Clinical Research Centers",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "11/18/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.855"
+        ]
+      },
+      {
+        "id": "360875",
+        "number": "RFA-AI-27-002",
+        "title": "Infectious Diseases Clinical Trials Network (IDCTN)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "11/18/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.855"
+        ]
+      },
+      {
+        "id": "360878",
+        "number": "RFA-AI-27-012",
+        "title": "Coccidioidomycosis Collaborative Research Centers",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "11/18/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.855"
+        ]
+      },
+      {
+        "id": "360700",
+        "number": "CDC-RFA-JG-26-0125",
+        "title": "Strengthening tuberculosis (TB) prevention, diagnosis, and treatment in Southeast Asia to end TB",
+        "agencyCode": "HHS-CDC-GHC",
+        "agency": "Centers for Disease Control-GHC",
+        "openDate": "10/01/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.494"
+        ]
+      },
+      {
+        "id": "360591",
+        "number": "RFA-AI-27-020",
+        "title": "Consortia for Structure-based Immunogen Design for HIV (CSID-HIV)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "09/15/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.855"
+        ]
+      },
+      {
+        "id": "360198",
+        "number": "RFA-IP-26-032",
+        "title": "Economic and Modeling Analyses to Support Immunization Policy and Programs",
+        "agencyCode": "HHS-CDC-HHSCDCERA",
+        "agency": "Centers for Disease Control and Prevention - ERA",
+        "openDate": "08/01/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.185"
+        ]
+      },
+      {
+        "id": "360203",
+        "number": "RFA-IP-26-100",
+        "title": "Preparedness for and Prevention of Severe Disease and Sequelae of Respiratory Viruses and Other Respiratory Pathogens",
+        "agencyCode": "HHS-CDC-HHSCDCERA",
+        "agency": "Centers for Disease Control and Prevention - ERA",
+        "openDate": "08/01/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.083"
+        ]
+      },
+      {
+        "id": "360201",
+        "number": "RFA-IP-26-097",
+        "title": "Collaborative Surveys to Provide Inputs into Vaccine-Related Economic Evaluations",
+        "agencyCode": "HHS-CDC-HHSCDCERA",
+        "agency": "Centers for Disease Control and Prevention - ERA",
+        "openDate": "08/01/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.185"
+        ]
+      },
+      {
+        "id": "360205",
+        "number": "USDA-NIFA-AFRI-011134",
+        "title": "Agriculture and Food Research Initiative Competitive Grants Program Foundational and Applied Science Program",
+        "agencyCode": "USDA-NIFA",
+        "agency": "National Institute of Food and Agriculture",
+        "openDate": "08/01/2025",
+        "closeDate": "12/31/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "10.310"
+        ]
+      },
+      {
+        "id": "359732",
+        "number": "FOR-AI-27-008",
+        "title": "NIAID Investigator Initiated Program Project Applications",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "06/16/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.855"
+        ]
+      },
+      {
+        "id": "359692",
+        "number": "FOR-AI-27-009",
+        "title": "NIAID Resource-Related Research Projects",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "06/12/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.855"
+        ]
+      },
+      {
+        "id": "357014",
+        "number": "PAR-25-153",
+        "title": "Assay development and screening for discovery of chemical probes, drugs or immunomodulators (R01 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "11/06/2024",
+        "closeDate": "09/07/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.395"
+        ]
+      },
+      {
+        "id": "356717",
+        "number": "PAR-25-075",
+        "title": "Assay Validation of High Quality Markers for Clinical Studies in Cancer (UH3 Clinical Trials Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "10/15/2024",
+        "closeDate": "10/14/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.394"
+        ]
+      },
+      {
+        "id": "356718",
+        "number": "PAR-25-074",
+        "title": "Assay Validation of High Quality Markers for Clinical Studies in Cancer (UH2/UH3 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "10/15/2024",
+        "closeDate": "10/14/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.394"
+        ]
+      },
+      {
+        "id": "356612",
+        "number": "HDTRA1-25-S-0001",
+        "title": "Fundamental Research to Counter Weapons of Mass Destruction",
+        "agencyCode": "DOD-DTRA",
+        "agency": "Defense Threat Reduction Agency",
+        "openDate": "10/01/2024",
+        "closeDate": "09/30/2034",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "12.351"
+        ]
+      },
+      {
+        "id": "350461",
+        "number": "PAR-24-037",
+        "title": "HIV Vaccine Research and Design (HIVRAD) Program (P01 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "10/04/2023",
+        "closeDate": "03/13/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.855"
+        ]
+      },
+      {
+        "id": "349586",
+        "number": "HT9425-23-S-SOC1",
+        "title": "BROAD AGENCY ANNOUNCEMENT (BAA) for Extramural Biomedical and Human Performance Research and Development Department of Defense",
+        "agencyCode": "DOD-AMRAA",
+        "agency": "Dept. of the Army -- USAMRAA",
+        "openDate": "07/27/2023",
+        "closeDate": "07/31/2028",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "12.420"
+        ]
+      },
+      {
+        "id": "348796",
+        "number": "PD-23-5345",
+        "title": "Engineering of Biomedical Systems",
+        "agencyCode": "NSF",
+        "agency": "U.S. National Science Foundation",
+        "openDate": "06/18/2023",
+        "closeDate": "",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "47.041"
+        ]
+      },
+      {
+        "id": "343725",
+        "number": "HT942523SBAA1",
+        "title": "DOD Defense Health Agency (DHA) Research &amp; Development FY23-FY27 BROAD AGENCY ANNOUNCEMENT for Extramural Medical Research",
+        "agencyCode": "DOD-AMRAA",
+        "agency": "Dept. of the Army -- USAMRAA",
+        "openDate": "09/22/2022",
+        "closeDate": "09/30/2027",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "12.420"
+        ]
+      },
+      {
+        "id": "337086",
+        "number": "CDC-RFA-TP22-2201",
+        "title": "Public Health Crisis Response Cooperative Agreement",
+        "agencyCode": "HHS-CDC-OPHPR",
+        "agency": "Centers for Disease Control - OPHPR",
+        "openDate": "01/13/2022",
+        "closeDate": "02/11/2027",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.354"
+        ]
+      },
+      {
+        "id": "330175",
+        "number": "FA7000-21-S-0001",
+        "title": "Research Interests of the United States Air Force Academy (formerly USAFA-BAA-2021)",
+        "agencyCode": "DOD-USAFA",
+        "agency": "Air Force Academy",
+        "openDate": "12/02/2020",
+        "closeDate": "",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "12.800"
+        ]
+      }
+    ],
+    "oppStatusOptions": [
+      {
+        "label": "posted",
+        "value": "posted",
+        "count": 29
+      },
+      {
+        "label": "closed",
+        "value": "closed",
+        "count": 219
+      },
+      {
+        "label": "archived",
+        "value": "archived",
+        "count": 2874
+      },
+      {
+        "label": "forecasted",
+        "value": "forecasted",
+        "count": 13
+      }
+    ],
+    "dateRangeOptions": [
+      {
+        "label": "Posted Date - Last 3 Days",
+        "value": "3",
+        "count": 2
+      },
+      {
+        "label": "Posted Date - Last 1 Week",
+        "value": "7",
+        "count": 3
+      },
+      {
+        "label": "Posted Date - Last 2 Weeks",
+        "value": "14",
+        "count": 5
+      },
+      {
+        "label": "Posted Date - Last 3 Weeks",
+        "value": "21",
+        "count": 5
+      },
+      {
+        "label": "Posted Date - Last 4 Weeks",
+        "value": "28",
+        "count": 5
+      },
+      {
+        "label": "Posted Date - Last 5 Weeks",
+        "value": "35",
+        "count": 8
+      },
+      {
+        "label": "Posted Date - Last 6 Weeks",
+        "value": "42",
+        "count": 11
+      },
+      {
+        "label": "Posted Date - Last 7 Weeks",
+        "value": "49",
+        "count": 11
+      },
+      {
+        "label": "Posted Date - Last 8 Weeks",
+        "value": "56",
+        "count": 12
+      }
+    ],
+    "suggestion": "",
+    "eligibilities": [
+      {
+        "label": "City or township governments",
+        "value": "02",
+        "count": 29
+      },
+      {
+        "label": "County governments",
+        "value": "01",
+        "count": 32
+      },
+      {
+        "label": "For profit organizations other than small businesses",
+        "value": "22",
+        "count": 28
+      },
+      {
+        "label": "Independent school districts",
+        "value": "05",
+        "count": 31
+      },
+      {
+        "label": "Native American tribal governments (Federally recognized)",
+        "value": "07",
+        "count": 32
+      },
+      {
+        "label": "Native American tribal organizations (other than Federally recognized tribal governments)",
+        "value": "11",
+        "count": 31
+      },
+      {
+        "label": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "value": "12",
+        "count": 32
+      },
+      {
+        "label": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "value": "13",
+        "count": 29
+      },
+      {
+        "label": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)",
+        "value": "25",
+        "count": 30
+      },
+      {
+        "label": "Private institutions of higher education",
+        "value": "20",
+        "count": 32
+      },
+      {
+        "label": "Public and State controlled institutions of higher education",
+        "value": "06",
+        "count": 32
+      },
+      {
+        "label": "Public housing authorities/Indian housing authorities",
+        "value": "08",
+        "count": 28
+      },
+      {
+        "label": "Small businesses",
+        "value": "23",
+        "count": 26
+      },
+      {
+        "label": "Special district governments",
+        "value": "04",
+        "count": 30
+      },
+      {
+        "label": "State governments",
+        "value": "00",
+        "count": 30
+      },
+      {
+        "label": "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\"",
+        "value": "99",
+        "count": 9
+      }
+    ],
+    "fundingCategories": [
+      {
+        "label": "Agriculture",
+        "value": "AG",
+        "count": 2
+      },
+      {
+        "label": "Education",
+        "value": "ED",
+        "count": 3
+      },
+      {
+        "label": "Health",
+        "value": "HL",
+        "count": 33
+      },
+      {
+        "label": "Other (see text field entitled \"Explanation of Other Category of Funding Activity\" for clarification)",
+        "value": "O",
+        "count": 1
+      },
+      {
+        "label": "Science and Technology and other Research and Development",
+        "value": "ST",
+        "count": 6
+      }
+    ],
+    "fundingInstruments": [
+      {
+        "label": "Cooperative Agreement",
+        "value": "CA",
+        "count": 22
+      },
+      {
+        "label": "Grant",
+        "value": "G",
+        "count": 22
+      },
+      {
+        "label": "Other",
+        "value": "O",
+        "count": 2
+      },
+      {
+        "label": "Procurement Contract",
+        "value": "PC",
+        "count": 3
+      }
+    ],
+    "agencies": [
+      {
+        "subAgencyOptions": [
+          {
+            "label": "National Institute of Food and Agriculture",
+            "value": "USDA-NIFA",
+            "count": 1
+          }
+        ],
+        "label": "Department of Agriculture",
+        "value": "USDA",
+        "count": 1
+      },
+      {
+        "subAgencyOptions": [
+          {
+            "label": "ACC-APG-Detrick",
+            "value": "DOD-AMC-ACCAPGD",
+            "count": 1
+          },
+          {
+            "label": "Air Force Academy",
+            "value": "DOD-USAFA",
+            "count": 1
+          },
+          {
+            "label": "Defense Threat Reduction Agency",
+            "value": "DOD-DTRA",
+            "count": 1
+          },
+          {
+            "label": "Dept. of the Army -- USAMRAA",
+            "value": "DOD-AMRAA",
+            "count": 2
+          }
+        ],
+        "label": "Department of Defense",
+        "value": "DOD",
+        "count": 5
+      },
+      {
+        "subAgencyOptions": [
+          {
+            "label": "Centers for Disease Control - NCIPC",
+            "value": "HHS-CDC-NCIPC",
+            "count": 2
+          },
+          {
+            "label": "Centers for Disease Control - OPHPR",
+            "value": "HHS-CDC-OPHPR",
+            "count": 1
+          },
+          {
+            "label": "Centers for Disease Control and Prevention - ERA",
+            "value": "HHS-CDC-HHSCDCERA",
+            "count": 3
+          },
+          {
+            "label": "Centers for Disease Control-GHC",
+            "value": "HHS-CDC-GHC",
+            "count": 1
+          },
+          {
+            "label": "National Institutes of Health",
+            "value": "HHS-NIH11",
+            "count": 26
+          }
+        ],
+        "label": "Department of Health and Human Services",
+        "value": "HHS",
+        "count": 33
+      },
+      {
+        "subAgencyOptions": [
+          {
+            "label": "Bureau Of Educational and Cultural Affairs",
+            "value": "DOS-ECA",
+            "count": 1
+          },
+          {
+            "label": "Office of Global Food Security",
+            "value": "DOS-GFS",
+            "count": 1
+          }
+        ],
+        "label": "Department of State",
+        "value": "DOS",
+        "count": 2
+      },
+      {
+        "subAgencyOptions": [],
+        "label": "U.S. National Science Foundation",
+        "value": "NSF",
+        "count": 1
+      }
+    ],
+    "accessKey": "",
+    "errorMsgs": []
+  }
+}

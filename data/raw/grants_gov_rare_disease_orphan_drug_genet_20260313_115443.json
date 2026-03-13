@@ -1,0 +1,2178 @@
+{
+  "errorcode": 0,
+  "msg": "Webservice Succeeds",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.IkhmNTYxV2JlaUw1eHlqZ0V3RERlS2JJR2luZk96ZStaVXB5RWp1Uk5Wb3c9Ig.ILjwQRmNCs1065Z511OJ0g7DMTlo9EyTne6trMiynLI",
+  "data": {
+    "searchParams": {
+      "resultType": "json",
+      "searchOnly": false,
+      "oppNum": "",
+      "cfda": "",
+      "sortBy": "openDate|desc",
+      "oppStatuses": "posted|forecasted",
+      "startRecordNum": 0,
+      "eligibilities": "",
+      "fundingInstruments": "",
+      "fundingCategories": "",
+      "agencies": "",
+      "rows": 100,
+      "keyword": "rare disease orphan drug genetic disorder",
+      "keywordEncoded": true
+    },
+    "hitCount": 563,
+    "startRecord": 0,
+    "oppHits": [
+      {
+        "id": "361488",
+        "number": "SMK800-26-PAS001",
+        "title": "Alumni Engagement Innovation Fund Program FY 2026",
+        "agencyCode": "DOS-MKD",
+        "agency": "U.S. Mission to North Macedonia",
+        "openDate": "03/13/2026",
+        "closeDate": "04/24/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "19.022"
+        ]
+      },
+      {
+        "id": "361456",
+        "number": "PDS-AEIF-FY26-01",
+        "title": "Mission Nigeria&rsquo;s Alumni Engagement Innovation Fund",
+        "agencyCode": "DOS-NGA",
+        "agency": "U.S. Mission to Nigeria",
+        "openDate": "03/12/2026",
+        "closeDate": "05/11/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "19.022"
+        ]
+      },
+      {
+        "id": "361441",
+        "number": "USDA-NIFA-D113A-32357",
+        "title": "Organic Agriculture Research and Extension Initiative - OREI Planning Projects for Assistance in Development of Future OREI Proposals Requiring Multi-regional or Regional Coordination",
+        "agencyCode": "USDA-NIFA-ERA",
+        "agency": "Electronic Research Administration",
+        "openDate": "03/11/2026",
+        "closeDate": "05/14/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "10.307"
+        ]
+      },
+      {
+        "id": "361453",
+        "number": "CDC-RFA-CE-26-0061",
+        "title": "Drug-Free Communities (DFC) Support Program &ndash; NEW (Year 1)",
+        "agencyCode": "HHS-CDC-NCIPC",
+        "agency": "Centers for Disease Control - NCIPC",
+        "openDate": "03/11/2026",
+        "closeDate": "04/14/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.276"
+        ]
+      },
+      {
+        "id": "361452",
+        "number": "RFA-NS-26-032",
+        "title": "Centers without Walls for mechanisms of neurodegeneration in Alzheimer&rsquo;s disease-related dementias (ADRD)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "03/11/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.853"
+        ]
+      },
+      {
+        "id": "361451",
+        "number": "RFA-NS-26-031",
+        "title": "Exposomic Contributions to ADRD Pathology and Resilience",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "03/11/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.853"
+        ]
+      },
+      {
+        "id": "361443",
+        "number": "USDA-NIFA-D113A-32481",
+        "title": "Organic Agriculture Research and Extension Initiative - OREI Research Projects with Extension and/or Education Components",
+        "agencyCode": "USDA-NIFA-ERA",
+        "agency": "Electronic Research Administration",
+        "openDate": "03/11/2026",
+        "closeDate": "05/14/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "10.307"
+        ]
+      },
+      {
+        "id": "361444",
+        "number": "USDA-NIFA-D113A-32483",
+        "title": "Organic Agriculture Research and Extension Initiative - OREI Workshop Projects",
+        "agencyCode": "USDA-NIFA-ERA",
+        "agency": "Electronic Research Administration",
+        "openDate": "03/11/2026",
+        "closeDate": "05/14/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "10.307"
+        ]
+      },
+      {
+        "id": "361450",
+        "number": "RFA-NS-26-034",
+        "title": "Functional Target Validation for Alzheimer's Disease-Related Dementias",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "03/11/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.853"
+        ]
+      },
+      {
+        "id": "361449",
+        "number": "RFA-MH-27-120",
+        "title": "BRAIN Initiative Cell Atlas Network (BICAN): Coordinating Unit for Biostatistics, Informatics, and Engagement (CUBIE)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "03/11/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.242"
+        ]
+      },
+      {
+        "id": "361445",
+        "number": "NCI-NCI-26-001",
+        "title": "2026 DFC National Community Anti-Drug Institute Notice of Funding Opportunity",
+        "agencyCode": "ONDCP",
+        "agency": "Office of National Drug Control Policy ",
+        "openDate": "03/11/2026",
+        "closeDate": "05/01/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "95.003"
+        ]
+      },
+      {
+        "id": "361455",
+        "number": "CDC-RFA-CE21-210206CONT26",
+        "title": "Drug-Free Communities (DFC) Support Program &ndash; COMPETING CONTINUATION (Year 6)",
+        "agencyCode": "HHS-CDC-NCIPC",
+        "agency": "Centers for Disease Control - NCIPC",
+        "openDate": "03/11/2026",
+        "closeDate": "04/14/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.276"
+        ]
+      },
+      {
+        "id": "361480",
+        "number": "20260511-PCS",
+        "title": "Collections Stewardship",
+        "agencyCode": "NEH",
+        "agency": "National Endowment for the Humanities",
+        "openDate": "03/11/2026",
+        "closeDate": "05/11/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "45.037"
+        ]
+      },
+      {
+        "id": "361430",
+        "number": "DFOP0017826",
+        "title": "Feed the Future Innovation Labs",
+        "agencyCode": "DOS-GFS",
+        "agency": "Office of Global Food Security",
+        "openDate": "03/10/2026",
+        "closeDate": "04/09/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "19.017"
+        ]
+      },
+      {
+        "id": "361431",
+        "number": "RFA-RM-26-024",
+        "title": "Pilot Projects to Enhance the Human Virome Program (R03, Clinical Trials Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "03/10/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.310"
+        ]
+      },
+      {
+        "id": "361437",
+        "number": "W9126G262SOI8777",
+        "title": "Bat Surveys &ndash; Little Brown Myotis at Joint Base Elmendorf-Richardson (JBER)",
+        "agencyCode": "DOD-COE-FW",
+        "agency": "Fort Worth District",
+        "openDate": "03/10/2026",
+        "closeDate": "04/10/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "12.005"
+        ]
+      },
+      {
+        "id": "361436",
+        "number": "W9126G262SOI8658",
+        "title": "Gaviota Tarplant Genetic Analysis at Vandenberg Space Force Base, CA",
+        "agencyCode": "DOD-COE-FW",
+        "agency": "Fort Worth District",
+        "openDate": "03/10/2026",
+        "closeDate": "04/10/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "12.005"
+        ]
+      },
+      {
+        "id": "361426",
+        "number": "PAR-26-113",
+        "title": "NEI Center Core Grant for Vision Research (P30 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "03/09/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.867"
+        ]
+      },
+      {
+        "id": "359701",
+        "number": "PAR-26-106",
+        "title": "Development of Collaborative Research Facilities or Research-Resource Facilities (C06 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "03/06/2026",
+        "closeDate": "01/25/2028",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.310",
+          "93.352"
+        ]
+      },
+      {
+        "id": "361413",
+        "number": "26CS06",
+        "title": "Community Reentry Settings Initiative",
+        "agencyCode": "USDOJ-BOP-NIC",
+        "agency": "National Institute of Corrections",
+        "openDate": "03/05/2026",
+        "closeDate": "05/04/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "16.602"
+        ]
+      },
+      {
+        "id": "361416",
+        "number": "DFOP0017890",
+        "title": "Advancing Global Health",
+        "agencyCode": "DOS-GHSD",
+        "agency": "Bureau of Global Health Security and Diplomacy",
+        "openDate": "03/05/2026",
+        "closeDate": "02/14/2027",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "19.029"
+        ]
+      },
+      {
+        "id": "361411",
+        "number": "PAR-26-132",
+        "title": "Expanding the Therapeutic Pipeline for Treating and Preventing Alzheimer's Disease and Related Dementias: Preclinical Validation and Drug Discovery for Novel Candidate Targets (U01 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "03/04/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.866"
+        ]
+      },
+      {
+        "id": "361394",
+        "number": "PAR-26-119",
+        "title": "NEI Collaborative Clinical Vision Research (UG1 - Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "03/03/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.867"
+        ]
+      },
+      {
+        "id": "361393",
+        "number": "DE-FOA-0003602",
+        "title": "Early Career Research Program (ECRP)",
+        "agencyCode": "PAMS-SC",
+        "agency": "Office of Science",
+        "openDate": "03/03/2026",
+        "closeDate": "06/02/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "81.049"
+        ]
+      },
+      {
+        "id": "361391",
+        "number": "20260422-HB",
+        "title": "Awards for Faculty at HBCUs",
+        "agencyCode": "NEH",
+        "agency": "National Endowment for the Humanities",
+        "openDate": "03/02/2026",
+        "closeDate": "04/22/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "45.160"
+        ]
+      },
+      {
+        "id": "361387",
+        "number": "20260422-FZ",
+        "title": "Public Scholars",
+        "agencyCode": "NEH",
+        "agency": "National Endowment for the Humanities",
+        "openDate": "03/02/2026",
+        "closeDate": "04/22/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "45.160"
+        ]
+      },
+      {
+        "id": "361385",
+        "number": "20260422-FEL",
+        "title": "Fellowships",
+        "agencyCode": "NEH",
+        "agency": "National Endowment for the Humanities",
+        "openDate": "03/02/2026",
+        "closeDate": "04/22/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "45.160"
+        ]
+      },
+      {
+        "id": "361390",
+        "number": "20260422-FO",
+        "title": "Fellowships for Advanced Social Science Research on Japan",
+        "agencyCode": "NEH",
+        "agency": "National Endowment for the Humanities",
+        "openDate": "03/02/2026",
+        "closeDate": "04/22/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "45.160"
+        ]
+      },
+      {
+        "id": "361388",
+        "number": "OFOP0002421",
+        "title": "Securing Convictions from Vetted and Special Unit Operations",
+        "agencyCode": "DOS-MEX",
+        "agency": "U.S. Mission to Mexico",
+        "openDate": "03/02/2026",
+        "closeDate": "03/20/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "19.703"
+        ]
+      },
+      {
+        "id": "361378",
+        "number": "26PR08",
+        "title": "Facilitator Training for Victim Offender Dialogue",
+        "agencyCode": "USDOJ-BOP-NIC",
+        "agency": "National Institute of Corrections",
+        "openDate": "02/27/2026",
+        "closeDate": "04/17/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "16.601"
+        ]
+      },
+      {
+        "id": "361380",
+        "number": "RFA-EB-26-004",
+        "title": "NextTech: Translational Development of Next-Generation Diagnostic and Therapeutic Devices (R18 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "02/27/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.286",
+          "93.121"
+        ]
+      },
+      {
+        "id": "361368",
+        "number": "FOA-ETA-26-17",
+        "title": "The Reentry Employment in Skilled Trades, Advanced Manufacturing, Registered Apprenticeships, and Training (RESTART) Initiative",
+        "agencyCode": "DOL-ETA",
+        "agency": "Employment and Training Administration",
+        "openDate": "02/25/2026",
+        "closeDate": "04/15/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "17.270"
+        ]
+      },
+      {
+        "id": "361370",
+        "number": "PAR-26-057",
+        "title": "Innovation Grants to Nurture Initial Translational Efforts (IGNITE): Therapeutic Agent Characterization and Preclinical Efficacy Studies",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "02/25/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.853"
+        ]
+      },
+      {
+        "id": "361369",
+        "number": "PAR-26-058",
+        "title": "Innovation Grants to Nurture Initial Translational Efforts (IGNITE): Assay Development and Therapeutic Agent Identification",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "02/25/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.853"
+        ]
+      },
+      {
+        "id": "361351",
+        "number": "2026-NIST-PMGP-01",
+        "title": "Precision Measurement Grant Program",
+        "agencyCode": "DOC-NIST",
+        "agency": "National Institute of Standards and Technology",
+        "openDate": "02/23/2026",
+        "closeDate": "06/22/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "11.053"
+        ]
+      },
+      {
+        "id": "361334",
+        "number": "RFA-NS-26-013",
+        "title": "HEAL Initiative: Program to Reveal and Evaluate Cells-to-gene Information that Specify Intricacies, Origins and the Nature of (PRECISION) Human Pain Network",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "02/20/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.853"
+        ]
+      },
+      {
+        "id": "361336",
+        "number": "ED-GRANTS-022026-001",
+        "title": "OSERS-OSEP: State Technical Assistance Projects to Improve Services and Results for DeafBlind Children, Assistance Listing Number 84.326T",
+        "agencyCode": "ED",
+        "agency": "Department of Education",
+        "openDate": "02/20/2026",
+        "closeDate": "04/21/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "84.326"
+        ]
+      },
+      {
+        "id": "361329",
+        "number": "CDC-RFA-CE-26-0110",
+        "title": "Comprehensive Addiction and Recovery Act (CARA)",
+        "agencyCode": "HHS-CDC-NCIPC",
+        "agency": "Centers for Disease Control - NCIPC",
+        "openDate": "02/19/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.799"
+        ]
+      },
+      {
+        "id": "361325",
+        "number": "O-BJA-2025-172486",
+        "title": "BJA FY25 Public Safety and Mental Health Initiative",
+        "agencyCode": "USDOJ-OJP-BJA",
+        "agency": "Bureau of Justice Assistance",
+        "openDate": "02/19/2026",
+        "closeDate": "03/30/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "16.838",
+          "16.812",
+          "16.745"
+        ]
+      },
+      {
+        "id": "360602",
+        "number": "USDA-FS-WPIA-2026",
+        "title": "2026 Wood Products Infrastructure Assistance Program",
+        "agencyCode": "USDA-FS",
+        "agency": "Forest Service",
+        "openDate": "02/18/2026",
+        "closeDate": "04/22/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "10.725"
+        ]
+      },
+      {
+        "id": "361290",
+        "number": "RDBCP-VAPG-2026",
+        "title": "Value-Added Producer Grant",
+        "agencyCode": "USDA-RBCS",
+        "agency": "Rural Business-Cooperative Service ",
+        "openDate": "02/17/2026",
+        "closeDate": "04/22/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "10.352"
+        ]
+      },
+      {
+        "id": "361294",
+        "number": "PAR-26-108",
+        "title": "Global Collaborative Research Training on Non-Communicable Diseases and Disorders Across the Lifespan",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "02/13/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.989"
+        ]
+      },
+      {
+        "id": "361287",
+        "number": "RFA-NS-26-030",
+        "title": "Genomic and Biologic Therapies for ADRD (U01 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "02/12/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.853"
+        ]
+      },
+      {
+        "id": "359004",
+        "number": "PAR-26-042",
+        "title": "Research Grants in Clinical Informatics (R01 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "02/11/2026",
+        "closeDate": "03/05/2029",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.879"
+        ]
+      },
+      {
+        "id": "359003",
+        "number": "PAR-26-040",
+        "title": "Advancing Bioinformatics, Translational Bioinformatics and Computational Biology Research (R01 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "02/11/2026",
+        "closeDate": "03/05/2029",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.879"
+        ]
+      },
+      {
+        "id": "361276",
+        "number": "PAR-26-126",
+        "title": "Pancreatic Cancer Detection Consortium: Management and Data Coordination Unit (U24 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "02/11/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.394"
+        ]
+      },
+      {
+        "id": "361275",
+        "number": "PAR-26-120",
+        "title": "Pancreatic Cancer Detection Consortium: Research Units (U01 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "02/11/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.394"
+        ]
+      },
+      {
+        "id": "361285",
+        "number": "DARPARA2601",
+        "title": "Protean",
+        "agencyCode": "DOD-DARPA-BTO",
+        "agency": "DARPA - Biological Technologies Office",
+        "openDate": "02/11/2026",
+        "closeDate": "05/07/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "12.910"
+        ]
+      },
+      {
+        "id": "360521",
+        "number": "HHS-2026-ACL-NIDILRR-ARCP-0202",
+        "title": "Advanced Rehabilitation Research Training (ARRT) Program - Community Living and Participation",
+        "agencyCode": "HHS-ACL",
+        "agency": "Administration for Community Living",
+        "openDate": "02/10/2026",
+        "closeDate": "04/13/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.433"
+        ]
+      },
+      {
+        "id": "361003",
+        "number": "HHS-2026-ACL-CIP-MPPG-0020",
+        "title": "Senior Medicare Patrol State Project Grants - Pennsylvania",
+        "agencyCode": "HHS-ACL",
+        "agency": "Administration for Community Living",
+        "openDate": "02/10/2026",
+        "closeDate": "04/13/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.048"
+        ]
+      },
+      {
+        "id": "360526",
+        "number": "HHS-2026-ACL-NIDILRR-IFST-0205",
+        "title": "Field Initiated Projects Program: Minority-Serving Institutions (MSI) -Research",
+        "agencyCode": "HHS-ACL",
+        "agency": "Administration for Community Living",
+        "openDate": "02/10/2026",
+        "closeDate": "04/13/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.433"
+        ]
+      },
+      {
+        "id": "360527",
+        "number": "HHS-2026-ACL-NIDILRR-IFST-0206",
+        "title": "Field Initiated Projects Program: Minority-Serving Institutions (MSI) - Development",
+        "agencyCode": "HHS-ACL",
+        "agency": "Administration for Community Living",
+        "openDate": "02/10/2026",
+        "closeDate": "04/13/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.433"
+        ]
+      },
+      {
+        "id": "360514",
+        "number": "HHS-2026-ACL-NIDILRR-ARHF-0201",
+        "title": "Advanced Rehabilitation Research Training (ARRT) Program - Health and Function",
+        "agencyCode": "HHS-ACL",
+        "agency": "Administration for Community Living",
+        "openDate": "02/10/2026",
+        "closeDate": "04/13/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.433"
+        ]
+      },
+      {
+        "id": "360493",
+        "number": "HHS-2026-ACL-NIDILRR-AREM-0200",
+        "title": "Advanced Rehabilitation Research Training (ARRT) Program - Employment",
+        "agencyCode": "HHS-ACL",
+        "agency": "Administration for Community Living",
+        "openDate": "02/10/2026",
+        "closeDate": "04/13/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.433"
+        ]
+      },
+      {
+        "id": "359939",
+        "number": "RFA-AI-27-019",
+        "title": "Impact of Initial Influenza Exposure on Immunity in Infants (U01 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "02/10/2026",
+        "closeDate": "06/04/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.855"
+        ]
+      },
+      {
+        "id": "358859",
+        "number": "RFA-NS-27-001",
+        "title": "BRAIN Initiative: Research Resource Grants for Technology Integration and Dissemination (U24 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "02/09/2026",
+        "closeDate": "10/06/2028",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.372"
+        ]
+      },
+      {
+        "id": "361250",
+        "number": "DOS-KAZ-AST-ECA-26-001",
+        "title": "Alumni Engagement Innovation Fund (AEIF) 2026: Strengthen U.S.&ndash;Kazakhstan Partnerships Through Alumni-Led Innovation",
+        "agencyCode": "DOS-KAZ",
+        "agency": "U.S. Mission to Kazakhstan",
+        "openDate": "02/06/2026",
+        "closeDate": "03/20/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "19.022"
+        ]
+      },
+      {
+        "id": "361256",
+        "number": "OFOP0002496",
+        "title": "Countering Cartel Recruitment in Mexico",
+        "agencyCode": "DOS-INL",
+        "agency": "Bureau of International Narcotics-Law Enforcement",
+        "openDate": "02/06/2026",
+        "closeDate": "04/06/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "19.705"
+        ]
+      },
+      {
+        "id": "361252",
+        "number": "PAR-26-117",
+        "title": "Global Infectious Diseases Research Training Program (D43 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "02/06/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.989"
+        ]
+      },
+      {
+        "id": "361242",
+        "number": "RFA-DK-27-138",
+        "title": "Single Source for Chronic Kidney Diseases of UnceRtain Etiology (CKDu) in Agricultural Communities (CURE) Research Consortium - Data Coordinating Center (DCC)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "02/05/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.847"
+        ]
+      },
+      {
+        "id": "361241",
+        "number": "RFA-DK-27-137",
+        "title": "Single Source: Chronic Kidney Diseases of UnceRtain Etiology (CKDu) in Agricultural Communities (CURE) Research Consortium- Renal and Environmental Science Core (U01-Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "02/05/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.847"
+        ]
+      },
+      {
+        "id": "359274",
+        "number": "RFA-DC-26-001",
+        "title": "Early-Stage Dissemination and Implementation Research in Communication Disorders (R21 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "02/05/2026",
+        "closeDate": "06/17/2027",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.173"
+        ]
+      },
+      {
+        "id": "359656",
+        "number": "PAR-26-138",
+        "title": "National Centers for Cryo-electron Tomography (cryoET) (R24 -Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "02/05/2026",
+        "closeDate": "01/26/2027",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.859"
+        ]
+      },
+      {
+        "id": "361240",
+        "number": "W911NF26S0075",
+        "title": "Pilot Program to Increase Research Capacity at  Historically Black Colleges and Universities and Other Minority-Serving Institutions",
+        "agencyCode": "DOD-AMC",
+        "agency": "Dept of the Army -- Materiel Command",
+        "openDate": "02/05/2026",
+        "closeDate": "04/10/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "12.630"
+        ]
+      },
+      {
+        "id": "359725",
+        "number": "PAR-26-134",
+        "title": "The Metastasis Research Network (MetNet): MetNet Research Projects (U01 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "02/04/2026",
+        "closeDate": "11/22/2028",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.396"
+        ]
+      },
+      {
+        "id": "361216",
+        "number": "RFA-AA-27-001",
+        "title": "Specialized Alcohol Research Centers (P50 Clinical trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "01/30/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.273"
+        ]
+      },
+      {
+        "id": "359879",
+        "number": "RFA-RM-26-017",
+        "title": "Pilot Projects Enhancing Utility and Usage of Common Fund Data Sets (R03 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "01/30/2026",
+        "closeDate": "06/23/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.310"
+        ]
+      },
+      {
+        "id": "361217",
+        "number": "EPA-OAR-ORIA-25-03",
+        "title": "Wildfire Smoke Preparedness in Community Buildings",
+        "agencyCode": "EPA",
+        "agency": "Environmental Protection Agency",
+        "openDate": "01/30/2026",
+        "closeDate": "04/15/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "66.044"
+        ]
+      },
+      {
+        "id": "361221",
+        "number": "AC-01-30-26",
+        "title": "Fiscal Year (FY) 2026 AmeriCorps Seniors RSVP Competition",
+        "agencyCode": "AC",
+        "agency": "AmeriCorps",
+        "openDate": "01/30/2026",
+        "closeDate": "03/26/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "94.002"
+        ]
+      },
+      {
+        "id": "361215",
+        "number": "PAR-26-066",
+        "title": "NIA Research and Entrepreneurial Development Immersion (REDI): Entrepreneurship Enhancement Award",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "01/29/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.866"
+        ]
+      },
+      {
+        "id": "361211",
+        "number": "USDA-NIFA-AFRI-011677",
+        "title": "Agriculture and Food Research Initiative  Strengthening Agricultural Systems",
+        "agencyCode": "USDA-NIFA",
+        "agency": "National Institute of Food and Agriculture",
+        "openDate": "01/29/2026",
+        "closeDate": "03/26/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "10.310"
+        ]
+      },
+      {
+        "id": "361213",
+        "number": "RFA-DK-27-112",
+        "title": "Single Source for the Continuation of the Epidemiology of Diabetes Interventions and Complications (EDIC) Study Research Center (Collaborative U01 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "01/29/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.847"
+        ]
+      },
+      {
+        "id": "361209",
+        "number": "EPA-I-R4-SFL-2025-01",
+        "title": "2025 South Florida Program",
+        "agencyCode": "EPA",
+        "agency": "Environmental Protection Agency",
+        "openDate": "01/28/2026",
+        "closeDate": "03/16/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "66.484"
+        ]
+      },
+      {
+        "id": "361208",
+        "number": "RFA-DC-27-002",
+        "title": "Coordinating Center for National Resource Network for the Study of Human Auditory and Vestibular Disorders",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "01/27/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.173"
+        ]
+      },
+      {
+        "id": "361204",
+        "number": "PAR-26-092",
+        "title": "Pilot and Feasibility Studies in Preparation for Substance Use and HIV Prevention Intervention and Services Research Trials",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "01/26/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.279"
+        ]
+      },
+      {
+        "id": "361207",
+        "number": "RFA-DC-27-001",
+        "title": "National Resource Network for the Study of Human Auditory and Vestibular Disorders",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "01/26/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.173"
+        ]
+      },
+      {
+        "id": "361185",
+        "number": "PAR-25-462",
+        "title": "Resource-Related Research Projects Cooperative Agreements in Aging and/or Alzheimer's Disease (AD) and Alzheimer's Disease-Related Dementias (ADRD) Research",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "01/22/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.866"
+        ]
+      },
+      {
+        "id": "361186",
+        "number": "RFA-AR-26-006",
+        "title": "Restoring Joint Health and Function to Reduce Pain (RE-JOIN) 2.0",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "01/22/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.846"
+        ]
+      },
+      {
+        "id": "361193",
+        "number": "D26AS00056",
+        "title": "Department of the Interior (DOI), Office of Wildland Fire (OWF) - Slip-On Tanker Units",
+        "agencyCode": "DOI-IBC",
+        "agency": "Interior Business Center",
+        "openDate": "01/22/2026",
+        "closeDate": "03/23/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "15.088"
+        ]
+      },
+      {
+        "id": "361191",
+        "number": "NOAA-NMFS-GARFO-2026-31286",
+        "title": "2026 Atlantic Sea Scallop Research Set Aside Program",
+        "agencyCode": "DOC-DOCNOAAERA",
+        "agency": "DOC NOAA - ERA Production",
+        "openDate": "01/22/2026",
+        "closeDate": "03/23/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "11.454"
+        ]
+      },
+      {
+        "id": "360581",
+        "number": "PA-26-002",
+        "title": "NIH Collaborative International Research Project (Parent PF5 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "01/20/2026",
+        "closeDate": "05/07/2029",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.310"
+        ]
+      },
+      {
+        "id": "361168",
+        "number": "PAR-26-094",
+        "title": "Research Project Cooperative Agreements in Aging and/or Alzheimer's disease (AD) and Alzheimer's disease-related dementias (ADRD) Research",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "01/20/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.866"
+        ]
+      },
+      {
+        "id": "361170",
+        "number": "PAR-25-461",
+        "title": "Specialized Center Cooperative Agreements in Aging and/or Alzheimer's Disease (AD) and AD-Related Dementias (ADRD) Research",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "01/20/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.866"
+        ]
+      },
+      {
+        "id": "361164",
+        "number": "PAR-26-107",
+        "title": "Discovery of the Genetic Basis of Childhood Cancers and of Congenital Anomalies: Gabriella Miller Kids First Pediatric Research Program (X01 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "01/20/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.310"
+        ]
+      },
+      {
+        "id": "361169",
+        "number": "USDA-NIFA-AFRI-011596",
+        "title": "Agriculture and Food Research Initiative Competitive Grants Program Education and Workforce Development",
+        "agencyCode": "USDA-NIFA",
+        "agency": "National Institute of Food and Agriculture",
+        "openDate": "01/20/2026",
+        "closeDate": "12/31/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "10.310"
+        ]
+      },
+      {
+        "id": "361158",
+        "number": "USDA-NIFA-VSGP-011778",
+        "title": "Veterinary Services Grant Program",
+        "agencyCode": "USDA-NIFA",
+        "agency": "National Institute of Food and Agriculture",
+        "openDate": "01/15/2026",
+        "closeDate": "04/16/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "10.336"
+        ]
+      },
+      {
+        "id": "361153",
+        "number": "NSWCCD-26-S-0001",
+        "title": "Carderock BAA",
+        "agencyCode": "DOD-ONR-SEA-NSWFCRD",
+        "agency": "NSWC - Carderock - N00167",
+        "openDate": "01/15/2026",
+        "closeDate": "03/13/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "12.300"
+        ]
+      },
+      {
+        "id": "361099",
+        "number": "N00244-26-S-NPS-F001",
+        "title": "Research Initiatives at the Naval Postgraduate School",
+        "agencyCode": "DOD-ONR-SUP",
+        "agency": "Naval Supply Systems Command",
+        "openDate": "01/13/2026",
+        "closeDate": "01/13/2030",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "12.300"
+        ]
+      },
+      {
+        "id": "361137",
+        "number": "HRSA-26-007",
+        "title": "Service Area Competition - Additional Area 1",
+        "agencyCode": "HHS-HRSA",
+        "agency": "Health Resources and Services Administration",
+        "openDate": "01/13/2026",
+        "closeDate": "03/16/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.224"
+        ]
+      },
+      {
+        "id": "361134",
+        "number": "RFA-CA-25-035",
+        "title": "Limited Competition: Biospecimen Banks to support NCI National Clinical Trials Network Biospecimen Banks (NCTN Biobanks) and the NCI Early-Phase and Experimental Clinical Trials Biospecimen Bank (EET Biobank) (U24 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "01/13/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.394"
+        ]
+      },
+      {
+        "id": "358911",
+        "number": "RFA-DK-26-309",
+        "title": "Single Source Renewal for the Continuation of the Liver Cirrhosis Network: Scientific and Data Coordination Center (U24 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "01/09/2026",
+        "closeDate": "01/27/2027",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.847"
+        ]
+      },
+      {
+        "id": "361104",
+        "number": "PAR-26-127",
+        "title": "Accelerating Discovery through Partnered Research with All of Us to Analyze Participant Biospecimens",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "01/08/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.368"
+        ]
+      },
+      {
+        "id": "361095",
+        "number": "BIA-IHSP-2026-002",
+        "title": "Indian Highway Safety Law Enforcment Grant",
+        "agencyCode": "DOI-BIA",
+        "agency": "Bureau of Indian Affairs",
+        "openDate": "01/06/2026",
+        "closeDate": "05/01/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "20.600"
+        ]
+      },
+      {
+        "id": "359861",
+        "number": "PAR-26-033",
+        "title": "NIGMS Institutional Biomedical Undergraduate Research Training (BURT) Program (T34)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "12/29/2025",
+        "closeDate": "09/25/2028",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.859"
+        ]
+      },
+      {
+        "id": "361065",
+        "number": "RFA-AI-27-005",
+        "title": "Clinical Research Network on Antimicrobial Resistance",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "12/29/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.855"
+        ]
+      },
+      {
+        "id": "361064",
+        "number": "ED-GRANTS-122925-001",
+        "title": "Office of Special Education and Rehabilitative Services (OSERS): Rehabilitation Services Administration (RSA): Braille Training Program, Assistance Listing Number 84.235E",
+        "agencyCode": "ED",
+        "agency": "Department of Education",
+        "openDate": "12/29/2025",
+        "closeDate": "03/27/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "84.235"
+        ]
+      },
+      {
+        "id": "361070",
+        "number": "TI-26-002",
+        "title": "Providers Clinical Support System &ndash; Substance Use Disorder Treatment (PCSS-SUD Treatment)",
+        "agencyCode": "HHS-SAMHS-SAMHSA",
+        "agency": "Substance Abuse and Mental Health Services Adminis",
+        "openDate": "12/29/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.243"
+        ]
+      },
+      {
+        "id": "361053",
+        "number": "HRSA-26-009",
+        "title": "Fiscal Year (FY) 2026 National Technical Assistance Programs (NTAP) Cooperative Agreements",
+        "agencyCode": "HHS-HRSA",
+        "agency": "Health Resources and Services Administration",
+        "openDate": "12/23/2025",
+        "closeDate": "03/31/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.129"
+        ]
+      },
+      {
+        "id": "361050",
+        "number": "RFA-AI-27-009",
+        "title": "Centers for Structural Biology of HIV and other Infectious Diseases",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "12/22/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.855"
+        ]
+      },
+      {
+        "id": "361035",
+        "number": "RFA-DK-27-109",
+        "title": "Single Source Competition: Continuation of the Cardiovascular Repository for Type 1 Diabetes (CaRe-T1D) - Resource Center (U24 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "12/18/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.847"
+        ]
+      }
+    ],
+    "oppStatusOptions": [
+      {
+        "label": "posted",
+        "value": "posted",
+        "count": 286
+      },
+      {
+        "label": "closed",
+        "value": "closed",
+        "count": 2529
+      },
+      {
+        "label": "archived",
+        "value": "archived",
+        "count": 25394
+      },
+      {
+        "label": "forecasted",
+        "value": "forecasted",
+        "count": 277
+      }
+    ],
+    "dateRangeOptions": [
+      {
+        "label": "Posted Date - Last 3 Days",
+        "value": "3",
+        "count": 13
+      },
+      {
+        "label": "Posted Date - Last 1 Week",
+        "value": "7",
+        "count": 18
+      },
+      {
+        "label": "Posted Date - Last 2 Weeks",
+        "value": "14",
+        "count": 29
+      },
+      {
+        "label": "Posted Date - Last 3 Weeks",
+        "value": "21",
+        "count": 35
+      },
+      {
+        "label": "Posted Date - Last 4 Weeks",
+        "value": "28",
+        "count": 41
+      },
+      {
+        "label": "Posted Date - Last 5 Weeks",
+        "value": "35",
+        "count": 56
+      },
+      {
+        "label": "Posted Date - Last 6 Weeks",
+        "value": "42",
+        "count": 65
+      },
+      {
+        "label": "Posted Date - Last 7 Weeks",
+        "value": "49",
+        "count": 76
+      },
+      {
+        "label": "Posted Date - Last 8 Weeks",
+        "value": "56",
+        "count": 85
+      }
+    ],
+    "suggestion": "",
+    "eligibilities": [
+      {
+        "label": "City or township governments",
+        "value": "02",
+        "count": 334
+      },
+      {
+        "label": "County governments",
+        "value": "01",
+        "count": 409
+      },
+      {
+        "label": "For profit organizations other than small businesses",
+        "value": "22",
+        "count": 393
+      },
+      {
+        "label": "Independent school districts",
+        "value": "05",
+        "count": 393
+      },
+      {
+        "label": "Individuals",
+        "value": "21",
+        "count": 6
+      },
+      {
+        "label": "Native American tribal governments (Federally recognized)",
+        "value": "07",
+        "count": 417
+      },
+      {
+        "label": "Native American tribal organizations (other than Federally recognized tribal governments)",
+        "value": "11",
+        "count": 407
+      },
+      {
+        "label": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "value": "12",
+        "count": 426
+      },
+      {
+        "label": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "value": "13",
+        "count": 336
+      },
+      {
+        "label": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)",
+        "value": "25",
+        "count": 371
+      },
+      {
+        "label": "Private institutions of higher education",
+        "value": "20",
+        "count": 436
+      },
+      {
+        "label": "Public and State controlled institutions of higher education",
+        "value": "06",
+        "count": 437
+      },
+      {
+        "label": "Public housing authorities/Indian housing authorities",
+        "value": "08",
+        "count": 383
+      },
+      {
+        "label": "Small businesses",
+        "value": "23",
+        "count": 394
+      },
+      {
+        "label": "Special district governments",
+        "value": "04",
+        "count": 333
+      },
+      {
+        "label": "State governments",
+        "value": "00",
+        "count": 412
+      },
+      {
+        "label": "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\"",
+        "value": "99",
+        "count": 80
+      }
+    ],
+    "fundingCategories": [
+      {
+        "label": "Affordable Care Act",
+        "value": "ACA",
+        "count": 1
+      },
+      {
+        "label": "Agriculture",
+        "value": "AG",
+        "count": 37
+      },
+      {
+        "label": "Arts",
+        "value": "AR",
+        "count": 1
+      },
+      {
+        "label": "Business and Commerce",
+        "value": "BC",
+        "count": 2
+      },
+      {
+        "label": "Community Development",
+        "value": "CD",
+        "count": 5
+      },
+      {
+        "label": "Consumer Protection",
+        "value": "CP",
+        "count": 28
+      },
+      {
+        "label": "Disaster Prevention and Relief",
+        "value": "DPR",
+        "count": 3
+      },
+      {
+        "label": "Education",
+        "value": "ED",
+        "count": 64
+      },
+      {
+        "label": "Employment, Labor and Training",
+        "value": "ELT",
+        "count": 5
+      },
+      {
+        "label": "Energy",
+        "value": "EN",
+        "count": 2
+      },
+      {
+        "label": "Energy Infrastructure and Critical Mineral and Materials (EICMM)",
+        "value": "EIC",
+        "count": 1
+      },
+      {
+        "label": "Environment",
+        "value": "ENV",
+        "count": 15
+      },
+      {
+        "label": "Food and Nutrition",
+        "value": "FN",
+        "count": 37
+      },
+      {
+        "label": "Health",
+        "value": "HL",
+        "count": 429
+      },
+      {
+        "label": "Housing",
+        "value": "HO",
+        "count": 3
+      },
+      {
+        "label": "Humanities",
+        "value": "HU",
+        "count": 7
+      },
+      {
+        "label": "Income Security and Social Services",
+        "value": "ISS",
+        "count": 33
+      },
+      {
+        "label": "Information and Statistics",
+        "value": "IS",
+        "count": 1
+      },
+      {
+        "label": "Infrastructure Investment and Jobs Act (IIJA)",
+        "value": "IIJ",
+        "count": 2
+      },
+      {
+        "label": "Law, Justice and Legal Services",
+        "value": "LJL",
+        "count": 3
+      },
+      {
+        "label": "Natural Resources",
+        "value": "NR",
+        "count": 4
+      },
+      {
+        "label": "Opportunity Zone Benefits",
+        "value": "OZ",
+        "count": 2
+      },
+      {
+        "label": "Other (see text field entitled \"Explanation of Other Category of Funding Activity\" for clarification)",
+        "value": "O",
+        "count": 12
+      },
+      {
+        "label": "Recovery Act",
+        "value": "RA",
+        "count": 1
+      },
+      {
+        "label": "Regional Development",
+        "value": "RD",
+        "count": 1
+      },
+      {
+        "label": "Science and Technology and other Research and Development",
+        "value": "ST",
+        "count": 61
+      },
+      {
+        "label": "Transportation",
+        "value": "T",
+        "count": 1
+      }
+    ],
+    "fundingInstruments": [
+      {
+        "label": "Cooperative Agreement",
+        "value": "CA",
+        "count": 254
+      },
+      {
+        "label": "Grant",
+        "value": "G",
+        "count": 331
+      },
+      {
+        "label": "Other",
+        "value": "O",
+        "count": 24
+      },
+      {
+        "label": "Procurement Contract",
+        "value": "PC",
+        "count": 18
+      }
+    ],
+    "agencies": [
+      {
+        "subAgencyOptions": [],
+        "label": "AmeriCorps",
+        "value": "AC",
+        "count": 1
+      },
+      {
+        "subAgencyOptions": [
+          {
+            "label": "Electronic Research Administration",
+            "value": "USDA-NIFA-ERA",
+            "count": 3
+          },
+          {
+            "label": "Forest Service",
+            "value": "USDA-FS",
+            "count": 2
+          },
+          {
+            "label": "National Institute of Food and Agriculture",
+            "value": "USDA-NIFA",
+            "count": 4
+          },
+          {
+            "label": "Rural Business-Cooperative Service ",
+            "value": "USDA-RBCS",
+            "count": 2
+          }
+        ],
+        "label": "Department of Agriculture",
+        "value": "USDA",
+        "count": 11
+      },
+      {
+        "subAgencyOptions": [
+          {
+            "label": "DOC NOAA - ERA Production",
+            "value": "DOC-DOCNOAAERA",
+            "count": 1
+          },
+          {
+            "label": "National Institute of Standards and Technology",
+            "value": "DOC-NIST",
+            "count": 3
+          }
+        ],
+        "label": "Department of Commerce",
+        "value": "DOC",
+        "count": 4
+      },
+      {
+        "subAgencyOptions": [
+          {
+            "label": "ACC-APG-Detrick",
+            "value": "DOD-AMC-ACCAPGD",
+            "count": 1
+          },
+          {
+            "label": "Air Force -- Research Lab",
+            "value": "DOD-AFRL",
+            "count": 6
+          },
+          {
+            "label": "Air Force Academy",
+            "value": "DOD-USAFA",
+            "count": 1
+          },
+          {
+            "label": "Air Force Office of Scientific Research",
+            "value": "DOD-AFOSR",
+            "count": 1
+          },
+          {
+            "label": "Army Contracting Command Rock Island",
+            "value": "DOD-AMC-ACCRI",
+            "count": 1
+          },
+          {
+            "label": "DARPA - Biological Technologies Office",
+            "value": "DOD-DARPA-BTO",
+            "count": 2
+          },
+          {
+            "label": "DARPA - Defense Sciences Office",
+            "value": "DOD-DARPA-DSO",
+            "count": 1
+          },
+          {
+            "label": "Defense Threat Reduction Agency",
+            "value": "DOD-DTRA",
+            "count": 1
+          },
+          {
+            "label": "Dept of the Army -- Materiel Command",
+            "value": "DOD-AMC",
+            "count": 9
+          },
+          {
+            "label": "Dept. of the Army -- USAMRAA",
+            "value": "DOD-AMRAA",
+            "count": 4
+          },
+          {
+            "label": "Fort Worth District",
+            "value": "DOD-COE-FW",
+            "count": 2
+          },
+          {
+            "label": "National Geospatial-Intelligence Agency ",
+            "value": "DOD-NGIA",
+            "count": 1
+          },
+          {
+            "label": "NAVAIR",
+            "value": "DOD-ONR-AIR",
+            "count": 1
+          },
+          {
+            "label": "Naval Research Laboratory",
+            "value": "DOD-ONR-NRL",
+            "count": 1
+          },
+          {
+            "label": "Naval Supply Systems Command",
+            "value": "DOD-ONR-SUP",
+            "count": 1
+          },
+          {
+            "label": "NSWC - Carderock - N00167",
+            "value": "DOD-ONR-SEA-NSWFCRD",
+            "count": 1
+          },
+          {
+            "label": "NSWC CRANE - N00164",
+            "value": "DOD-ONR-SEA-CRANE",
+            "count": 1
+          },
+          {
+            "label": "Office of Naval Research",
+            "value": "DOD-ONR",
+            "count": 2
+          },
+          {
+            "label": "Washington Headquarters Services",
+            "value": "DOD-WHS",
+            "count": 4
+          }
+        ],
+        "label": "Department of Defense",
+        "value": "DOD",
+        "count": 41
+      },
+      {
+        "subAgencyOptions": [],
+        "label": "Department of Education",
+        "value": "ED",
+        "count": 2
+      },
+      {
+        "subAgencyOptions": [
+          {
+            "label": "Advanced Research Projects Agency Energy ",
+            "value": "DOE-ARPAE",
+            "count": 1
+          }
+        ],
+        "label": "Department of Energy",
+        "value": "DOE",
+        "count": 1
+      },
+      {
+        "subAgencyOptions": [
+          {
+            "label": "Office of Science",
+            "value": "PAMS-SC",
+            "count": 2
+          }
+        ],
+        "label": "Department of Energy - Office of Science",
+        "value": "PAMS",
+        "count": 2
+      },
+      {
+        "subAgencyOptions": [
+          {
+            "label": "Administration for Community Living",
+            "value": "HHS-ACL",
+            "count": 11
+          },
+          {
+            "label": "Center for Medicare and Medicaid Services",
+            "value": "HHS-CMS",
+            "count": 1
+          },
+          {
+            "label": "Centers for Disease Control - NCEZID",
+            "value": "HHS-CDC-NCEZID",
+            "count": 1
+          },
+          {
+            "label": "Centers for Disease Control - NCIPC",
+            "value": "HHS-CDC-NCIPC",
+            "count": 3
+          },
+          {
+            "label": "Centers for Disease Control - OPHPR",
+            "value": "HHS-CDC-OPHPR",
+            "count": 1
+          },
+          {
+            "label": "Centers for Disease Control and Prevention - ERA",
+            "value": "HHS-CDC-HHSCDCERA",
+            "count": 16
+          },
+          {
+            "label": "Centers for Disease Control-GHC",
+            "value": "HHS-CDC-GHC",
+            "count": 26
+          },
+          {
+            "label": "Food and Drug Administration",
+            "value": "HHS-FDA",
+            "count": 29
+          },
+          {
+            "label": "Health Resources and Services Administration",
+            "value": "HHS-HRSA",
+            "count": 9
+          },
+          {
+            "label": "National Institutes of Health",
+            "value": "HHS-NIH11",
+            "count": 353
+          },
+          {
+            "label": "Office of the Assistant Secretary for Health",
+            "value": "HHS-OPHS",
+            "count": 3
+          },
+          {
+            "label": "Office of the National Coordinator",
+            "value": "HHS-OS-ONC",
+            "count": 1
+          },
+          {
+            "label": "Substance Abuse and Mental Health Services Adminis",
+            "value": "HHS-SAMHS-SAMHSA",
+            "count": 5
+          }
+        ],
+        "label": "Department of Health and Human Services",
+        "value": "HHS",
+        "count": 459
+      },
+      {
+        "subAgencyOptions": [
+          {
+            "label": "United States Coast Guard ",
+            "value": "DHS-USCG",
+            "count": 1
+          }
+        ],
+        "label": "Department of Homeland Security",
+        "value": "DHS",
+        "count": 1
+      },
+      {
+        "subAgencyOptions": [],
+        "label": "Department of Housing and Urban Development",
+        "value": "HUD",
+        "count": 1
+      },
+      {
+        "subAgencyOptions": [
+          {
+            "label": "Bureau of Justice Assistance",
+            "value": "USDOJ-OJP-BJA",
+            "count": 1
+          },
+          {
+            "label": "National Institute of Corrections",
+            "value": "USDOJ-BOP-NIC",
+            "count": 2
+          }
+        ],
+        "label": "Department of Justice",
+        "value": "USDOJ",
+        "count": 3
+      },
+      {
+        "subAgencyOptions": [
+          {
+            "label": "Bureau of International Labor Affairs",
+            "value": "DOL-ILAB",
+            "count": 1
+          },
+          {
+            "label": "Employment and Training Administration",
+            "value": "DOL-ETA",
+            "count": 2
+          }
+        ],
+        "label": "Department of Labor",
+        "value": "DOL",
+        "count": 3
+      },
+      {
+        "subAgencyOptions": [
+          {
+            "label": "Bureau of European and Eurasian Affairs",
+            "value": "DOS-EUR",
+            "count": 1
+          },
+          {
+            "label": "Bureau of Global Health Security and Diplomacy",
+            "value": "DOS-GHSD",
+            "count": 1
+          },
+          {
+            "label": "Bureau of International Narcotics-Law Enforcement",
+            "value": "DOS-INL",
+            "count": 1
+          },
+          {
+            "label": "Office of Global Food Security",
+            "value": "DOS-GFS",
+            "count": 1
+          },
+          {
+            "label": "U.S. Mission to Greece",
+            "value": "DOS-GRC",
+            "count": 1
+          },
+          {
+            "label": "U.S. Mission to Kazakhstan",
+            "value": "DOS-KAZ",
+            "count": 1
+          },
+          {
+            "label": "U.S. Mission to Mexico",
+            "value": "DOS-MEX",
+            "count": 1
+          },
+          {
+            "label": "U.S. Mission to Mozambique",
+            "value": "DOS-MOZ",
+            "count": 2
+          },
+          {
+            "label": "U.S. Mission to Nigeria",
+            "value": "DOS-NGA",
+            "count": 1
+          },
+          {
+            "label": "U.S. Mission to North Macedonia",
+            "value": "DOS-MKD",
+            "count": 1
+          },
+          {
+            "label": "U.S. Mission to the Democratic Republic of Congo",
+            "value": "DOS-COD",
+            "count": 1
+          }
+        ],
+        "label": "Department of State",
+        "value": "DOS",
+        "count": 12
+      },
+      {
+        "subAgencyOptions": [
+          {
+            "label": "Bureau of Indian Affairs",
+            "value": "DOI-BIA",
+            "count": 1
+          },
+          {
+            "label": "Interior Business Center",
+            "value": "DOI-IBC",
+            "count": 1
+          }
+        ],
+        "label": "Department of the Interior",
+        "value": "DOI",
+        "count": 2
+      },
+      {
+        "subAgencyOptions": [
+          {
+            "label": "Construction of State Home Facilities",
+            "value": "VA-CSHF",
+            "count": 1
+          }
+        ],
+        "label": "Department of Veterans Affairs",
+        "value": "VA",
+        "count": 1
+      },
+      {
+        "subAgencyOptions": [],
+        "label": "Environmental Protection Agency",
+        "value": "EPA",
+        "count": 2
+      },
+      {
+        "subAgencyOptions": [],
+        "label": "Millennium Challenge Corporation",
+        "value": "MCC",
+        "count": 1
+      },
+      {
+        "subAgencyOptions": [],
+        "label": "National Endowment for the Humanities",
+        "value": "NEH",
+        "count": 5
+      },
+      {
+        "subAgencyOptions": [],
+        "label": "Office of National Drug Control Policy ",
+        "value": "ONDCP",
+        "count": 2
+      },
+      {
+        "subAgencyOptions": [],
+        "label": "U.S. National Science Foundation",
+        "value": "NSF",
+        "count": 9
+      }
+    ],
+    "accessKey": "",
+    "errorMsgs": []
+  }
+}

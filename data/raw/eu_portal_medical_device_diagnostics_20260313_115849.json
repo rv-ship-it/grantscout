@@ -1,0 +1,746 @@
+{
+  "apiVersion": "2.145.3",
+  "terms": "medical device diagnostics",
+  "responseTime": 133,
+  "totalResults": 18360,
+  "pageNumber": 1,
+  "pageSize": 50,
+  "sort": "relevance",
+  "groupByField": "sortStatus",
+  "queryLanguage": {
+    "language": "it",
+    "probability": 0.9999933502564325
+  },
+  "spellingSuggestion": "medical device diagnostics",
+  "bestBets": [],
+  "warnings": [],
+  "results_sample": [
+    {
+      "apiVersion": "2.145.3",
+      "reference": "399e3dae-d6dc-428e-9854-a84e40097783-CN",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/399e3dae-d6dc-428e-9854-a84e40097783-CN",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Horizon Scanning for Medical Devices and In Vitro Diagnostic Medical Devices",
+      "weight": 46.656616,
+      "groupById": "3",
+      "content": "Horizon Scanning for <b>Medical</b> <b>Devices</b> and In Vitro <b>Diagnostic</b> <b>Medical</b> <b>Devices</b>",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "D86DE59031A7186728BB7B72C077E8F815CCE071D8C1E5CCEA19EACEBA096187",
+      "metadata": {
+        "es_SortDate": [
+          "2024-11-06T00:00:00.000+0000"
+        ],
+        "cftPartyLegalEntityId": [
+          "47352360"
+        ],
+        "cftMaxNumberOfLots": [],
+        "contractType": [
+          "31095498"
+        ],
+        "awardMethod": [],
+        "cftContractingSystems": [],
+        "language": [
+          "en"
+        ],
+        "type": [
+          "0"
+        ],
+        "cftDocuments": [
+          "{\"cftDocuments\":[{\"considerChangedUntilDate\":\"2024-11-20T00:00:00\",\"documentPublicationID\":\"090166e513ac1015\",\"sortKey\":\"00004\",\"documentType\":\"Declaration on honour (tender)\",\"changedNotificationText\":\"New \",\"obsolete\":false,\"hermesDocumentReferences\":[{\"documentFileName\":\"4. HADEA2024OP0024_Horizon scanning_DoH_V1.docx\",\"publicationFormat\":\"NATIVE\",\"isCurrentVersion\":\"Y\",\"documentID\":\"080166e510295079\",\"attachmentID\":\"090166e513ac1015\",\"versionNR\":\"1\",\"publicationDate\":\"2024-11-06T00:00:00\"}],\"applicableProcurementProjectLots\":[{\"procurementProjectLotID\":\"LOT-0001\"}],\"documentChangeCode\":\"NEW\",\"languageCode\":\"EN\",\"documentTitle\":\"4. HADEA2024OP0024 Horizon Scanning DoH\"},{\"considerChangedUntilDate\":\"2024-11-20T00:00:00\",\"documentPublicationID\":\"090166e513ac09f8\",\"sortKey\":\"00005\",\"documentType\":\"Financial offer form\",\"changedNotificationText\":\"New \",\"obsolete\":false,\"hermesDocumentReferences\":[{\"documentFileName\":\"5. HADEA2024OP0024_Financial Offer Form_V1.xlsx\",\"publicationFormat\":\"NATIVE\",\"isCurrentVersion\":\"Y\",\"documentID\":\"080166e510295079\",\"attachmentID\":\"090166e513ac09f8\",\"versionNR\":\"1\",\"publicationDate\":\"2024-11-06T00:00:00\"}],\"applicableProcurementProjectLots\":[{\"procurementProjectLotID\":\"LOT-0001\"}],\"documentChangeCode\":\"NEW\",\"languageCode\":\"EN\",\"documentTitle\":\"5. HADEA2024OP0024 Horizon Scanning Financial Offer Form\"},{\"considerChangedUntilDate\":\"2024-11-20T00:00:00\",\"documentPublicationID\":\"090166e513bc593e\",\"sortKey\":\"00003\",\"documentType\":\"Draft contract\",\"changedNotificationText\":\"New \",\"obsolete\":false,\"hermesDocumentReferences\":[{\"documentFileName\":\"3. HaDEA2024OP0024_Horizon scanning_Draft Contract_V1.pdf\",\"publicationFormat\":\"PDF\",\"isCurrentVersion\":\"Y\",\"documentID\":\"080166e510295079\",\"attachmentID\":\"090166e513bc593e\",\"versionNR\":\"1\",\"publicationDate\":\"2024-11-06T00:00:00\"}],\"applicableProcurementProjectLots\":[{\"procurementProjectLotID\":\"LOT-0001\"}],\"documentChangeCode\":\"NEW\",\"languageCode\":\"EN\",\"documentTitle\":\"3. HaDEA2024OP0024 Horizon Scanning Draft Contract\"},{\"considerChangedUntilDate\":\"2024-11-20T00:00:00\",\"documentPublicationID\":\"090166e513c0c03d\",\"sortKey\":\"00002\",\"documentType\":\"Tender specifications\",\"changedNotificationText\":\"New \",\"obsolete\":false,\"hermesDocumentReferences\":[{\"documentFileName\":\"2. HADEA2024OP0024_Horizon scanning_Tender specifications_V1.pdf\",\"publicationFormat\":\"PDF\",\"isCurrentVersion\":\"Y\",\"documentID\":\"080166e510295079\",\"attachmentID\":\"090166e513c0c03d\",\"versionNR\":\"1\",\"publicationDate\":\"2024-11-06T00:00:00\"}],\"applicableProcurementProjectLots\":[{\"procurementProjectLotID\":\"LOT-0001\"}],\"documentChangeCode\":\"NEW\",\"languageCode\":\"EN\",\"documentTitle\":\"2. HADEA2024OP0024 Horizon Scanning Tender Specifications\"},{\"considerChangedUntilDate\":\"2024-11-20T00:00:00\",\"documentPublicationID\":\"090166e513bc585a\",\"sortKey\":\"00001\",\"documentType\":\"Invitation letter\",\"changedNotificationText\":\"New \",\"obsolete\":false,\"hermesDocumentReferences\":[{\"documentFileName\":\"1. HADEA2024OP0024_Horizon scanning_Invitation to tender_V1.pdf\",\"publicationFormat\":\"PDF\",\"isCurrentVersion\":\"Y\",\"documentID\":\"080166e510295079\",\"attachmentID\":\"090166e513bc585a\",\"versionNR\":\"1\",\"publicationDate\":\"2024-11-06T00:00:00\"}],\"applicableProcurementProjectLots\":[{\"procurementProjectLotID\":\"LOT-0001\"}],\"documentChangeCode\":\"NEW\",\"languageCode\":\"EN\",\"documentTitle\":\"1. HADEA2024OP0024 Horizon Scanning Invitation to Tender\"}]}"
+        ],
+        "callIdentifier": [
+          "HADEA/2024/OP/0024"
+        ],
+        "cftSubmissionsAllowed": [
+          "false"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "frameworkProgramme": [],
+        "cftPublicationDisplayStatus": [],
+        "identifier": [
+          "399e3dae-d6dc-428e-9854-a84e40097783-CN"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "geographicalZones": [],
+        "programmePeriod": [
+          "2014 - 2020",
+          "2021 - 2027"
+        ],
+        "cftSubscriptionsAllowed": [
+          "true"
+        ],
+        "deadlineDate": [
+          "2025-01-16T15:00:59.000+0000"
+        ],
+        "cftCorrigendaList": [],
+        "closingDate": [
+          "2025-01-16T15:00:59Z"
+        ],
+        "es_Combine": [
+          "3"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/399e3dae-d6dc-428e-9854-a84e40097783-CN"
+        ],
+        "esDA_QueueDate": [
+          "2025-01-17T11:22:02.506+0100"
+        ],
+        "programmeDivisionProspect": [],
+        "mainCpv": [
+          "72000000",
+          "85100000",
+          "33190000"
+        ],
+        "mainCpvCode": [
+          "{\"mainCode\":\"85100000\"}"
+        ],
+        "startDate": [
+          "2024-11-06T00:00:00.000+0000"
+        ],
+        "status": [
+          "31094503"
+        ],
+        "procedureType": [
+          "47396220"
+        ],
+        "updateDate": [
+          "2025-01-17T11:00:00.000+0000"
+        ],
+        "sortStatus": [
+          "3"
+        ],
+        "conditionOfParticipation": [],
+        "description": [
+          "The aim of this call for tenders is to purchase horizon scanning in the area of medical devices and in vitro diagnostic medical devices in order to maintain an up-to-date overview of new and emerging technologies. \nThe contractor will have to screen available sources for identification of novel, emerging technologies, and assess features that may have an impact on medical devices and in vitro diagnostic medical devices, present opportunities, risks or other features related to new and emerging technologies. \nThe need for this horizon scanning has been identified in the context of the implementation of the MDR/IVDR legislation in order to support competitiveness and innovation in the EU market, while ensuring a high level of protection of health for patients and users."
+        ],
+        "title": [
+          "Horizon Scanning for Medical Devices and In Vitro Diagnostic Medical Devices"
+        ],
+        "esST_checksum": [
+          "D86DE59031A7186728BB7B72C077E8F815CCE071D8C1E5CCEA19EACEBA096187"
+        ],
+        "cftId": [
+          "399e3dae-d6dc-428e-9854-a84e40097783-CN"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "REFERENCE": [
+          "399e3dae-d6dc-428e-9854-a84e40097783-CN"
+        ],
+        "cftTendersMayBeSubmitted": [],
+        "cftTimezone": [
+          "Europe/Brussels"
+        ],
+        "cftEstimatedTotalProcedureValue": [
+          "1000000 EUR"
+        ],
+        "cftContractNoticeLink": [
+          "[\"675179-2024\",\"216/2024\",\"2024-11-06T00:00:00\"]"
+        ],
+        "cftRepublish": [
+          "false"
+        ],
+        "cftSubmissionMethodCode": [
+          "ESUBMISSION"
+        ],
+        "cftProcurementType": [
+          "31095498"
+        ],
+        "cftEstimatedOverallContractAmount": [
+          "1000000"
+        ],
+        "caName": [
+          "Horizon Scanning for Medical Devices and In Vitro Diagnostic Medical Devices"
+        ],
+        "cftPlannedDate": [],
+        "cftPublishedPinReference": [],
+        "esDA_FirstIngestDate": [
+          "2024-11-18T16:46:40.368+0100"
+        ],
+        "esDA_IngestDate": [
+          "2025-01-17T11:22:02.526+0100"
+        ],
+        "cftInterinstitutional": [],
+        "cftQuestionsAnswersAllowed": [
+          "true"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/399e3dae-d6dc-428e-9854-a84e40097783-CN"
+        ],
+        "lots": [
+          "{\"procurementProjectLots\":[{\"tenderingTerms\":{\"tenderValidityPeriod\":{\"durationMeasureUnitCode\":\"MONTH\",\"durationMeasure\":\"6\"},\"tendererQualificationRequest\":{\"specificTendererRequirement\":{\"tendererRequirementTypeCode\":\"none\",\"tendererRequirementTypeCodeListName\":\"reserved-procurement\"}},\"languages\":[{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{}],\"callForTendersDocumentReference\":{\"documentType\":\"non-restricted-document\",\"documentStatusCode\":\"official\",\"attachmentExternalReferenceURI\":\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/3\",\"languageID\":\"ENG\",\"documentStatusCodelistName\":\"document-status\",\"id\":\"default-text\"},\"fundingProgramCode\":\"eu-funds\",\"postAwardProcess\":{\"electronicOrderUsageIndicator\":\"false\",\"electronicPaymentUsageIndicator\":\"true\"},\"contractExecutionRequirement\":[{},{},{}],\"fundingProgramCodelistName\":\"eu-funded\",\"eformsExtensions\":[{\"selectionCriteria\":{\"descriptionLanguageID\":\"ENG\",\"criterionTypeCode\":\"sui-act\",\"description\":\"Please consult the procurement documents.\",\"criterionTypeCodeListName\":\"selection-criterion\"}},{\"selectionCriteria\":{\"descriptionLanguageID\":\"ENG\",\"criterionTypeCode\":\"ef-stand\",\"description\":\"Please consult the procurement documents.\",\"criterionTypeCodeListName\":\"selection-criterion\"}},{\"selectionCriteria\":{\"descriptionLanguageID\":\"ENG\",\"criterionTypeCode\":\"tp-abil\",\"description\":\"Please consult the procurement documents.\",\"criterionTypeCodeListName\":\"selection-criterion\"}}],\"awardingTerms\":{\"awardingCriterion\":{\"subordinateAwardingCriterion\":[{\"awardingCriterionTypeCodeListName\":\"award-criterion-type\",\"descriptionLanguageID\":\"ENG\",\"description\":\"Please consult the procurement documents.\",\"awardCriterionParameter\":[{\"parameterNumeric\":\"70\",\"parameterCodeListName\":\"number-weight\",\"parameterCode\":\"per-exa\"}],\"awardingCriterionTypeCode\":\"quality\"},{\"awardingCriterionTypeCodeListName\":\"award-criterion-type\",\"descriptionLanguageID\":\"ENG\",\"description\":\"Please consult the procurement documents.\",\"awardCriterionParameter\":[{\"parameterNumeric\":\"30\",\"parameterCodeListName\":\"number-weight\",\"parameterCode\":\"per-exa\"}],\"awardingCriterionTypeCode\":\"price\"}]}},\"appealTerms\":{\"appealReceiverPartyID\":\"ORG-0002\"}},\"programmes\":[],\"procurementProject\":{\"procurementProjectID\":\"HADEA/2024/OP/0024\",\"procurementTypeCodeListName\":\"contract-nature\",\"mainCommodityClassification\":{\"itemClassificationCode\":\"85100000\",\"itemClassificationCodeListName\":\"cpv\"},\"requestedTenderTotal\":{\"estimatedOverallContractAmountCurrencyId\":\"EUR\",\"estimatedOverallContractAmount\":1000000},\"plannedPeriod\":{\"durationMeasureUnitCode\":\"MONTH\",\"durationMeasure\":30},\"procurementTypeCode\":\"services\",\"name\":\"Horizon Scanning for Medical Devices and In Vitro Diagnostic Medical Devices\",\"description\":\"The aim of this call for tenders is to purchase horizon scanning in the area of medical devices and in vitro diagnostic medical devices in order to maintain an up-to-date overview of new and emerging technologies. \\nThe contractor will have to screen available sources for identification of novel, emerging technologies, and assess features that may have an impact on medical devices and in vitro diagnostic medical devices, present opportunities, risks or other features related to new and emerging technologies. \\nThe need for this horizon scanning has been identified in the context of the implementation of the MDR/IVDR legislation in order to support competitiveness and innovation in the EU market, while ensuring a high level of protection of health for patients and users.\",\"contractExtension\":{\"renewal\":{\"period\":{}}},\"smeSuitableIndicator\":false,\"additionalCommodityClassifications\":[{\"itemClassificationCode\":\"33190000\",\"itemClassificationCodeListName\":\"cpv\"},{\"itemClassificationCode\":\"72000000\",\"itemClassificationCodeListName\":\"cpv\"}]},\"tenderingProcess\":{\"accessToolsURI\":\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/3\",\"governmentAgreementConstraintIndicator\":false,\"submissionMethodCodeListName\":\"esubmission\",\"eformsExtension\":{\"accessToolName\":\"Funding and Tenders Portal\"},\"auctionTerms\":{\"auctionConstraintIndicator\":\"false\"},\"contractingSystems\":[{\"contractingSystemTypeCode\":\"none\",\"contractingSystemTypeCodeListName\":\"framework-agreement\"},{\"contractingSystemTypeCode\":\"none\",\"contractingSystemTypeCodeListName\":\"dps-usage\"}],\"openTenderEvent\":{\"occurrenceDate\":\"2025-01-17+01:00\",\"occurrenceTime\":\"11:00:00+01:00\"},\"tenderSubmissionDeadlinePeriod\":{\"endDate\":\"2025-01-16+01:00\",\"endTime\":\"15:00:59+01:00\"},\"submissionMethodCode\":\"required\",\"additionalInformationRequestPeriod\":{\"endDate\":\"2025-01-08+01:00\",\"endTime\":\"2025-01-08+01:00\"},\"participationRequestReceptionPeriod\":{}},\"procurementProjectLotID\":\"LOT-0001\",\"benefittingZones\":[]}]}"
+        ],
+        "cftEXARegistrationDeadline": [],
+        "indicativeLaunch": [],
+        "geographicalZone": [],
+        "cftLeadContractingAuthorityCode": [
+          "[{\"name\":\"Health and Digital Executive Agency (HaDEA) , HADEA - Health and Digital Executive Agency\",\"link\":\"https://hadea.ec.europa.eu\",\"isLeadAuthority\":true}]"
+        ],
+        "cftBuyerProfileUrl": [],
+        "cftPublicationDateEForm": [
+          "2024-11-06T00:00:00"
+        ],
+        "cftEstimatedOverallContractCurrency": [
+          "EUR"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "Horizon Scanning for <b>Medical</b> <b>Devices</b> and In Vitro <b>Diagnostic</b> <b>Medical</b> <b>Devices</b>"
+      ]
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "48340856TOPICSen",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2025-01-IND-02",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Digitalisation of conformity assessment procedures of medical devices and in vitro diagnostic medical devices",
+      "weight": 46.271618,
+      "groupById": "3",
+      "content": "Digitalisation of conformity assessment procedures of <b>medical</b> <b>devices</b> and in vitro <b>diagnostic</b> <b>medical</b> <b>devices</b>",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "83082BF9B330F9411A5C7506CEBD6DD559C9799A3D7918B5273858C1B212BB74",
+      "metadata": {
+        "latestInfos": [
+          "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-02-26T17:08:49.772\",\"content\":\"\\u003cp\\u003eWe recently informed the applicants about the evaluation results for their proposals. The results of the evaluation for this topic are as follows:\\u003c/p\\u003e\\u003cul\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eNumber of proposals submitted (including proposals transferred from or to other calls): 5\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eNumber of inadmissible proposals: 0\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eNumber of ineligible proposals: 0\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eNumber of above-threshold proposals: 1\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eTotal budget requested for above-threshold proposals: EUR 3 998 062\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eNumber of proposals retained for funding: 1\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eNumber of proposals in the reserve list: 0\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eFunding threshold: 12.5\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eNumber of proposals with scores lower or equal to 15 and higher or equal to 14: 0\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eNumber of proposals with scores lower than 14 and higher or equal to 13: 0\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eNumber of proposals with scores lower than 13 and higher or equal to 12: 1\\u003c/li\\u003e\\u003c/ul\\u003e\\u003cp\\u003eProposals with the same score were ranked according to the priority order procedure set out in Annex F of the Work Programme General Annexes.\\u003c/p\\u003e\\u003cp\\u003eFor questions, please contact the \\u003ca href\\u003d\\\"https://research-and-innovation.ec.europa.eu/contact-us/research-enquiry-service_en\\\" rel\\u003d\\\"noopener noreferrer\\\" target\\u003d\\\"_blank\\\"\\u003eResearch Enquiry Service\\u003c/a\\u003e.\\u003c/p\\u003e\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-02-26T16:17:05.639\",\"content\":\"\\u003cp\\u003eSummary of observer report:\\u003c/p\\u003e\\u003cp\\u003eTwo independent observers have followed the evaluation of proposals by the European Health and Digital Executive Agency (HaDEA) between 10 October and 16 December 2025, including briefings for experts that took place in this period. The proposals were submitted to 20 single stage, and 5 two stage topics with a deadline of 16 September 2025, covering topics from the Horizon Cluster 1 single stage call, the Horizon Cluster 1 two-stage call and the Horizon Cancer Mission call. \\u003c/p\\u003e\\u003cp\\u003eThe entire evaluation process was fully transparent and followed all applicable rules and guidelines. The latter were clearly communicated to experts at the start of the process, during general and topic specific briefings and, by the moderators, during central evaluation and the panel meetings as needed. The HaDEA staff involved, including quality checkers and call secretariat team, conducted the evaluation in an excellent and impartial manner, ensuring a high quality of the process. \\u003c/p\\u003e\\u003cp\\u003eAchieving this high level was extremely difficult due to the high number of proposals to be processed in a limited time and with limited resources. Over 1,500 proposals were assessed through tremendous effort. Given the constant increase in proposal numbers and in view of not compromising the quality of the evaluation, it is highly recommended to consider adapting the process. \\u003c/p\\u003e\\u003cp\\u003eThe fast-track procedure and the use of recorders were both useful tools and should be continued. Some of the calls were part of a blind evaluation pilot. We advise against this practice, which had no visible advantage, but in some instances impaired the evaluation of scientific excellence, especially with respect to methodology. \\u003c/p\\u003e\\u003cp\\u003eWe see it as a weakness of the process that it focuses strongly on finding negative aspects but does not reward particularly exciting or highly innovative proposals. This is linked to the low weight that is given to scientific excellence, which is only 1/3. The observers are not aware of any other evaluation process that places such a low emphasis on scientific excellence. Increasing its weight would be in line with international practice and would allow to place more emphasis on genuine break-through concepts.\\u003c/p\\u003e\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-02-06T15:15:43.932\",\"content\":\"\\u003cp\\u003eEvaluation results are now expected to be communicated during the third week of February 2026.\\u003c/p\\u003e\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2025-09-26T18:36:33.795\",\"content\":\"\\u003cp\\u003eCall HORIZON-HLTH-2025-01 closed on 16 September 2025. 749 proposals were submitted. The breakdown per topic is:\\u003c/p\\u003e\\u003cul\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eHORIZON-HLTH-2025-01-DISEASE-01: 30 proposals\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eHORIZON-HLTH-2025-01-DISEASE-03: 15 proposals\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eHORIZON-HLTH-2025-01-DISEASE-04: 76 proposals\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eHORIZON-HLTH-2025-01-DISEASE-05: 7 proposals\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eHORIZON-HLTH-2025-01-DISEASE-06: 158 proposals\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eHORIZON-HLTH-2025-01-DISEASE-07: 83 proposals\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eHORIZON-HLTH-2025-01-CARE-01: 118 proposals\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eHORIZON-HLTH-2025-01-TOOL-01: 57 proposals\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eHORIZON-HLTH-2025-01-TOOL-02: 35 proposals\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eHORIZON-HLTH-2025-01-TOOL-03: 82 proposals\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eHORIZON-HLTH-2025-01-TOOL-05: 25 proposals\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eHORIZON-HLTH-2025-01-IND-01: 58 proposals\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eHORIZON-HLTH-2025-01-IND-02: 5 proposals\\u003c/li\\u003e\\u003c/ul\\u003e\\u003cp\\u003eEvaluation results are expected to be communicated on Wednesday \\u003cstrong\\u003e21 January 2026\\u003c/strong\\u003e at the earliest.\\u003c/p\\u003e\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2025-06-10T17:06:35.592\",\"content\":\"\\u003cp\\u003ePlease note that due to a technical issue, during the first days of publication of this call, the topic page did not display the description of the corresponding destination. This problem is now solved. In addition to the information published in the topic page, you can always find a full description of the relevant destination in the Work Programme 2025 part for \\\"Health\\\". Please select from the work programme the destination relevant to your topic and take into account the description and expected impacts of that destination for the preparation of your proposal.\\u003c/p\\u003e\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2025-05-22T00:01:00.223\",\"content\":\"The submission session is now available for: HORIZON-HLTH-2025-01-DISEASE-05, HORIZON-HLTH-2025-01-DISEASE-03, HORIZON-HLTH-2025-01-TOOL-05, HORIZON-HLTH-2025-01-DISEASE-07, HORIZON-HLTH-2025-01-TOOL-03, HORIZON-HLTH-2025-01-IND-02, HORIZON-HLTH-2025-01-DISEASE-01, HORIZON-HLTH-2025-01-DISEASE-04, HORIZON-HLTH-2025-01-CARE-01, HORIZON-HLTH-2025-01-TOOL-02, HORIZON-HLTH-2025-01-TOOL-01, HORIZON-HLTH-2025-01-IND-01, HORIZON-HLTH-2025-01-DISEASE-06\"}]"
+        ],
+        "es_SortDate": [
+          "2025-05-22T00:00:00.000+0000"
+        ],
+        "keywords": [
+          "HORIZON-HLTH-2025-01-IND-02",
+          "HORIZON-HLTH-2025-01",
+          "Public health"
+        ],
+        "language": [
+          "en"
+        ],
+        "type": [
+          "1"
+        ],
+        "focusArea": [],
+        "destinationDetails": [
+          "<p>Topics under this destination are directed towards the Key Strategic Orientation 3 \u201c<em>A more resilient, competitive, inclusive, and democratic Europe</em>\u201d of Horizon Europe\u2019s strategic plan 2025-2027. In addition, Key Strategic Orientation 2 <em>\u201cThe Digital Transition\u201d</em> and Key Strategic Orientation 1 \u201c<em>The Green Transition</em>\u201d are supported.</p><p>Research and Innovation supported under this destination should contribute to the following expected impact, set out in the strategic plan impact summary for the Health Cluster: <em>\u201cthe EU health industry is innovative, sustainable, and globally competitive thanks to improved uptake of breakthrough technologies and innovations (including social innovations) that make the EU with its Member States and Associated Countries more resilient and less reliant on imports of critical health technologies</em>\u201d<em>.</em></p><p>The health industry is a key driver for growth and has the capacity to provide health technologies to the benefit of patients and providers of healthcare services. The relevant value chains involve a broad variety of key players from supply, demand and regulatory sides. In addition, the path of innovation in health is long and complex. The development of novel health technologies is generally associated with uncertainties and market barriers due to expensive and risky development (e.g., high attrition rate in pharmaceutical development), high quality and security requirements (e.g., clinical performance, safety, data privacy and cybersecurity) and market specificities (e.g., strong regulation, pricing and reimbursement issues). In addition, the growing concern about environmental issues is putting more pressure on this industry. Therefore, there is a need for Research and Innovation integrating various stakeholders to facilitate market access of innovative health technologies (medical technologies, pharmaceuticals, biotechnologies, digital health technologies).</p><p>In this work programme part, Destination \u201c<em>Maintaining an innovative, sustainable and competitive EU health industry</em>\u201d focuses on collaborative efforts to advance manufacturing processes and activities to ensure increased knowledge on and a faster uptake of medical devices and <em>in vitro</em> diagnostic medical devices in the current EU regulatory context. The results will support the EU Industrial Policy, with a focus on strengthening the resilience of the single market, addressing the EU\u2019s strategic dependencies, gaining technological sovereignty and accelerating the green and digital transitions. In addition, the results will further strengthen the single market, by implementing the Digital Single Market strategy, providing evidence and guidelines for stakeholders and regulators to ensure take-up of innovations, supporting environmental, fiscal and socio-economic sustainability while fostering healthcare access and reducing health inequities. The results will also support the implementation of the Regulations on Medical Devices (MDR) and <em>In Vitro</em> Medical Devices (IVDR) and the Pharmaceutical Strategy for Europe, especially aspects related to the importance of ensuring industry competitiveness, innovation and sustainability and the development of high quality, safe, effective, and greener medicines.</p><p>In view of increasing the impact of EU investments under Horizon Europe, the European Commission welcomes and supports cooperation between EU-funded projects to enable cross-fertilisation and other synergies. This could range from networking to joint activities such as the participation in joint workshops, the exchange of knowledge, development and adoption of best practices, or joint communication activities. All topics are open to international collaboration to address global environment and health challenges.</p><p>In particular, the topics under this destination will support activities aiming at: i) optimising the manufacturing of Advanced Therapy Medicinal Products (ATMPs) with the ultimate aim that healthcare providers, researchers and patients get faster access to ATMPs with demonstrated health benefits for unmet medical needs; ii) advance digitalisation of conformity assessment procedures in the context of medical device and <em>in vitro</em> diagnostic medical device development; iii) facilitating and enabling improved knowledge on the conduct of multinational clinical studies of orphan devices and/or highly innovative (\u201cbreakthrough\u201d) devices.</p><p><u>Expected impacts</u>:</p><p>Proposals for topics under this destination should set out a credible pathway to contributing to maintaining an innovative, sustainable and competitive EU health industry, and more specifically to one or several of the following expected impacts:</p><ul level=\"0\"><li>Health industry in Europe and Associated Countries is more competitive and sustainable, assuring European leadership in breakthrough health technologies and open strategic autonomy in essential medical supplies and (digital) technologies, contributing to job creation and economic growth, in particular with small and medium-sized enterprises (SMEs).</li><li>Health industry is supported by cross-sectoral Research and Innovation in the context of convergence of health technologies (integrating medical technologies, pharmaceuticals, biotechnologies, digital health, and e-health technologies) while strengthening key market positions.</li><li>Health industry is working more efficiently along the value chain from the identification of needs to the scale-up and take-up of solutions at national, regional or local level, including through early engagement with patients, healthcare providers, health authorities and regulators ensuring suitability and acceptance of solutions.</li><li>Citizens, healthcare providers and health systems benefit from a swift uptake of innovative health technologies and services through the provision of evidence and guidelines for stakeholders, policymakers and regulators. These efforts offer significant improvements in health outcomes, also potentially strengthening access to healthcare for all and reducing health inequities while health industry benefits from decreased time-to-market.</li><li>Citizens, healthcare providers and health systems benefit from increased health security in Europe and Associated Countries due to reliable access to key manufacturing capacity, including timely provision of essential medical supplies and technologies of particularly complex or critical supply and distribution chains.</li> </ul><p>Legal entities established in China are not eligible to participate in Innovation Actions in any capacity. Please refer to the Annex B of the General Annexes of this Work Programme for further details.</p><p>The protection of European communication networks has been identified as an important security interest of the Union and its Member States. Entities that are assessed as high-risk suppliers<sup>[1]</sup> of mobile network communication equipment (and any entities they own or control) are not eligible to participate as beneficiaries, affiliated entities and associated partners to topics identified as \u201csubject to restrictions for the protection of European communication networks\u201d. Please refer to the Annex B of the General Annexes of this Work Programme for further details.</p><p class=\"eui-u-font-s\">[1] Entities assessed as \u201chigh-risk suppliers\u201d, are currently set out in the second report on Member States\u2019 progress in implementing the EU toolbox on 5G cybersecurity of 2023 (NIS Cooperation Group, Second report on Member States\u2019 progress in implementing the EU Toolbox on 5G Cybersecurity, June 2023) and the related Communication on the implementation of the 5G cybersecurity toolbox of 2023 (Communication from the Commission: Implementation of the 5G cybersecurity Toolbox, Brussels, 15.6.2023 C(2023) 4049 final).</p>"
+        ],
+        "typeOfMGAs": [
+          "43027849"
+        ],
+        "callIdentifier": [
+          "HORIZON-HLTH-2025-01"
+        ],
+        "callccm2Id": [
+          "48340967"
+        ],
+        "destinationGroup": [
+          "46783873"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "links": [
+          "[]"
+        ],
+        "callTitle": [
+          "Cluster 1 - Health (Single stage - 2025)"
+        ],
+        "frameworkProgramme": [
+          "43108390"
+        ],
+        "descriptionByte": [
+          "<p class=\"topicdescriptionkind\">Expected Outcome:</p><p>This topic aims at supporting activities that are enabling or contributing to one or several expected impacts of destination \u201cMaintaining an innovative, sustainable, and competitive EU health industry\u201d. To that end, proposals under this topic should aim to deliver results that are directed, tailored towards and contributing to all the following expected outcomes:</p><ul level=\"0\"><li>Notified Bodies (NBs), device<sup>[1]</sup> developers and manufacturers adopt digitalisation in their conformity assessment procedures thus facilitating device development. As certain steps of conformity assessment do also require involvement of regulatory authorities (e.g. consultation of medicines authorities), digitalisation of these steps would also bring relevant benefit;</li><li>Device developers and manufacturers have access to digitalised conformity assessment procedures. These procedures will become more efficient, less onerous, and more predictable, which will reduce costs and shorten the time to market access;</li><li>Device developers and manufacturers, in particular small and medium-sized enterprises (SMEs), can direct a larger part of their resources towards the research and development of innovative devices.</li> </ul><p class=\"topicdescriptionkind\">Scope:</p><p>The regulations on Medical Devices (MDR) and <em>In Vitro </em>Diagnostic Medical Devices (IVDR) have introduced stricter regulatory requirements in view of ensuring a high level of patient safety and public health. The implementation of the new regulatory requirements still remains a challenge for manufacturers. SMEs face particular challenges as they have limited resources to adapt to the new framework. One of the main issues reported by manufacturers is the complexity and perceived unpredictability of the conformity assessment procedure involving a Notified Body.</p><p>The Medical Device Coordination Group (MDCG) assists the Commission and the Member States in ensuring a harmonised implementation of the MDR and IVDR, notably through the development of guidance and templates. Notably, the conformity assessment procedures are still based on continuous exchange of highly complex technical documentation in an electronic format (e.g., pdf or excel files) between the key actors of NBs and manufacturers, requiring several iterations between them. Further digitalisation of this process (from document to data-driven processes) can bring greater efficiency, accuracy, and transparency and lead to a more predictable and harmonised assessment process. This is expected to reduce the administrative burden as well as certification timelines and facilitate the conformity assessment procedure for manufacturers, particularly SMEs. In turn, this will contribute to maintaining the EU as a business-friendly environment for all manufacturers, which will ultimately benefit patients. For example, digitalisation can lead to simplification through the reduction of administrative burden, use of a single-entry point for all exchange of information. If relevant, applicants may liaise with an ongoing study on supporting the monitoring of the availability of medical devices in the EU market<sup>[2]</sup>. Potential improvements related to digitalisation can include pre-defining mandatory data elements, the possibility of getting alerts on whether data is complete, the identification of missing parts and inconsistencies and a reduction of error rates in this regard. Overall improved communication would be anticipated with digitalisation.</p><p>Any actions as part of the proposal will be performed under the current regulatory framework and will not involve changing MDR/IVDR requirements. Proposals should present a major step towards digitalisation in Europe and Associated Countries. Governance of a potential IT infrastructure developed in Europe and Associated Countries is outside the scope of the topic.</p><p>The proposals should cover all the following points:</p><ul level=\"0\"><li>all steps of the MDR/IVDR procedures, from manufacturer\u2019s preparation of technical documentation and other pre-application activities for certification to issuance of a MDR/IVDR certificate by a NB;</li><li>all actors involved in the conformity assessment procedure, including manufacturers, NBs, EU reference laboratories, expert panels of medical devices, as well as agencies involved in the consultation activities;</li><li>a good representation of different NBs, including representation from small and large NBs, public and private NBs and a representative mix focusing on medical devices and <em>in vitro</em> diagnostic medical devices. The proposal should put a strong focus on consensus building activities between the different stakeholders involved.</li> </ul><p>The proposals should address all the following activities:</p><ul level=\"0\"><li>Feasibility study   <ul level=\"1\"><li>Review existing initiatives aimed at digitalising MDR/IVDR conformity assessment procedures, or part thereof, and investigate digitalisation of conformity assessment/approval procedures for devices in other jurisdictions (e.g., US Food and Drug Administration). Consider lessons learned from digitalising conformity assessment procedures in other areas than medical devices.</li><li>Examine basic processes/workflows established by individual NBs.</li><li>Identify main steps of the conformity assessment procedure to be digitalised, actors involved, and essential elements and requirements to be considered prior to digitalisation.</li><li>Collect and analyse feedback from main stakeholders on challenges and feasibility of the digitalisation process, identify interoperability with existing workflows used by manufacturers and/or NBs.</li><li>Determine technical specifications required for the digitalisation as well as the possible options regarding digital transformation platforms.</li><li>Analyse facilitating factors, main challenges, possible solutions and required resources.</li>   </ul> </li><li>Pilot   <ul level=\"1\"><li>Develop a pilot for the whole or part of the MDR/IVDR conformity assessment procedure, including Key Performance Indicators (KPI). This will involve collaboration with relevant stakeholders, including NBs, manufacturers, the European Commission and other involved parties.</li><li>Develop a dedicated platform to run the pilot or identify an existing platform suitable for the pilot.</li>   </ul> </li><li>Roadmap towards digitalisation   <ul level=\"1\"><li>Based on the lessons learned from the pilot, identify different steps to scale-up the pilot in order to digitalise MDR/IVDR conformity assessment procedures, or part of them. Identify associated challenges and possible solutions to address these.</li><li>Present a roadmap to the piloted approach, including possible alternatives, covering actors involved and resources needed.</li>   </ul> </li> </ul><p class=\"eui-u-font-s\">[1] For the purpose of this topic, the reference to \u2018devices\u2019 includes both medical devices and <em>in vitro</em> diagnostic medical devices, unless otherwise specified.</p><p class=\"eui-u-font-s\">[2] Study commissioned by the European Commission\u2019s Directorate-General for Health and Food Safety via the European Health and Digital Executive Agency (results not yet published): <a href=\"https://health.ec.europa.eu/study-supporting-monitoring-availability-medical-devices-eu-market_en\">https://health.ec.europa.eu/study-supporting-monitoring-availability-medical-devices-eu-market_en</a></p>"
+        ],
+        "identifier": [
+          "HORIZON-HLTH-2025-01-IND-02"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "deadlineDate": [
+          "2025-09-16T00:00:00.000+0000"
+        ],
+        "es_Combine": [
+          "3"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2025-01-IND-02"
+        ],
+        "tags": [
+          "Conformity assessment",
+          "Digital",
+          "In-vitro diagnostic medical devices",
+          "Medical Devices",
+          "Regulatory"
+        ],
+        "cenTagsA": [
+          "TOPICS-030822",
+          "TOPICS-030823",
+          "TOPICS-030824",
+          "TOPICS-030825",
+          "TOPICS-030826",
+          "TOPICS-030827",
+          "TOPICS-010972",
+          "TOPICS-003450",
+          "TOPICS-001206",
+          "TOPICS-029042",
+          "TOPICS-030828",
+          "TOPICS-000732"
+        ],
+        "esDA_QueueDate": [
+          "2026-03-02T11:06:07.521+0100"
+        ],
+        "destinationDescription": [
+          "Maintaining an innovative, sustainable, and competitive EU health industry (2025)"
+        ],
+        "actions": [
+          "[{\"types\":[{\"typeOfAction\":\"HORIZON-CSA HORIZON Coordination and Support Actions\",\"typeOfMGA\":[{\"id\":43027849,\"abbreviation\":\"HORIZON-AG-LS\",\"description\":\"HORIZON Lump Sum Grant\"}]}],\"status\":{\"id\":31094503,\"abbreviation\":\"Closed\",\"description\":\"Closed\"},\"plannedOpeningDate\":\"2025-05-22\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2025-09-16\"]}]"
+        ],
+        "startDate": [
+          "2025-05-22T00:00:00.000+0000"
+        ],
+        "deadlineModel": [
+          "single-stage"
+        ],
+        "status": [
+          "31094503"
+        ],
+        "supportInfo": [
+          "<p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> is your guide on the procedures from proposal submission to managing your grant.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a> contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?isExactMatch=true&amp;status=0&amp;type=0,1&amp;order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=publicationDate\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ</a> \u2013 find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.</p><p><a href=\"https://research-and-innovation.ec.europa.eu/contact-us/research-enquiry-service_en\" rel=\"noopener noreferrer\" target=\"_blank\">Research Enquiry Service</a> \u2013 ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/ncp\" rel=\"noopener noreferrer\" target=\"_blank\">National Contact Points (NCPs)</a> \u2013 get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (\u2018third-countries\u2019).</p><p><a href=\"https://een.ec.europa.eu/\" rel=\"noopener noreferrer\" target=\"_blank\">Enterprise Europe Network</a> \u2013 contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> \u2013 contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://intellectual-property-helpdesk.ec.europa.eu/index_en\" rel=\"noopener noreferrer\" target=\"_blank\">European IPR Helpdesk</a> assists you on intellectual property issues.</p><p><a href=\"mailto:research@cencenelec.eu\" rel=\"noopener noreferrer\" target=\"_blank\">CEN-CENELEC Research Helpdesk</a> and <a href=\"https://www.etsi.org/research/helpdesk\" rel=\"noopener noreferrer\" target=\"_blank\">ETSI Research Helpdesk</a> \u2013 the European Standards Organisations advise you how to tackle standardisation in your project proposal.</p><p><a href=\"https://euraxess.ec.europa.eu/sites/default/files/am509774cee_en_e4.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">The European Charter for Researchers and the Code of Conduct for their recruitment</a> \u2013 consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/partner-search?order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=lastModified&amp;isExactMatch=true&amp;type=ORGANISATION,PERSON&amp;frameworkProgramme=43108390\" rel=\"noopener noreferrer\" target=\"_blank\">Partner Search</a> help you find a partner organisation for your proposal.</p>"
+        ],
+        "sepTemplate": [
+          "<p>No submission system is open for this topic.</p>"
+        ],
+        "sortStatus": [
+          "3"
+        ],
+        "destination": [
+          "46772590"
+        ],
+        "topicConditions": [
+          "<div class=\"eui-u-mt-l>\"><h4>General conditions</h4><div><h4>1. Admissibility Conditions, Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p>Admissibility Conditions are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex A</a> and <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex E</a> of the Horizon Europe Work Programme General Annexes.</p><p>Proposal page limits and layout are described in Part B of the Application Form available in the Submission System.</p><p><br></br></p></div></div><div><h4>2. Eligible Countries</h4><div class=\"eui-u-mt-s\"><p>Eligible Countries are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p><p>A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a>.</p><p><br></br></p></div></div><div><h4>3. Other Eligible Conditions</h4><div class=\"eui-u-mt-s\"><p>In recognition of the opening of the US National Institutes of Health\u2019s programmes to European researchers, legal entities established in the United States of America may exceptionally participate as a beneficiary or affiliated entity, and are eligible to receive Union funding.</p><p>Coordinators of projects must be legal entities established in an EU Member State or Associated Country.</p></div><div class=\"eui-u-mt-s\"><p>If projects use satellite-based earth observation, positioning, navigation and/or related timing data and services, beneficiaries must make use of Copernicus and/or Galileo/EGNOS (other data and services may additionally be used).</p></div><div class=\"eui-u-mt-s\"><p>Other Eligible Conditions are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p><p><br></br></p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>Financial and operational capacity and exclusion are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex C</a> of the Work Programme General Annexes.</p><p><br></br></p></div></div><div><h4>5a. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>Evaluation and award: Award criteria, scoring and thresholds are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex D</a> of the Work Programme General Annexes.</p></div></div><div><h4>5b. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>The thresholds for each criterion will be 4 (Excellence), 4 (Impact) and 4 (Implementation). The cumulative threshold will be 12.</p></div><div class=\"eui-u-mt-s\"><p>Evaluation and award: Submission and evaluation processes are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>Evaluation and award: Indicative timeline for evaluation and grant agreement are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes.</p><p><br></br></p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>Eligible costs will take the form of a lump sum as defined in the Decision of 7 July 2021 authorising the use of lump sum contributions under the Horizon Europe Programme \u2013 the Framework Programme for Research and Innovation (2021-2027) \u2013 and in actions under the Research and Training Programme of the European Atomic Energy Community (2021-2025) [[This <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf\"><u>decision</u></a> is available on the Funding and Tenders Portal, in the reference documents section for Horizon Europe, under \u2018Simplified costs decisions\u2019 or through this link: <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf\"><u>https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf</u></a>]].</p></div><div class=\"eui-u-mt-s\"><p>Legal and financial set-up of the grants are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex G</a> of the Work Programme General Annexes.</p><p><br></br></p></div></div></div><div class=\"eui-u-mt-l\"><h4>Specific conditions</h4> <div class=\"eui-u-mt-s\"><p>Specific conditions are described in the specific topic of the Work Programme.</p><p><br></br></p></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Application and evaluation forms and additional documents:</h4> <div class=\"eui-u-mt-s\"><p><strong>Application and evaluation form templates</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-csa_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (HE CSA)</a> - the application form specific to this call is available in the Submission System</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/ef/ef_he-csa_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard evaluation form (HE CSA)</a>&#xa0;- will be used with the necessary adaptations</p><p><strong>Guidance</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a>&#xa0;</p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/ls-mga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Lump Sum MGA</a>&#xa0;</p><p><strong>Call-specific instructions</strong>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/temp-form/af/detailed-budget-table_he-ls-euratom_en.xlsm\" rel=\"noopener noreferrer\" target=\"_blank\">Detailed budget table (HE LS)</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-funding-what-do-i-need-to-know_he_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Guidance: \"Lump sums - what do I need to know?\"</a></p></div><h4>Additional documents</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-1-general-introduction_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2025 \u2013 1. General Introduction</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-4-health_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2025 \u2013 4. Health</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2025 \u2013 14. General Annexes</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0695\" rel=\"noopener noreferrer\" target=\"_blank\">HE Framework Programme 2021/695</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021D0764\" rel=\"noopener noreferrer\" target=\"_blank\">HE Specific Programme Decision 2021/764</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Decision authorising the use of lump sum contributions under the Horizon Europe Programme</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA \u2014 Annotated Model Grant Agreement</a> </p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+        ],
+        "title": [
+          "Digitalisation of conformity assessment procedures of medical devices and in vitro diagnostic medical devices"
+        ],
+        "esST_checksum": [
+          "83082BF9B330F9411A5C7506CEBD6DD559C9799A3D7918B5273858C1B212BB74"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "ccm2Id": [
+          "48340856"
+        ],
+        "REFERENCE": [
+          "48340856TOPICSen"
+        ],
+        "programmeDivision": [
+          "43108638",
+          "43108642",
+          "43108557",
+          "43108541"
+        ],
+        "crossCuttingPriorities": [
+          "AI",
+          "DigitalAgenda"
+        ],
+        "esDA_FirstIngestDate": [
+          "2025-05-15T00:03:43.509+0200"
+        ],
+        "esDA_IngestDate": [
+          "2026-03-02T11:06:07.532+0100"
+        ],
+        "typesOfAction": [
+          "HORIZON Coordination and Support Actions"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2025-01-IND-02"
+        ],
+        "allowPartnerSearch": [
+          "true"
+        ],
+        "budgetOverview": [
+          "{\"budgetYearsColumns\":[\"2025\"],\"budgetTopicActionMap\":{\"110785\":[{\"action\":\"HORIZON-HLTH-2025-01-IND-01 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":5,\"minContribution\":6000000,\"maxContribution\":8000000,\"budgetYearMap\":{\"2025\":\"40000000\"},\"plannedOpeningDate\":\"2025-05-22\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2025-09-16\"]}],\"110784\":[{\"action\":\"HORIZON-HLTH-2025-01-TOOL-01 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":5,\"minContribution\":8000000,\"maxContribution\":10000000,\"budgetYearMap\":{\"2025\":\"50000000\"},\"plannedOpeningDate\":\"2025-05-22\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2025-09-16\"]}],\"110786\":[{\"action\":\"HORIZON-HLTH-2025-01-DISEASE-06 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":5,\"minContribution\":3000000,\"maxContribution\":4000000,\"budgetYearMap\":{\"2025\":\"20000000\"},\"plannedOpeningDate\":\"2025-05-22\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2025-09-16\"]}],\"110775\":[{\"action\":\"HORIZON-HLTH-2025-01-DISEASE-03 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":5,\"minContribution\":10000000,\"maxContribution\":10000000,\"budgetYearMap\":{\"2025\":\"50000000\"},\"plannedOpeningDate\":\"2025-05-22\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2025-09-16\"]}],\"110774\":[{\"action\":\"HORIZON-HLTH-2025-01-DISEASE-05 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":2000000,\"maxContribution\":2000000,\"budgetYearMap\":{\"2025\":\"2000000\"},\"plannedOpeningDate\":\"2025-05-22\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2025-09-16\"]}],\"110777\":[{\"action\":\"HORIZON-HLTH-2025-01-DISEASE-07 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":5,\"minContribution\":6000000,\"maxContribution\":6000000,\"budgetYearMap\":{\"2025\":\"30000000\"},\"plannedOpeningDate\":\"2025-05-22\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2025-09-16\"]}],\"110776\":[{\"action\":\"HORIZON-HLTH-2025-01-TOOL-05 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":10,\"minContribution\":4000000,\"maxContribution\":8000000,\"budgetYearMap\":{\"2025\":\"80000000\"},\"plannedOpeningDate\":\"2025-05-22\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2025-09-16\"]}],\"110779\":[{\"action\":\"HORIZON-HLTH-2025-01-IND-02 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":4000000,\"maxContribution\":4000000,\"budgetYearMap\":{\"2025\":\"4000000\"},\"plannedOpeningDate\":\"2025-05-22\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2025-09-16\"]}],\"110778\":[{\"action\":\"HORIZON-HLTH-2025-01-TOOL-03 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":3,\"minContribution\":15000000,\"maxContribution\":17000000,\"budgetYearMap\":{\"2025\":\"50000000\"},\"plannedOpeningDate\":\"2025-05-22\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2025-09-16\"]}],\"110781\":[{\"action\":\"HORIZON-HLTH-2025-01-DISEASE-04 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":5,\"minContribution\":6000000,\"maxContribution\":8000000,\"budgetYearMap\":{\"2025\":\"35000000\"},\"plannedOpeningDate\":\"2025-05-22\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2025-09-16\"]}],\"110780\":[{\"action\":\"HORIZON-HLTH-2025-01-DISEASE-01 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":3,\"minContribution\":15000000,\"maxContribution\":15000000,\"budgetYearMap\":{\"2025\":\"45000000\"},\"plannedOpeningDate\":\"2025-05-22\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2025-09-16\"]}],\"110783\":[{\"action\":\"HORIZON-HLTH-2025-01-TOOL-02 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":3,\"minContribution\":9000000,\"maxContribution\":13000000,\"budgetYearMap\":{\"2025\":\"40000000\"},\"plannedOpeningDate\":\"2025-05-22\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2025-09-16\"]}],\"110782\":[{\"action\":\"HORIZON-HLTH-2025-01-CARE-01 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":2,\"minContribution\":15000000,\"maxContribution\":20000000,\"budgetYearMap\":{\"2025\":\"40000000\"},\"plannedOpeningDate\":\"2025-05-22\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2025-09-16\"]}]}}"
+        ],
+        "specificObjective": []
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "Digitalisation of conformity assessment procedures of <b>medical</b> <b>devices</b> and in vitro <b>diagnostic</b> <b>medical</b> <b>devices</b>"
+      ]
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "399e3dae-d6dc-428e-9854-a84e40097783-PIN",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/399e3dae-d6dc-428e-9854-a84e40097783-PIN",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Horizon Scanning System for Medical Devices &amp; In Vitro Diagnostic Medical Devices",
+      "weight": 44.07369,
+      "groupById": "3",
+      "content": "Horizon Scanning System for <b>Medical</b> <b>Devices</b> &amp; In Vitro <b>Diagnostic</b> <b>Medical</b> <b>Devices</b>",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "399655CF6AFEC71B5450025F51D4FE79A99A130182EC3060016D339EC031D363",
+      "metadata": {
+        "es_SortDate": [
+          "2024-06-06T00:00:00.000+0000"
+        ],
+        "cftPartyLegalEntityId": [
+          "47352360"
+        ],
+        "cftMaxNumberOfLots": [],
+        "contractType": [
+          "31095498"
+        ],
+        "awardMethod": [],
+        "cftContractingSystems": [],
+        "language": [
+          "en"
+        ],
+        "type": [
+          "0"
+        ],
+        "cftDocuments": [
+          "{}"
+        ],
+        "callIdentifier": [
+          "HADEA/2024/OP/0024-PIN"
+        ],
+        "cftSubmissionsAllowed": [
+          "false"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "frameworkProgramme": [],
+        "cftPublicationDisplayStatus": [],
+        "identifier": [
+          "399e3dae-d6dc-428e-9854-a84e40097783-PIN"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "geographicalZones": [],
+        "programmePeriod": [
+          "2014 - 2020",
+          "2021 - 2027"
+        ],
+        "cftSubscriptionsAllowed": [
+          "true"
+        ],
+        "cftCorrigendaList": [],
+        "es_Combine": [
+          "2"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/399e3dae-d6dc-428e-9854-a84e40097783-PIN"
+        ],
+        "esDA_QueueDate": [
+          "2024-11-18T16:23:33.874+0100"
+        ],
+        "programmeDivisionProspect": [],
+        "mainCpv": [
+          "72000000",
+          "85100000",
+          "33190000"
+        ],
+        "mainCpvCode": [
+          "{\"mainCode\":\"85100000\"}"
+        ],
+        "startDate": [
+          "2024-06-06T00:00:00.000+0000"
+        ],
+        "status": [
+          "31094503"
+        ],
+        "procedureType": [
+          "47396222"
+        ],
+        "sortStatus": [
+          "3"
+        ],
+        "conditionOfParticipation": [],
+        "description": [
+          "The subject of this call for tenders is to set up a horizon scanning system for medical devices and in vitro diagnostic medical devices in order to maintain an up-to-date overview of new and emerging technologies. The system, based on an IT tool, will have to continuously perform screening of available sources for identification of novel, emerging technologies, and assess features that may have an impact on medical devices and in vitro diagnostic medical devices, present opportunities, risks or other features related to new and emerging technologies. The need for this horizon scanning system has been identified in the context of the implementation of the MDR/IVDR legislation in order to support competitiveness and innovation in the EU market, while ensuring a high level of protection of health for patients and users."
+        ],
+        "title": [
+          "Horizon Scanning System for Medical Devices & In Vitro Diagnostic Medical Devices"
+        ],
+        "esST_checksum": [
+          "399655CF6AFEC71B5450025F51D4FE79A99A130182EC3060016D339EC031D363"
+        ],
+        "cftId": [
+          "399e3dae-d6dc-428e-9854-a84e40097783-PIN"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "REFERENCE": [
+          "399e3dae-d6dc-428e-9854-a84e40097783-PIN"
+        ],
+        "cftTendersMayBeSubmitted": [],
+        "cftTimezone": [
+          "Europe/Brussels"
+        ],
+        "cftEstimatedTotalProcedureValue": [
+          "1000000 EUR"
+        ],
+        "cftContractNoticeLink": [
+          "[\"335951-2024\",\"109/2024\",\"2024-06-06T00:00:00\"]"
+        ],
+        "cftRepublish": [
+          "true"
+        ],
+        "cftSubmissionMethodCode": [
+          "ESUBMISSION"
+        ],
+        "cftProcurementType": [
+          "31095498"
+        ],
+        "cftEstimatedOverallContractAmount": [
+          "1000000"
+        ],
+        "caName": [
+          "Horizon Scanning System for Medical Devices & In Vitro Diagnostic Medical Devices"
+        ],
+        "cftPlannedDate": [
+          "29/07/2024"
+        ],
+        "cftPublishedPinReference": [
+          "Y"
+        ],
+        "esDA_FirstIngestDate": [
+          "2024-11-18T16:23:33.943+0100"
+        ],
+        "esDA_IngestDate": [
+          "2024-11-18T16:23:33.943+0100"
+        ],
+        "cftInterinstitutional": [],
+        "cftQuestionsAnswersAllowed": [
+          "true"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/399e3dae-d6dc-428e-9854-a84e40097783-PIN"
+        ],
+        "lots": [
+          "{\"procurementProjectLots\":[{\"tenderingTerms\":{\"tenderValidityPeriod\":{},\"tendererQualificationRequest\":{\"specificTendererRequirement\":{}},\"callForTendersDocumentReference\":{},\"postAwardProcess\":{},\"fundingProgramCode\":\"eu-funds\",\"fundingProgramCodelistName\":\"eu-funded\",\"awardingTerms\":{\"awardingCriterion\":{}},\"appealTerms\":{\"appealReceiverPartyID\":\"ORG-0002\"}},\"programmes\":[],\"procurementProject\":{\"procurementTypeCodeListName\":\"contract-nature\",\"mainCommodityClassification\":{\"itemClassificationCode\":\"85100000\",\"itemClassificationCodeListName\":\"cpv\"},\"plannedPeriod\":{\"durationMeasureUnitCode\":\"MONTH\",\"durationMeasure\":28},\"requestedTenderTotal\":{\"estimatedOverallContractAmountCurrencyId\":\"EUR\",\"estimatedOverallContractAmount\":1000000},\"procurementTypeCode\":\"services\",\"name\":\"Horizon Scanning System for Medical Devices & In Vitro Diagnostic Medical Devices\",\"description\":\"The subject of this call for tenders is to set up a horizon scanning system for medical devices and in vitro diagnostic medical devices in order to maintain an up-to-date overview of new and emerging technologies. The system, based on an IT tool, will have to continuously perform screening of available sources for identification of novel, emerging technologies, and assess features that may have an impact on medical devices and in vitro diagnostic medical devices, present opportunities, risks or other features related to new and emerging technologies. The need for this horizon scanning system has been identified in the context of the implementation of the MDR/IVDR legislation in order to support competitiveness and innovation in the EU market, while ensuring a high level of protection of health for patients and users.\",\"contractExtension\":{\"renewal\":{\"period\":{}}},\"smeSuitableIndicator\":false,\"additionalCommodityClassifications\":[{\"itemClassificationCode\":\"33190000\",\"itemClassificationCodeListName\":\"cpv\"},{\"itemClassificationCode\":\"72000000\",\"itemClassificationCodeListName\":\"cpv\"}]},\"tenderingProcess\":{\"accessToolsURI\":\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/3\",\"governmentAgreementConstraintIndicator\":false,\"eformsExtension\":{\"accessToolName\":\"Funding and Tenders Portal\"},\"auctionTerms\":{},\"contractingSystems\":[{\"contractingSystemTypeCode\":\"none\",\"contractingSystemTypeCodeListName\":\"framework-agreement\"}],\"openTenderEvent\":{},\"tenderSubmissionDeadlinePeriod\":{},\"additionalInformationRequestPeriod\":{},\"participationRequestReceptionPeriod\":{}},\"benefittingZones\":[],\"procurementProjectLotID\":\"PAR-0001\"}]}"
+        ],
+        "cftEXARegistrationDeadline": [],
+        "indicativeLaunch": [],
+        "geographicalZone": [],
+        "cftLeadContractingAuthorityCode": [
+          "[{\"name\":\"Health and Digital Executive Agency (HaDEA) , HADEA - Health and Digital Executive Agency\",\"link\":\"https://hadea.ec.europa.eu\",\"isLeadAuthority\":true}]"
+        ],
+        "cftBuyerProfileUrl": [],
+        "cftPublicationDateEForm": [
+          "2024-06-06T00:00:00"
+        ],
+        "cftEstimatedOverallContractCurrency": [
+          "EUR"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "Horizon Scanning System for <b>Medical</b> <b>Devices</b> &amp; In Vitro <b>Diagnostic</b> <b>Medical</b> <b>Devices</b>"
+      ]
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "483408564219559",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2025-01-IND-02.json",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Digitalisation of conformity assessment procedures of medical devices and in vitro diagnostic medical devices",
+      "weight": 43.18952,
+      "groupById": null,
+      "content": "Digitalisation of conformity assessment procedures of <b>medical</b> <b>devices</b> and in vitro <b>diagnostic</b> <b>medical</b> <b>devices</b>",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "83082BF9B330F9411A5C7506CEBD6DD559C9799A3D7918B5273858C1B212BB74",
+      "metadata": {
+        "identifier": [
+          "HORIZON-HLTH-2025-01-IND-02"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "es_SortDate": [
+          "2025-05-21T22:01:00.223+0000"
+        ],
+        "esDA_FirstIngestDate": [
+          "2025-05-22T00:01:06.654+0200"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "esDA_IngestDate": [
+          "2026-03-02T11:04:19.256+0100"
+        ],
+        "description": [
+          "The submission session is now available for: HORIZON-HLTH-2025-01-DISEASE-05, HORIZON-HLTH-2025-01-DISEASE-03, HORIZON-HLTH-2025-01-TOOL-05, HORIZON-HLTH-2025-01-DISEASE-07, HORIZON-HLTH-2025-01-TOOL-03, HORIZON-HLTH-2025-01-IND-02, HORIZON-HLTH-2025-01-DISEASE-01, HORIZON-HLTH-2025-01-DISEASE-04, HORIZON-HLTH-2025-01-CARE-01, HORIZON-HLTH-2025-01-TOOL-02, HORIZON-HLTH-2025-01-TOOL-01, HORIZON-HLTH-2025-01-IND-01, HORIZON-HLTH-2025-01-DISEASE-06"
+        ],
+        "language": [
+          "en"
+        ],
+        "title": [
+          "Digitalisation of conformity assessment procedures of medical devices and in vitro diagnostic medical devices"
+        ],
+        "type": [
+          "6"
+        ],
+        "esST_checksum": [
+          "83082BF9B330F9411A5C7506CEBD6DD559C9799A3D7918B5273858C1B212BB74"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2025-01-IND-02.json"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2025-01-IND-02.json"
+        ],
+        "esDA_QueueDate": [
+          "2026-03-02T11:04:19.240+0100"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "callIdentifier": [
+          "HORIZON-HLTH-2025-01"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "483408564219559"
+        ],
+        "callTitle": [
+          "Cluster 1 - Health (Single stage - 2025)"
+        ],
+        "frameworkProgramme": [
+          "43108390"
+        ],
+        "startDate": [
+          "2025-05-21T22:01:00.223+0000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "Digitalisation of conformity assessment procedures of <b>medical</b> <b>devices</b> and in vitro <b>diagnostic</b> <b>medical</b> <b>devices</b>"
+      ]
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "483408564427359",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2025-01-IND-02.json",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Digitalisation of conformity assessment procedures of medical devices and in vitro diagnostic medical devices",
+      "weight": 43.18952,
+      "groupById": null,
+      "content": "Digitalisation of conformity assessment procedures of <b>medical</b> <b>devices</b> and in vitro <b>diagnostic</b> <b>medical</b> <b>devices</b>",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "83082BF9B330F9411A5C7506CEBD6DD559C9799A3D7918B5273858C1B212BB74",
+      "metadata": {
+        "identifier": [
+          "HORIZON-HLTH-2025-01-IND-02"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "es_SortDate": [
+          "2025-06-10T15:06:35.592+0000"
+        ],
+        "esDA_FirstIngestDate": [
+          "2025-06-10T17:08:09.586+0200"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "esDA_IngestDate": [
+          "2026-03-02T11:04:19.137+0100"
+        ],
+        "description": [
+          "<p>Please note that due to a technical issue, during the first days of publication of this call, the topic page did not display the description of the corresponding destination. This problem is now solved. In addition to the information published in the topic page, you can always find a full description of the relevant destination in the Work Programme 2025 part for \"Health\". Please select from the work programme the destination relevant to your topic and take into account the description and expected impacts of that destination for the preparation of your proposal.</p>"
+        ],
+        "language": [
+          "en"
+        ],
+        "title": [
+          "Digitalisation of conformity assessment procedures of medical devices and in vitro diagnostic medical devices"
+        ],
+        "type": [
+          "6"
+        ],
+        "esST_checksum": [
+          "83082BF9B330F9411A5C7506CEBD6DD559C9799A3D7918B5273858C1B212BB74"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2025-01-IND-02.json"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2025-01-IND-02.json"
+        ],
+        "esDA_QueueDate": [
+          "2026-03-02T11:04:19.125+0100"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "callIdentifier": [
+          "HORIZON-HLTH-2025-01"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "483408564427359"
+        ],
+        "callTitle": [
+          "Cluster 1 - Health (Single stage - 2025)"
+        ],
+        "frameworkProgramme": [
+          "43108390"
+        ],
+        "startDate": [
+          "2025-06-10T15:06:35.592+0000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "Digitalisation of conformity assessment procedures of <b>medical</b> <b>devices</b> and in vitro <b>diagnostic</b> <b>medical</b> <b>devices</b>"
+      ]
+    }
+  ]
+}

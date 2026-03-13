@@ -1,0 +1,948 @@
+{
+  "apiVersion": "2.145.3",
+  "terms": "digital health artificial intelligence",
+  "responseTime": 141,
+  "totalResults": 118445,
+  "pageNumber": 1,
+  "pageSize": 50,
+  "sort": "relevance",
+  "groupByField": "sortStatus",
+  "queryLanguage": {
+    "language": "en",
+    "probability": 0.0
+  },
+  "spellingSuggestion": "digital health artificial intelligence",
+  "bestBets": [],
+  "warnings": [],
+  "results_sample": [
+    {
+      "apiVersion": "2.145.3",
+      "reference": "46775850DigitalSMESupportActions1709164800000",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/DIGITAL-2024-AI-06-IMAGING.json",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "AI in support of Quantum-Enhanced Metabolic Magnetic Resonance Imaging Systems",
+      "weight": 29.25024,
+      "groupById": "3",
+      "content": "AI in support of Quantum-Enhanced Metabolic Magnetic Resonance Imaging Systems",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "7EAF5B25798BC18E218CE4C240215207D2EB1F9E444EF41863A47C0FC04AF447",
+      "metadata": {
+        "latestInfos": [
+          "[{\"approvalDate\":\"2024-07-31\",\"lastChangeDate\":\"2024-07-31T16:50:52.241\",\"content\":\"\\u003cp\\u003eFor information on the evaluations results of this call we invite you to consult the Flash call info (evaluation results) in the following \\u003ca href\\u003d\\\"https://ec.europa.eu/newsroom/dae/redirection/document/107637\\\" target\\u003d\\\"_blank\\\"\\u003elink\\u003c/a\\u003e.\\u003c/p\\u003e\\r\\n\\u003cp\\u003e\\u0026#xa0;\\u003c/p\\u003e\"},{\"approvalDate\":\"2024-05-21\",\"lastChangeDate\":\"2024-05-21T16:15:35.614\",\"content\":\"\\u003cp\\u003ePlease note that the call document has been amended to include\\u0026#xa0;a minor update under topic\\u0026#xa0;DIGITAL-2024-AI-06-FINETUNE\\u0026#xa0;\\u0026#xa0;(page 15 and page 25). It is to be noted that this update \\u003cu\\u003eDOES NOT modify\\u003c/u\\u003e in any way the topic conditions, the eligibility or evaluation criteria and it is only relevant to this topic.\\u003c/p\\u003e\"},{\"approvalDate\":\"2024-02-29\",\"lastChangeDate\":\"2024-02-29T00:00:04.289\",\"content\":\"The submission session is now available for: DIGITAL-2024-AI-06-IMAGING(DIGITAL-SME), DIGITAL-2024-AI-06-LANGUAGE-01(DIGITAL-SIMPLE), DIGITAL-2024-AI-06-LANGUAGE-02(DIGITAL-CSA), DIGITAL-2024-AI-06-FINETUNE(DIGITAL-SME)\"}]"
+        ],
+        "es_SortDate": [
+          "2024-02-29T00:00:00.000+0000"
+        ],
+        "sepTemplate": [
+          "<p>No submission system is open for this topic.</p>"
+        ],
+        "keywords": [
+          "DIGITAL-2024-AI-06-IMAGING",
+          "DIGITAL-2024-AI-06",
+          "Artificial intelligence",
+          "Artificial intelligence, intelligent systems, multi agent systems",
+          "Health care",
+          "Quantum Technologies (e.g. computing and communication)"
+        ],
+        "sortStatus": [
+          "3"
+        ],
+        "language": [
+          "en"
+        ],
+        "topicConditions": [
+          "<div class=\"eui-u-mt-l>\"><h4>Conditions</h4><div><h4> </h4><div class=\"eui-u-mt-s\"><p><b>Conditions<br>\r\n<br>\r\n</br></br></b></p>\r\n<p><b>1.&#xa0;</b><b>Admissibility conditions: </b>described in section 5 of the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2024/call-fiche_digital-2024-ai-06_en.pdf\" target=\"_blank\">call document</a><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2024/call-fiche_digital-2024-ai-06_en.pdf\" target=\"_blank\">&#xa0;</a></p><p><b>Proposal page limits and layout:</b>&#xa0;described in Part B of the Application Form available in the Submission System</p></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><p><b>2. Eligible countries:&#xa0;</b>described in section 6 of of the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2024/call-fiche_digital-2024-ai-06_en.pdf\" target=\"_blank\">call document</a></p></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><p><b>3. Other eligibility conditions:</b>&#xa0;described in section 6 of the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2024/call-fiche_digital-2024-ai-06_en.pdf\" target=\"_blank\">call document</a></p></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><p><b>4. Financial and operational capacity and exclusion:&#xa0;</b>described in&#xa0;section 7 of the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2024/call-fiche_digital-2024-ai-06_en.pdf\" target=\"_blank\">call document</a></p></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><ul>\r\n    <li><b>Submission and evaluation processes</b><b>:</b>&#xa0;described&#xa0;section 8 of the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2024/call-fiche_digital-2024-ai-06_en.pdf\" target=\"_blank\">call document</a> and the&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\">Online Manual</a></li>\r\n</ul></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><ul>\r\n    <li><b>Award criteria, scoring and thresholds:</b>&#xa0;described in section 9 of the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2024/call-fiche_digital-2024-ai-06_en.pdf\" target=\"_blank\">call document</a></li>\r\n</ul></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><ul>\r\n    <li><b>Indicative timeline for evaluation and grant agreement:&#xa0;</b>described in section 4 of the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2024/call-fiche_digital-2024-ai-06_en.pdf\" target=\"_blank\">call document</a></li>\r\n</ul></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><p><b>6</b><b>. Legal and financial set-up of the grants:&#xa0;</b>described&#xa0;in section 10 of the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2024/call-fiche_digital-2024-ai-06_en.pdf\" target=\"_blank\">call document</a></p></div></div></div><div class=\"eui-u-mt-l\"><h4> </h4> <div class=\"eui-u-mt-s\"> </div><h4> </h4> <div class=\"eui-u-mt-s\"><p><b>Documents<br>\r\n</br></b></p>\r\n<p>Call document is available <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2024/call-fiche_digital-2024-ai-06_en.pdf\" target=\"_blank\">here</a></p>\r\n<p>Standard application form \u2014<i> call-specific application form is available in the Submission System</i> </p>\r\n<p>Detailed budget table - available in the Submission System</p>\r\n<p>DIGITAL EUROPE PROGRAMME&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/agr-contr/mga_dep_en.pdf\" target=\"_blank\">General MGA v1.0</a></p>\r\n<p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/guidance/classification-of-information-in-dep-projects_dep_en.pdf\" target=\"_blank\">Guidance Classification of information in DIGITAL projects</a></p>\r\n<p>Guidelines on<i>&#xa0;</i><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/how-to-complete-your-ethics-self-assessment_en.pdf\">How to Complete your Ethics Self-Assessment</a></p>\r\n<p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/guidance-participation-in-dep-he-edf-cef-dig-restricted-calls_dep-he-edf-cef-dig_en.pdf\">Guidance on participation in DEP - restricted calls</a>&#xa0;</p></div><h4> </h4> <div class=\"eui-u-mt-s\"><p>Digital Europe <a href=\"https://ec.europa.eu/newsroom/dae/redirection/document/100740\" target=\"_blank\">Work Programme 2023-2024</a></p>\r\n<p>Digital Europe Programme&#xa0;<a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0694\" target=\"_blank\">Regulation 2021/694</a></p>\r\n<p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32018R1046&amp;qid=1535046024012\">EU Financial Regulation 2018/1046</a></p></div></div>"
+        ],
+        "title": [
+          "AI in support of Quantum-Enhanced Metabolic Magnetic Resonance Imaging Systems"
+        ],
+        "type": [
+          "1"
+        ],
+        "esST_checksum": [
+          "7EAF5B25798BC18E218CE4C240215207D2EB1F9E444EF41863A47C0FC04AF447"
+        ],
+        "focusArea": [],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "typeOfMGAs": [
+          "43140990"
+        ],
+        "callIdentifier": [
+          "DIGITAL-2024-AI-06"
+        ],
+        "ccm2Id": [
+          "46775850"
+        ],
+        "callccm2Id": [
+          "46775996"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "46775850DigitalSMESupportActions1709164800000"
+        ],
+        "links": [
+          "[]"
+        ],
+        "callTitle": [
+          "Cloud, data and artificial intelligence"
+        ],
+        "frameworkProgramme": [
+          "43152860"
+        ],
+        "descriptionByte": [
+          "<span class=\"topicdescriptionkind\">Expected Outcome:</span><p><strong>Outcomes and deliverables</strong></p><p>In phase 1:</p><ul level=\"0\"><li>Validation of the capabilities of metabolic MRI in a pre-clinical context as a diagnostic tool for cancer and neurological diseases and identifying appropriate treatments. This includes benchmarking of the success rate in finding effective cancer therapy within a relevant time frame, treatment responsiveness, recovery time and accuracy of treatment efficacy prediction.</li><li>The development of AI/machine learning techniques for cancer imaging and/or neurological imaging, e.g. by analysis of datasets accessible via the cloud, via the creation of an experimental AI/machine learning model.</li><li>Contribution to European and national initiatives on cancer imaging, and the future European Health Data Space.</li> </ul><p>In phase 2:</p><ul level=\"0\"><li>Benchmark metabolic MRI against standard MRI and other standard diagnostic tools by performing clinical trials in patients.</li><li>Operational impact of introducing metabolic MRI in hospitals, including financial implications and number of patients treated.</li><li>Assessment of metabolic MRI combined with AI techniques as a means to detect early signs or support the diagnosis of Alzheimer\u2019s disease and/or multiple sclerosis.</li><li>Standard procedures and best practices for the use of quantum-enhanced metabolic MRI in combination with AI techniques for cancer imaging and/or neurological imaging as a contribution to preparations for the wide use of this technology in European hospitals. Recommendations should be application/diagnosis-specific and mention, among other parameters, the preferred metabolic agent and the number and duration of metabolic MRI scan intervals.</li><li>Extended AI models as a tool for diagnosis, treatment selection and decision-making, and the evaluation of medical outcomes, including assessment of correlations between metabolic MRI imaging data and treatment success, in line and coordination with the European Cancer Imaging Initiative.</li><li>Use project results to contribute to European and national initiatives on cancer imaging, and in line with the future European Health Data Space.</li> </ul><span class=\"topicdescriptionkind\">Objective:</span><p>Magnetic resonance imaging (MRI) is a powerful tool for detecting, diagnosing and monitoring a wide range of medical conditions. An emerging approach based on quantum-enhanced metabolic MRI enables detection of the tissue metabolism, down to the cell level, leading to a much higher precision of detection and analysis of the human body. In combination with artificial intelligence (AI) and/or machine learning techniques to analyse the vast amount of data generated and for image analysis, it will lead to faster, more accurate and personalized diagnosis, treatment and follow-up notably of cancer and/or neurological disorders. The overall aim of this action is to prepare for the industrialisation and deployment of such emerging systems, with a focus on cancer imaging and/or neurological imaging.</p><span class=\"topicdescriptionkind\">Scope:</span><p>Metabolic MRI has the potential to provide information about changes in tissue metabolism which can precede macroscopic tissue changes seen with standard MRI. For example, this emerging technology can provide early detection of changes in tissue metabolism and fast feedback on treatment effectiveness, a crucial aspect of finding effective cancer therapy. The development of AI techniques for the analysis of quantum-enhanced metabolic MRI images could substantially enhance the capabilities of this new technology, transforming the process into a more automated, personalised and efficient one.</p><p>Therefore, the scope of this call is to develop and experimentally validate in an hospital environment a more precise and faster tool for the study, diagnosis, treatment and follow-up of cancer and/or neurological disorders (such as Alzheimer\u2019s disease and multiple sclerosis) by enhancing existing MRI systems with quantum-enhanced metabolic MRI and AI techniques. The project will include the deployment of innovative automated polariser systems for quantum enhanced metabolic MRI in at least two research hospitals in two different Member States, working in close collaboration. The systems should allow for fast turnover and generation of metabolic agents within a few minutes, without the need for operating such systems at cryogenic temperatures.</p><p>The polarisation level should be sufficiently high such that a metabolic MRI scan can be performed in a single-shot experiment, shortly after injecting the metabolic agent into a living organism. The project will also underpin the development of one or several AI models for the analysis of metabolic MRI data. To this end the images generated in the course of the project will be collected and annotated. These images, duly anonymised, will, together with images from other European 90 initiatives and other clinical datasets, will be used to train one or several AI models useful for the development of new diagnostic and treatment selection protocols. The project should be designed in in two phases. The start of the second phase should be conditional of the successful completion of the first phase:</p><p>Project Phase 1:</p><ul level=\"0\"><li> Deployment and validation in a pre-clinical environment of two first-generation polariser systems for the refinement of hyperpolarisation techniques, metabolic agents, MRI sequences, and signal detection to optimise the visualisation of metabolism in a range of tissues with different pathologies.</li><li>Creation of an initial experimental AI model to analyse the MRI images in combination with inputs from other sources and forms of medical analysis, including, where relevant, datasets accessible via the cloud, with a view to developing future diagnostic and treatment selection protocols.</li> </ul><p>Project Phase 2:</p><ul level=\"0\"><li>The second phase consists of the deployment and validation in a clinical environment of two second-generation polariser systems and associated AI techniques (including the training of new models if necessary) to investigate tumour growth and disease progression, diagnosis, treatment selection and decision-making, and the evaluation of medical outcomes, as well as evaluate and optimise treatment of cancer and/or neurological diseases.</li> </ul>"
+        ],
+        "identifier": [
+          "DIGITAL-2024-AI-06-IMAGING"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "programmeDivision": [
+          "43152869"
+        ],
+        "crossCuttingPriorities": [
+          "AI",
+          "DigitalAgenda"
+        ],
+        "esDA_FirstIngestDate": [
+          "2024-11-22T11:10:37.100+0100"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "deadlineDate": [
+          "2024-05-29T00:00:00.000+0000"
+        ],
+        "esDA_IngestDate": [
+          "2025-06-30T18:44:03.270+0200"
+        ],
+        "typesOfAction": [
+          "Digital SME Support Actions"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/DIGITAL-2024-AI-06-IMAGING.json"
+        ],
+        "es_Combine": [
+          "3"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/DIGITAL-2024-AI-06-IMAGING.json"
+        ],
+        "tags": [
+          "AI models",
+          "Magnetic resonance imaging",
+          "cancer imaging",
+          "neurological imaging"
+        ],
+        "cenTagsA": [
+          "TOPICS-043906",
+          "TOPICS-043907",
+          "TOPICS-043908",
+          "TOPICS-043909",
+          "TOPICS-043910",
+          "TOPICS-043911",
+          "TOPICS-043912",
+          "TOPICS-043913",
+          "TOPICS-043914",
+          "TOPICS-043915",
+          "TOPICS-043916",
+          "TOPICS-000678",
+          "TOPICS-000677",
+          "TOPICS-002143",
+          "TOPICS-002467"
+        ],
+        "esDA_QueueDate": [
+          "2025-06-30T18:44:03.260+0200"
+        ],
+        "actions": [
+          "[{\"types\":[{\"typeOfAction\":\"DIGITAL-SME Digital SME Support Actions\",\"typeOfMGA\":[{\"id\":43140990,\"abbreviation\":\"DIGITAL-AG\",\"description\":\"DIGITAL Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094503,\"abbreviation\":\"Closed\",\"description\":\"Closed\"},\"plannedOpeningDate\":\"2024-02-29\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2024-05-29\"]}]"
+        ],
+        "allowPartnerSearch": [
+          "true"
+        ],
+        "budgetOverview": [
+          "{\"budgetYearsColumns\":[\"2024\"],\"budgetTopicActionMap\":{\"103835\":[{\"action\":\"DIGITAL-2024-AI-06-LANGUAGE-02 - DIGITAL-CSA DIGITAL Coordination and Support Actions\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2024\":\"4000000\"},\"plannedOpeningDate\":\"2024-02-29\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2024-05-29\"]}],\"103834\":[{\"action\":\"DIGITAL-2024-AI-06-LANGUAGE-01 - DIGITAL-SIMPLE DIGITAL Simple Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2024\":\"20000000\"},\"plannedOpeningDate\":\"2024-02-29\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2024-05-29\"]}],\"103837\":[{\"action\":\"DIGITAL-2024-AI-06-FINETUNE - DIGITAL-SME Digital SME Support Actions\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2024\":\"25000000\"},\"plannedOpeningDate\":\"2024-02-29\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2024-05-29\"]}],\"103836\":[{\"action\":\"DIGITAL-2024-AI-06-IMAGING - DIGITAL-SME Digital SME Support Actions\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2024\":\"5000000\"},\"plannedOpeningDate\":\"2024-02-29\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2024-05-29\"]}]}}"
+        ],
+        "startDate": [
+          "2024-02-29T00:00:00.000+0000"
+        ],
+        "deadlineModel": [
+          "single-stage"
+        ],
+        "specificObjective": [
+          "SO2"
+        ],
+        "supportInfo": [
+          "<p>For help related to this call, please contact us&#xa0;<a href=\"https://european-union.europa.eu/contact-eu/write-us_en\" target=\"_blank\">here</a></p>\r\n<p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq;grantAndTendertype=1;categories=p_submission_eval;programme=null;actions=;keyword=;period=null\">Funding &amp; Tenders Portal FAQ</a>&#xa0;\u2013 Submission of proposals.</p>\r\n<p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\">IT Helpdesk</a>&#xa0;\u2013 Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p>\r\n<p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\">Online Manual</a>&#xa0;\u2013 Step-by-step online guide through the Portal processes from proposal preparation and submission to reporting on your on-going project. Valid for all 2021-2027 programmes.</p>"
+        ],
+        "status": [
+          "31094503"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": []
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "50871369TOPICSen",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-2026-AI-PILOTING-10-SCREENING",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Apply AI: Piloting AI-based image screening in medical centres",
+      "weight": 29.006771,
+      "groupById": "2",
+      "content": "Apply AI: Piloting AI-based image screening in medical centres",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "75AB7C182955832823CC81240764EEA00E15FE77E5521D00AE4D2F5995E5391F",
+      "metadata": {
+        "latestInfos": [
+          "[]"
+        ],
+        "es_SortDate": [
+          "2026-04-21T00:00:00.000+0000"
+        ],
+        "sepTemplate": [
+          "<p>The submission system is planned to be opened on the date stated on the topic header.</p>"
+        ],
+        "keywords": [
+          "DIGITAL-2026-AI-PILOTING-10-SCREENING",
+          "DIGITAL-2026-AI-PILOTING-10",
+          "Artificial Intelligence & Decision support",
+          "Artificial intelligence",
+          "Artificial intelligence, intelligent systems, multi agent systems",
+          "Biomedical software",
+          "Cloud Services",
+          "Cloud, Edge and Virtualisation",
+          "Health and Ecosystem Services",
+          "Health care",
+          "Health data",
+          "Health information",
+          "Health sciences",
+          "Healthy lifestyle",
+          "Technological innovation",
+          "eHealth"
+        ],
+        "sortStatus": [
+          "2"
+        ],
+        "language": [
+          "en"
+        ],
+        "topicConditions": [
+          "<div class=\"eui-u-mt-l>\"><h4>Conditions</h4><div><h4>1. Admissibility conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p>described in section 5 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-ai-piloting-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-ai-piloting-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">.</a></p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p><p><br></br></p></div></div><div><h4>2. Eligible countries</h4><div class=\"eui-u-mt-s\"><p>described in section 6 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-ai-piloting-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>3. Other eligibility conditions</h4><div class=\"eui-u-mt-s\"><p>described in section 6 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-ai-piloting-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in section 7 of the<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-ai-piloting-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\"> </a><u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-ai-piloting-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>5a. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>described section 8 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-ai-piloting-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u> and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5b. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>described in section 9 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-ai-piloting-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in section 4 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-ai-piloting-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>described in section 10 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-ai-piloting-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Call document and annexes:</h4> <div class=\"eui-u-mt-s\"><p><strong><u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-ai-piloting-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Call document</a></u></strong></p><p><strong>Application form templates</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/temp-form/af/af_dep_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (DEP)</a> \u2014 the application form specific to this call is available in the Submission System</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/temp-form/af/ownership-control-declaration_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Ownership control declaration</a></p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/agr-contr/mga_dep_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">DEP MGA</a></p><p><br></br></p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://digital-strategy.ec.europa.eu/en/activities/work-programmes-digital\" rel=\"noopener noreferrer\" target=\"_blank\">DEP Work Programmes</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0694\" rel=\"noopener noreferrer\" target=\"_blank\">DEP Regulation 2021/964</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA \u2014 Annotated Model Grant Agreement</a>&#xa0;</p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+        ],
+        "title": [
+          "Apply AI: Piloting AI-based image screening in medical centres"
+        ],
+        "type": [
+          "1"
+        ],
+        "esST_checksum": [
+          "75AB7C182955832823CC81240764EEA00E15FE77E5521D00AE4D2F5995E5391F"
+        ],
+        "focusArea": [],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "typeOfMGAs": [
+          "43140990"
+        ],
+        "callIdentifier": [
+          "DIGITAL-2026-AI-PILOTING-10"
+        ],
+        "ccm2Id": [
+          "50871369"
+        ],
+        "callccm2Id": [
+          "50871398"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "50871369TOPICSen"
+        ],
+        "links": [
+          "[]"
+        ],
+        "callTitle": [
+          "AI Continent"
+        ],
+        "frameworkProgramme": [
+          "43152860"
+        ],
+        "descriptionByte": [
+          "<p class=\"topicdescriptionkind\">Expected Impact:</p>na<p class=\"topicdescriptionkind\">Expected Outcome:</p><p>Outcomes and deliverables</p><ul level=\"0\"><li>One or more proofs-of-concept of replicable, scalable cloud-based AI/GenAI systems for analysis of medical imaging data in a healthcare setting, with demonstration of the role of the clinicians in validating AI/GenAI findings and reports showcasing seamless integration of the system into clinical workflows.</li><li>Evidence-based analysis of (cost-)efficiency of the piloted solutions for healthcare systems for regulatory and HTA purposes.</li><li>Two or more events or workshops organised per year and per project for the European network of AI-powered advanced screening centres. The agenda should include lessons learned from the project activities, as well as other items relevant to the network. Participant satisfaction rates should be measured for the events and workshops.</li><li>Medical centres in the consortium joined the European network of AI-powered advanced screening centres under the Apply AI Strategy.</li><li>A plan for obtaining regulatory approval for application of the AI/GenAI solutions in real life scenarios and clinical settings. This includes the required risk management and compliance activities, as well as clinical evaluation plans and post-market clinical follow-up.</li><li>Detailed data protection and cybersecurity plan, with measures to secure sensitive health data, mitigate cybersecurity risks, and comply with EU legal and ethical frameworks.</li><li>Sustainability plan for the uptake of the systems across the EU.</li><li>Stakeholder engagement and dissemination report with measurable actions (KPIs).</li> </ul><p class=\"topicdescriptionkind\">Scope:</p><p>Each project awarded in this action should implement a scalable cloud-based AI/GenAI system running European trustworthy and safe AI/GenAI algorithms that were developed, trained and validated using very large sets of patient data. They should put in place a secure, privacy-preserving cloud environment required for the health data analysis tasks, with appropriate access and identification tools for authorised use only, and implement the whole system as described under this topic, seamlessly integrated in regular clinical workflows of the care settings involved. Interoperability and the need to communicate with the health IT infrastructure (e.g. the electronic health record (EHR) of the patient, Picture archiving and communication systems (PACS), Radiological Information Systems (RIS), etc.) need to be addressed.</p><p>The projects should demonstrate the integration and large-scale validation of cloud-based AI/GenAI systems, following a thorough assessment and testing over a large number of patient test cases in real healthcare settings. The proposers are expected to choose the types of health data, the AI/GenAI algorithms that are trustworthy and secure, and the medical use cases, with the focus disease areas being cancer and cardiovascular. The projects should perform technical and clinical validation of the systems, generating evidence on AI systems\u2019 performance and usability in different clinical settings. They shall use the AI systems for screening in clinical settings, perform local performance evaluation and post-deployment monitoring of the solutions, including evidence generation on cost-efficiency in view of regulatory requirements and health technology assessment (HTA). Whenever relevant, each project should deploy AI/GenAI solutions already tested and validated within the TEF for Health. </p>"
+        ],
+        "identifier": [
+          "DIGITAL-2026-AI-PILOTING-10-SCREENING"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "programmeDivision": [
+          "43152869"
+        ],
+        "crossCuttingPriorities": [],
+        "esDA_FirstIngestDate": [
+          "2026-02-16T12:15:02.424+0100"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "deadlineDate": [
+          "2026-10-01T00:00:00.000+0000"
+        ],
+        "esDA_IngestDate": [
+          "2026-02-16T12:15:02.424+0100"
+        ],
+        "typesOfAction": [
+          "DIGITAL Simple Grants"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-2026-AI-PILOTING-10-SCREENING"
+        ],
+        "es_Combine": [
+          "2"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-2026-AI-PILOTING-10-SCREENING"
+        ],
+        "tags": [
+          "Digital",
+          "Digital Europe",
+          "GenAI",
+          "Medical",
+          "Medical imaging devices"
+        ],
+        "cenTagsA": [
+          "TOPICS-064818",
+          "TOPICS-064819",
+          "TOPICS-064820",
+          "TOPICS-064821",
+          "TOPICS-003450",
+          "TOPICS-001275",
+          "TOPICS-038567",
+          "TOPICS-014837",
+          "TOPICS-005015",
+          "TOPICS-002467",
+          "TOPICS-002920",
+          "TOPICS-000678",
+          "TOPICS-001603",
+          "TOPICS-001884",
+          "TOPICS-000464",
+          "TOPICS-005279",
+          "TOPICS-000185",
+          "TOPICS-005278",
+          "TOPICS-002493",
+          "TOPICS-001196",
+          "TOPICS-005276",
+          "TOPICS-000677"
+        ],
+        "esDA_QueueDate": [
+          "2026-02-16T12:15:02.412+0100"
+        ],
+        "actions": [
+          "[{\"types\":[{\"typeOfAction\":\"DIGITAL-SIMPLE DIGITAL Simple Grants\",\"typeOfMGA\":[{\"id\":43140990,\"abbreviation\":\"DIGITAL-AG\",\"description\":\"DIGITAL Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094501,\"abbreviation\":\"Forthcoming\",\"description\":\"Forthcoming\"},\"plannedOpeningDate\":\"2026-04-21\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-10-01\"]}]"
+        ],
+        "allowPartnerSearch": [
+          "true"
+        ],
+        "budgetOverview": [
+          "{\"budgetYearsColumns\":[\"2027\"],\"budgetTopicActionMap\":{\"113940\":[{\"action\":\"DIGITAL-2026-AI-PILOTING-10-SCREENING - DIGITAL-SIMPLE DIGITAL Simple Grants\",\"expectedGrants\":2,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2027\":\"9000000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-01\"]}]}}"
+        ],
+        "startDate": [
+          "2026-04-21T00:00:00.000+0000"
+        ],
+        "deadlineModel": [
+          "single-stage"
+        ],
+        "specificObjective": [
+          "SO2"
+        ],
+        "supportInfo": [
+          "<p>For help related to this call, please contact <a href=\"mailto:CNECT-A6@EC.EUROPA.EU\" rel=\"noopener noreferrer\" target=\"_blank\">CNECT-A6@EC.EUROPA.EU</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?order=DESC&amp;pageNumber=1&amp;pageSize=10&amp;sortBy=publicationDate&amp;isExactMatch=true&amp;type=1&amp;grantCategories=p_submission_eval\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ \u2013 Submission of proposals</a>.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> \u2013 Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> \u2013 Step-by-step online guide through the Portal processes from proposal preparation and evaluation to reporting on your ongoing project. Valid for all 2021-2027 programmes.</p>"
+        ],
+        "status": [
+          "31094501"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": []
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "46775813DIGITALCoordinationandSupportActions1709164800000",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/DIGITAL-2024-AI-ACT-06-SANDBOX.json",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "AI regulatory sandboxes: EU-level coordination and support",
+      "weight": 28.25382,
+      "groupById": "3",
+      "content": "AI regulatory sandboxes: EU-level coordination and support",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "2B4B7EED54FBE150099DA3A86185D9C51897D0D49D4146B787B14B43DDF0C8D0",
+      "metadata": {
+        "latestInfos": [
+          "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2024-08-23T15:39:39.127\",\"content\":\"\\u003cp\\u003eFor information on the evaluations results of this call we invite you to consult the Flash call info (evaluation results) in the following \\u003ca href\\u003d\\\"https://ec.europa.eu/newsroom/dae/redirection/document/107799\\\" rel\\u003d\\\"noopener noreferrer\\\" target\\u003d\\\"_blank\\\"\\u003elink\\u003c/a\\u003e.\\u003c/p\\u003e\"},{\"approvalDate\":\"2024-02-29\",\"lastChangeDate\":\"2024-02-29T00:00:05.999\",\"content\":\"The submission session is now available for: DIGITAL-2024-AI-ACT-06-SANDBOX(DIGITAL-CSA), DIGITAL-2024-AI-ACT-06-INNOV(DIGITAL-GP), DIGITAL-2024-AI-ACT-06-TESTAI(DIGITAL-CSA)\"}]"
+        ],
+        "es_SortDate": [
+          "2024-02-29T00:00:00.000+0000"
+        ],
+        "sepTemplate": [
+          "<p>No submission system is open for this topic.</p>"
+        ],
+        "keywords": [
+          "DIGITAL-2024-AI-ACT-06-SANDBOX",
+          "DIGITAL-2024-AI-ACT-06",
+          "Artificial Intelligence & Decision support",
+          "Artificial intelligence",
+          "Artificial intelligence, intelligent systems, multi agent systems"
+        ],
+        "sortStatus": [
+          "3"
+        ],
+        "language": [
+          "en"
+        ],
+        "topicConditions": [
+          "<div class=\"eui-u-mt-l>\"><h4>Conditions</h4><div><h4> </h4><div class=\"eui-u-mt-s\"><p><b>Conditions<br>\r\n<br>\r\n</br></br></b></p>\r\n<p><b>1.&#xa0;</b><b>Admissibility conditions: </b>described in section 5 of the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2024/call-fiche_digital-2024-ai-act-06_en.pdf\" target=\"_blank\">call document</a><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2024/call-fiche_digital-2024-ai-act-06_en.pdf\" target=\"_blank\">&#xa0;</a></p><p><b>Proposal page limits and layout:</b>&#xa0;described in Part B of the Application Form available in the Submission System</p></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><p><b>2. Eligible countries:&#xa0;</b>described in section 6 of of the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2024/call-fiche_digital-2024-ai-act-06_en.pdf\" target=\"_blank\">call document</a></p></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><p><b>3. Other eligibility conditions:</b>&#xa0;described in section 6 of the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2024/call-fiche_digital-2024-ai-act-06_en.pdf\" target=\"_blank\">call document</a></p></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><p><b>4. Financial and operational capacity and exclusion:&#xa0;</b>described in&#xa0;section 7 of the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2024/call-fiche_digital-2024-ai-act-06_en.pdf\" target=\"_blank\">call document</a></p></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><ul>\r\n    <li><b>Submission and evaluation processes</b><b>:</b>&#xa0;described&#xa0;section 8 of the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2024/call-fiche_digital-2024-ai-act-06_en.pdf\" target=\"_blank\">call document</a> and the&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\">Online Manual</a></li>\r\n</ul></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><ul>\r\n    <li><b>Award criteria, scoring and thresholds:</b>&#xa0;described in section 9 of the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2024/call-fiche_digital-2024-ai-act-06_en.pdf\" target=\"_blank\">call document</a></li>\r\n</ul></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><ul>\r\n    <li><b>Indicative timeline for evaluation and grant agreement:&#xa0;</b>described in section 4 of the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2024/call-fiche_digital-2024-ai-act-06_en.pdf\" target=\"_blank\">call document</a></li>\r\n</ul></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><p><b>6</b><b>. Legal and financial set-up of the grants:&#xa0;</b>described&#xa0;in section 10 of the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2024/call-fiche_digital-2024-ai-act-06_en.pdf\" target=\"_blank\">call document</a></p></div></div></div><div class=\"eui-u-mt-l\"><h4> </h4> <div class=\"eui-u-mt-s\"> </div><h4> </h4> <div class=\"eui-u-mt-s\"><p><b>Documents<br>\r\n<br>\r\n</br></br></b>Call document is available <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2024/call-fiche_digital-2024-ai-act-06_en.pdf\" target=\"_blank\">here</a></p>\r\n<p>&#xa0;</p>\r\n<p>Standard application form \u2014 call-specific application form is available in the Submission System</p>\r\n<p>Detailed budget table -&#xa0;<i>available in the Submission System</i></p>\r\n<p>DIGITAL&#xa0;EUROPE&#xa0;PROGRAMME -&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/agr-contr/mga_dep_en.pdf\" target=\"_blank\">General MGA v1</a></p>\r\n<p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/guidance/classification-of-information-in-dep-projects_dep_en.pdf\">Guidance Classification of information in DIGITAL projects</a></p>\r\n<p>Guidelines on&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/how-to-complete-your-ethics-self-assessment_en.pdf\">How to Complete your Ethics Self-Assessment</a></p>\r\n<p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/guidance-participation-in-dep-he-edf-cef-dig-restricted-calls_dep-he-edf-cef-dig_en.pdf\">Guidance on participation in DEP - restricted calls&#xa0;</a></p>\r\n<p>&#xa0;</p></div><h4> </h4> <div class=\"eui-u-mt-s\"><p>&#xa0;</p>\r\n<p>Digital Europe <a href=\"https://ec.europa.eu/newsroom/dae/redirection/document/100740\" target=\"_blank\">Work Programme 2023-2024</a></p>\r\n<p>Digital Europe Programme&#xa0;<a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0694\" target=\"_blank\">Regulation 2021/694</a></p>\r\n<p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32018R1046&amp;qid=1535046024012\">EU Financial Regulation 2018/1046</a></p>\r\n<p>&#xa0;</p></div></div>"
+        ],
+        "title": [
+          "AI regulatory sandboxes: EU-level coordination and support"
+        ],
+        "type": [
+          "1"
+        ],
+        "esST_checksum": [
+          "2B4B7EED54FBE150099DA3A86185D9C51897D0D49D4146B787B14B43DDF0C8D0"
+        ],
+        "focusArea": [],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "typeOfMGAs": [
+          "43140990"
+        ],
+        "callIdentifier": [
+          "DIGITAL-2024-AI-ACT-06"
+        ],
+        "ccm2Id": [
+          "46775813"
+        ],
+        "callccm2Id": [
+          "46775953"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "46775813DIGITALCoordinationandSupportActions1709164800000"
+        ],
+        "links": [
+          "[]"
+        ],
+        "callTitle": [
+          "Cloud, data and artificial intelligence"
+        ],
+        "frameworkProgramme": [
+          "43152860"
+        ],
+        "descriptionByte": [
+          "<span class=\"topicdescriptionkind\">Expected Outcome:</span><p><strong>Deliverables</strong></p><ul level=\"0\"><li>Common processes and tools for the operation of AI regulatory sandboxes under the AI Act, and the testing and supervision of a cohorts of projects at EU level.</li><li>Common platform for sharing information, including a repository of all practices, lessons learnt and outcomes from the testing done in the sandbox.</li> </ul><span class=\"topicdescriptionkind\">Objective:</span><p>This topic aims at providing support and coordination at EU level for AI regulatory sandboxes established under the future AI Act, with a view to scaling up the corresponding activities once the AI Act is fully applicable. Depending on the outcome of the legislative process, the corresponding action should also contribute to the implementation at EU level of other tasks related to regulatory sandboxes as envisaged in the AI Act.</p><span class=\"topicdescriptionkind\">Scope:</span><p>The action to be supported under this topic will include the following tasks:</p><ul level=\"0\"><li>Supporting the creation and effective cross-border cooperation at EU level between national competent authorities establishing AI regulatory sandboxes as envisaged under the AI Act;</li><li>Developing common frameworks, processes and tools for supervision of AI projects in the regulatory sandboxes and providing technical and legal support to competent authorities and innovators for their implementation;</li><li>Organising the practical testing of draft guidelines, tools and processes (developed in the \u2018EU AI Innovation Accelerator preparatory action\u2019) and assisting providers of innovative AI systems across Europe selected to participate in sandboxes to comply with the AI Act with the involvement and under the supervision of national competent authorities responsible for the AI Act;</li><li>Analysing the experience accumulated in the national AI sandboxes with a view to updating the tools and processes tested by innovators and providing conclusions, good practices and lessons learnt for evidence-based regulatory learning and for the development of EU guidelines and other rules implementing the AI Act;</li><li>Creating a single EU information platform109 providing a one-stop-shop for all AI regulatory sandboxes, enabling the sharing of information and providing a central repository of the tools, knowledge and lessons learnt in the sandboxes.</li> </ul><p>The awarded proposal from this topic should collaborate as appropriate with the one of \u2018EU AI Innovation Accelerator preparatory action\u2019 to be supported under the topic proposed in section 2.3.7.1. In particular, it should rely on draft tools, metrics and guidelines developed under the \u2018EU AI Innovation Accelerator preparatory action\u2019, while the testing experience in the sandboxes should serve to test and update the deliverables under that action and complement these tools based on the learning experience in the sandboxes. The selection of the providers that can participate in the sandboxes will be based on the eligibility criteria to be defined in the AI Act implementing acts on regulatory sandboxes, but with a priority access for small and medium sized enterprises. All final materials, frameworks and tools developed and validated under this action will be made publicly available and may be used by any provider or user of AI systems. This action should build on the experience and the deliverables from pilot regulatory sandboxes. It should also work with relevant national hubs and initiatives and Member States, including those setting up or planning to set up AI regulatory sandboxes at national level or creating other supporting infrastructure and services to support compliance with the AI Act and accelerate innovation. To build on synergies with other initiatives supported by the EU, this action should establish contacts with TEF, the AI-on-Demand platform, data spaces, EDIHs and EDICs focused on AI in order to work out which existing resources can be offered jointly to AI innovators and which resources would have to be built in future. Close cooperation should also be pursued with international and European Standardisation Organisations (in particular CEN and CENELEC) to take into account progress in the development of AI standards and use them as a basis for the development of the action. Depending on the outcome of the legislative process, other tasks related to sandboxes and envisaged in the AI Act might also have to be addressed under this action.</p>"
+        ],
+        "identifier": [
+          "DIGITAL-2024-AI-ACT-06-SANDBOX"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "programmeDivision": [
+          "43152869"
+        ],
+        "crossCuttingPriorities": [
+          "AI",
+          "DigitalAgenda"
+        ],
+        "esDA_FirstIngestDate": [
+          "2024-11-22T11:10:21.982+0100"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "deadlineDate": [
+          "2024-05-29T00:00:00.000+0000"
+        ],
+        "esDA_IngestDate": [
+          "2025-06-30T18:43:48.457+0200"
+        ],
+        "typesOfAction": [
+          "DIGITAL Coordination and Support Actions"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/DIGITAL-2024-AI-ACT-06-SANDBOX.json"
+        ],
+        "es_Combine": [
+          "3"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/DIGITAL-2024-AI-ACT-06-SANDBOX.json"
+        ],
+        "tags": [
+          "AI Act",
+          "regulatory sandboxes"
+        ],
+        "cenTagsA": [
+          "TOPICS-043761",
+          "TOPICS-043762",
+          "TOPICS-043763",
+          "TOPICS-004637",
+          "TOPICS-043764",
+          "TOPICS-028872",
+          "TOPICS-035479",
+          "TOPICS-000678",
+          "TOPICS-000677",
+          "TOPICS-001884"
+        ],
+        "esDA_QueueDate": [
+          "2025-06-30T18:43:48.445+0200"
+        ],
+        "actions": [
+          "[{\"types\":[{\"typeOfAction\":\"DIGITAL-CSA DIGITAL Coordination and Support Actions\",\"typeOfMGA\":[{\"id\":43140990,\"abbreviation\":\"DIGITAL-AG\",\"description\":\"DIGITAL Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094503,\"abbreviation\":\"Closed\",\"description\":\"Closed\"},\"plannedOpeningDate\":\"2024-02-29\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2024-05-29\"]}]"
+        ],
+        "allowPartnerSearch": [
+          "true"
+        ],
+        "budgetOverview": [
+          "{\"budgetYearsColumns\":[\"2024\"],\"budgetTopicActionMap\":{\"103825\":[{\"action\":\"DIGITAL-2024-AI-ACT-06-SANDBOX - DIGITAL-CSA DIGITAL Coordination and Support Actions\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2024\":\"2000000\"},\"plannedOpeningDate\":\"2024-02-29\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2024-05-29\"]}],\"103827\":[{\"action\":\"DIGITAL-2024-AI-ACT-06-INNOV - DIGITAL-GP DIGITAL Grants for Procurement\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2024\":\"6000000\"},\"plannedOpeningDate\":\"2024-02-29\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2024-05-29\"]}],\"103826\":[{\"action\":\"DIGITAL-2024-AI-ACT-06-TESTAI - DIGITAL-CSA DIGITAL Coordination and Support Actions\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2024\":\"1500000\"},\"plannedOpeningDate\":\"2024-02-29\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2024-05-29\"]}]}}"
+        ],
+        "startDate": [
+          "2024-02-29T00:00:00.000+0000"
+        ],
+        "deadlineModel": [
+          "single-stage"
+        ],
+        "specificObjective": [
+          "SO2"
+        ],
+        "supportInfo": [
+          "<p>For help related to this call, please contact us <a href=\"https://european-union.europa.eu/contact-eu/write-us_en\" rel=\"noopener noreferrer\" target=\"_blank\">here</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq;grantAndTendertype=1;categories=p_submission_eval;programme=null;actions=;keyword=;period=null\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ</a>&#xa0;\u2013 Submission of proposals.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a>&#xa0;\u2013 Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>&#xa0;\u2013 Step-by-step online guide through the Portal processes from proposal preparation and submission to reporting on your on-going project. Valid for all 2021-2027 programmes.</p>"
+        ],
+        "status": [
+          "31094503"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": []
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "46775831DIGITALCoordinationandSupportActions1709164800000",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/DIGITAL-2024-AI-ACT-06-TESTAI.json",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Pilot action for the establishment of future Union Testing Facilities in AI",
+      "weight": 28.090998,
+      "groupById": "3",
+      "content": "Pilot action for the establishment of future Union Testing Facilities in AI",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "44263FA796C7993DD48FB24475C86B4F6E1DEA2E6DB2B8932C7C42BFDCA21FE1",
+      "metadata": {
+        "latestInfos": [
+          "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2024-08-23T15:39:39.132\",\"content\":\"\\u003cp\\u003eFor information on the evaluations results of this call we invite you to consult the Flash call info (evaluation results) in the following \\u003ca href\\u003d\\\"https://ec.europa.eu/newsroom/dae/redirection/document/107799\\\" rel\\u003d\\\"noopener noreferrer\\\" target\\u003d\\\"_blank\\\"\\u003elink\\u003c/a\\u003e.\\u003c/p\\u003e\"},{\"approvalDate\":\"2024-02-29\",\"lastChangeDate\":\"2024-02-29T00:00:05.999\",\"content\":\"The submission session is now available for: DIGITAL-2024-AI-ACT-06-SANDBOX(DIGITAL-CSA), DIGITAL-2024-AI-ACT-06-INNOV(DIGITAL-GP), DIGITAL-2024-AI-ACT-06-TESTAI(DIGITAL-CSA)\"}]"
+        ],
+        "es_SortDate": [
+          "2024-02-29T00:00:00.000+0000"
+        ],
+        "sepTemplate": [
+          "<p>No submission system is open for this topic.</p>"
+        ],
+        "keywords": [
+          "DIGITAL-2024-AI-ACT-06-TESTAI",
+          "DIGITAL-2024-AI-ACT-06",
+          "Artificial Intelligence & Decision support",
+          "Artificial intelligence",
+          "Artificial intelligence, intelligent systems, multi agent systems",
+          "Standards"
+        ],
+        "sortStatus": [
+          "3"
+        ],
+        "language": [
+          "en"
+        ],
+        "topicConditions": [
+          "<div class=\"eui-u-mt-l>\"><h4>Conditions</h4><div><h4> </h4><div class=\"eui-u-mt-s\"><p><b>Conditions<br>\r\n<br>\r\n</br></br></b></p>\r\n<p><b>1.&#xa0;</b><b>Admissibility conditions: </b>described in section 5 of the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2024/call-fiche_digital-2024-ai-act-06_en.pdf\" target=\"_blank\">call document</a><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2024/call-fiche_digital-2024-ai-act-06_en.pdf\" target=\"_blank\">&#xa0;</a></p><p><b>Proposal page limits and layout:</b>&#xa0;described in Part B of the Application Form available in the Submission System</p></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><p><b>2. Eligible countries:&#xa0;</b>described in section 6 of of the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2024/call-fiche_digital-2024-ai-act-06_en.pdf\" target=\"_blank\">call document</a></p></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><p><b>3. Other eligibility conditions:</b>&#xa0;described in section 6 of the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2024/call-fiche_digital-2024-ai-act-06_en.pdf\" target=\"_blank\">call document</a></p></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><p><b>4. Financial and operational capacity and exclusion:&#xa0;</b>described in&#xa0;section 7 of the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2024/call-fiche_digital-2024-ai-act-06_en.pdf\" target=\"_blank\">call document</a></p></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><ul>\r\n    <li><b>Submission and evaluation processes</b><b>:</b>&#xa0;described&#xa0;section 8 of the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2024/call-fiche_digital-2024-ai-act-06_en.pdf\" target=\"_blank\">call document</a> and the&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\">Online Manual</a></li>\r\n</ul></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><ul>\r\n    <li><b>Award criteria, scoring and thresholds:</b>&#xa0;described in section 9 of the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2024/call-fiche_digital-2024-ai-act-06_en.pdf\" target=\"_blank\">call document</a></li>\r\n</ul></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><ul>\r\n    <li><b>Indicative timeline for evaluation and grant agreement:&#xa0;</b>described in section 4 of the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2024/call-fiche_digital-2024-ai-act-06_en.pdf\" target=\"_blank\">call document</a></li>\r\n</ul></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><p><b>6</b><b>. Legal and financial set-up of the grants:&#xa0;</b>described&#xa0;in section 10 of the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2024/call-fiche_digital-2024-ai-act-06_en.pdf\" target=\"_blank\">call document</a></p></div></div></div><div class=\"eui-u-mt-l\"><h4> </h4> <div class=\"eui-u-mt-s\"> </div><h4> </h4> <div class=\"eui-u-mt-s\"><p><b>Documents<br>\r\n<br>\r\n</br></br></b>Call document is available <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2024/call-fiche_digital-2024-ai-act-06_en.pdf\" target=\"_blank\">here</a></p>\r\n<p>&#xa0;</p>\r\n<p>Standard application form \u2014 call-specific application form is available in the Submission System</p>\r\n<p>Detailed budget table -&#xa0;<i>available in the Submission System</i></p>\r\n<p>DIGITAL&#xa0;EUROPE&#xa0;PROGRAMME -&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/agr-contr/mga_dep_en.pdf\" target=\"_blank\">General MGA v1</a></p>\r\n<p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/guidance/classification-of-information-in-dep-projects_dep_en.pdf\">Guidance Classification of information in DIGITAL projects</a></p>\r\n<p>Guidelines on&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/how-to-complete-your-ethics-self-assessment_en.pdf\">How to Complete your Ethics Self-Assessment</a></p>\r\n<p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/guidance-participation-in-dep-he-edf-cef-dig-restricted-calls_dep-he-edf-cef-dig_en.pdf\">Guidance on participation in DEP - restricted calls&#xa0;</a></p>\r\n<p>&#xa0;</p></div><h4> </h4> <div class=\"eui-u-mt-s\"><p>&#xa0;</p>\r\n<p>Digital Europe <a href=\"https://ec.europa.eu/newsroom/dae/redirection/document/100740\" target=\"_blank\">Work Programme 2023-2024</a></p>\r\n<p>Digital Europe Programme&#xa0;<a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0694\" target=\"_blank\">Regulation 2021/694</a></p>\r\n<p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32018R1046&amp;qid=1535046024012\">EU Financial Regulation 2018/1046</a></p>\r\n<p>&#xa0;</p></div></div>"
+        ],
+        "title": [
+          "Pilot action for the establishment of future Union Testing Facilities in AI"
+        ],
+        "type": [
+          "1"
+        ],
+        "esST_checksum": [
+          "44263FA796C7993DD48FB24475C86B4F6E1DEA2E6DB2B8932C7C42BFDCA21FE1"
+        ],
+        "focusArea": [],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "typeOfMGAs": [
+          "43140990"
+        ],
+        "callIdentifier": [
+          "DIGITAL-2024-AI-ACT-06"
+        ],
+        "ccm2Id": [
+          "46775831"
+        ],
+        "callccm2Id": [
+          "46775953"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "46775831DIGITALCoordinationandSupportActions1709164800000"
+        ],
+        "links": [
+          "[]"
+        ],
+        "callTitle": [
+          "Cloud, data and artificial intelligence"
+        ],
+        "frameworkProgramme": [
+          "43152860"
+        ],
+        "descriptionByte": [
+          "<span class=\"topicdescriptionkind\">Expected Outcome:</span><p><strong>Deliverables</strong></p><p>The main deliverables of the action should be:</p><ul level=\"0\"><li>a tested and validated suite of testing procedures and tools to be used in a future full-scale UTF;</li><li>training material for market surveillance authorities; </li><li>recommendations for the long-term establishment of union testing facilities on AI.</li> </ul><span class=\"topicdescriptionkind\">Objective:</span><p>In the context of the implementation of the AI Act, it is envisaged to establish Union Testing Facilities (UTF) in the area of artificial intelligence to support Member States authorities in the ex-post verification of the compliance of AI systems placed on the market with AI Act requirements whenever deemed necessary. Such Union Testing Facilities shall also provide independent technical or scientific advice at the request of the AI Board or market surveillance authorities. The main objective of this action is to launch a pilot project to prepare the implementation of the concept of testing facility for AI and define the requirements for a full-scale operation of the testing facility (after the pilot phase).</p><span class=\"topicdescriptionkind\">Scope:</span><p>On the basis of the requirements of the EU Regulation on Artificial Intelligence (\u2018AI Act\u2019) when adopted and the ongoing work aiming at developing corresponding standards (further to the standardisation request issued by the Commission and addressed to CEN-CENELEC), the action should perform the following tasks:</p><ul level=\"0\"><li>developing an approach to the implementation of the UTF concept for AI systems, including notably the approach to the testing of the compliance of AI systems with the requirements introduced by the AI Act, as well as the expertise and infrastructure requirements of a future AI UTF;</li><li>carrying out preliminary testing of AI systems (to validate the proposed approach);</li><li>providing independent technical or scientific advice at the request of the Commission, the AI Board, or Member States market surveillance authorities;</li><li>organising workshops and other activities fostering collaboration and exchange of information between Member States market surveillance authorities in preparation of the implementation of the AI Act;</li><li>conducting initial and further training courses for the benefit of the staff of market surveillance authorities of Member States and the Commission,</li><li> in the context of activities of standardization organizations, including notably CEN/CENELEC JTC 21, contributing to the development of standards to verify and validate AI systems against the AI Act\u2019s requirements for High-Risk scenarios, whether stand alone or integrated in regulated products and services.</li> </ul>"
+        ],
+        "identifier": [
+          "DIGITAL-2024-AI-ACT-06-TESTAI"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "programmeDivision": [
+          "43152869"
+        ],
+        "crossCuttingPriorities": [
+          "AI",
+          "DigitalAgenda"
+        ],
+        "esDA_FirstIngestDate": [
+          "2024-11-22T11:10:23.208+0100"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "deadlineDate": [
+          "2024-05-29T00:00:00.000+0000"
+        ],
+        "esDA_IngestDate": [
+          "2025-06-30T18:43:49.720+0200"
+        ],
+        "typesOfAction": [
+          "DIGITAL Coordination and Support Actions"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/DIGITAL-2024-AI-ACT-06-TESTAI.json"
+        ],
+        "es_Combine": [
+          "3"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/DIGITAL-2024-AI-ACT-06-TESTAI.json"
+        ],
+        "tags": [
+          "AI Act",
+          "AI system"
+        ],
+        "cenTagsA": [
+          "TOPICS-043897",
+          "TOPICS-014925",
+          "TOPICS-043898",
+          "TOPICS-043899",
+          "TOPICS-043900",
+          "TOPICS-043901",
+          "TOPICS-043902",
+          "TOPICS-043903",
+          "TOPICS-043904",
+          "TOPICS-028872",
+          "TOPICS-000678",
+          "TOPICS-000677",
+          "TOPICS-001884",
+          "TOPICS-003807"
+        ],
+        "esDA_QueueDate": [
+          "2025-06-30T18:43:49.710+0200"
+        ],
+        "actions": [
+          "[{\"types\":[{\"typeOfAction\":\"DIGITAL-CSA DIGITAL Coordination and Support Actions\",\"typeOfMGA\":[{\"id\":43140990,\"abbreviation\":\"DIGITAL-AG\",\"description\":\"DIGITAL Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094503,\"abbreviation\":\"Closed\",\"description\":\"Closed\"},\"plannedOpeningDate\":\"2024-02-29\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2024-05-29\"]}]"
+        ],
+        "allowPartnerSearch": [
+          "true"
+        ],
+        "budgetOverview": [
+          "{\"budgetYearsColumns\":[\"2024\"],\"budgetTopicActionMap\":{\"103825\":[{\"action\":\"DIGITAL-2024-AI-ACT-06-SANDBOX - DIGITAL-CSA DIGITAL Coordination and Support Actions\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2024\":\"2000000\"},\"plannedOpeningDate\":\"2024-02-29\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2024-05-29\"]}],\"103827\":[{\"action\":\"DIGITAL-2024-AI-ACT-06-INNOV - DIGITAL-GP DIGITAL Grants for Procurement\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2024\":\"6000000\"},\"plannedOpeningDate\":\"2024-02-29\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2024-05-29\"]}],\"103826\":[{\"action\":\"DIGITAL-2024-AI-ACT-06-TESTAI - DIGITAL-CSA DIGITAL Coordination and Support Actions\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2024\":\"1500000\"},\"plannedOpeningDate\":\"2024-02-29\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2024-05-29\"]}]}}"
+        ],
+        "startDate": [
+          "2024-02-29T00:00:00.000+0000"
+        ],
+        "deadlineModel": [
+          "single-stage"
+        ],
+        "specificObjective": [
+          "SO2"
+        ],
+        "supportInfo": [
+          "<p>For help related to this call, please contact us <a href=\"https://european-union.europa.eu/contact-eu/write-us_en\" rel=\"noopener noreferrer\" target=\"_blank\">here</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq;grantAndTendertype=1;categories=p_submission_eval;programme=null;actions=;keyword=;period=null\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ</a>&#xa0;\u2013 Submission of proposals.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a>&#xa0;\u2013 Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>&#xa0;\u2013 Step-by-step online guide through the Portal processes from proposal preparation and submission to reporting on your on-going project. Valid for all 2021-2027 programmes.</p>"
+        ],
+        "status": [
+          "31094503"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": []
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "46029871DIGITALSimpleGrants1683763200000",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/DIGITAL-2023-CLOUD-AI-04-ICU-DATA.json",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Federated European Infrastructure for intensive care units' (ICU) data",
+      "weight": 27.731852,
+      "groupById": "3",
+      "content": "Federated European Infrastructure for intensive care units' (ICU) data",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "30D24D41881931BAED8E89018C0558096EDE8A5BEB8F0BC4F15EA508AFAFEAFA",
+      "metadata": {
+        "latestInfos": [
+          "[{\"approvalDate\":\"2024-04-18\",\"lastChangeDate\":\"2024-04-18T17:28:29.759\",\"content\":\"\\u003cp\\u003eThe evaluation results of this call can be consulted in the following \\u003ca href\\u003d\\\"https://ec.europa.eu/newsroom/dae/redirection/document/104470 \\\" target\\u003d\\\"_blank\\\"\\u003elink\\u003c/a\\u003e.\\u003c/p\\u003e\"},{\"approvalDate\":\"2023-08-03\",\"lastChangeDate\":\"2023-08-03T10:29:37.429\",\"content\":\"\\u003cp\\u003ePlease note that the deadline date for this call has been postponed to 22/11/2023\\u0026#xa0;\\u003c/p\\u003e\"},{\"approvalDate\":\"2023-08-03\",\"lastChangeDate\":\"2023-08-03T10:29:37.350\",\"content\":\"\\u003cp\\u003e\\u0026#xa0;Please note that the deadline date for this topic has been postponed to 22/11/2023\\u0026#xa0;\\u003c/p\\u003e\"},{\"approvalDate\":\"2023-08-03\",\"lastChangeDate\":\"2023-08-03T09:55:25.779\",\"content\":\"The submission session is now available for: DIGITAL-2023-CLOUD-AI-04-GENOME(DIGITAL-SIMPLE), DIGITAL-2023-CLOUD-AI-04-IPCEI-EXPLOIT(DIGITAL-CSA), DIGITAL-2023-CLOUD-AI-04-AEROSEC(DIGITAL-SIMPLE), DIGITAL-2023-CLOUD-AI-04-COORDINATEF(DIGITAL-CSA), DIGITAL-2023-CLOUD-AI-04-ICU-DATA(DIGITAL-SIMPLE), DIGITAL-2023-CLOUD-AI-04-DEVELOPCITI(DIGITAL-SIMPLE)\"},{\"approvalDate\":\"2023-07-27\",\"lastChangeDate\":\"2023-07-27T11:01:25.483\",\"content\":\"The submission session is now available for: DIGITAL-2023-CLOUD-AI-04-GENOME(DIGITAL-SIMPLE), DIGITAL-2023-CLOUD-AI-04-IPCEI-EXPLOIT(DIGITAL-CSA), DIGITAL-2023-CLOUD-AI-04-AEROSEC(DIGITAL-SIMPLE), DIGITAL-2023-CLOUD-AI-04-COORDINATEF(DIGITAL-CSA), DIGITAL-2023-CLOUD-AI-04-ICU-DATA(DIGITAL-SIMPLE), DIGITAL-2023-CLOUD-AI-04-DEVELOPCITI(DIGITAL-SIMPLE)\"},{\"approvalDate\":\"2023-07-26\",\"lastChangeDate\":\"2023-07-26T12:26:41.922\",\"content\":\"The submission session is now available for: DIGITAL-2023-CLOUD-AI-04-GENOME(DIGITAL-SIMPLE), DIGITAL-2023-CLOUD-AI-04-IPCEI-EXPLOIT(DIGITAL-CSA), DIGITAL-2023-CLOUD-AI-04-AEROSEC(DIGITAL-SIMPLE), DIGITAL-2023-CLOUD-AI-04-COORDINATEF(DIGITAL-CSA), DIGITAL-2023-CLOUD-AI-04-ICU-DATA(DIGITAL-SIMPLE), DIGITAL-2023-CLOUD-AI-04-DEVELOPCITI(DIGITAL-SIMPLE)\"},{\"approvalDate\":\"2023-05-11\",\"lastChangeDate\":\"2023-05-11T00:00:13.653\",\"content\":\"The submission session is now available for: DIGITAL-2023-CLOUD-AI-04-GENOME(DIGITAL-SIMPLE), DIGITAL-2023-CLOUD-AI-04-IPCEI-EXPLOIT(DIGITAL-CSA), DIGITAL-2023-CLOUD-AI-04-AEROSEC(DIGITAL-SIMPLE), DIGITAL-2023-CLOUD-AI-04-COORDINATEF(DIGITAL-CSA), DIGITAL-2023-CLOUD-AI-04-ICU-DATA(DIGITAL-SIMPLE), DIGITAL-2023-CLOUD-AI-04-DEVELOPCITI(DIGITAL-SIMPLE)\"}]"
+        ],
+        "es_SortDate": [
+          "2023-05-11T00:00:00.000+0000"
+        ],
+        "sepTemplate": [
+          "<p>No submission system is open for this topic.</p>"
+        ],
+        "keywords": [
+          "DIGITAL-2023-CLOUD-AI-04-ICU-DATA",
+          "DIGITAL-2023-CLOUD-AI-04",
+          "Artificial intelligence",
+          "Artificial intelligence, intelligent systems, multi agent systems",
+          "Biobanks",
+          "Biomedical software",
+          "Cloud computing",
+          "Data curation",
+          "Health data",
+          "Health information",
+          "High-performance computing (HPC)",
+          "eHealth"
+        ],
+        "sortStatus": [
+          "3"
+        ],
+        "language": [
+          "en"
+        ],
+        "topicConditions": [
+          "<div class=\"eui-u-mt-l>\"><h4>Conditions</h4><div><h4> </h4><div class=\"eui-u-mt-s\"><p><b>Conditions<br>\r\n<br>\r\n</br></br></b></p>\r\n<p><b>1.&#xa0;</b><b>Admissibility conditions: </b>described in section 5 of the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2023/call-fiche_digital-2023-cloud-ai-04_en.pdf\" target=\"_blank\">call document</a><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2023/call-fiche_digital-2023-cloud-ai-04_en.pdf\" target=\"_blank\">&#xa0;</a></p><p><b>Proposal page limits and layout:</b>&#xa0;described in Part B of the Application Form available in the Submission System</p></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><p><b>2. Eligible countries:&#xa0;</b>described in section 6 of of the&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2023/call-fiche_digital-2023-cloud-ai-04_en.pdf\" target=\"_blank\">call document</a><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2023/call-fiche_digital-2023-cloud-ai-04_en.pdf\" target=\"_blank\">&#xa0;</a></p></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><p><b>3. Other eligibility conditions:</b>&#xa0;described in section 6 of the&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2023/call-fiche_digital-2023-cloud-ai-04_en.pdf\" target=\"_blank\">call document</a><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2023/call-fiche_digital-2023-cloud-ai-04_en.pdf\" target=\"_blank\">&#xa0;</a></p></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><p><b>4. Financial and operational capacity and exclusion:&#xa0;</b>described in&#xa0;section 7 of the&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2023/call-fiche_digital-2023-cloud-ai-04_en.pdf\" target=\"_blank\">call document</a><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2023/call-fiche_digital-2023-cloud-ai-04_en.pdf\" target=\"_blank\">&#xa0;</a></p></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><ul>\r\n    <li><b>Submission and evaluation processes</b><b>:</b>&#xa0;described&#xa0;section 8 of the&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2023/call-fiche_digital-2023-cloud-ai-04_en.pdf\" target=\"_blank\">call document</a><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2023/call-fiche_digital-2023-cloud-ai-04_en.pdf\" target=\"_blank\">&#xa0;</a>&#xa0;and the&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\">Online Manual</a></li>\r\n</ul></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><ul>\r\n    <li><b>Award criteria, scoring and thresholds:</b>&#xa0;described in section 9 of the&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2023/call-fiche_digital-2023-cloud-ai-04_en.pdf\" target=\"_blank\">call document</a><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2023/call-fiche_digital-2023-cloud-ai-04_en.pdf\" target=\"_blank\">&#xa0;</a></li>\r\n</ul></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><ul>\r\n    <li><b>Indicative timeline for evaluation and grant agreement:&#xa0;</b>described in section 4 of the&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2023/call-fiche_digital-2023-cloud-ai-04_en.pdf\" target=\"_blank\">call document</a><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2023/call-fiche_digital-2023-cloud-ai-04_en.pdf\" target=\"_blank\">&#xa0;</a></li>\r\n</ul></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><p><b>6</b><b>. Legal and financial set-up of the grants:&#xa0;</b>described&#xa0;in section 10 of the&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2023/call-fiche_digital-2023-cloud-ai-04_en.pdf\" target=\"_blank\">call document</a><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2023/call-fiche_digital-2023-cloud-ai-04_en.pdf\" target=\"_blank\">&#xa0;</a></p></div></div></div><div class=\"eui-u-mt-l\"><h4> </h4> <div class=\"eui-u-mt-s\"> </div><h4> </h4> <div class=\"eui-u-mt-s\"><p><b>Documents</b></p>\r\n<p>Call document is accessible&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2023/call-fiche_digital-2023-cloud-ai-04_en.pdf\" target=\"_blank\">here</a></p>\r\n<p>Standard application form \u2014 call-specific application form is available in the Submission System</p>\r\n<p>Detailed budget table -&#xa0;<i>available in the Submission System</i></p>\r\n<p>DIGITAL&#xa0;EUROPE&#xa0;PROGRAMME -&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/agr-contr/mga_dep_en.pdf\" target=\"_blank\">General MGA v1</a></p>\r\n<p>&#xa0;</p>\r\n<p></p></div><h4> </h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/guidance/classification-of-information-in-dep-projects_dep_en.pdf\">Guidance Classification of information in DIGITAL projects</a></p>\r\n<p>Guidelines on&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/how-to-complete-your-ethics-self-assessment_en.pdf\">How to Complete your Ethics Self-Assessment</a></p>\r\n<p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/guidance-participation-in-dep-he-edf-cef-dig-restricted-calls_dep-he-edf-cef-dig_en.pdf\">Guidance on participation in DEP - restricted calls&#xa0;</a></p>\r\n<p>Digital Europe&#xa0;<a href=\"https://ec.europa.eu/newsroom/dae/redirection/document/94609\" target=\"_blank\">Work Programme 2023-2024</a></p>\r\n<p>Digital Europe Programme&#xa0;<a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0694\" target=\"_blank\">Regulation 2021/694</a></p>\r\n<p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32018R1046&amp;qid=1535046024012\">EU Financial Regulation 2018/1046</a></p>\r\n<p>&#xa0;</p></div></div>"
+        ],
+        "title": [
+          "Federated European Infrastructure for intensive care units' (ICU) data"
+        ],
+        "type": [
+          "1"
+        ],
+        "esST_checksum": [
+          "30D24D41881931BAED8E89018C0558096EDE8A5BEB8F0BC4F15EA508AFAFEAFA"
+        ],
+        "focusArea": [],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "typeOfMGAs": [
+          "43140990"
+        ],
+        "callIdentifier": [
+          "DIGITAL-2023-CLOUD-AI-04"
+        ],
+        "ccm2Id": [
+          "46029871"
+        ],
+        "callccm2Id": [
+          "46030036"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "46029871DIGITALSimpleGrants1683763200000"
+        ],
+        "links": [
+          "[]"
+        ],
+        "callTitle": [
+          "Cloud, Data and Artificial Intelligence"
+        ],
+        "frameworkProgramme": [
+          "43152860"
+        ],
+        "descriptionByte": [
+          "<span class=\"topicdescriptionkind\">Expected Outcome:</span><ul level=\"0\"><li>Deployment of an interoperable and secure federated infrastructure for trusted ICU datasets in the EU, and linked to AI resources, with established interoperable links to other federated European data infrastructures, such as on cancer-imaging and genomics.</li><li>Secure and interoperable platform for aggregation of ICU datasets for secondary analysis and development of toolsets on relevant datasets for different treatment types useful for developing clinically relevant AI algorithms for specific use cases, including test and training data sets (\u201catlas\u201d of anonymized Acute Care cases);</li><li>Computational modelling tools for individual ICU patient patho-physiology simulation and analysis using ICU related clinical information (including decision-support tools), clinical consultation, collaboration and monitoring, that are fully interoperable.</li><li>Platform and mechanisms to exchange best clinical practice and adapted analysis and training datasets, also in case of an emerging health threat event, such as a pandemic.</li><li>User Interface front-end module or system at the workforce level operational in minimum four EU languages. Design development in co-creation with the workforce with demonstrated improvement of provision of care: processes, documentation, quality control including new, adapted or extended ICU data sources including annotation, voice recognition, integrated datasets.</li><li>A sustainable operational coordination and governance structure, open to the involvement of new stakeholders, including capacity building measures necessary to ensure the establishment, sustainable operation and successful uptake of the infrastructure with the ultimate aim to establish an entity under European law.</li><li>A business model including an uptake strategy explaining the motivation and incentives for all stakeholders at the different levels (regional, national, European, global) to support the data infrastructure towards its sustainability, including data controllers, data users, service providers, healthcare workforce, systems and public authorities at large and taking into account the role of SMEs in the deployment and the value chain;</li><li>A training and skills programme supporting the interdisciplinary nature of the subject matter and enabling the sustainable development, integration and use with a strong view to innovation, provision of citizen-centred health and a better quality of life for citizens and society.</li> </ul><span class=\"topicdescriptionkind\">Objective:</span><p>The action will establish and deploy a pan-European federated infrastructure for Intensive Care Units\u2019 (ICU) data combined with governance mechanisms allowing secure cross-border access to ICU datasets. The infrastructure shall primarily address data from acute care, including data generated from physiological monitors, laboratory investigations, imaging, clinical examination and examination protocols, and therapeutics as well as from emerging omics technologies used during the delivery of care. It shall be used by clinicians, researchers and innovators with the ultimate aim of more precise, faster and more effective clinical decision-making, diagnostics, treatments and predictive medicine. This infrastructure shall allow for both observational and interventional research and innovation to occur at pan-European level, also in preparation for possible future pandemics. </p><p>The ICU data infrastructure shall be supported by advanced corresponding IT tools and capacities in terms of data capture, processing, analysis and visualisation, with inherent interoperability and connectivity, enabling secure access to and distributed analysis of datasets, including AI use. In addition, it should support the exchange of best practices with a fast-track approach for addressing emerging need, such as in case of a pandemic. Finally, it shall be supported by a corresponding package for digital skills training and education as fit for the purpose for this scope.</p><span class=\"topicdescriptionkind\">Scope:</span><p>The awarded action will support the deployment of the infrastructure needed to link and explore fragmented European databases of Intensive Care Units on acute care and telemedicine, complemented by a solid governance and a clear and sustainable business model for gathering data, models and best practice, and its exploitation by public and private organisations towards clear benefits for health communities and society. It will provide a harmonised approach for accessing acute care-related data and linking it with other health data sources enabling data discovery and re-use for researchers, innovators, clinicians, as well as AI and data tool developers. The action should contribute to supporting decision-making and improving patient care in the ICUs, through better short-term prediction and earlier identification of critical clinical status of patients, including for infectious diseases. It will also facilitate chronic and inherent risk factor identification, including for cancer. The action shall also establish a basis for data intensive computational model-based tools for decision support and risk prevention, towards a \u201cvirtual twin of an ICU patient\u201d. </p><p>The action shall address the interoperability requirements so that communication and exchange of data and information within and between ICUs is fully enabled. The proposal shall identify flexible common data models, core sets of standardized data elements and anonymisation strategies, and be in full compliance with the principles of GDPR, patient privacy, as well as accordance with the FAIR principles. The work shall be based on common data models, interoperability mechanisms, intra- and inter-EU national collaborative exchange of data and knowledge including teleconsultations and synoptic near real-time sharing of clinical data to account for the urgency to treat within this medical discipline. The action shall set up a federated infrastructure of ICU data in Europe which would facilitate the development of short-term predictive models, better decision support tools and model (incl. AI) -based risk prevention tools helping intensivists in their work.</p><p>The action is expected to engage with ICU centres and relevant stakeholders in all EU Member States and regions with a view to increasing the representativeness of the ICU data sources vis-\u00e0-vis the European population, types of diseases covered, and sufficient quantity and quality of data for research and innovation. The action shall promote the effective implementation and evaluation of data-driven systems in Intensive Care. Implementation should be ICU practitioner-centred and designed according to the needs of users, notably the health workforce providing the care in practical terms and taking into account continuity of care. Incentives for use must be considered and added value demonstrated in terms of process facilitation or innovation and better outcomes.</p><p>The resulting data infrastructure should be aligned with the developments under the European Health Data Space (EHDS). It should be inter-operable with other building blocks and components of the EHDS, and the federated European infrastructures for genomics data and for cancer imaging data. The work should build on and bring forward the results accomplished in relevant Horizon 2020 and Horizon Europe projects and the Digital Europe Programme. It shall engage and coordinate with the relevant actions of the health cluster of the Digitizing European Industries (DEI) initiative, the European Reference Networks and the ongoing cooperation of ICU Hubs between Member States and regions with a view to establishing and fostering interoperability, harmonisation and standardisation.</p><p>The awarded project(s) will use, in so far as possible, the smart cloud-to-edge middleware platform Simpl, and have to work in partnership with the Data Spaces Support Centre deployed under the first WP in order to ensure alignment with the rest of the ecosystem of data spaces implemented with the support of Digital Europe Programme. The joint work will target the definition of:</p><ul level=\"0\"><li>the data space reference architecture, building blocks and common toolboxes to be used;</li><li>the common standards, including semantic standards and interoperability protocols, both domain-specific and cross-cutting;</li> </ul><p>The data governance models, business models and strategies for running data spaces.</p>"
+        ],
+        "identifier": [
+          "DIGITAL-2023-CLOUD-AI-04-ICU-DATA"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "programmeDivision": [
+          "43152869"
+        ],
+        "crossCuttingPriorities": [],
+        "esDA_FirstIngestDate": [
+          "2024-11-22T11:09:08.935+0100"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "deadlineDate": [
+          "2023-11-22T00:00:00.000+0000"
+        ],
+        "esDA_IngestDate": [
+          "2025-06-30T18:39:32.506+0200"
+        ],
+        "typesOfAction": [
+          "DIGITAL Simple Grants"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/DIGITAL-2023-CLOUD-AI-04-ICU-DATA.json"
+        ],
+        "es_Combine": [
+          "3"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/DIGITAL-2023-CLOUD-AI-04-ICU-DATA.json"
+        ],
+        "tags": [
+          "AI tools",
+          "European Health Data Space",
+          "Federated infrastructure",
+          "Health infrastructure",
+          "ICUs",
+          "Imaging, clinical examination",
+          "Intensive Care",
+          "Platforms",
+          "Secure information",
+          "clinical data",
+          "clinical practice",
+          "diagnostics",
+          "interoperability",
+          "pandemic",
+          "predictive medicine",
+          "treatments",
+          "virtual twin"
+        ],
+        "cenTagsA": [
+          "TOPICS-005256",
+          "TOPICS-005257",
+          "TOPICS-005258",
+          "TOPICS-005259",
+          "TOPICS-005260",
+          "TOPICS-005261",
+          "TOPICS-005262",
+          "TOPICS-005263",
+          "TOPICS-005264",
+          "TOPICS-005265",
+          "TOPICS-004628",
+          "TOPICS-005266",
+          "TOPICS-005267",
+          "TOPICS-003371",
+          "TOPICS-005268",
+          "TOPICS-005269",
+          "TOPICS-005270",
+          "TOPICS-005271",
+          "TOPICS-003474",
+          "TOPICS-005272",
+          "TOPICS-005273",
+          "TOPICS-001602",
+          "TOPICS-005274",
+          "TOPICS-005275",
+          "TOPICS-000383",
+          "TOPICS-001180",
+          "TOPICS-000677",
+          "TOPICS-005276",
+          "TOPICS-005277",
+          "TOPICS-005278",
+          "TOPICS-000678",
+          "TOPICS-000679",
+          "TOPICS-001603",
+          "TOPICS-005279"
+        ],
+        "esDA_QueueDate": [
+          "2025-06-30T18:39:32.496+0200"
+        ],
+        "actions": [
+          "[{\"types\":[{\"typeOfAction\":\"DIGITAL-SIMPLE DIGITAL Simple Grants\",\"typeOfMGA\":[{\"id\":43140990,\"abbreviation\":\"DIGITAL-AG\",\"description\":\"DIGITAL Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094503,\"abbreviation\":\"Closed\",\"description\":\"Closed\"},\"plannedOpeningDate\":\"2023-05-11\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2023-11-22\"]}]"
+        ],
+        "allowPartnerSearch": [
+          "true"
+        ],
+        "budgetOverview": [
+          "{\"budgetYearsColumns\":[\"2023\"],\"budgetTopicActionMap\":{\"103793\":[{\"action\":\"DIGITAL-2023-CLOUD-AI-04-IPCEI-EXPLOIT - DIGITAL-CSA DIGITAL Coordination and Support Actions\",\"expectedGrants\":2,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2023\":\"3000000\"},\"plannedOpeningDate\":\"2023-05-11\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2023-11-22\"]}],\"103792\":[{\"action\":\"DIGITAL-2023-CLOUD-AI-04-ICU-DATA - DIGITAL-SIMPLE DIGITAL Simple Grants\",\"expectedGrants\":1,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2023\":\"5000000\"},\"plannedOpeningDate\":\"2023-05-11\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2023-11-22\"]}],\"103795\":[{\"action\":\"DIGITAL-2023-CLOUD-AI-04-AEROSEC - DIGITAL-SIMPLE DIGITAL Simple Grants\",\"expectedGrants\":2,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2023\":\"22000000\"},\"plannedOpeningDate\":\"2023-05-11\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2023-11-22\"]}],\"103794\":[{\"action\":\"DIGITAL-2023-CLOUD-AI-04-COORDINATEF - DIGITAL-CSA DIGITAL Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2023\":\"3000000\"},\"plannedOpeningDate\":\"2023-05-11\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2023-11-22\"]}],\"103796\":[{\"action\":\"DIGITAL-2023-CLOUD-AI-04-DEVELOPCITI - DIGITAL-SIMPLE DIGITAL Simple Grants\",\"expectedGrants\":5,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2023\":\"15000000\"},\"plannedOpeningDate\":\"2023-05-11\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2023-11-22\"]}],\"103791\":[{\"action\":\"DIGITAL-2023-CLOUD-AI-04-GENOME - DIGITAL-SIMPLE DIGITAL Simple Grants\",\"expectedGrants\":1,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2023\":\"20000000\"},\"plannedOpeningDate\":\"2023-05-11\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2023-11-22\"]}]}}"
+        ],
+        "startDate": [
+          "2023-05-11T00:00:00.000+0000"
+        ],
+        "deadlineModel": [
+          "single-stage"
+        ],
+        "specificObjective": [
+          "SO2"
+        ],
+        "supportInfo": [
+          "<p>For help related to this call, please contact us <a href=\"https://european-union.europa.eu/contact-eu/write-us_en\" target=\"_blank\">here</a></p>\r\n<p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq;grantAndTendertype=1;categories=p_submission_eval;programme=null;actions=;keyword=;period=null\">Funding &amp; Tenders Portal FAQ</a>&#xa0;\u2013 Submission of proposals.</p>\r\n<p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\">IT Helpdesk</a>&#xa0;\u2013 Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p>\r\n<p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\">Online Manual</a>&#xa0;\u2013 Step-by-step online guide through the Portal processes from proposal preparation and submission to reporting on your on-going project. Valid for all 2021-2027 programmes.</p>"
+        ],
+        "status": [
+          "31094503"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": []
+    }
+  ]
+}

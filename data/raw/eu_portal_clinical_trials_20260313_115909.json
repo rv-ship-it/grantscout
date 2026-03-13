@@ -1,0 +1,740 @@
+{
+  "apiVersion": "2.145.3",
+  "terms": "clinical trials",
+  "responseTime": 102,
+  "totalResults": 9070,
+  "pageNumber": 1,
+  "pageSize": 50,
+  "sort": "relevance",
+  "groupByField": "sortStatus",
+  "queryLanguage": {
+    "language": "en",
+    "probability": 0.0
+  },
+  "spellingSuggestion": "clinical trials",
+  "bestBets": [],
+  "warnings": [],
+  "results_sample": [
+    {
+      "apiVersion": "2.145.3",
+      "reference": "31094167ResearchandInnovationaction1521072000000",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/IMI2-2018-14-04.json",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Centre Of Excellence \u2013 Remote Decentralised Clinical Trials",
+      "weight": 52.91075,
+      "groupById": "3",
+      "content": "Centre Of Excellence \u2013 Remote Decentralised <b>Clinical</b> <b>Trials</b>",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "8278A55B469F5A170F51E6672B7614D8A5D13EFEA3E1AF11B8E95E56D5920408",
+      "metadata": {
+        "latestInfos": [
+          "[]"
+        ],
+        "es_SortDate": [
+          "2018-03-15T00:00:00.000+0000"
+        ],
+        "keywords": [
+          "Innovative Medicines Initiative",
+          "Clinical trials",
+          "Joint Undertaking",
+          "DCT model",
+          "IMI",
+          "IMI2",
+          "Clinical Trials",
+          "Improving patient health"
+        ],
+        "workProgrammepart": [
+          "{\"id\":267551,\"ccm_id\":31095847,\"wp_part\":\"H2020-JTI-IMI-2018\",\"wp_year\":\"H2020-JTI-IMI-2018\",\"wp_title\":\"H2020-JTI-IMI-2018\",\"wp_website\":\"http://www.imi.europa.eu/\",\"wp_document\":\"http://ec.europa.eu/research/participants/data/ref/h2020/other/wp/jtis/h2020-wp18-imi2_en.pdf\"}"
+        ],
+        "language": [
+          "en"
+        ],
+        "type": [
+          "1"
+        ],
+        "focusArea": [],
+        "destinationDetails": [],
+        "typeOfMGAs": [],
+        "callIdentifier": [
+          "H2020-JTI-IMI2-2018-14-two-stage"
+        ],
+        "callccm2Id": [
+          "31094171"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "links": [
+          "[]"
+        ],
+        "callTitle": [
+          "H2020-JTI-IMI2-2018-14-two-stage"
+        ],
+        "frameworkProgramme": [
+          "31045243"
+        ],
+        "descriptionByte": [
+          "<SPAN class=\"topicdescriptionkind\">Specific Challenge</SPAN>:<p><strong><u>For full details of the topic, please refer to the call text</u></strong></p><p>Developing new medicines/health solutions and improving patient health rely on the successful conduct of clinical trials to generate relevant safety and efficacy data. Recruitment and retention of patients are some of the most challenging aspects in clinical trial protocol adherence. The 2017-global CISCRP survey reported the main barriers to patients\u2019 participation as \u201clack of patients\u2019 awareness of clinical trials\u201d (~61%); and the \u201cgeography and the distance to the clinical site\u201d (60%) . This geographical burden on patients, including the duration and number of clinical visits, also drives their decision to participate in a trial. In addition, within patients who consent, an alarming 30% dropout across all clinical trials is observed. Therefore, by the same token, improving the patients\u2019 experience through protocol optimisation to ease the patient burden, whether perceived or real, should improve data quality and increase the probability of success.</p>\n<SPAN class=\"topicdescriptionkind\">Scope</SPAN>:<p><strong><u>For full details of the topic, please refer to the call text</u></strong></p><p>The action will focus on disaggregating the current model of running clinical trials, defining building blocks and mapping new technologies (e.g. telemedicine, mobile health\u2026) to support the new DCT model. The objectives are: to demonstrate the feasibility of running remote DCTs in Europe. This will increase access of patients to clinical research, enriching clinical trial data from more diverse and representative patient population and improve patient experience during the trials, with a higher speed of recruitment and better retention.</p>\n<SPAN class=\"topicdescriptionkind\">Expected Impact</SPAN>:<p><strong><u>For full details of the topic, please refer to the call text</u></strong></p><ul level=\"0\"><li>Increase flexibility of patient follow-up during clinical trials, reducing the burden both on patients and hospitals</li><li>Increase the frequency and quality of data collection</li><li>Improve patient recruitment and retention in trials.</li><li>Accelerate clinical research and the access by the patients to more breakthrough innovative therapies.</li><li>Support directly the update of the ICH guidelines all along the process by generating evidence.</li><li>Reorganise the patient journey and the clinical environment</li><li>Redefine the clinical trial framework in compliance with the EU regulations.</li> </ul>\n"
+        ],
+        "identifier": [
+          "IMI2-2018-14-04"
+        ],
+        "additionalInfos": [
+          "{}"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "programmePeriod": [
+          "2014 - 2020"
+        ],
+        "deadlineDate": [
+          "2018-06-14T17:00:00.000+0000",
+          "2018-12-11T17:00:00.000+0000"
+        ],
+        "es_Combine": [
+          "3"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/IMI2-2018-14-04.json"
+        ],
+        "tags": [
+          "IMI2",
+          "Improving patient health",
+          "Joint Undertaking",
+          "DCT model",
+          "Clinical Trials",
+          "Innovative Medicines Initiative",
+          "Clinical trials",
+          "IMI"
+        ],
+        "cenTagsA": [
+          "TOPICS-021527",
+          "TOPICS-021528",
+          "TOPICS-021529",
+          "TOPICS-021530",
+          "TOPICS-021531",
+          "TOPICS-021532",
+          "TOPICS-021533",
+          "TOPICS-021534",
+          "TOPICS-021535",
+          "TOPICS-001854",
+          "TOPICS-021536",
+          "TOPICS-001855",
+          "TOPICS-001598",
+          "TOPICS-021537",
+          "TOPICS-021538",
+          "TOPICS-000198",
+          "TOPICS-021539",
+          "TOPICS-001859"
+        ],
+        "esDA_QueueDate": [
+          "2024-06-28T10:25:54.737+0200"
+        ],
+        "cenTagsB": [
+          "TTG_00043655",
+          "TTG_07521797",
+          "TTG_00043657",
+          "TTG_00011481",
+          "TTG_00008176",
+          "TTG_00000239",
+          "TTG_00043662",
+          "TTG_00000242",
+          "TTG_00000244",
+          "TTL_00043653",
+          "TCM_00000017",
+          "TCK_156603",
+          "TCK_156604",
+          "TCK_156605",
+          "TCK_156606",
+          "TCK_125133",
+          "TCK_156608",
+          "TCK_156609",
+          "TCK_156610",
+          "TCK_156611",
+          "TCK_156612",
+          "TCK_156613",
+          "TCK_156614",
+          "TCK_156615",
+          "TCK_156616",
+          "TCK_125133",
+          "TTG_00066319"
+        ],
+        "destinationDescription": [],
+        "actions": [
+          "[{\"status\":{\"id\":31094503,\"abbreviation\":\"Closed\",\"description\":\"Closed\"},\"types\":[{\"typeOfAction\":\"IMI2-RIA Research and Innovation action\",\"typeOfMGA\":[]}],\"plannedOpeningDate\":\"15 March 2018\",\"submissionProcedure\":{\"id\":31094505,\"abbreviation\":\"two-stage\",\"description\":\"two-stage\"},\"deadlineDates\":[\"14 June 2018\",\"11 December 2018\"]}]"
+        ],
+        "startDate": [
+          "2018-03-15T00:00:00.000+0000"
+        ],
+        "deadlineModel": [
+          "two-stage"
+        ],
+        "status": [
+          "31094503"
+        ],
+        "supportInfo": [
+          "<p><span style=\"color: rgb(0, 51, 102);\"><a href=\"http://ec.europa.eu/research/participants/docs/h2020-funding-guide/index_en.htm\" target=\"_blank\"><strong>H2020 Online Manual</strong></a> </span>is your guide on the procedures from proposal submission to managing your grant.</p>\r\n<p><a href=\"http://ec.europa.eu/research/participants/portal/desktop/en/support/faq.html#c,faqs=categoryMachineName/t/pp_roles_and_rights/0/1/1/category&amp;categoryMachineName/t/p_registration/0/1/1/category&amp;categoryMachineName/t/work_programme_calls/0/1/1/category&amp;categoryMachineName/t/p_submission_eval/1/1/1/category&amp;categoryMachineName/t/ethics_research_integrity/0/1/1/category&amp;categoryMachineName/t/grants/0/1/1/category&amp;categoryMachineName/t/audit/0/1/1/category&amp;categoryMachineName/t/experts/0/1/1/category&amp;categoryMachineName/t/eu_research_policy/0/1/1/category&amp;programmeList/t/H2020/0/1/1/programme&amp;programmeList/t/3rd_health_programme/0/1/1/programme&amp;programmeList/t/asylum_migration_and_integration_fund/0/1/1/programme&amp;programmeList/t/consumer_programme/0/1/1/programme&amp;programmeList/t/COSME/0/1/1/programme&amp;programmeList/t/creative_europe_programme/0/1/1/programme&amp;programmeList/t/erasmus_programme/0/1/1/programme&amp;programmeList/t/FP7/0/1/1/programme&amp;programmeList/t/hercule_iii_programme/0/1/1/programme&amp;programmeList/t/internal_security_fund_borders/0/1/1/programme&amp;programmeList/t/internal_security_fund_police/0/1/1/programme&amp;programmeList/t/justice_programme/0/1/1/programme&amp;programmeList/t/pilot_projects_preparatory_actions/0/1/1/programme&amp;programmeList/t/promotion_of_agricultural_products/0/1/1/programme&amp;programmeList/t/research_fund_for_coal_and_steel/0/1/1/programme&amp;programmeList/t/rights_equality_and_citizenship_programme/0/1/1/programme&amp;programmeList/t/union_civil_protection_mechanism/0/1/1/programme&amp;programmeList/t/european_statistics/0/1/1/programme&amp;tagList/t/MSCA/0/1/1/tag&amp;tagList/t/ERC/0/1/1/tag\" target=\"_blank\"><strong><span style=\"color: rgb(0, 51, 102);\">Participant Portal FAQ</span></strong></a> &ndash; Submission of proposals.</p>\r\n<p><a href=\"http://ec.europa.eu/research/participants/portal4/desktop/en/support/national_contact_points.html\" target=\"_blank\"><span style=\"color: rgb(0, 51, 102);\"><strong>National Contact Points (NCP)</strong></span></a> - contact your NCP for further assistance in your national language(s).</p>\r\n<p><a href=\"http://ec.europa.eu/research/index.cfm?lg=en&amp;pg=enquiries\" target=\"_blank\"><span style=\"color: rgb(0, 51, 102);\"><strong>Research Enquiry Service</strong></span></a> &ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.</p>\r\n<p><span style=\"color: rgb(0, 51, 102);\"><strong><a href=\"http://een.ec.europa.eu/\" target=\"_blank\">Enterprise Europe Network</a> </strong></span>&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.</p>\r\n<p><a href=\"http://ec.europa.eu/research/participants/api/contact/index.html\" target=\"_blank\"><span style=\"color: rgb(0, 51, 102);\"><strong>IT Helpdesk</strong></span></a><strong> </strong>- contact the Participant Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p>\r\n<p><span style=\"color: rgb(0, 51, 102);\"><strong>Ethics</strong></span> &ndash; for compliance with ethical issues, see the <a href=\"http://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/ethics_en.htm\" target=\"_blank\">Online Manual</a> and <a href=\"http://ec.europa.eu/research/swafs/index.cfm?pg=policy&amp;lib=ethics\" target=\"_blank\">Science and Society Portal</a></p>\r\n<p><a href=\"http://www.iprhelpdesk.eu/\" target=\"_blank\"><span style=\"color: rgb(0, 51, 102);\"><strong>European IPR Helpdesk</strong></span></a> assists you on intellectual property issues</p>\r\n<p><a href=\"https://www.cencenelec.eu/research/Pages/default.aspx\" target=\"_blank\"><span style=\"color: rgb(0, 51, 102);\"><strong>CEN</strong></span><strong> <span style=\"color: rgb(0, 51, 102);\">and</span> </strong><span style=\"color: rgb(0, 51, 102);\"><strong>CENELEC</strong></span></a>, the <span style=\"color: rgb(0, 51, 102);\"><strong>European Standards Organisations</strong></span>, advise you how to tackle standardisation in your project proposal. Contact CEN-CENELEC Research Helpdesk at <span style=\"color: rgb(0, 0, 255);\">research@cencenelec.eu</span></p>\r\n<p><a href=\"http://ec.europa.eu/euraxess/pdf/brochure_rights/am509774CEE_EN_E4.pdf\" target=\"_blank\"><span style=\"color: rgb(0, 51, 102);\"><strong>The European Charter for Researchers and the Code of Conduct for their recruitment</strong></span></a></p>\r\n<p><a href=\"http://ec.europa.eu/research/participants/docs/h2020-funding-guide/grants/applying-for-funding/find-partners_en.htm\" target=\"_blank\"><span style=\"color: rgb(0, 51, 102);\"><strong>Partner Search Services</strong></span></a> help you find a partner organisation for your proposal.</p>\r\n<p><span style=\"font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:&#10;&quot;Arial&quot;,sans-serif\"><a href=\"http://www.imi.europa.eu/content/states-representatives-groups\"><b><span style=\"background:white\">IMI2 States Representative Group (SRG)</span></b></a><span style=\"color:black;background:white\"><span style=\"font-variant-ligatures: normal;&#10;font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;&#10;text-decoration-style: initial;text-decoration-color: initial;float:none;&#10;word-spacing:0px\">&nbsp;&ndash; contact you SRG member for assistance.</span></span><span style=\"color:black\"><br style=\"font-variant-ligatures: normal;font-variant-caps: normal;&#10;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;&#10;text-decoration-style: initial;text-decoration-color: initial;word-spacing:&#10;0px\" />\r\n<b style=\"font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;&#10;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;text-decoration-style: initial;&#10;text-decoration-color: initial;word-spacing:0px\"><span style=\"background:white\"><br />\r\n<a href=\"mailto:applicants@imi.europa.eu\" target=\"_blank\"> IMI2 JU&nbsp;</a></span></b></span><b style=\"font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; text-align: start; widows: 2; -webkit-text-stroke-width: 0px; word-spacing: 0px;\"><span style=\"background:white\"><a href=\"mailto:applicants@imi.europa.eu\" target=\"_blank\">Applicants Helpdesk</a></span></b><span style=\"color:black;background:white\"><span style=\"font-variant-ligatures: normal;&#10;font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;&#10;text-decoration-style: initial;text-decoration-color: initial;float:none;&#10;word-spacing:0px\">&nbsp;&ndash; c</span><strong style=\"font-variant-ligatures: normal;&#10;font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;&#10;text-decoration-style: initial;text-decoration-color: initial;word-spacing:&#10;0px\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-weight:normal\">ontact the IMI2 Programme Office</span></strong></span><o:p></o:p></span></p>\r\n<p>&nbsp;</p>"
+        ],
+        "missionDetails": [],
+        "sepTemplate": [
+          "<p>To access the Electronic Submission Service of the topic, please select the <strong>type of action</strong> that is most relevant to your proposal from the list below and click on the <strong>'Start Submission' </strong>button. You will then be asked to confirm your choice of the type of action and topic, as these cannot be changed in the submission system. Upon confirmation you will be linked to the correct entry point.</p>\r\n<p>To access existing draft proposals for this topic, please login to the Participant Portal and select the My Proposals page of the My Area section.</p>"
+        ],
+        "sortStatus": [
+          "3"
+        ],
+        "topicConditions": [
+          "<p class=\"MsoNormal\" style=\"mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;&#10;line-height:normal\"><b><span style=\"font-size: 9pt; font-family: Arial, sans-serif;\">Please read carefully all provisions below before the preparation of your application.<o:p></o:p></span></b></p>\r\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;&#10;line-height:normal\"><b><span style=\"font-size: 9pt; font-family: Arial, sans-serif;\">The IMI2 JU 14th Call for proposals topics text as well as the Call Conditions are available </span></b><b><u><span style=\"font-size:9.0pt;font-family:&#10;&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:blue;&#10;mso-fareast-language:EN-GB\"><a href=\"https://ec.europa.eu/research/participants/data/ref/h2020/other/call_fiches/jtis/h2020-call-fiche18-14-imi2-ju_en.pdf\" target=\"_blank\">here</a></span></u></b><b><span style=\"font-size: 9pt; font-family: Arial, sans-serif;\">.&nbsp;</span></b></p>\r\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;&#10;line-height:normal\"><b><span style=\"font-size: 9pt; font-family: Arial, sans-serif;\">The budget breakdown for this Call is given at the end of the Call topics text, in the </span></b><b><u><span style=\"font-size:9.0pt;font-family:&#10;&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:blue;&#10;mso-fareast-language:EN-GB\"><a href=\"https://ec.europa.eu/research/participants/data/ref/h2020/other/call_fiches/jtis/h2020-call-fiche18-14-imi2-ju_en.pdf\" target=\"_blank\">Call Conditions</a></span></u></b><b><span style=\"font-size: 9pt; font-family: Arial, sans-serif;\"> section, as well as the following information :&nbsp;</span></b></p>\r\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;&#10;line-height:normal\">&nbsp;</p>\r\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;&#10;line-height:normal\"><b><span style=\"font-size: 9pt; font-family: Arial, sans-serif;\"><o:p></o:p></span></b></p>\r\n<p><span style=\"color: rgb(0, 51, 102);\"><strong>1.&nbsp;&nbsp; Eligible countries:</strong></span> described in article 10(2) of the <a href=\"https://ec.europa.eu/research/participants/data/ref/h2020/legal_basis/rules_participation/h2020-rules-participation_en.pdf\" target=\"_blank\">Rules for participation in  Horizon 2020</a> and in article 1 of the <a href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32014R0622\" target=\"_blank\">Commission Delegated Regulation related to IMI JU</a>.</p>\r\n<p>&nbsp;</p>\n<p><span style=\"color: rgb(0, 51, 102);\"><strong>2.&nbsp;&nbsp; Eligibility and admissibility conditions:</strong></span> described in the <strong><a href=\"https://ec.europa.eu/research/participants/data/ref/h2020/other/guides_for_applicants/jtis/h2020-guide-pse-imi-ju-v1.6_en.pdf\" target=\"_blank\">IMI2 Manual for evaluation, submission and grant award</a>.</strong>  See also the <a href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32014R0622\" target=\"_blank\">Commission Delegated Regulation related to IMI JU</a>.</p>\r\n<p>&nbsp;</p>\n<p><span style=\"color: rgb(0, 51, 102);\"><strong>Proposal page limits and layout:</strong></span> Please refer to Part B of the proposal template in the submission tool below.</p>\r\n<p>&nbsp;</p>\n<p><span style=\"color: rgb(0, 51, 102);\"><strong>3.&nbsp;&nbsp; Evaluation: </strong></span><br />\r\nSubmission and evaluation process, including evaluation criteria and procedure, scoring and threshold are described in the <strong><a href=\"https://ec.europa.eu/research/participants/data/ref/h2020/other/guides_for_applicants/jtis/h2020-guide-pse-imi-ju-v1.6_en.pdf\" target=\"_blank\">IMI2 Manual for submission, evaluation and grant award</a></strong>. See also the proposal templates for your specific action in section 5, below.</p>\r\n<p>&nbsp;</p>\n<p><span style=\"color: rgb(0, 51, 102);\"><strong>4.&nbsp;&nbsp; Indicative time for evaluation and grant agreement: </strong></span><br />\r\nNotification of outcomes of stage 1 evaluations: maximum 5 months from deadline for submitting proposals.<br />\r\nNotification of outcomes of stage 2 evaluations: maximum 5 months from deadline for submitting full proposals.</p>\r\n<p>Signature of grant agreements: maximum 3 months from the date of informing successful applicants.</p>\r\n<p>&nbsp;</p>\n<p><span style=\"color: rgb(0, 51, 102);\"><strong>5.&nbsp;&nbsp; Proposal templates, evaluation forms and model grant agreements (MGA):</strong></span></p>\r\n<p><strong>IMI2 Research and Innovation Action (IMI2-RIA) </strong><strong>and Innovation Action (IMI2-IA):</strong></p>\r\n<p>Proposal templates are available after entering the submission tool<br />\r\n<br />\r\n<a href=\"https://ec.europa.eu/research/participants/data/ref/h2020/other/call_ptef/ef/h2020-call-ef-imi2-ria-ia-2016_en.pdf\" target=\"_blank\"> Standard evaluation form</a></p>\r\n<p><a href=\"https://ec.europa.eu/research/participants/data/ref/h2020/other/mga/jtis/h2020-mga-imi_en.pdf\" target=\"_blank\">IMI2 Model Grant Agreement</a></p>\r\n<p><a href=\"https://ec.europa.eu/research/participants/data/ref/h2020/other/legal/templ/h2020_tmpl-clinical-studies_2018-2020_en.pdf\" target=\"_blank\">Clinical trial template</a>&nbsp;&ndash; the Clinical Trial template is compulsory at stage 2 only !</p>\r\n<p>&nbsp;</p>\n<p><strong><span style=\"color: rgb(0, 51, 102);\">6.&nbsp;&nbsp; Open access must be granted to all scientific publications </span></strong>resulting from Horizon 2020 actions.</p>\r\n<p>Where relevant, proposals should also provide information on how the  participants will manage the research data generated and/or collected  during the project, such as details on what types of data the project  will generate, whether and how this data will be exploited or made  accessible for verification and re-use, and how it will be curated and  preserved.</p>\r\n<p><span style=\"color: rgb(0, 51, 102);\"><strong>Open access to research data</strong></span><br />\r\nThe Open Research Data Pilot has been extended to cover all Horizon 2020  topics for which the submission is opened on 26 July 2016 or later.  Projects funded under this topic will therefore by default provide open  access to the research data they generate, except if they decide to  opt-out under the conditions described in <a href=\"https://ec.europa.eu/research/participants/data/ref/h2020/other/wp/2018-2020/annexes/h2020-wp1820-annex-l-openaccess_en.pdf\" target=\"_blank\">Annex L of the H2020 main Work Programme</a>. Projects can opt-out at any stage, that is both before and after the grant signature.</p>\r\n<p>Note that the evaluation phase proposals will not be evaluated more  favourably because they plan to open or share their data, and will not  be penalised for opting out.</p>\r\n<p>Open research data sharing applies to the data needed to validate the  results presented in scientific publications. Additionally, projects  can choose to make other data available open access and need to describe  their approach in a Data Management Plan.</p>\r\n<p>Projects need to create a Data Management Plan (DMP), except if they  opt-out of making their research data open access. A first version of  the DMP must be provided as an early deliverable within six months of  the project and should be updated during the project as appropriate. The  Commission already provides guidance documents, including a template  for DMPs. See the <a href=\"https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-dissemination_en.htm\" target=\"_blank\">Online Manual</a>.</p>\r\n<p>Eligibility of costs: costs related to data management and data  sharing are eligible for reimbursement during the project duration.</p>\r\n<p>The legal requirements for projects participating in this pilot are in the article 29.3 of the Model Grant Agreement.</p>\r\n<p>&nbsp;</p>\n<p>Members of consortium are required to conclude a consortium agreement prior to the signature of the grant agreement.</p>\n<p><span style=\"color: rgb(0, 51, 102);\"><strong>7. Additional documents:</strong></span></p>\r\n<p><a href=\"https://ec.europa.eu/research/participants/data/ref/h2020/other/guides_for_applicants/jtis/h2020-guide-rel-prov-imi-ju_en.pdf\" target=\"_blank\">Summary of the most relevant provisions for participating in IMI2 actions</a></p>\r\n<p><a href=\"https://ec.europa.eu/research/participants/data/ref/h2020/other/wp/jtis/h2020-wp18-imi2-amend-1_en.pdf\" target=\"_blank\">IMI2 Amended Annual Work Plan 2018</a></p>\r\n<p class=\"MsoNormal\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:&#10;normal\"><a href=\"https://ec.europa.eu/research/participants/data/ref/h2020/other/mga/jtis/h2020-amga-imi_en.pdf\" target=\"_blank\">IMI2 JU Annotated Model Grant Agreement</a><o:p></o:p></p>\r\n<p><a href=\"http://www.imi.europa.eu/sites/default/files/uploads/documents/apply-for-funding/call-documents/imi2/RegulatoryRequirementsGuide.pdf\" target=\"_blank\">IMI2 Regulators Guidance tool for researchers</a></p>\r\n<p><a href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:JOL_2014_174_R_0003\" target=\"_blank\">IMI JU derogation to H2020 Rules for Participation</a> &nbsp;<br />\r\n<br />\r\n<a href=\"https://ec.europa.eu/research/participants/data/ref/h2020/legal_basis/rules_participation/h2020-rules-participation_en.pdf\" target=\"_blank\">Horizon 2020 Rules for Participation&nbsp;</a></p>\r\n<p><a href=\"https://ec.europa.eu/research/participants/data/ref/h2020/legal_basis/fp/h2020-eu-establact_en.pdf\" target=\"_blank\">Horizon 2020 Regulation of Establishment </a><br />\r\n<br />\r\n<a href=\"https://ec.europa.eu/research/participants/data/ref/h2020/legal_basis/sp/h2020-sp_en.pdf\" target=\"_blank\">Horizon 2020 Specific Programme</a></p>\r\n<p>&nbsp;</p>"
+        ],
+        "title": [
+          "Centre Of Excellence \u2013 Remote Decentralised Clinical Trials"
+        ],
+        "missionDescription": [],
+        "esST_checksum": [
+          "8278A55B469F5A170F51E6672B7614D8A5D13EFEA3E1AF11B8E95E56D5920408"
+        ],
+        "cftId": [
+          "0"
+        ],
+        "infoPackDossiers": [
+          "[]"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "ccm2Id": [
+          "31094167"
+        ],
+        "REFERENCE": [
+          "31094167ResearchandInnovationaction1521072000000"
+        ],
+        "programmeDivision": [
+          "31047894",
+          "31047893",
+          "31062059",
+          "31045244"
+        ],
+        "crossCuttingPriorities": [],
+        "esDA_IngestDate": [
+          "2024-06-28T10:25:54.838+0200"
+        ],
+        "typesOfAction": [
+          "Research and Innovation action"
+        ],
+        "callUpdates": [
+          "[{\"approvalDate\":\"Feb 20, 2019 11:10:39 AM\",\"lastChangeDate\":\"Feb 20, 2019 11:10:39 AM\",\"content\":\"\\u003cp\\u003eAn overview of the evaluation results (\\u003ca href\\u003d\\\"http://ec.europa.eu/research/participants/portal/doc/call/h2020/imi2-2018-14-01/1847620-imi2_call_14_flash_call_info_report_stage_2_en.pdf\\\" target\\u003d\\\"_blank\\\"\\u003eflash call info \\u0026ndash; IMI2 Call 14 \\u0026ndash; stage two\\u003c/a\\u003e) is now available under the call \\u0026lsquo;Additional documents\\u0026rsquo; tab.\\u003c/p\\u003e\\r\\n\\u003cp\\u003e\\u0026nbsp;\\u003c/p\\u003e\\r\\n\\u003cp\\u003e\\u0026nbsp;\\u003c/p\\u003e\"},{\"approvalDate\":\"Aug 13, 2018 4:04:24 PM\",\"lastChangeDate\":\"Aug 13, 2018 4:04:24 PM\",\"content\":\"\\u003cp\\u003e\\u003cfont face\\u003d\\\"Verdana, Geneva, sans-serif\\\"\\u003e\\u003cspan style\\u003d\\\"font-size: 12.1px; background-color: rgb(198, 219, 239);\\\"\\u003eAn overview of the evaluation results (\\u003ca href\\u003d\\\"http://ec.europa.eu/research/participants/portal/doc/call/h2020/imi2-2018-14-01/1835109-imi2_call_14_-_flash_call_info_report_-_stage_1_en.pdf\\\" target\\u003d\\\"_blank\\\"\\u003eflash call info \\u0026ndash; IMI2 Call 14 \\u0026ndash; stage one\\u003c/a\\u003e) is now available under the call \\u0026lsquo;Additional documents\\u0026rsquo; tab.\\u003c/span\\u003e\\u003c/font\\u003e\\u003c/p\\u003e\"},{\"approvalDate\":\"Jun 18, 2018 4:31:03 PM\",\"lastChangeDate\":\"Jun 18, 2018 4:31:03 PM\",\"content\":\"\\u003cp\\u003e\\u003cstrong\\u003eProposal numbers\\u003c/strong\\u003e\\u003c/p\\u003e\\r\\n\\u003cp\\u003eStage 1 submission deadline for the Call\\u003cstrong\\u003e IMI2-2018-14-two-stage \\u003c/strong\\u003ehas closed on the \\u003cstrong\\u003e14 June 2018.\\u003c/strong\\u003e\\u003c/p\\u003e\\r\\n\\u003cp\\u003e28 proposals have been submitted.\\u003c/p\\u003e\\r\\n\\u003cp\\u003eThe breakdown per topic is:\\u003c/p\\u003e\\r\\n\\u003cp\\u003eIMI2-2018-14-01: 12\\u003c/p\\u003e\\r\\n\\u003cp\\u003eIMI2-2018-14-02:\\u0026nbsp;\\u0026nbsp; 3\\u003c/p\\u003e\\r\\n\\u003cp\\u003eIMI2-2018-14-03:\\u0026nbsp;\\u0026nbsp; 9\\u003c/p\\u003e\\r\\n\\u003cp\\u003eIMI2-2018-14-04:\\u0026nbsp; 4\\u003c/p\\u003e\\r\\n\\u003cdiv style\\u003d\\\"margin: 0cm 0cm 8pt\\\"\\u003eEvaluation results for stage 1 are expected to be communicated in the second part of August 2018.\\u003c/div\\u003e\"},{\"approvalDate\":\"Mar 15, 2018 12:30:00 AM\",\"lastChangeDate\":\"Mar 15, 2018 12:30:00 AM\",\"content\":\"The submission session is now available for: IMI2-2018-14-01(IMI2-RIA), IMI2-2018-14-02(IMI2-RIA), IMI2-2018-14-03(IMI2-RIA), IMI2-2018-14-04(IMI2-RIA)\"}]"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/IMI2-2018-14-04.json"
+        ],
+        "additionalDossiers": [
+          "[{\"callId\":52392605850,\"id\":165889889,\"title\":\"IMI2 Call 14 stage 2 - Flash Call Info Report \",\"sectionId\":52392605850,\"translationFiles\":[{\"language\":\"en\",\"mimeType\":\"application/pdf\",\"fileSize\":247916,\"docPath\":\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/cap/h2020/imi2-2018-14-04/1847620-imi2_call_14_flash_call_info_report_stage_2_en.pdf\",\"id\":1847620,\"fileName\":\"IMI2 Call 14_Flash Call Info report_Stage 2_EN.pdf\",\"common\":false,\"crc32\":2579013991}]}]"
+        ],
+        "allowPartnerSearch": [
+          "true"
+        ],
+        "budgetOverview": [
+          "{\"budgetTopicActionMap\":{\"3237242\":[{\"plannedOpeningDate\":\"15 March 2018\",\"deadlineDates\":[\"14 June 2018\",\"11 December 2018\"],\"action\":\"IMI2-2018-14-03 - IMI2-RIA Research and Innovation action\",\"budgetYearMap\":{\"2018\":167277360},\"budgetTopicActionMap\":{},\"deadlineModel\":\"two-stage\"},{\"plannedOpeningDate\":\"15 March 2018\",\"deadlineDates\":[\"14 June 2018\",\"11 December 2018\"],\"action\":\"IMI2-2018-14-04 - IMI2-RIA Research and Innovation action\",\"budgetYearMap\":{\"2018\":167277360},\"budgetTopicActionMap\":{},\"deadlineModel\":\"two-stage\"},{\"plannedOpeningDate\":\"15 March 2018\",\"deadlineDates\":[\"14 June 2018\",\"11 December 2018\"],\"action\":\"IMI2-2018-14-02 - IMI2-RIA Research and Innovation action\",\"budgetYearMap\":{\"2018\":167277360},\"budgetTopicActionMap\":{},\"deadlineModel\":\"two-stage\"},{\"plannedOpeningDate\":\"15 March 2018\",\"deadlineDates\":[\"14 June 2018\",\"11 December 2018\"],\"action\":\"IMI2-2018-14-01 - IMI2-RIA Research and Innovation action\",\"budgetYearMap\":{\"2018\":167277360},\"budgetTopicActionMap\":{},\"deadlineModel\":\"two-stage\"}]},\"budgetYearsColumns\":[\"2018\"]}"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "Centre Of Excellence \u2013 Remote Decentralised <b>Clinical</b> <b>Trials</b>"
+      ]
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "H2020-SC1-BHC-2018-2020SC1-BHC-37-20201563201031481",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/SC1-BHC-37-2020.json",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Towards the new generation of clinical trials \u2013 trials methodology research",
+      "weight": 51.979523,
+      "groupById": null,
+      "content": "Towards the new generation of <b>clinical</b> <b>trials</b> \u2013 <b>trials</b> methodology research",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "991DEF43F300EA9D732AD4AADD60223C48C3B085DDF9086FC012A8E8A0D91477",
+      "metadata": {
+        "identifier": [
+          "SC1-BHC-37-2020"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "es_SortDate": [
+          "2019-07-15T14:30:31.481+0000"
+        ],
+        "programmePeriod": [
+          "2014 - 2020"
+        ],
+        "esDA_IngestDate": [
+          "2024-07-05T11:49:24.177+0200"
+        ],
+        "description": [
+          "<p>The submission of proposals to topic SC1-BHC-37-2020: Towards the new generation of clinical trials &ndash; trials methodology research, will open in the following weeks.</p>"
+        ],
+        "language": [
+          "en"
+        ],
+        "title": [
+          "Towards the new generation of clinical trials \u2013 trials methodology research "
+        ],
+        "type": [
+          "6"
+        ],
+        "esST_checksum": [
+          "991DEF43F300EA9D732AD4AADD60223C48C3B085DDF9086FC012A8E8A0D91477"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/SC1-BHC-37-2020.json"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/SC1-BHC-37-2020.json"
+        ],
+        "esDA_QueueDate": [
+          "2024-07-05T11:49:24.058+0200"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "callIdentifier": [
+          "H2020-SC1-BHC-2018-2020"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "H2020-SC1-BHC-2018-2020SC1-BHC-37-20201563201031481"
+        ],
+        "callTitle": [
+          "Better Health and care, economic growth and sustainable health systems"
+        ],
+        "frameworkProgramme": [
+          "31045243"
+        ],
+        "startDate": [
+          "2019-07-15T14:30:31.481+0000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "Towards the new generation of <b>clinical</b> <b>trials</b> \u2013 <b>trials</b> methodology research"
+      ]
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "31081233ResearchandInnovationaction1483488000000",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/IMI2-2016-10-04.json",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Creation of a pan-European Paediatric Clinical Trials Network",
+      "weight": 51.511726,
+      "groupById": "3",
+      "content": "Creation of a pan-European Paediatric <b>Clinical</b> <b>Trials</b> Network",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "AD6B3A2513A61D8311053B439939C93AE8B58FB6B3009009A244F5CB37987DCD",
+      "metadata": {
+        "latestInfos": [
+          "[{\"approvalDate\":\"Aug 1, 2017 3:51:10 PM\",\"lastChangeDate\":\"Aug 1, 2017 3:51:10 PM\",\"content\":\"\\u003cp\\u003e\\u0026nbsp;An overview of the evaluation results (\\u003ca href\\u003d\\\"http://ec.europa.eu/research/participants/portal/doc/call/h2020/imi2-2016-10-01/1777637-imi2_call_10_-_stage-one_-_falsh_call_info_en.pdf\\\" target\\u003d\\\"_blank\\\"\\u003eflash call info \\u0026ndash; IMI2 Call 10 \\u0026ndash; stage one\\u003c/a\\u003e) is now available under the call \\u0026lsquo;Additional documents\\u0026rsquo; tab.\\u003c/p\\u003e\"}]"
+        ],
+        "es_SortDate": [
+          "2017-01-04T00:00:00.000+0000"
+        ],
+        "keywords": [
+          "Paediatrics",
+          "IMI2",
+          "Clinical trials",
+          "clinical pharmacology",
+          "IMI2 JU",
+          "IMI",
+          "Innovative Medicines Initiative",
+          "other therapies",
+          "IMI JU",
+          "clinical trials",
+          "Paediatrics"
+        ],
+        "workProgrammepart": [],
+        "language": [
+          "en"
+        ],
+        "type": [
+          "1"
+        ],
+        "focusArea": [],
+        "destinationDetails": [],
+        "typeOfMGAs": [],
+        "callIdentifier": [
+          "H2020-JTI-IMI2-2016-10-two-stage"
+        ],
+        "callccm2Id": [
+          "31081237"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "links": [
+          "[]"
+        ],
+        "callTitle": [
+          "H2020-JTI-IMI2-2016-10-two-stage"
+        ],
+        "frameworkProgramme": [
+          "31045243"
+        ],
+        "descriptionByte": [
+          "<SPAN class=\"topicdescriptionkind\">Specific Challenge</SPAN>:<p>Publications have previously shown that only 30% of marketed drugs in Europe and worldwide include a paediatric authorisation and less than 50% of authorised medicines commonly used in children had been properly tested in this population. This rate drops 10% in the vulnerable patient population in neonatal intensive care units. Even if the situation may improve with the different paediatric legislation in place, there is still a major societal challenge to be addressed.</p><p>There are many scientific and operational challenges faced by both pharma companies and academia when running paediatric clinical trials. Given the paucity of patients available for study in many paediatric indications and the need for multiple capable sites to satisfy enrolment in trials, the clinical trial infrastructure across the EU is not sufficiently organised, and lacks adequate funds and scale to consistently and efficiently deliver both industry-sponsored and academic non-industry sponsored clinical trials leading to new drug approval, complete labelling of existing drugs, valid comparisons between existing marketed therapies, or observational studies informing the natural history of disease indications.</p><p>A broad multidisciplinary public-private consortium is required to meet the challenges and be transformative for collectively addressing children\u2019s needs for better medicines.</p>\n<SPAN class=\"topicdescriptionkind\">Scope</SPAN>:<p>The overall vision of this topic is to create a large collaborative paediatric network that facilitates the development and availability of new drugs and other therapies, and the expansion of knowledge about drugs currently in practice for the entire paediatric population.</p><p>To achieve this vision the objectives are to:</p><ul level=\"0\">  <li>Create the network with a lean central coordinating organisation, arranged around \u201cnational hub coordinating centres\u201d cooperating with multiple sites within each member state</li>  <li>Set up scientific advice and trial readiness groups</li>  <li>Test the viability of the network by conducting clinical studies</li>  <li>Develop and implement a sustainable business model for the network</li>  <li>Prepare the network to European Network for Paediatric Research at the European Medicines Agency (Enpr-EMA) membership</li> </ul>\n<SPAN class=\"topicdescriptionkind\">Expected Impact</SPAN>:<p>This project will have an impact on a number of areas including</p><ul level=\"0\">  <li>Better access for paediatric patients to new experimental therapies</li>  <li>Increased efficiency of executing trials (reduced timelines &amp; cost)</li>  <li>Enhanced role of clinicians and patient/parent advocacy groups in planning and designing studies</li>  <li>Opportunity for European clinical research personnel, clinical research sites, and clinical research organisations to collaborate across national borders making Europe a more competitive place for the conduct of paediatric clinical trials</li> </ul>\n"
+        ],
+        "identifier": [
+          "IMI2-2016-10-04"
+        ],
+        "additionalInfos": [
+          "{}"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "programmePeriod": [
+          "2014 - 2020"
+        ],
+        "deadlineDate": [
+          "2017-03-28T17:00:00.000+0000",
+          "2017-10-19T17:00:00.000+0000"
+        ],
+        "es_Combine": [
+          "3"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/IMI2-2016-10-04.json"
+        ],
+        "tags": [
+          "clinical trials",
+          "IMI2",
+          "IMI",
+          "IMI JU",
+          "IMI2 JU",
+          "other therapies",
+          "clinical pharmacology",
+          "Clinical trials",
+          "Paediatrics",
+          "Innovative Medicines Initiative"
+        ],
+        "cenTagsA": [
+          "TOPICS-002222",
+          "TOPICS-002223",
+          "TOPICS-002224",
+          "TOPICS-002225",
+          "TOPICS-002226",
+          "TOPICS-002227",
+          "TOPICS-002228",
+          "TOPICS-002229",
+          "TOPICS-001854",
+          "TOPICS-001855",
+          "TOPICS-001859",
+          "TOPICS-001856",
+          "TOPICS-001858",
+          "TOPICS-002230",
+          "TOPICS-000194",
+          "TOPICS-000198",
+          "TOPICS-002231"
+        ],
+        "esDA_QueueDate": [
+          "2024-06-28T10:25:43.636+0200"
+        ],
+        "cenTagsB": [
+          "TCK_72873735",
+          "TCK_72873736",
+          "TCK_72873738",
+          "TCK_72873739",
+          "TCK_72873740",
+          "TCK_72873741",
+          "TCK_72873742",
+          "TCK_72873743",
+          "TCK_72873744",
+          "TCK_72873748",
+          "TCK_72873749",
+          "TTL_00050020",
+          "TCM_00000017",
+          "TCM_00042201",
+          "TTG_00008176",
+          "TTG_00014695",
+          "TTG_00000239",
+          "TTG_00000240",
+          "TTG_00000242",
+          "TTG_00018002",
+          "TTG_00040701",
+          "TTG_07521797",
+          "TTG_00050031",
+          "TCK_72873735",
+          "TCK_179608",
+          "TCK_168941",
+          "TCK_156615"
+        ],
+        "destinationDescription": [],
+        "actions": [
+          "[{\"status\":{\"id\":31094503,\"abbreviation\":\"Closed\",\"description\":\"Closed\"},\"types\":[{\"typeOfAction\":\"IMI2-RIA Research and Innovation action\",\"typeOfMGA\":[]}],\"plannedOpeningDate\":\"04 January 2017\",\"submissionProcedure\":{\"id\":31094505,\"abbreviation\":\"two-stage\",\"description\":\"two-stage\"},\"deadlineDates\":[\"28 March 2017\",\"19 October 2017\"]}]"
+        ],
+        "startDate": [
+          "2017-01-04T00:00:00.000+0000"
+        ],
+        "deadlineModel": [
+          "two-stage"
+        ],
+        "status": [
+          "31094503"
+        ],
+        "supportInfo": [
+          "<p><strong>Contact the IMI Programme Office </strong>: E-mail: <u><strong><span style=\"color: rgb(0, 0, 255);\">Infodesk@imi.europa.eu</span></strong></u><strong><span style=\"color: rgb(0, 0, 255);\"> </span></strong>| Tel : +32 2 221 81 81</p>\r\n<p>Contact you <strong>SRG member</strong> for assistance:&nbsp;<a href=\"http://www.imi.europa.eu/content/states-representatives-groups\"><strong>IMI States Representative Group (SRG)</strong></a>&nbsp;</p>\r\n<p><a href=\"http://www.imi.europa.eu/content/partner-search\"><strong>IMI Partner Search Tool</strong></a>&nbsp;helps you find a partner organisation for your proposal.</p>\r\n<p><strong><a href=\"http://ec.europa.eu/research/participants/docs/h2020-funding-guide/index_en.htm\">H2020 Online Manual</a></strong> your online guide on the procedures from proposal submission to managing your grant.<br />\r\n<br />\r\n<strong><span><a href=\"http://ec.europa.eu/research/participants/portal/desktop/en/support/faq.html\">Participant Portal FAQ</a> </span></strong><span>&ndash; Submission of proposals.</span></p>\r\n<p><a href=\"http://ec.europa.eu/research/participants/api/contact/index.html\"><strong>IT Helpdesk</strong></a>- contact the Participant Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.<br />\r\n<strong><br />\r\n<span><a href=\"http://ec.europa.eu/research/participants/portal4/desktop/en/support/national_contact_points.html\">National Contact Points (NCP)</a>&nbsp;-&nbsp;</span></strong><span>contact your NCP for further assistance.</span><br />\r\n<strong><br />\r\n<span><a href=\"http://ec.europa.eu/research/index.cfm?lg=en&amp;pg=enquiries\">Research Enquiry Service</a></span></strong><span> &ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.</span><br />\r\n<a href=\"http://een.ec.europa.eu/\"><br />\r\n<strong>Enterprise Europe Network</strong></a> &ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.<strong><br />\r\n</strong></p>\r\n<p><strong> Ethics</strong> &ndash; for compliance with ethical issues, check the information available on the<a href=\"http://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/ethics_en.htm\"> Participant Portal</a>, on the &nbsp;<a href=\"http://ec.europa.eu/research/swafs/index.cfm?pg=policy&amp;lib=ethics\">Science and Society Portal</a>&nbsp;and in the&nbsp;<a href=\"http://ec.europa.eu/euraxess/pdf/brochure_rights/am509774CEE_EN_E4.pdf\"><strong>The European Charter for Researchers and the Code of Conduct for their recruitment</strong></a><a href=\"http://www.iprhelpdesk.eu/\"><br />\r\n</a></p>\r\n<p><strong>IP </strong>&ndash;&nbsp;<a href=\"http://www.iprhelpdesk.eu/\"><strong>European IPR Helpdesk</strong></a> assists you on intellectual property issues<br />\r\n<a href=\"http://www.cen.eu/cen/Services/Innovation/Pages/default.aspx\"><br />\r\n<strong>CEN</strong></a> and <a href=\"http://www.cenelec.eu/aboutcenelec/whatwestandfor/fosterinnovation/randd.html\"><strong>CENELEC</strong></a>, the European Standards Organisations, advise you how to tackle standardisation in your project proposal. Contact CEN-CENELEC Research Helpdesk at <a href=\"mailto:research@cencenelec.eu\">research@cencenelec.eu</a>.<br />\r\n<strong><br />\r\n</strong></p>"
+        ],
+        "missionDetails": [],
+        "sepTemplate": [
+          "<p>To access the Electronic Submission Service of the topic, please select the <strong>type of action</strong> that is most relevant to your proposal from the list below and click on the <strong>'Start Submission' </strong>button. You will then be asked to confirm your choice of the type of action and topic, as these cannot be changed in the submission system. Upon confirmation you will be linked to the correct entry point.</p>\r\n<p>To access existing draft proposals for this topic, please login to the Participant Portal and select the My Proposals page of the My Area section.</p>"
+        ],
+        "sortStatus": [
+          "3"
+        ],
+        "topicConditions": [
+          "<p>Please read carefully all provisions below before the preparation of your application.</p>\r\n<p>You can access the description of the different topics in the&nbsp;<a href=\"http://ec.europa.eu/research/participants/data/ref/h2020/other/call_fiches/jtis/h2020-call-fiche16-10-imi2-ju_en.pdf\" target=\"_blank\"><strong>Call 10&nbsp;topics text</strong></a>.</p>\r\n<p>The budget breakdown for this Call is given at the end of the Call topics text, in the <a href=\"http://ec.europa.eu/research/participants/data/ref/h2020/other/call_fiches/jtis/h2020-call-fiche16-10-imi2-ju_en.pdf\" target=\"_blank\"><strong>Conditions for this Call for proposals</strong></a>&nbsp;section, as well as the following information :</p>\r\n<ol>\r\n    <li><strong><span style=\"color: rgb(0, 51, 102);\">List of countries and applicable rules for funding</span></strong><br />\r\n    &nbsp;</li>\r\n    <li><strong><span style=\"color: rgb(0, 51, 102);\">Eligibility and admissibility conditions</span></strong><br />\r\n    &nbsp;</li>\r\n    <li><strong><span style=\"color: rgb(0, 51, 102);\">Evaluation criteria and procedure, scoring and treshold: &nbsp;</span></strong><span style=\"color: rgb(0, 51, 102);\">described in the <strong><a href=\"http://ec.europa.eu/research/participants/data/ref/h2020/other/guides_for_applicants/jtis/h2020-guide-pse-imi-ju-v1.4_en.pdf\" target=\"_blank\">IMI2 Manual for evaluation, submission and grant award</a>. </strong></span><br />\r\n    &nbsp;</li>\r\n    <li><strong><span style=\"color: rgb(0, 51, 102);\">Indicative timetable for evaluation and grant agreement</span></strong><br />\r\n    &nbsp;</li>\r\n    <li><strong><span style=\"color: rgb(0, 51, 102);\">Provisions, proposal templates and evaluation forms for the type of actions under the Call topics:</span></strong>  <br />\r\n    <br />\r\n    <u>IMI2 Research and Innovation Action (IMI2-RIA) and (IMI2-IA):<br />\r\n    </u><br />\r\n    <a href=\"http://ec.europa.eu/research/participants/data/ref/h2020/other/guides_for_applicants/jtis/h2020-guide-rel-prov-imi-ju_en.pdf\">Summary of the most relevant provisions for participating in IMI2 actions</a><br />\r\n    Proposal templates are available after entering the submission tool<br />\r\n    <a href=\"http://ec.europa.eu/research/participants/data/ref/h2020/other/call_ptef/ef/h2020-call-ef-imi2-ria-ia-2016_en.pdf\">Standard evaluation form</a><br />\r\n    <a href=\"http://ec.europa.eu/research/participants/data/ref/h2020/other/mga/jtis/h2020-mga-imi_en.pdf\" target=\"_blank\">IMI2 Model Grant Agreement</a><br />\r\n    <a href=\"http://ec.europa.eu/research/participants/data/ref/h2020/other/legal/templ/h2020_tmpl-clinical-studies_en.pdf \" target=\"_blank\">     Template for essential clinical trials information</a></li>\r\n</ol>\r\n<p>&nbsp;</p>"
+        ],
+        "title": [
+          "Creation of a pan-European Paediatric Clinical Trials Network "
+        ],
+        "missionDescription": [],
+        "esST_checksum": [
+          "AD6B3A2513A61D8311053B439939C93AE8B58FB6B3009009A244F5CB37987DCD"
+        ],
+        "cftId": [
+          "0"
+        ],
+        "infoPackDossiers": [
+          "[]"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "ccm2Id": [
+          "31081233"
+        ],
+        "REFERENCE": [
+          "31081233ResearchandInnovationaction1483488000000"
+        ],
+        "programmeDivision": [
+          "31047894",
+          "31047893",
+          "31062059",
+          "31045244"
+        ],
+        "crossCuttingPriorities": [],
+        "esDA_IngestDate": [
+          "2024-06-28T10:25:43.729+0200"
+        ],
+        "typesOfAction": [
+          "Research and Innovation action"
+        ],
+        "callUpdates": [
+          "[{\"approvalDate\":\"Feb 26, 2018 3:31:08 PM\",\"lastChangeDate\":\"Feb 26, 2018 3:31:08 PM\",\"content\":\"\\u003cp\\u003eAn overview of the evaluation results (\\u003ca href\\u003d\\\"http://ec.europa.eu/research/participants/portal/doc/call/h2020/imi2-2016-10-01/1805119-imi2_call_10_s2_-_flash_call_info_report_en.pdf\\\" target\\u003d\\\"_blank\\\"\\u003eflash call info \\u0026ndash; IMI2 Call 10 \\u0026ndash; stage two)\\u003c/a\\u003e is now available under the call \\u0026lsquo;Additional documents\\u0026rsquo; tab.\\u003c/p\\u003e\"},{\"approvalDate\":\"Aug 8, 2017 10:03:56 AM\",\"lastChangeDate\":\"Aug 8, 2017 10:03:56 AM\",\"content\":\"\\u003cp\\u003eAn overview of the evaluation results (\\u003ca href\\u003d\\\"http://ec.europa.eu/research/participants/portal/doc/call/h2020/imi2-2016-10-01/1777637-imi2_call_10_-_stage-one_-_falsh_call_info_en.pdf\\\" target\\u003d\\\"_blank\\\"\\u003eflash call info \\u0026ndash; IMI2 Call 10 \\u0026ndash; stage one\\u003c/a\\u003e) is now available under the call \\u0026lsquo;Additional documents\\u0026rsquo; tab.\\u003c/p\\u003e\"},{\"approvalDate\":\"Mar 31, 2017 4:52:59 PM\",\"lastChangeDate\":\"Mar 31, 2017 4:52:05 PM\",\"content\":\"\\u003cp\\u003eA total number of 36 proposals were submitted in response to the IMI2 Call 10\\u0026nbsp; - stage one. The number of proposals for each topic is shown below.\\u003c/p\\u003e\\r\\n\\u003cp\\u003eTopic 1 \\u0026ndash; Understanding hypoglycaemia: 3\\u003cbr /\\u003e\\r\\nTopic 2 \\u0026ndash; Big data \\u0026amp; prostate cancer: 4\\u003cbr /\\u003e\\r\\nTopic 3 \\u0026ndash; Acute \\u0026amp; chronic pain: 6\\u003cbr /\\u003e\\r\\nTopic 4 \\u0026ndash; Pan-European paediatric clinical trials network: 2\\u003cbr /\\u003e\\r\\nTopic 5 \\u0026ndash; Biomanufacturing 2020: 10\\u003cbr /\\u003e\\r\\nTopic 6 \\u0026ndash; Solute carrier gene-family for effective new therapies: 3\\u003cbr /\\u003e\\r\\nTopic 7 \\u0026ndash; Patient perspectives in medicines lifecycle: 5\\u003cbr /\\u003e\\r\\nTopic 8 \\u0026ndash; Personalised medicine in autism spectrum disorders: 3\\u003cbr /\\u003e\\r\\n\\u0026nbsp;\\u003c/p\\u003e\"},{\"approvalDate\":\"Jan 4, 2017 10:24:49 AM\",\"lastChangeDate\":\"Jan 4, 2017 10:24:49 AM\",\"content\":\"The submission session is now available for: IMI2-2016-10-01(IMI2-RIA), IMI2-2016-10-04(IMI2-RIA), IMI2-2016-10-03(IMI2-RIA), IMI2-2016-10-08(IMI2-RIA), IMI2-2016-10-07(IMI2-RIA), IMI2-2016-10-05(IMI2-RIA), IMI2-2016-10-02(IMI2-RIA), IMI2-2016-10-06(IMI2-RIA)\"}]"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/IMI2-2016-10-04.json"
+        ],
+        "additionalDossiers": [
+          "[{\"callId\":52392540211,\"id\":165809132,\"title\":\"Flash Call Info Report\",\"sectionId\":52392540211,\"translationFiles\":[{\"language\":\"en\",\"mimeType\":\"application/pdf\",\"fileSize\":250958,\"docPath\":\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/cap/h2020/imi2-2016-10-04/1805119-imi2_call_10_s2_-_flash_call_info_report_en.pdf\",\"id\":1805119,\"fileName\":\"IMI2 Call 10_S2 - Flash Call Info Report_EN.pdf\",\"common\":false,\"crc32\":4072101944}]},{\"callId\":52392540211,\"id\":165809133,\"title\":\"Call 10 Flash Call Info Report \",\"sectionId\":52392540211,\"translationFiles\":[]}]"
+        ],
+        "allowPartnerSearch": [
+          "true"
+        ],
+        "budgetOverview": [
+          "{\"budgetTopicActionMap\":{\"3209410\":[{\"plannedOpeningDate\":\"04 January 2017\",\"deadlineDates\":[\"28 March 2017\",\"19 October 2017\"],\"action\":\"IMI2-2016-10-01 - IMI2-RIA Research and Innovation action\",\"budgetYearMap\":{\"2016\":348030000},\"budgetTopicActionMap\":{},\"deadlineModel\":\"two-stage\"},{\"plannedOpeningDate\":\"04 January 2017\",\"deadlineDates\":[\"28 March 2017\",\"19 October 2017\"],\"action\":\"IMI2-2016-10-04 - IMI2-RIA Research and Innovation action\",\"budgetYearMap\":{\"2016\":348030000},\"budgetTopicActionMap\":{},\"deadlineModel\":\"two-stage\"},{\"plannedOpeningDate\":\"04 January 2017\",\"deadlineDates\":[\"28 March 2017\",\"19 October 2017\"],\"action\":\"IMI2-2016-10-03 - IMI2-RIA Research and Innovation action\",\"budgetYearMap\":{\"2016\":348030000},\"budgetTopicActionMap\":{},\"deadlineModel\":\"two-stage\"},{\"plannedOpeningDate\":\"04 January 2017\",\"deadlineDates\":[\"28 March 2017\",\"19 October 2017\"],\"action\":\"IMI2-2016-10-08 - IMI2-RIA Research and Innovation action\",\"budgetYearMap\":{\"2016\":348030000},\"budgetTopicActionMap\":{},\"deadlineModel\":\"two-stage\"},{\"plannedOpeningDate\":\"04 January 2017\",\"deadlineDates\":[\"28 March 2017\",\"19 October 2017\"],\"action\":\"IMI2-2016-10-02 - IMI2-RIA Research and Innovation action\",\"budgetYearMap\":{\"2016\":348030000},\"budgetTopicActionMap\":{},\"deadlineModel\":\"two-stage\"},{\"plannedOpeningDate\":\"04 January 2017\",\"deadlineDates\":[\"28 March 2017\",\"19 October 2017\"],\"action\":\"IMI2-2016-10-06 - IMI2-RIA Research and Innovation action\",\"budgetYearMap\":{\"2016\":348030000},\"budgetTopicActionMap\":{},\"deadlineModel\":\"two-stage\"},{\"plannedOpeningDate\":\"04 January 2017\",\"deadlineDates\":[\"28 March 2017\",\"19 October 2017\"],\"action\":\"IMI2-2016-10-05 - IMI2-RIA Research and Innovation action\",\"budgetYearMap\":{\"2016\":348030000},\"budgetTopicActionMap\":{},\"deadlineModel\":\"two-stage\"},{\"plannedOpeningDate\":\"04 January 2017\",\"deadlineDates\":[\"28 March 2017\",\"19 October 2017\"],\"action\":\"IMI2-2016-10-07 - IMI2-RIA Research and Innovation action\",\"budgetYearMap\":{\"2016\":348030000},\"budgetTopicActionMap\":{},\"deadlineModel\":\"two-stage\"}]},\"budgetYearsColumns\":[\"2016\"]}"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "Creation of a pan-European Paediatric <b>Clinical</b> <b>Trials</b> Network"
+      ]
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "HORIZON-MISS-2023-CANCER-01HORIZON-MISS-2023-CANCER-01-031670367644855",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/HORIZON-MISS-2023-CANCER-01-03.json",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Pragmatic clinical trials on minimally invasive diagnostics",
+      "weight": 51.01645,
+      "groupById": null,
+      "content": "Pragmatic <b>clinical</b> <b>trials</b> on minimally invasive diagnostics",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "5000B9C18087ECB3DB35461023A84D80C47B7356CBE27672F95465A7EB3C5DE4",
+      "metadata": {
+        "identifier": [
+          "HORIZON-MISS-2023-CANCER-01-03"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "es_SortDate": [
+          "2022-12-06T23:00:44.855+0000"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "esDA_IngestDate": [
+          "2024-07-05T09:50:08.259+0200"
+        ],
+        "description": [],
+        "language": [
+          "en"
+        ],
+        "title": [
+          "Pragmatic clinical trials on minimally invasive diagnostics"
+        ],
+        "type": [
+          "6"
+        ],
+        "esST_checksum": [
+          "5000B9C18087ECB3DB35461023A84D80C47B7356CBE27672F95465A7EB3C5DE4"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/HORIZON-MISS-2023-CANCER-01-03.json"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/HORIZON-MISS-2023-CANCER-01-03.json"
+        ],
+        "esDA_QueueDate": [
+          "2024-07-05T09:50:07.979+0200"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "callIdentifier": [
+          "HORIZON-MISS-2023-CANCER-01"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "HORIZON-MISS-2023-CANCER-01HORIZON-MISS-2023-CANCER-01-031670367644855"
+        ],
+        "callTitle": [
+          "Research and Innovation actions supporting the implementation of the Mission on Cancer"
+        ],
+        "frameworkProgramme": [
+          "43108390"
+        ],
+        "startDate": [
+          "2022-12-06T23:00:44.855+0000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "Pragmatic <b>clinical</b> <b>trials</b> on minimally invasive diagnostics"
+      ]
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "457410302270338",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/HORIZON-MISS-2023-CANCER-01-03.json",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Pragmatic clinical trials on minimally invasive diagnostics",
+      "weight": 51.01645,
+      "groupById": null,
+      "content": "Pragmatic <b>clinical</b> <b>trials</b> on minimally invasive diagnostics",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "5000B9C18087ECB3DB35461023A84D80C47B7356CBE27672F95465A7EB3C5DE4",
+      "metadata": {
+        "identifier": [
+          "HORIZON-MISS-2023-CANCER-01-03"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "es_SortDate": [
+          "2023-01-11T23:00:06.420+0000"
+        ],
+        "esDA_FirstIngestDate": [
+          "2024-11-22T11:37:20.232+0100"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "esDA_IngestDate": [
+          "2024-11-22T11:37:20.232+0100"
+        ],
+        "description": [
+          "The submission session is now available for: HORIZON-MISS-2023-CANCER-01-03(HORIZON-RIA), HORIZON-MISS-2023-CANCER-01-04(HORIZON-IA), HORIZON-MISS-2023-CANCER-01-02(HORIZON-RIA), HORIZON-MISS-2023-CANCER-01-01(HORIZON-RIA)"
+        ],
+        "language": [
+          "en"
+        ],
+        "title": [
+          "Pragmatic clinical trials on minimally invasive diagnostics"
+        ],
+        "type": [
+          "6"
+        ],
+        "esST_checksum": [
+          "5000B9C18087ECB3DB35461023A84D80C47B7356CBE27672F95465A7EB3C5DE4"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/HORIZON-MISS-2023-CANCER-01-03.json"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/HORIZON-MISS-2023-CANCER-01-03.json"
+        ],
+        "esDA_QueueDate": [
+          "2024-11-22T11:37:20.117+0100"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "callIdentifier": [
+          "HORIZON-MISS-2023-CANCER-01"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "457410302270338"
+        ],
+        "callTitle": [
+          "Research and Innovation actions supporting the implementation of the Mission on Cancer"
+        ],
+        "frameworkProgramme": [
+          "HORIZON"
+        ],
+        "startDate": [
+          "2023-01-11T23:00:06.420+0000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "Pragmatic <b>clinical</b> <b>trials</b> on minimally invasive diagnostics"
+      ]
+    }
+  ]
+}

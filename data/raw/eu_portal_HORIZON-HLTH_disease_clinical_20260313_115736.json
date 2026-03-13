@@ -1,0 +1,429 @@
+{
+  "apiVersion": "2.145.3",
+  "terms": "HORIZON-HLTH disease clinical",
+  "responseTime": 85,
+  "totalResults": 115325,
+  "pageNumber": 1,
+  "pageSize": 50,
+  "sort": "relevance",
+  "groupByField": "sortStatus",
+  "queryLanguage": {
+    "language": "en",
+    "probability": 0.9999965865740843
+  },
+  "spellingSuggestion": "horizon hlth disease clinical",
+  "bestBets": [],
+  "warnings": [],
+  "results_sample": [
+    {
+      "apiVersion": "2.145.3",
+      "reference": "HORIZON-HLTH-2023-DISEASE-031673520187628",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/.json",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "",
+      "weight": 30.351444,
+      "groupById": null,
+      "content": "",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "metadata": {
+        "identifier": [],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "es_SortDate": [
+          "2023-01-12T10:43:07.628+0000"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "esDA_IngestDate": [
+          "2024-07-05T09:47:55.317+0200"
+        ],
+        "description": [
+          "The submission session is now available for: HORIZON-HLTH-2023-DISEASE-03-07(HORIZON-RIA), HORIZON-HLTH-2023-DISEASE-03-03(HORIZON-RIA), HORIZON-HLTH-2023-DISEASE-03-01(HORIZON-RIA), HORIZON-HLTH-2023-DISEASE-03-04(HORIZON-RIA), HORIZON-HLTH-2023-DISEASE-03-06(HORIZON-CSA), HORIZON-HLTH-2023-DISEASE-03-18(HORIZON-RIA), HORIZON-HLTH-2023-DISEASE-03-05(HORIZON-CSA), HORIZON-HLTH-2023-DISEASE-03-17(HORIZON-RIA)"
+        ],
+        "language": [
+          "en"
+        ],
+        "title": [],
+        "type": [
+          "6"
+        ],
+        "esST_checksum": [
+          "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/.json"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/.json"
+        ],
+        "esDA_QueueDate": [
+          "2024-07-05T09:47:55.183+0200"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "callIdentifier": [
+          "HORIZON-HLTH-2023-DISEASE-03"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "HORIZON-HLTH-2023-DISEASE-031673520187628"
+        ],
+        "callTitle": [
+          "Tackling diseases (Single stage - 2023)"
+        ],
+        "frameworkProgramme": [
+          "43108390"
+        ],
+        "startDate": [
+          "2023-01-12T10:43:07.628+0000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": []
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "457012252271259",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2023-DISEASE-03-17.json",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Pandemic preparedness and response: Understanding vaccine induced-immunity",
+      "weight": 30.351444,
+      "groupById": null,
+      "content": "Pandemic preparedness and response: Understanding vaccine induced-immunity",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "3F83D8323C56D51D3C735F11822FE5F0C96B3A3F12AC15F1B810D6046266EB98",
+      "metadata": {
+        "identifier": [
+          "HORIZON-HLTH-2023-DISEASE-03-17"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "es_SortDate": [
+          "2023-01-12T10:43:07.628+0000"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "esDA_IngestDate": [
+          "2026-02-17T17:52:45.112+0100"
+        ],
+        "description": [
+          "The submission session is now available for: HORIZON-HLTH-2023-DISEASE-03-07(HORIZON-RIA), HORIZON-HLTH-2023-DISEASE-03-03(HORIZON-RIA), HORIZON-HLTH-2023-DISEASE-03-01(HORIZON-RIA), HORIZON-HLTH-2023-DISEASE-03-04(HORIZON-RIA), HORIZON-HLTH-2023-DISEASE-03-06(HORIZON-CSA), HORIZON-HLTH-2023-DISEASE-03-18(HORIZON-RIA), HORIZON-HLTH-2023-DISEASE-03-05(HORIZON-CSA), HORIZON-HLTH-2023-DISEASE-03-17(HORIZON-RIA)"
+        ],
+        "language": [
+          "en"
+        ],
+        "title": [
+          "Pandemic preparedness and response: Understanding vaccine induced-immunity"
+        ],
+        "type": [
+          "6"
+        ],
+        "esST_checksum": [
+          "3F83D8323C56D51D3C735F11822FE5F0C96B3A3F12AC15F1B810D6046266EB98"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2023-DISEASE-03-17.json"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2023-DISEASE-03-17.json"
+        ],
+        "esDA_QueueDate": [
+          "2026-02-17T17:52:45.099+0100"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "callIdentifier": [
+          "HORIZON-HLTH-2023-DISEASE-03"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "457012252271259"
+        ],
+        "callTitle": [
+          "Tackling diseases (Single stage - 2023)"
+        ],
+        "frameworkProgramme": [
+          "43108390"
+        ],
+        "startDate": [
+          "2023-01-12T10:43:07.628+0000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": []
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "457018912271282",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2023-DISEASE-03-04.json",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Pandemic preparedness and response: Broad spectrum anti-viral therapeutics for infectious diseases with epidemic potential",
+      "weight": 30.351444,
+      "groupById": null,
+      "content": "Pandemic preparedness and response: Broad spectrum anti-viral therapeutics for infectious <b>diseases</b> with epidemic potential",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "F8B1E0B5922359990DC842013BBE7D397DACB8C7308B264BCE8EE4CA75987B09",
+      "metadata": {
+        "identifier": [
+          "HORIZON-HLTH-2023-DISEASE-03-04"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "es_SortDate": [
+          "2023-01-12T10:43:07.628+0000"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "esDA_IngestDate": [
+          "2026-02-17T17:52:45.828+0100"
+        ],
+        "description": [
+          "The submission session is now available for: HORIZON-HLTH-2023-DISEASE-03-07(HORIZON-RIA), HORIZON-HLTH-2023-DISEASE-03-03(HORIZON-RIA), HORIZON-HLTH-2023-DISEASE-03-01(HORIZON-RIA), HORIZON-HLTH-2023-DISEASE-03-04(HORIZON-RIA), HORIZON-HLTH-2023-DISEASE-03-06(HORIZON-CSA), HORIZON-HLTH-2023-DISEASE-03-18(HORIZON-RIA), HORIZON-HLTH-2023-DISEASE-03-05(HORIZON-CSA), HORIZON-HLTH-2023-DISEASE-03-17(HORIZON-RIA)"
+        ],
+        "language": [
+          "en"
+        ],
+        "title": [
+          "Pandemic preparedness and response: Broad spectrum anti-viral therapeutics for infectious diseases with epidemic potential"
+        ],
+        "type": [
+          "6"
+        ],
+        "esST_checksum": [
+          "F8B1E0B5922359990DC842013BBE7D397DACB8C7308B264BCE8EE4CA75987B09"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2023-DISEASE-03-04.json"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2023-DISEASE-03-04.json"
+        ],
+        "esDA_QueueDate": [
+          "2026-02-17T17:52:45.816+0100"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "callIdentifier": [
+          "HORIZON-HLTH-2023-DISEASE-03"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "457018912271282"
+        ],
+        "callTitle": [
+          "Tackling diseases (Single stage - 2023)"
+        ],
+        "frameworkProgramme": [
+          "43108390"
+        ],
+        "startDate": [
+          "2023-01-12T10:43:07.628+0000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "Pandemic preparedness and response: Broad spectrum anti-viral therapeutics for infectious <b>diseases</b> with epidemic potential"
+      ]
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "457012632271285",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2023-DISEASE-03-18.json",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Pandemic preparedness and response: Immunogenicity of viral proteins of viruses with epidemic and pandemic potential",
+      "weight": 30.351444,
+      "groupById": null,
+      "content": "Pandemic preparedness and response: Immunogenicity of viral proteins of viruses with epidemic and pandemic potential",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "74EC5525A857B363AFF061DF0890FFA25BEA2ABF752B554890AE413B533C6E12",
+      "metadata": {
+        "identifier": [
+          "HORIZON-HLTH-2023-DISEASE-03-18"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "es_SortDate": [
+          "2023-01-12T10:43:07.628+0000"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "esDA_IngestDate": [
+          "2026-02-17T17:52:46.437+0100"
+        ],
+        "description": [
+          "The submission session is now available for: HORIZON-HLTH-2023-DISEASE-03-07(HORIZON-RIA), HORIZON-HLTH-2023-DISEASE-03-03(HORIZON-RIA), HORIZON-HLTH-2023-DISEASE-03-01(HORIZON-RIA), HORIZON-HLTH-2023-DISEASE-03-04(HORIZON-RIA), HORIZON-HLTH-2023-DISEASE-03-06(HORIZON-CSA), HORIZON-HLTH-2023-DISEASE-03-18(HORIZON-RIA), HORIZON-HLTH-2023-DISEASE-03-05(HORIZON-CSA), HORIZON-HLTH-2023-DISEASE-03-17(HORIZON-RIA)"
+        ],
+        "language": [
+          "en"
+        ],
+        "title": [
+          "Pandemic preparedness and response: Immunogenicity of viral proteins of viruses with epidemic and pandemic potential"
+        ],
+        "type": [
+          "6"
+        ],
+        "esST_checksum": [
+          "74EC5525A857B363AFF061DF0890FFA25BEA2ABF752B554890AE413B533C6E12"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2023-DISEASE-03-18.json"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2023-DISEASE-03-18.json"
+        ],
+        "esDA_QueueDate": [
+          "2026-02-17T17:52:46.423+0100"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "callIdentifier": [
+          "HORIZON-HLTH-2023-DISEASE-03"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "457012632271285"
+        ],
+        "callTitle": [
+          "Tackling diseases (Single stage - 2023)"
+        ],
+        "frameworkProgramme": [
+          "43108390"
+        ],
+        "startDate": [
+          "2023-01-12T10:43:07.628+0000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": []
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "457005192271315",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2023-DISEASE-03-03.json",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Interventions in city environments to reduce risk of non-communicable disease (Global Alliance for Chronic Diseases - GACD)",
+      "weight": 30.351444,
+      "groupById": null,
+      "content": "Interventions in city environments to reduce risk of non-communicable <b>disease</b> (Global Alliance for Chronic <b>Diseases</b> - GACD)",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "C6857EDE2E50C33A252D5F2D5033AE4CBE2A24F6E71B87C53F7F226ABAEB9DA9",
+      "metadata": {
+        "identifier": [
+          "HORIZON-HLTH-2023-DISEASE-03-03"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "es_SortDate": [
+          "2023-01-12T10:43:07.628+0000"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "esDA_IngestDate": [
+          "2026-02-17T17:52:47.025+0100"
+        ],
+        "description": [
+          "The submission session is now available for: HORIZON-HLTH-2023-DISEASE-03-07(HORIZON-RIA), HORIZON-HLTH-2023-DISEASE-03-03(HORIZON-RIA), HORIZON-HLTH-2023-DISEASE-03-01(HORIZON-RIA), HORIZON-HLTH-2023-DISEASE-03-04(HORIZON-RIA), HORIZON-HLTH-2023-DISEASE-03-06(HORIZON-CSA), HORIZON-HLTH-2023-DISEASE-03-18(HORIZON-RIA), HORIZON-HLTH-2023-DISEASE-03-05(HORIZON-CSA), HORIZON-HLTH-2023-DISEASE-03-17(HORIZON-RIA)"
+        ],
+        "language": [
+          "en"
+        ],
+        "title": [
+          "Interventions in city environments to reduce risk of non-communicable disease (Global Alliance for Chronic Diseases - GACD)"
+        ],
+        "type": [
+          "6"
+        ],
+        "esST_checksum": [
+          "C6857EDE2E50C33A252D5F2D5033AE4CBE2A24F6E71B87C53F7F226ABAEB9DA9"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2023-DISEASE-03-03.json"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2023-DISEASE-03-03.json"
+        ],
+        "esDA_QueueDate": [
+          "2026-02-17T17:52:47.011+0100"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "callIdentifier": [
+          "HORIZON-HLTH-2023-DISEASE-03"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "457005192271315"
+        ],
+        "callTitle": [
+          "Tackling diseases (Single stage - 2023)"
+        ],
+        "frameworkProgramme": [
+          "43108390"
+        ],
+        "startDate": [
+          "2023-01-12T10:43:07.628+0000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "Interventions in city environments to reduce risk of non-communicable <b>disease</b> (Global Alliance for Chronic <b>Diseases</b> - GACD)"
+      ]
+    }
+  ]
+}

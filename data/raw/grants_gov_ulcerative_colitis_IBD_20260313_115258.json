@@ -1,0 +1,181 @@
+{
+  "errorcode": 0,
+  "msg": "Webservice Succeeds",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.IisvdXRiakp2YmxEd3p3WmxjcC93dmR5NzVOeFFPYi81b2VVQWduU201ZFU9Ig.4Txk3_iZ6fyDkEzSre077GwBBKu0HU2jdSdhNbenClo",
+  "data": {
+    "searchParams": {
+      "resultType": "json",
+      "searchOnly": false,
+      "oppNum": "",
+      "cfda": "",
+      "sortBy": "openDate|desc",
+      "oppStatuses": "posted|forecasted",
+      "startRecordNum": 0,
+      "eligibilities": "",
+      "fundingInstruments": "",
+      "fundingCategories": "",
+      "agencies": "",
+      "rows": 100,
+      "keyword": "ulcerative colitis IBD",
+      "keywordEncoded": true
+    },
+    "hitCount": 2,
+    "startRecord": 0,
+    "oppHits": [
+      {
+        "id": "360622",
+        "number": "RFA-DK-27-124",
+        "title": "The NIDDK Inflammatory Bowel Disease Genetics Consortium (IBDGC) Data Coordinating Center",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "09/18/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.847"
+        ]
+      },
+      {
+        "id": "360621",
+        "number": "RFA-DK-27-116",
+        "title": "The NIDDK Inflammatory Bowel Disease Genetics Consortium (IBDGC) Genomic Research Centers",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "09/18/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.847"
+        ]
+      }
+    ],
+    "oppStatusOptions": [
+      {
+        "label": "posted",
+        "value": "posted",
+        "count": 0
+      },
+      {
+        "label": "closed",
+        "value": "closed",
+        "count": 2
+      },
+      {
+        "label": "archived",
+        "value": "archived",
+        "count": 46
+      },
+      {
+        "label": "forecasted",
+        "value": "forecasted",
+        "count": 2
+      }
+    ],
+    "dateRangeOptions": [],
+    "suggestion": "",
+    "eligibilities": [
+      {
+        "label": "City or township governments",
+        "value": "02",
+        "count": 2
+      },
+      {
+        "label": "County governments",
+        "value": "01",
+        "count": 2
+      },
+      {
+        "label": "For profit organizations other than small businesses",
+        "value": "22",
+        "count": 2
+      },
+      {
+        "label": "Independent school districts",
+        "value": "05",
+        "count": 2
+      },
+      {
+        "label": "Native American tribal governments (Federally recognized)",
+        "value": "07",
+        "count": 2
+      },
+      {
+        "label": "Native American tribal organizations (other than Federally recognized tribal governments)",
+        "value": "11",
+        "count": 2
+      },
+      {
+        "label": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "value": "12",
+        "count": 2
+      },
+      {
+        "label": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)",
+        "value": "25",
+        "count": 2
+      },
+      {
+        "label": "Private institutions of higher education",
+        "value": "20",
+        "count": 2
+      },
+      {
+        "label": "Public and State controlled institutions of higher education",
+        "value": "06",
+        "count": 2
+      },
+      {
+        "label": "Public housing authorities/Indian housing authorities",
+        "value": "08",
+        "count": 2
+      },
+      {
+        "label": "Small businesses",
+        "value": "23",
+        "count": 2
+      },
+      {
+        "label": "Special district governments",
+        "value": "04",
+        "count": 2
+      },
+      {
+        "label": "State governments",
+        "value": "00",
+        "count": 2
+      }
+    ],
+    "fundingCategories": [
+      {
+        "label": "Health",
+        "value": "HL",
+        "count": 2
+      }
+    ],
+    "fundingInstruments": [
+      {
+        "label": "Cooperative Agreement",
+        "value": "CA",
+        "count": 2
+      }
+    ],
+    "agencies": [
+      {
+        "subAgencyOptions": [
+          {
+            "label": "National Institutes of Health",
+            "value": "HHS-NIH11",
+            "count": 2
+          }
+        ],
+        "label": "Department of Health and Human Services",
+        "value": "HHS",
+        "count": 2
+      }
+    ],
+    "accessKey": "",
+    "errorMsgs": []
+  }
+}

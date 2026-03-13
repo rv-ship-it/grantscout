@@ -1,0 +1,866 @@
+{
+  "apiVersion": "2.145.3",
+  "terms": "health data interoperability",
+  "responseTime": 146,
+  "totalResults": 120157,
+  "pageNumber": 1,
+  "pageSize": 50,
+  "sort": "relevance",
+  "groupByField": "sortStatus",
+  "queryLanguage": {
+    "language": "en",
+    "probability": 0.9999959183644125
+  },
+  "spellingSuggestion": "health data interoperability",
+  "bestBets": [],
+  "warnings": [],
+  "results_sample": [
+    {
+      "apiVersion": "2.145.3",
+      "reference": "43108390101057849",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/43108390/101057849/HORIZON",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "A European Health Data Toolbox for Enhancing Cardiology Data Interoperability, Reusability and Privacy",
+      "weight": 25.583033,
+      "groupById": null,
+      "content": "A European <b>Health</b> <b>Data</b> Toolbox for Enhancing Cardiology <b>Data</b> <b>Interoperability</b>, Reusability and Privacy",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "9C4967C1D3BF115F5D0446DDF82737AB60ACD0D9B93A2C947E2EBDC622DA8A89",
+      "metadata": {
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "es_SortDate": [
+          "2022-10-01T00:00:00.000+0100"
+        ],
+        "programmeDivision": [
+          "43108638",
+          "43108557",
+          "43108541"
+        ],
+        "crossCuttingPriorities": [
+          "EoscAndFairData",
+          "DigitalAgenda",
+          "SSH"
+        ],
+        "esDA_FirstIngestDate": [
+          "2025-07-09T11:22:13.771+0200"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "esDA_IngestDate": [
+          "2025-07-09T11:22:13.771+0200"
+        ],
+        "destination": [
+          "43650675"
+        ],
+        "language": [
+          "en"
+        ],
+        "title": [
+          "A European Health Data Toolbox for Enhancing Cardiology Data Interoperability, Reusability and Privacy"
+        ],
+        "esST_checksum": [
+          "9C4967C1D3BF115F5D0446DDF82737AB60ACD0D9B93A2C947E2EBDC622DA8A89"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/43108390/101057849/HORIZON"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/43108390/101057849/HORIZON"
+        ],
+        "esDA_QueueDate": [
+          "2025-07-09T11:22:13.762+0200"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "typeOfMGAs": [
+          "43027846"
+        ],
+        "callIdentifier": [
+          "HORIZON-HLTH-2021-TOOL-06"
+        ],
+        "destinationGroup": [
+          "45355250"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "43108390101057849"
+        ],
+        "projectId": [
+          "101057849"
+        ],
+        "startDate": [
+          "2022-10-01T00:00:00.000+0100"
+        ],
+        "status": [
+          "Ongoing"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "A European <b>Health</b> <b>Data</b> Toolbox for Enhancing Cardiology <b>Data</b> <b>Interoperability</b>, Reusability and Privacy"
+      ]
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "4657en",
+      "url": "https://etendering.ted.europa.eu/cft/cft-display.html?cftId=4657",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "EHealth, Interoperability of Health Data and Artificial Intelligence for Health and Care in the EU \u2013 Smart 2019/0056",
+      "weight": 24.483725,
+      "groupById": "3",
+      "content": "EHealth, <b>Interoperability</b> of <b>Health</b> <b>Data</b> and Artificial Intelligence for <b>Health</b> and Care in the EU \u2013 Smart 2019/0056",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "6B4FD4E83F9A8E3EC430266DB45031C27718F2BDE1C49218F78D9A3208BB48FF",
+      "metadata": {
+        "es_SortDate": [
+          "2019-08-07T00:00:00.000+0000"
+        ],
+        "cftPartyLegalEntityId": [
+          "47352536"
+        ],
+        "cftMaxNumberOfLots": [],
+        "contractType": [
+          "31095498"
+        ],
+        "awardMethod": [],
+        "cftContractingSystems": [
+          "PUBLIC_CONTRACT"
+        ],
+        "language": [
+          "en"
+        ],
+        "type": [
+          "0"
+        ],
+        "cftDocuments": [
+          "{\"cftDocuments\":[{\"documentPublicationID\":\"66410\",\"languageCode\":\"ENG\",\"documentTitle\":\"SMART 2019/0056 Annexes\",\"documentType\":\"Annexes\",\"considerChangedUntilDate\":\"2019-08-07T12:00:00\",\"documentChangeCode\":\"NEW\",\"changedNotificationText\":\"NEW\",\"hermesDocumentReferences\":[{\"documentID\":\"66410\",\"attachmentID\":\"58361\",\"versionNR\":\"1\",\"isCurrentVersion\":\"Y\",\"publicationDate\":\"2019-08-07T12:00:00\",\"documentFileName\":\"4657_66410_EN-SMART_2019-0056_annexes_ENG_V1.docx\",\"publicationFormat\":\"1DOC\"}],\"obsolete\":false},{\"documentPublicationID\":\"66408\",\"languageCode\":\"ENG\",\"documentTitle\":\"SMART 2019/0056 Tender Specifications\",\"documentType\":\"Technical Specifications\",\"considerChangedUntilDate\":\"2019-08-07T12:00:00\",\"documentChangeCode\":\"NEW\",\"changedNotificationText\":\"NEW\",\"hermesDocumentReferences\":[{\"documentID\":\"66408\",\"attachmentID\":\"58359\",\"versionNR\":\"1\",\"isCurrentVersion\":\"Y\",\"publicationDate\":\"2019-08-07T12:00:00\",\"documentFileName\":\"4657_66408_EN-SMART_2019-0056_Tender_Specifications_ENG_V1.pdf\",\"publicationFormat\":\"1PD\"}],\"obsolete\":false},{\"documentPublicationID\":\"66406\",\"languageCode\":\"ENG\",\"documentTitle\":\"SMART 2019/0056 Model Service Contract\",\"documentType\":\"Draft Contract\",\"considerChangedUntilDate\":\"2019-08-07T12:00:00\",\"documentChangeCode\":\"NEW\",\"changedNotificationText\":\"NEW\",\"hermesDocumentReferences\":[{\"documentID\":\"66406\",\"attachmentID\":\"58357\",\"versionNR\":\"1\",\"isCurrentVersion\":\"Y\",\"publicationDate\":\"2019-08-07T12:00:00\",\"documentFileName\":\"4657_66406_EN-SMART_2019-0056_model_service_contract_ENG_V1.pdf\",\"publicationFormat\":\"1PD\"}],\"obsolete\":false},{\"documentPublicationID\":\"66858\",\"languageCode\":\"ENG\",\"documentTitle\":\"SMART 2019/0056 Invitation to tender\",\"documentType\":\"Invitation\",\"considerChangedUntilDate\":\"2019-08-07T12:00:00\",\"documentChangeCode\":\"NEW\",\"changedNotificationText\":\"NEW\",\"hermesDocumentReferences\":[{\"documentID\":\"66405\",\"attachmentID\":\"58356\",\"versionNR\":\"1\",\"isCurrentVersion\":\"N\",\"publicationDate\":\"2019-08-07T12:00:00\",\"documentFileName\":\"4657_66405_EN-SMART_2019-0056_invitation_to_tender_ENG_V1.pdf\",\"publicationFormat\":\"1PD\",\"translations\":[{\"translationAttachmentID\":\"6\",\"translationLanguageCode\":\"ENG\",\"translationTitle\":\"SMART 2019/0056 Invitation to tender\",\"translationFileName\":\"4657_66405_EN-SMART_2019-0056_invitation_to_tender_ENG_V1.pdf\",\"documentFileName\":\"4657_66405_EN-SMART_2019-0056_invitation_to_tender_ENG_V1.pdf\"}]},{\"documentID\":\"66858\",\"attachmentID\":\"58356\",\"versionNR\":\"2\",\"isCurrentVersion\":\"Y\",\"publicationDate\":\"2019-08-07T12:00:00\",\"documentFileName\":\"4657_66858_EN-SMART_2019-0056_invitation_to_tender_001_ENG_V2.pdf\",\"publicationFormat\":\"2PD\"}],\"obsolete\":false}]}"
+        ],
+        "callIdentifier": [
+          "SMART 2019/0056"
+        ],
+        "cftSubmissionsAllowed": [],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "cftPublicationDisplayStatus": [],
+        "identifier": [
+          "5a2db021-74b4-45e9-a914-71efa4c1ab25"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "programmePeriod": [
+          "2014 - 2020",
+          "2021 - 2027"
+        ],
+        "cftSubscriptionsAllowed": [],
+        "deadlineDate": [
+          "2019-09-23T15:00:00.000+0000"
+        ],
+        "cftCorrigendaList": [],
+        "closingDate": [
+          "2019-09-23T15:00:00Z"
+        ],
+        "es_Combine": [
+          "3"
+        ],
+        "esST_URL": [
+          "https://etendering.ted.europa.eu/cft/cft-display.html?cftId=4657"
+        ],
+        "esDA_QueueDate": [
+          "2024-09-27T15:45:08.860+0200"
+        ],
+        "mainCpv": [
+          "73200000"
+        ],
+        "mainCpvCode": [
+          "{\"mainCode\":\"73200000\",\"supplementaryCode\":[]}"
+        ],
+        "startDate": [
+          "2019-08-07T00:00:00.000+0000"
+        ],
+        "placesOfDeliveryOrPerformance": [
+          "LU000"
+        ],
+        "status": [
+          "31094503"
+        ],
+        "procedureType": [
+          "47396220"
+        ],
+        "updateDate": [
+          "2019-09-27T11:00:00.000+0000"
+        ],
+        "sortStatus": [
+          "3"
+        ],
+        "conditionOfParticipation": [
+          "{\"id\":463860,\"cft_id\":4657,\"publishedDate\":null,\"language\":\"EN\",\"excCrit\":\"See internet address provided in Section I.3.\",\"inInfo\":\"Selection criteria as stated in the procurement documents\",\"finMin\":\"Selection criteria as stated in the procurement documents\",\"tecInfo\":\"Selection criteria as stated in the procurement documents\",\"tecMin\":\"Selection criteria as stated in the procurement documents\",\"accProc\":null}"
+        ],
+        "description": [
+          "The studies will survey and analyse progress on the digital transformation of the health and care in the EU, particularly with regard to citizens\u2019 access to their Electronic health records (EHR). It will provide an overview of the current situation in the EU Member States with regard to the development of interoperable EHR systems and enabling technological solutions such as electronic identification, distributed ledger and cybersecurity. The results of the study will support and inform the ongoing work of the EU and Member States on the interoperability of EHR systems, in particular with regard to the development of the European EHR exchange format."
+        ],
+        "title": [
+          "EHealth, Interoperability of Health Data and Artificial Intelligence for Health and Care in the EU \u2013 Smart 2019/0056"
+        ],
+        "esST_checksum": [
+          "6B4FD4E83F9A8E3EC430266DB45031C27718F2BDE1C49218F78D9A3208BB48FF"
+        ],
+        "cftId": [
+          "4657"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "REFERENCE": [
+          "4657en"
+        ],
+        "cftTendersMayBeSubmitted": [
+          "ONE_OR_MORE_LOT"
+        ],
+        "cftTimezone": [],
+        "cftEstimatedTotalProcedureValue": [],
+        "additionalCpvs": [
+          "[]"
+        ],
+        "cftContractNoticeLink": [
+          "[{\"noticeType\":\"1\",\"publicationDate\":\"07/08/19\",\"publicationReference\":\"2019/S 151-371416\",\"link\":\"http://ted.europa.eu/udl?uri=TED:NOTICE:371416-2019:TEXT:EN:HTML\"}]"
+        ],
+        "cftRepublish": [],
+        "cftSubmissionMethodCode": [
+          "ESUBMISSION"
+        ],
+        "cftProcurementType": [],
+        "caName": [
+          "11"
+        ],
+        "cftPlannedDate": [],
+        "publicationDocuments": [
+          "[\"EN\"]"
+        ],
+        "esDA_IngestDate": [
+          "2024-09-27T15:45:09.378+0200"
+        ],
+        "cftInterinstitutional": [],
+        "cftQuestionsAnswersAllowed": [],
+        "url": [
+          "https://etendering.ted.europa.eu/cft/cft-display.html?cftId=4657"
+        ],
+        "lots": [
+          "[{\"number\":\"2\",\"title\":\"Artificial Intelligence for Health and Care in the EU\",\"description\":\"Artificial intelligence for health and care in the EU. The study aims to survey and analyse progress on the adoption of Artificial intelligence (AI) technologies for the benefit of patients and health and care systems in the EU. It will provide an overview of the current situation with regard to the development, adoption and use of AI technologies and applications in the health and care sector in the EU Member States. The results of the study will support and inform EU policy initiatives aiming to leverage AI and big data for digitally transforming and improving health and care in the EU.\",\"nuts\":[\"LU000\"],\"additionalCpvs\":[],\"estimatedValue\":null,\"awardMethod\":\"4\",\"lng\":null},{\"number\":\"1\",\"title\":\"Interoperability of Electronic Health Records in the EU\",\"description\":\"Interoperability of Electronic health records in the EU. The study seeks to survey and analyse progress on the digital transformation of the health and care in the EU, particularly with regard to citizens\u2019 access to their Electronic health records (EHR). It will provide an overview of the current situation in the EU Member States with regard to the development of interoperable EHR systems and enabling technological solutions such as electronic identification, distributed ledger and cybersecurity. The results of the study will support and inform the ongoing work of the EU and Member States on the interoperability of EHR systems, in particular with regard to the development of the European EHR exchange format.\",\"nuts\":[\"LU000\"],\"additionalCpvs\":[],\"estimatedValue\":null,\"awardMethod\":\"4\",\"lng\":null}]"
+        ],
+        "cftEXARegistrationDeadline": [],
+        "indicativeLaunch": [],
+        "cftLeadContractingAuthorityCode": [
+          "null"
+        ],
+        "cftBuyerProfileUrl": [
+          "https://ec.europa.eu/digital-single-market/en/newsroom/call-tenders/"
+        ],
+        "cftPublicationDateEForm": [
+          "07/08/2019 00:00:00"
+        ],
+        "cftEstimatedOverallContractCurrency": []
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "EHealth, <b>Interoperability</b> of <b>Health</b> <b>Data</b> and Artificial Intelligence for <b>Health</b> and Care in the EU \u2013 Smart 2019/0056"
+      ]
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "4657cs",
+      "url": "https://etendering.ted.europa.eu/cft/cft-display.html?cftId=4657",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "cs",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "EHealth, Interoperability of Health Data and Artificial Intelligence for Health and Care in the EU \u2013 Smart 2019/0056",
+      "weight": 22.204748,
+      "groupById": "3",
+      "content": "EHealth, <b>Interoperability</b> of <b>Health</b> <b>Data</b> and Artificial Intelligence for <b>Health</b> and Care in the EU \u2013 Smart 2019/0056",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "6B4FD4E83F9A8E3EC430266DB45031C27718F2BDE1C49218F78D9A3208BB48FF",
+      "metadata": {
+        "es_SortDate": [
+          "2019-08-07T00:00:00.000+0000"
+        ],
+        "cftPartyLegalEntityId": [
+          "47352536"
+        ],
+        "cftMaxNumberOfLots": [],
+        "contractType": [
+          "31095498"
+        ],
+        "awardMethod": [],
+        "cftContractingSystems": [
+          "PUBLIC_CONTRACT"
+        ],
+        "language": [
+          "cs"
+        ],
+        "type": [
+          "0"
+        ],
+        "cftDocuments": [
+          "{\"cftDocuments\":[{\"documentPublicationID\":\"66410\",\"languageCode\":\"ENG\",\"documentTitle\":\"SMART 2019/0056 Annexes\",\"documentType\":\"Annexes\",\"considerChangedUntilDate\":\"2019-08-07T12:00:00\",\"documentChangeCode\":\"NEW\",\"changedNotificationText\":\"NEW\",\"hermesDocumentReferences\":[{\"documentID\":\"66410\",\"attachmentID\":\"58361\",\"versionNR\":\"1\",\"isCurrentVersion\":\"Y\",\"publicationDate\":\"2019-08-07T12:00:00\",\"documentFileName\":\"4657_66410_EN-SMART_2019-0056_annexes_ENG_V1.docx\",\"publicationFormat\":\"1DOC\"}],\"obsolete\":false},{\"documentPublicationID\":\"66408\",\"languageCode\":\"ENG\",\"documentTitle\":\"SMART 2019/0056 Tender Specifications\",\"documentType\":\"Technical Specifications\",\"considerChangedUntilDate\":\"2019-08-07T12:00:00\",\"documentChangeCode\":\"NEW\",\"changedNotificationText\":\"NEW\",\"hermesDocumentReferences\":[{\"documentID\":\"66408\",\"attachmentID\":\"58359\",\"versionNR\":\"1\",\"isCurrentVersion\":\"Y\",\"publicationDate\":\"2019-08-07T12:00:00\",\"documentFileName\":\"4657_66408_EN-SMART_2019-0056_Tender_Specifications_ENG_V1.pdf\",\"publicationFormat\":\"1PD\"}],\"obsolete\":false},{\"documentPublicationID\":\"66406\",\"languageCode\":\"ENG\",\"documentTitle\":\"SMART 2019/0056 Model Service Contract\",\"documentType\":\"Draft Contract\",\"considerChangedUntilDate\":\"2019-08-07T12:00:00\",\"documentChangeCode\":\"NEW\",\"changedNotificationText\":\"NEW\",\"hermesDocumentReferences\":[{\"documentID\":\"66406\",\"attachmentID\":\"58357\",\"versionNR\":\"1\",\"isCurrentVersion\":\"Y\",\"publicationDate\":\"2019-08-07T12:00:00\",\"documentFileName\":\"4657_66406_EN-SMART_2019-0056_model_service_contract_ENG_V1.pdf\",\"publicationFormat\":\"1PD\"}],\"obsolete\":false},{\"documentPublicationID\":\"66858\",\"languageCode\":\"ENG\",\"documentTitle\":\"SMART 2019/0056 Invitation to tender\",\"documentType\":\"Invitation\",\"considerChangedUntilDate\":\"2019-08-07T12:00:00\",\"documentChangeCode\":\"NEW\",\"changedNotificationText\":\"NEW\",\"hermesDocumentReferences\":[{\"documentID\":\"66405\",\"attachmentID\":\"58356\",\"versionNR\":\"1\",\"isCurrentVersion\":\"N\",\"publicationDate\":\"2019-08-07T12:00:00\",\"documentFileName\":\"4657_66405_EN-SMART_2019-0056_invitation_to_tender_ENG_V1.pdf\",\"publicationFormat\":\"1PD\",\"translations\":[{\"translationAttachmentID\":\"6\",\"translationLanguageCode\":\"ENG\",\"translationTitle\":\"SMART 2019/0056 Invitation to tender\",\"translationFileName\":\"4657_66405_EN-SMART_2019-0056_invitation_to_tender_ENG_V1.pdf\",\"documentFileName\":\"4657_66405_EN-SMART_2019-0056_invitation_to_tender_ENG_V1.pdf\"}]},{\"documentID\":\"66858\",\"attachmentID\":\"58356\",\"versionNR\":\"2\",\"isCurrentVersion\":\"Y\",\"publicationDate\":\"2019-08-07T12:00:00\",\"documentFileName\":\"4657_66858_EN-SMART_2019-0056_invitation_to_tender_001_ENG_V2.pdf\",\"publicationFormat\":\"2PD\"}],\"obsolete\":false}]}"
+        ],
+        "callIdentifier": [
+          "SMART 2019/0056"
+        ],
+        "cftSubmissionsAllowed": [],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "cftPublicationDisplayStatus": [],
+        "identifier": [
+          "5a2db021-74b4-45e9-a914-71efa4c1ab25"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "programmePeriod": [
+          "2014 - 2020",
+          "2021 - 2027"
+        ],
+        "cftSubscriptionsAllowed": [],
+        "deadlineDate": [
+          "2019-09-23T15:00:00.000+0000"
+        ],
+        "cftCorrigendaList": [],
+        "closingDate": [
+          "2019-09-23T15:00:00Z"
+        ],
+        "es_Combine": [
+          "3"
+        ],
+        "esST_URL": [
+          "https://etendering.ted.europa.eu/cft/cft-display.html?cftId=4657"
+        ],
+        "esDA_QueueDate": [
+          "2024-09-27T15:44:58.435+0200"
+        ],
+        "mainCpv": [
+          "73200000"
+        ],
+        "mainCpvCode": [
+          "{\"mainCode\":\"73200000\",\"supplementaryCode\":[]}"
+        ],
+        "startDate": [
+          "2019-08-07T00:00:00.000+0000"
+        ],
+        "placesOfDeliveryOrPerformance": [
+          "LU000"
+        ],
+        "status": [
+          "31094503"
+        ],
+        "procedureType": [
+          "47396220"
+        ],
+        "updateDate": [
+          "2019-09-27T11:00:00.000+0000"
+        ],
+        "sortStatus": [
+          "3"
+        ],
+        "conditionOfParticipation": [
+          "{\"id\":463874,\"cft_id\":4657,\"publishedDate\":null,\"language\":\"CS\",\"excCrit\":\"Viz internetov\u00e1 adresa uveden\u00e1 v odd\u00edle I.3).\",\"inInfo\":\"Krit\u00e9ria pro v\u00fdb\u011br jsou uvedena v zad\u00e1vac\u00ed dokumentaci\",\"finMin\":\"Krit\u00e9ria pro v\u00fdb\u011br jsou uvedena v zad\u00e1vac\u00ed dokumentaci\",\"tecInfo\":\"Krit\u00e9ria pro v\u00fdb\u011br jsou uvedena v zad\u00e1vac\u00ed dokumentaci\",\"tecMin\":\"Krit\u00e9ria pro v\u00fdb\u011br jsou uvedena v zad\u00e1vac\u00ed dokumentaci\",\"accProc\":null}"
+        ],
+        "description": [
+          "V r\u00e1mci studi\u00ed bude proveden pr\u016fzkum a anal\u00fdza pokroku v souvislosti s digit\u00e1ln\u00ed transformac\u00ed zdravotnictv\u00ed a pe\u010dovatelstv\u00ed v EU, zejm\u00e9na s ohledem na p\u0159\u00edstup ob\u010dan\u016f k elektronick\u00fdm zdravotn\u00edm z\u00e1znam\u016fm. Bude poskytnut p\u0159ehled o sou\u010dasn\u00e9 situaci v \u010dlensk\u00fdch zem\u00edch EU s ohledem na v\u00fdvoj interoperabiln\u00edch syst\u00e9m\u016f elektronick\u00fdch zdravotn\u00edch z\u00e1znam\u016f a umo\u017en\u011bna technick\u00e1 \u0159e\u0161en\u00ed jako elektronick\u00e1 identifikace, distribuovan\u00e1 \u00fa\u010detn\u00ed kniha a kybernetick\u00e1 bezpe\u010dnost. V\u00fdsledky studie podpo\u0159\u00ed a poskytnou informace o prob\u00edhaj\u00edc\u00ed pr\u00e1ci EU a \u010dlensk\u00fdch zem\u00ed o interoperabilit\u011b syst\u00e9m\u016f elektronick\u00fdch zdravotn\u00edch z\u00e1znam\u016f, zejm\u00e9na s ohledem na v\u00fdvoj form\u00e1tu v\u00fdm\u011bny evropsk\u00fdch elektronick\u00fdch zdravotn\u00edch z\u00e1znam\u016f."
+        ],
+        "title": [
+          "EHealth, Interoperability of Health Data and Artificial Intelligence for Health and Care in the EU \u2013 Smart 2019/0056"
+        ],
+        "esST_checksum": [
+          "6B4FD4E83F9A8E3EC430266DB45031C27718F2BDE1C49218F78D9A3208BB48FF"
+        ],
+        "cftId": [
+          "4657"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "REFERENCE": [
+          "4657cs"
+        ],
+        "cftTendersMayBeSubmitted": [
+          "ONE_OR_MORE_LOT"
+        ],
+        "cftTimezone": [],
+        "cftEstimatedTotalProcedureValue": [],
+        "additionalCpvs": [
+          "[]"
+        ],
+        "cftContractNoticeLink": [
+          "[{\"noticeType\":\"1\",\"publicationDate\":\"07/08/19\",\"publicationReference\":\"2019/S 151-371416\",\"link\":\"http://ted.europa.eu/udl?uri=TED:NOTICE:371416-2019:TEXT:CS:HTML\"}]"
+        ],
+        "cftRepublish": [],
+        "cftSubmissionMethodCode": [
+          "ESUBMISSION"
+        ],
+        "cftProcurementType": [],
+        "caName": [
+          "11"
+        ],
+        "cftPlannedDate": [],
+        "publicationDocuments": [
+          "[\"EN\"]"
+        ],
+        "esDA_IngestDate": [
+          "2024-09-27T15:44:58.826+0200"
+        ],
+        "cftInterinstitutional": [],
+        "cftQuestionsAnswersAllowed": [],
+        "url": [
+          "https://etendering.ted.europa.eu/cft/cft-display.html?cftId=4657"
+        ],
+        "lots": [
+          "[{\"number\":\"1\",\"title\":\"Interoperabilita elektronick\u00fdch zdravotn\u00edch z\u00e1znam\u016f v EU\",\"description\":\"Interoperabilita elektronick\u00fdch zdravotn\u00edch z\u00e1znam\u016f v EU. V r\u00e1mci studi\u00ed bude proveden pr\u016fzkum a anal\u00fdza pokroku v souvislosti s digit\u00e1ln\u00ed transformac\u00ed zdravotnictv\u00ed a pe\u010dovatelstv\u00ed v EU, zejm\u00e9na s ohledem na p\u0159\u00edstup ob\u010dan\u016f k elektronick\u00fdm zdravotn\u00edm z\u00e1znam\u016fm. Bude poskytnut p\u0159ehled o sou\u010dasn\u00e9 situaci v \u010dlensk\u00fdch zem\u00edch EU s ohledem na v\u00fdvoj interoperabiln\u00edch syst\u00e9m\u016f elektronick\u00fdch zdravotn\u00edch z\u00e1znam\u016f a umo\u017en\u011bna technick\u00e1 \u0159e\u0161en\u00ed jako elektronick\u00e1 identifikace, distribuovan\u00e1 \u00fa\u010detn\u00ed kniha a kybernetick\u00e1 bezpe\u010dnost. V\u00fdsledky studie podpo\u0159\u00ed a poskytnou informace o prob\u00edhaj\u00edc\u00ed pr\u00e1ci EU a \u010dlensk\u00fdch zem\u00ed o interoperabilit\u011b syst\u00e9m\u016f elektronick\u00fdch zdravotn\u00edch z\u00e1znam\u016f, zejm\u00e9na s ohledem na v\u00fdvoj form\u00e1tu v\u00fdm\u011bny evropsk\u00fdch elektronick\u00fdch zdravotn\u00edch z\u00e1znam\u016f.\",\"nuts\":[\"LU000\"],\"additionalCpvs\":[],\"estimatedValue\":null,\"awardMethod\":\"4\",\"lng\":null},{\"number\":\"2\",\"title\":\"Um\u011bl\u00e1 inteligence pro zdravotnictv\u00ed a pe\u010dovatelstv\u00ed v EU\",\"description\":\"Um\u011bl\u00e1 inteligence pro zdravotnictv\u00ed a pe\u010dovatelstv\u00ed v EU. C\u00edlem studie je pr\u016fzkum a anal\u00fdza pokroku v p\u0159\u00edpad\u011b uplat\u0148ov\u00e1n\u00ed technologi\u00ed um\u011bl\u00e9 inteligence (AI) ve prosp\u011bch pacient\u016f a zdravotnick\u00fdch a pe\u010dovatelsk\u00fdch syst\u00e9m\u016f v EU. Studie poskytne p\u0159ehled o sou\u010dasn\u00e9 situaci s ohledem na v\u00fdvoj, p\u0159ijet\u00ed a pou\u017eit\u00ed technologi\u00ed um\u011bl\u00e9 inteligence a aplikac\u00ed v odv\u011btv\u00ed zdravotnictv\u00ed a pe\u010dovatelstv\u00ed v \u010dlensk\u00fdch zem\u00edch EU. V\u00fdsledky studie podpo\u0159\u00ed a poskytnou informace o iniciativ\u00e1ch politiky EU, kter\u00e9 maj\u00ed za c\u00edl zdokonalit um\u011blou inteligenci a velk\u00e1 data pro digit\u00e1ln\u00ed transformaci a zlep\u0161en\u00ed zdravotnictv\u00ed a pe\u010dovatelstv\u00ed v EU.\",\"nuts\":[\"LU000\"],\"additionalCpvs\":[],\"estimatedValue\":null,\"awardMethod\":\"4\",\"lng\":null}]"
+        ],
+        "cftEXARegistrationDeadline": [],
+        "indicativeLaunch": [],
+        "cftLeadContractingAuthorityCode": [
+          "null"
+        ],
+        "cftBuyerProfileUrl": [
+          "https://ec.europa.eu/digital-single-market/en/newsroom/call-tenders/"
+        ],
+        "cftPublicationDateEForm": [
+          "07/08/2019 00:00:00"
+        ],
+        "cftEstimatedOverallContractCurrency": []
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "EHealth, <b>Interoperability</b> of <b>Health</b> <b>Data</b> and Artificial Intelligence for <b>Health</b> and Care in the EU \u2013 Smart 2019/0056"
+      ]
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "4657de",
+      "url": "https://etendering.ted.europa.eu/cft/cft-display.html?cftId=4657",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "de",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "EHealth, Interoperability of Health Data and Artificial Intelligence for Health and Care in the EU \u2013 Smart 2019/0056",
+      "weight": 19.58316,
+      "groupById": "3",
+      "content": "EHealth, <b>Interoperability</b> of <b>Health</b> <b>Data</b> and Artificial Intelligence for <b>Health</b> and Care in the EU \u2013 Smart 2019/0056",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "6B4FD4E83F9A8E3EC430266DB45031C27718F2BDE1C49218F78D9A3208BB48FF",
+      "metadata": {
+        "es_SortDate": [
+          "2019-08-07T00:00:00.000+0000"
+        ],
+        "cftPartyLegalEntityId": [
+          "47352536"
+        ],
+        "cftMaxNumberOfLots": [],
+        "contractType": [
+          "31095498"
+        ],
+        "awardMethod": [],
+        "cftContractingSystems": [
+          "PUBLIC_CONTRACT"
+        ],
+        "language": [
+          "de"
+        ],
+        "type": [
+          "0"
+        ],
+        "cftDocuments": [
+          "{\"cftDocuments\":[{\"documentPublicationID\":\"66410\",\"languageCode\":\"ENG\",\"documentTitle\":\"SMART 2019/0056 Annexes\",\"documentType\":\"Annexes\",\"considerChangedUntilDate\":\"2019-08-07T12:00:00\",\"documentChangeCode\":\"NEW\",\"changedNotificationText\":\"NEW\",\"hermesDocumentReferences\":[{\"documentID\":\"66410\",\"attachmentID\":\"58361\",\"versionNR\":\"1\",\"isCurrentVersion\":\"Y\",\"publicationDate\":\"2019-08-07T12:00:00\",\"documentFileName\":\"4657_66410_EN-SMART_2019-0056_annexes_ENG_V1.docx\",\"publicationFormat\":\"1DOC\"}],\"obsolete\":false},{\"documentPublicationID\":\"66408\",\"languageCode\":\"ENG\",\"documentTitle\":\"SMART 2019/0056 Tender Specifications\",\"documentType\":\"Technical Specifications\",\"considerChangedUntilDate\":\"2019-08-07T12:00:00\",\"documentChangeCode\":\"NEW\",\"changedNotificationText\":\"NEW\",\"hermesDocumentReferences\":[{\"documentID\":\"66408\",\"attachmentID\":\"58359\",\"versionNR\":\"1\",\"isCurrentVersion\":\"Y\",\"publicationDate\":\"2019-08-07T12:00:00\",\"documentFileName\":\"4657_66408_EN-SMART_2019-0056_Tender_Specifications_ENG_V1.pdf\",\"publicationFormat\":\"1PD\"}],\"obsolete\":false},{\"documentPublicationID\":\"66406\",\"languageCode\":\"ENG\",\"documentTitle\":\"SMART 2019/0056 Model Service Contract\",\"documentType\":\"Draft Contract\",\"considerChangedUntilDate\":\"2019-08-07T12:00:00\",\"documentChangeCode\":\"NEW\",\"changedNotificationText\":\"NEW\",\"hermesDocumentReferences\":[{\"documentID\":\"66406\",\"attachmentID\":\"58357\",\"versionNR\":\"1\",\"isCurrentVersion\":\"Y\",\"publicationDate\":\"2019-08-07T12:00:00\",\"documentFileName\":\"4657_66406_EN-SMART_2019-0056_model_service_contract_ENG_V1.pdf\",\"publicationFormat\":\"1PD\"}],\"obsolete\":false},{\"documentPublicationID\":\"66858\",\"languageCode\":\"ENG\",\"documentTitle\":\"SMART 2019/0056 Invitation to tender\",\"documentType\":\"Invitation\",\"considerChangedUntilDate\":\"2019-08-07T12:00:00\",\"documentChangeCode\":\"NEW\",\"changedNotificationText\":\"NEW\",\"hermesDocumentReferences\":[{\"documentID\":\"66405\",\"attachmentID\":\"58356\",\"versionNR\":\"1\",\"isCurrentVersion\":\"N\",\"publicationDate\":\"2019-08-07T12:00:00\",\"documentFileName\":\"4657_66405_EN-SMART_2019-0056_invitation_to_tender_ENG_V1.pdf\",\"publicationFormat\":\"1PD\",\"translations\":[{\"translationAttachmentID\":\"6\",\"translationLanguageCode\":\"ENG\",\"translationTitle\":\"SMART 2019/0056 Invitation to tender\",\"translationFileName\":\"4657_66405_EN-SMART_2019-0056_invitation_to_tender_ENG_V1.pdf\",\"documentFileName\":\"4657_66405_EN-SMART_2019-0056_invitation_to_tender_ENG_V1.pdf\"}]},{\"documentID\":\"66858\",\"attachmentID\":\"58356\",\"versionNR\":\"2\",\"isCurrentVersion\":\"Y\",\"publicationDate\":\"2019-08-07T12:00:00\",\"documentFileName\":\"4657_66858_EN-SMART_2019-0056_invitation_to_tender_001_ENG_V2.pdf\",\"publicationFormat\":\"2PD\"}],\"obsolete\":false}]}"
+        ],
+        "callIdentifier": [
+          "SMART 2019/0056"
+        ],
+        "cftSubmissionsAllowed": [],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "cftPublicationDisplayStatus": [],
+        "identifier": [
+          "5a2db021-74b4-45e9-a914-71efa4c1ab25"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "programmePeriod": [
+          "2014 - 2020",
+          "2021 - 2027"
+        ],
+        "cftSubscriptionsAllowed": [],
+        "deadlineDate": [
+          "2019-09-23T15:00:00.000+0000"
+        ],
+        "cftCorrigendaList": [],
+        "closingDate": [
+          "2019-09-23T15:00:00Z"
+        ],
+        "es_Combine": [
+          "3"
+        ],
+        "esST_URL": [
+          "https://etendering.ted.europa.eu/cft/cft-display.html?cftId=4657"
+        ],
+        "esDA_QueueDate": [
+          "2024-09-27T15:44:20.959+0200"
+        ],
+        "mainCpv": [
+          "73200000"
+        ],
+        "mainCpvCode": [
+          "{\"mainCode\":\"73200000\",\"supplementaryCode\":[]}"
+        ],
+        "startDate": [
+          "2019-08-07T00:00:00.000+0000"
+        ],
+        "placesOfDeliveryOrPerformance": [
+          "LU000"
+        ],
+        "status": [
+          "31094503"
+        ],
+        "procedureType": [
+          "47396220"
+        ],
+        "updateDate": [
+          "2019-09-27T11:00:00.000+0000"
+        ],
+        "sortStatus": [
+          "3"
+        ],
+        "conditionOfParticipation": [
+          "{\"id\":463883,\"cft_id\":4657,\"publishedDate\":null,\"language\":\"DE\",\"excCrit\":\"Siehe die in Abschnitt I.3) angegebene Internetadresse.\",\"inInfo\":\"Eignungskriterien gem\u00e4\u00df Auftragsunterlagen\",\"finMin\":\"Eignungskriterien gem\u00e4\u00df Auftragsunterlagen\",\"tecInfo\":\"Eignungskriterien gem\u00e4\u00df Auftragsunterlagen\",\"tecMin\":\"Eignungskriterien gem\u00e4\u00df Auftragsunterlagen\",\"accProc\":null}"
+        ],
+        "description": [
+          "In dieser Studie wird der Fortschritt bei der digitalen Transformation von Gesundheit und Pflege in der EU besonders im Hinblick auf den Zugang der B\u00fcrger zu ihren elektronischen Patientendaten verfolgt und \u00fcberwacht. Es wird ein \u00dcberblick \u00fcber die derzeitige Situation in den EU-Mitgliedsstaaten im Hinblick auf die Entwicklung interoperabler Patientendatensysteme und technischer L\u00f6sungen wie elektronischer Identifizierungen, verteilte Ledger und Cybersicherheit gegeben. Die Ergebnisse der Studie erg\u00e4nzen und informieren \u00fcber die laufende Arbeit von EU und Mitgliedsstaaten \u00fcber die Interoperabilit\u00e4t elektronischer Patientendatensysteme, besonders im Hinblick auf die Entwicklung des Austauschformats f\u00fcr elektronische Patientendatensysteme."
+        ],
+        "title": [
+          "EHealth, Interoperability of Health Data and Artificial Intelligence for Health and Care in the EU \u2013 Smart 2019/0056"
+        ],
+        "esST_checksum": [
+          "6B4FD4E83F9A8E3EC430266DB45031C27718F2BDE1C49218F78D9A3208BB48FF"
+        ],
+        "cftId": [
+          "4657"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "REFERENCE": [
+          "4657de"
+        ],
+        "cftTendersMayBeSubmitted": [
+          "ONE_OR_MORE_LOT"
+        ],
+        "cftTimezone": [],
+        "cftEstimatedTotalProcedureValue": [],
+        "additionalCpvs": [
+          "[]"
+        ],
+        "cftContractNoticeLink": [
+          "[{\"noticeType\":\"1\",\"publicationDate\":\"07/08/19\",\"publicationReference\":\"2019/S 151-371416\",\"link\":\"http://ted.europa.eu/udl?uri=TED:NOTICE:371416-2019:TEXT:DE:HTML\"}]"
+        ],
+        "cftRepublish": [],
+        "cftSubmissionMethodCode": [
+          "ESUBMISSION"
+        ],
+        "cftProcurementType": [],
+        "caName": [
+          "11"
+        ],
+        "cftPlannedDate": [],
+        "publicationDocuments": [
+          "[\"EN\"]"
+        ],
+        "esDA_IngestDate": [
+          "2024-09-27T15:44:21.133+0200"
+        ],
+        "cftInterinstitutional": [],
+        "cftQuestionsAnswersAllowed": [],
+        "url": [
+          "https://etendering.ted.europa.eu/cft/cft-display.html?cftId=4657"
+        ],
+        "lots": [
+          "[{\"number\":\"2\",\"title\":\"K\u00fcnstliche Intelligenz f\u00fcr Gesundheit und Pflege in der EU\",\"description\":\"K\u00fcnstliche Intelligenz f\u00fcr Gesundheit und Pflege in der EU In dieser Studie wird der Fortschritt bei der \u00dcbernahme von Technologien k\u00fcnstlicher Intelligenz zum Vorteil der Patienten und des Gesundheits- und Pflegesystems in der EU \u00fcberwacht und analysiert. Sie verschafft einen \u00dcberblick \u00fcber die derzeitige Lage im Hinblick auf Entwicklung, \u00dcbernahme und Anwendung von Technologien und Anwendungen k\u00fcnstlicher Intelligenz im Gesundheits- und Pflegesektor der EU-Mitgliedsstaaten Die Ergebnisse der Studie unterst\u00fctzen und informieren die politischen Initiativen der EU zum wirksamen Einsatz von k\u00fcnstlicher Intelligenz und Big Data f\u00fcr die digitale Transformation und Verbesserung von Gesundheit und Pflege in der EU.\",\"nuts\":[\"LU000\"],\"additionalCpvs\":[],\"estimatedValue\":null,\"awardMethod\":\"4\",\"lng\":null},{\"number\":\"1\",\"title\":\"Interoperabilit\u00e4t elektronischer Patientendatensysteme in der EU\",\"description\":\"Interoperabilit\u00e4t elektronischer Patientendatensysteme in der EU. In dieser Studie wird der Fortschritt bei der digitalen Transformation von Gesundheit und Pflege in der EU besonders im Hinblick auf den Zugang der B\u00fcrger zu ihren elektronischen Patientendaten verfolgt und \u00fcberwacht. Es wird ein \u00dcberblick \u00fcber die derzeitige Situation in den EU-Mitgliedsstaaten im Hinblick auf die Entwicklung interoperabler Patientendatensysteme und technischer L\u00f6sungen wie elektronischer Identifizierungen, verteilte Ledger und Cybersicherheit gegeben. Die Ergebnisse der Studie erg\u00e4nzen und informieren \u00fcber die laufende Arbeit von EU und Mitgliedsstaaten \u00fcber die Interoperabilit\u00e4t elektronischer Patientendatensysteme, besonders im Hinblick auf die Entwicklung des Austauschformats f\u00fcr elektronische Patientendatensysteme.\",\"nuts\":[\"LU000\"],\"additionalCpvs\":[],\"estimatedValue\":null,\"awardMethod\":\"4\",\"lng\":null}]"
+        ],
+        "cftEXARegistrationDeadline": [],
+        "indicativeLaunch": [],
+        "cftLeadContractingAuthorityCode": [
+          "null"
+        ],
+        "cftBuyerProfileUrl": [
+          "https://ec.europa.eu/digital-single-market/en/newsroom/call-tenders/"
+        ],
+        "cftPublicationDateEForm": [
+          "07/08/2019 00:00:00"
+        ],
+        "cftEstimatedOverallContractCurrency": []
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "EHealth, <b>Interoperability</b> of <b>Health</b> <b>Data</b> and Artificial Intelligence for <b>Health</b> and Care in the EU \u2013 Smart 2019/0056"
+      ]
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "43970560HORIZONResearchandInnovationActions1624320000000",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/HORIZON-HLTH-2021-TOOL-06-03.json",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Innovative tools for use and re-use of health data (in particular of electronic health records and/or patient registries)",
+      "weight": 16.85188,
+      "groupById": "3",
+      "content": "Innovative tools for use and re-use of <b>health</b> <b>data</b> (in particular of electronic <b>health</b> records and/or patient registries)",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "A086857AACAA714C743E3B0BD8C70CFBB6BBFDC6259D77DA64E517A3D8958E72",
+      "metadata": {
+        "latestInfos": [
+          "[{\"approvalDate\":\"Feb 1, 2022 11:54:52 AM\",\"lastChangeDate\":\"Feb 1, 2022 11:54:52 AM\",\"content\":\"\\u003cp\\u003eWe recently informed the applicants about the evaluation results for their proposals submitted under this call. The results of the evaluation are as follows:\\u003c/p\\u003e\\r\\n\\u003cul\\u003e\\r\\n    \\u003cli\\u003eNumber of proposals submitted (including proposals transferred from or to other calls): 84\\u003c/li\\u003e\\r\\n    \\u003cli\\u003eNumber of inadmissible proposals: 1\\u003c/li\\u003e\\r\\n    \\u003cli\\u003eNumber of ineligible proposals: 2\\u003c/li\\u003e\\r\\n    \\u003cli\\u003eNumber of above-threshold proposals: 41\\u003c/li\\u003e\\r\\n    \\u003cli\\u003eTotal budget requested for above-threshold proposals: EUR 298.969.154\\u003c/li\\u003e\\r\\n\\u003c/ul\\u003e\"},{\"approvalDate\":\"Oct 4, 2021 12:09:08 PM\",\"lastChangeDate\":\"Oct 4, 2021 12:09:08 PM\",\"content\":\"\\u003cp\\u003eCall HORIZON-HLTH-2021-TOOL-06 closed on 21 September 2021. 84 proposals were submitted. The breakdown per topic is:\\u003c/p\\u003e\\r\\n\\u003cul\\u003e\\r\\n    \\u003cli\\u003eHORIZON-HLTH-2021-TOOL-06-01: 7 proposals\\u0026nbsp;\\u003c/li\\u003e\\r\\n    \\u003cli\\u003eHORIZON-HLTH-2021-TOOL-06-02: 31 proposals\\u003c/li\\u003e\\r\\n    \\u003cli\\u003eHORIZON-HLTH-2021-TOOL-06-03: 46 proposals\\u003c/li\\u003e\\r\\n\\u003c/ul\\u003e\\r\\n\\u003cp\\u003eEvaluation results are expected to be communicated on Friday 28 January 2022 at the earliest.\\u003c/p\\u003e\"}]"
+        ],
+        "es_SortDate": [
+          "2021-06-22T00:00:00.000+0000"
+        ],
+        "keywords": [
+          "EOSC and FAIR data",
+          "Health policy and services",
+          "Digital Agenda",
+          "Computer sciences, information science and bioinfo",
+          "Health care sciences and services (including hospi",
+          "Social sciences and humanities",
+          "Electronic Health Record",
+          "Artificial Intelligence",
+          "Interoperability",
+          "Health data",
+          "European Health data Space"
+        ],
+        "workProgrammepart": [],
+        "language": [
+          "en"
+        ],
+        "type": [
+          "1"
+        ],
+        "focusArea": [],
+        "destinationDetails": [
+          "<p>Calls for proposals under this destination are directed towards the Key Strategic Orientation KSO-A <i>\u2018Promoting an open strategic autonomy by leading the development of key digital, enabling and emerging technologies, sectors and value chains\u2019</i> of Horizon Europe\u2019s Strategic Plan 2021-2024. Research and innovation supported under this destination should contribute to the impact area <i>\u2018High quality digital services for all\u2019 </i>and in particular to the following expected impact, set out in the Strategic Plan for the health cluster: \u2018<i>Health technologies, new tools and digital solutions are applied effectively thanks to their inclusive, secure and ethical development, delivery, integration and deployment in health policies and health and care systems\u2019</i>. In addition, research and innovation supported under this destination could also contribute to the following impact areas: <i>\u2018A competitive and secure data-economy\u2019</i>, <i>\u2018Industrial leadership in key and emerging technologies that work for people\u2019</i>, and <i>\u2018Good health and high-quality accessible health care\u2019</i>.</p><p>Technology is a key driver for innovation in the health care sector. It can provide better and more cost-efficient solutions with high societal impact, tailored to the specific health care needs of the individual. However, novel tools, therapies, technologies and digital approaches face specific barriers and hurdles in piloting, implementing and scaling-up before reaching the patient, encountering additional challenges such as public acceptance and trust. Emerging and disruptive technologies offer big opportunities for transforming health care, thereby promoting the health and well-being of citizens. Unlocking this potential and harnessing the opportunities depends on the capacity to collect, integrate and interpret large amounts of data, as well as ensure compatibility with appropriate regulatory frameworks and infrastructures that will both safeguard the rights of the individual and of society and stimulate innovation to develop impactful solutions. In addition to existing European Research Infrastructures, the European Health Data Space will promote health-data exchange and facilitate cross-border research activities. This destination aims to promote the development of tools, technologies and digital solutions for treatments, medicines, medical devices and improved health outcomes, taking into consideration safety, effectiveness, appropriateness, accessibility, comparative value-added and fiscal sustainability as well as issues of ethical, legal and regulatory nature.</p><p>In view of increasing the impact of EU investments under Horizon Europe, the European Commission welcomes and supports cooperation between EU-funded projects to enable cross-fertilisation and other synergies. This could range from networking to joint activities such as the participation in joint workshops, the exchange of knowledge, the development and adoption of best practices, or joint communication activities. Opportunities for potential synergies exist between projects funded under the same topic but also between other projects funded under another topic, cluster or pillar of Horizon Europe (but also with ongoing projects funded under Horizon 2020). In particular, this could involve projects related to European health research infrastructures (under pillar I of Horizon Europe), the EIC strategic challenges on health and EIT-KIC Health (under pillar III of Horizon Europe) or in areas cutting across the health and other clusters (under pillar II of Horizon Europe). For instance, with cluster 4 <i>\u201cDigital, Industry and Space\u201d</i> such as on digitalisation of the health sector, incl. health technologies, medical devices and key enabling technologies; assisted, autonomous, independent and empowered living; smart homes; decision support systems; health impact assessment (e.g. related to consumer products, working place innovation).</p><p><u>Expected Impacts</u></p><p>Proposals for topics under this destination should set out a credible pathway towards unlocking the full potential of new tools, technologies and digital solutions for a healthy society, and more specifically to several of the following expected impacts:</p><ul><li>Europe\u2019s scientific and technological expertise and know-how, its capabilities for innovation in new tools, technologies and digital solutions, and its ability to take-up, scale-up and integrate innovation in health care is world-class.</li><li>Citizens benefit from targeted and faster research resulting in safer, more efficient, cost-effective and affordable tools, technologies and digital solutions for improved (personalised) disease prevention, diagnosis, treatment and monitoring for better patient outcome and well-being, in particular through increasingly shared health resources (interoperable data, infrastructure, expertise, citizen/patient driven co-creation).[[Commission Communication on the digital transformation of health and care; COM(2018) 233 final.]]</li><li>The EU gains high visibility and leadership in terms of health technology development, including through international cooperation.</li><li>The burden of diseases in the EU and worldwide is reduced through the development and integration of innovative diagnostic and therapeutic approaches, personalised medicine approaches, digital and other people-centred solutions for health care.</li><li>Both the productivity of health research and innovation, and the quality and outcome of health care is improved thanks to the use of health data and innovative analytical tools, such as artificial intelligence (AI) supported decision-making, in a secure and ethical manner, respecting individual integrity and underpinned with public acceptance and trust.</li></ul><p>Citizens trust and support the opportunities offered by innovative technologies for health care, based on expected health outcomes and potential risks involved.</p>"
+        ],
+        "typeOfMGAs": [
+          "43027846"
+        ],
+        "callIdentifier": [
+          "HORIZON-HLTH-2021-TOOL-06"
+        ],
+        "callccm2Id": [
+          "43971860"
+        ],
+        "destinationGroup": [
+          "45355250"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "links": [
+          "[]"
+        ],
+        "callTitle": [
+          "Tools and technologies for a healthy society (2021)"
+        ],
+        "frameworkProgramme": [
+          "43108390"
+        ],
+        "descriptionByte": [
+          "<SPAN class=\"topicdescriptionkind\">ExpectedOutcome</SPAN>:<p><span>This topic aims at supporting activities that are enabling or contributing to one or several expected impacts of destination 5 \u201c<em>Unlocking the full potential of new tools, technologies and digital solutions for a healthy society</em>\u201d. To that end, proposals under this topic should aim for delivering results that are directed, tailored and contributing to all of the following expected outcomes:</span></p><ul level=\"0\"><li><span>Novel solutions improve quality, ensure interoperability and enable re-use of health data, data analytics and metadata from different repositories across countries by health professionals, researchers and health authorities, in compliance with FAIR data<sup><a target=_self href=#fn1 id=r1>[1]</a></sup></span> management principles as well as national and EU legal and ethical requirements (in particular with regard to personal data protection).</li><li><span>Health professionals, researchers and health authorities make effective use of tools enabling them to exploit unstructured and heterogeneous data from different sources to improve the delivery of care and advance health research.</span></li><li><span>Increased use and valorisation of health data by patients, researchers and clinicians thanks to better data portability due to the standardization of meta knowledge (meta data, ontologies and reference repositories) and clinical data, especially health data coming from different clinical services and sites, and/or from multiple countries.</span></li><li><span>Health care professionals use more efficient and cost-effective health care procedures and workflows that contribute to improved disease prevention, early detection/diagnosis and more effective treatment. </span></li> </ul>\n<SPAN class=\"topicdescriptionkind\">Scope</SPAN>:<p><span>Health data exists in many forms and multiple fragmented repositories; there is still significant room for improvement in the way both structured and unstructured health data is stored, analysed and interpreted. Sharing and analysing data from multiple countries in a safe and legally compliant manner (in particular with regard to personal data protection) remains a challenge. Powerful analytic tools are already helping providers to use structured data in increasingly impactful ways. On the other hand, the heterogeneity, diversity of sources, quality of data and various representations of unstructured data in health care increase the number of challenges as compared to structured data.</span></p><p><span>Advances in AI and machine learning, however, have the potential to transform the way clinicians, providers and researchers use unstructured data. Furthermore, developing data interoperability standards, trust and harmonization of GDPR\u2019s interpretation across the EU for the sharing and processing of personal health data will support establishing a sound health data culture in view of the European Health Data Space.</span></p><p><span>Proposals should address all of the following aspects:</span></p><ul level=\"0\"><li><span>Developing robust novel solutions compliant with legal requirements (in particular concerning personal data protection) that will improve the quality, interoperability, machine-readability and re-use of health data and metadata in compliance with FAIR data management principles, making these data more accessible to clinicians, researchers and citizens. The focus should be on data in electronic health records (EHRs) and/or patient registries, taking into account the Commission Recommendation on a European Electronic Health Record exchange format</span><sup><a target=_self href=#fn2 id=r2>[2]</a></sup><span>.</span></li><li><span>Developing innovative natural language processing tools, including computational semantics, ontologies, text mining, associated machine learning and deep learning, to improve accessibility, interoperability, translation, transcription, and analysis of health data (e.g. to predict risks). Tools should extract health information from unstructured data in different clinical and medical sources, and bring that data into EHRs/patient registries in a structured form. The innovative solutions should also address missing data in EHRs and/or patient registries and their related metadata, to reduce bias and improve the quality of conclusions.</span></li><li><span>Developing and piloting AI-powered virtual assistants that will utilise the tools and solutions developed (as mentioned above) in order to demonstrate improved usability of health data for end-users. </span></li> </ul><p><span>Proposals are expected to build on and contribute to existing European and international data standards, specifications and schemas for health data. The use of open standards should be considered and interactions with relevant ongoing research infrastructure efforts are encouraged. Applicants should focus on health data coming from a number of EU Member States and EEA countries, constituting as much as possible a representative sample of the European healthcare landscape, so as to contribute to the work on the creation of the European Health Data Space.</span></p><p><span>To guarantee their adoption, the developed solutions should be quick and easy to use by researchers and clinicians. Therefore active involvement of end-users from the onset is encouraged. In particular, patient advocacy groups and citizens should be involved to ensure adequate consideration of diverse patient needs, with respect to their gender, ethnicity, age, ability, and socio-economic background, to underpin acceptance by patients and other data subjects. SMEs participation is also encouraged.</span></p><p><span>The proposals should duly take into account requirements stipulated in the relevant European regulations (Data protection, <em>in vitro</em> diagnostics and medical devices) and must meet appropriate ethical standards.</span></p>\n<SPAN class=\"topicdescriptionkind\">Cross-cutting Priorities</SPAN>:<p><a href=\"//ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search;statusCodes=31094501,31094502,31094503;programCcm2Id=43108390;crossCuttingPriorityCode=EoscAndFairData;sortQuery=sortStatus;orderBy=asc\">EOSC and FAIR data</a><br><a href=\"//ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search;statusCodes=31094501,31094502,31094503;programCcm2Id=43108390;crossCuttingPriorityCode=SSH;sortQuery=sortStatus;orderBy=asc\">Socio-economic science and humanities</a><br></p>\n<p id=fn1><a  target=_self href=#r1>[1]</a><span>FAIR data are data, which meet principles of findability, accessibility, interoperability, and reusability.</span></p><p id=fn2><a  target=_self href=#r2>[2]</a><u><span>https://ec.europa.eu/digital-single-market/en/news/recommendation-european-electronic-health-record-exchange-format</span></u></p>"
+        ],
+        "identifier": [
+          "HORIZON-HLTH-2021-TOOL-06-03"
+        ],
+        "additionalInfos": [
+          "{}"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "deadlineDate": [
+          "2021-09-21T17:00:00.000+0000"
+        ],
+        "es_Combine": [
+          "3"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/HORIZON-HLTH-2021-TOOL-06-03.json"
+        ],
+        "tags": [
+          "Electronic Health Record",
+          "Artificial Intelligence",
+          "Interoperability",
+          "Health data",
+          "European Health data Space"
+        ],
+        "cenTagsA": [
+          "TOPICS-047054",
+          "TOPICS-015720",
+          "TOPICS-031762",
+          "TOPICS-047055",
+          "TOPICS-001603",
+          "TOPICS-000677",
+          "TOPICS-005269",
+          "TOPICS-003474",
+          "TOPICS-007170",
+          "TOPICS-003477",
+          "TOPICS-013258",
+          "TOPICS-002846"
+        ],
+        "esDA_QueueDate": [
+          "2024-06-28T10:19:47.867+0200"
+        ],
+        "cenTagsB": [
+          "TCK_122478",
+          "TCK_125016",
+          "TCK_72843900",
+          "TTG_00000115",
+          "TTG_72747218",
+          "TTG_00026081",
+          "TTG_00016831",
+          "TTG_00001447",
+          "TCK_125016",
+          "TCK_137503",
+          "TCK_72855049",
+          "TCK_72855050",
+          "TCK_72855052",
+          "TCK_72855053",
+          "TCK_72855058",
+          "TTL_00026075",
+          "TCM_00000857",
+          "TCM_00004925",
+          "TCM_00001198"
+        ],
+        "destinationDescription": [
+          "Unlocking the full potential of new tools, technologies and digital solutions for a healthy society"
+        ],
+        "actions": [
+          "[{\"status\":{\"id\":31094503,\"abbreviation\":\"Closed\",\"description\":\"Closed\"},\"types\":[{\"typeOfAction\":\"HORIZON-RIA HORIZON  Research and Innovation Actions\",\"typeOfMGA\":[{\"id\":43027846,\"abbreviation\":\"HORIZON-AG\",\"description\":\"HORIZON Action Grant Budget-Based\"}]}],\"plannedOpeningDate\":\"22 June 2021\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"21 September 2021\"]}]"
+        ],
+        "startDate": [
+          "2021-06-22T00:00:00.000+0000"
+        ],
+        "deadlineModel": [
+          "single-stage"
+        ],
+        "status": [
+          "31094503"
+        ],
+        "supportInfo": [
+          "<p><strong><span style=\"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;&#10;font-weight:normal;mso-bidi-font-weight:bold\"><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\"><b>Online Manual&nbsp;</b></a></span></strong><span style=\"font-size: 9pt; font-family: Arial, sans-serif;\">is your guide on the procedures from proposal submission to managing your grant.<o:p></o:p></span></p>\r\n<p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" target=\"_blank\"><b><span style=\"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif\">Horizon Europe Programme Guide</span></b></a><strong><span style=\"font-size: 9pt; font-family: Arial, sans-serif;\">&nbsp;</span></strong><strong><span style=\"font-size: 9pt; font-family: Arial, sans-serif; font-weight: normal;\">contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.</span></strong><span style=\"font-size: 9pt; font-family: Arial, sans-serif;\"><o:p></o:p></span></p>\r\n<p><span class=\"MsoHyperlink\"><b><span style=\"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif\"><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq;type=undefined;categories=;programme=H2020;actions=;keyword=\" target=\"_blank\">Funding &amp; Tenders Portal FAQ</a></span></b></span><span style=\"font-size: 9pt; font-family: Arial, sans-serif;\">&nbsp;&ndash; find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.<o:p></o:p></span></p>\r\n<p><span class=\"MsoHyperlink\"><b><span style=\"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif\"><a href=\"https://ec.europa.eu/info/research-and-innovation/contact/research-enquiry-service_en\" target=\"_blank\">Research Enquiry Service</a></span>&nbsp;</b></span><span style=\"font-size: 9pt; font-family: Arial, sans-serif;\">&ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.<o:p></o:p></span></p>\r\n<p><a href=\"https://een.ec.europa.eu/\" target=\"_blank\"><b><span style=\"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif\">Enterprise Europe Network</span></b></a><strong><span style=\"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;&#10;color:#003366\">&nbsp;</span></strong><span style=\"font-size: 9pt; font-family: Arial, sans-serif;\">&ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.<o:p></o:p></span></p>\r\n<p><span class=\"MsoHyperlink\"><b><span style=\"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif\"><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" target=\"_blank\">IT Helpdesk</a></span></b>&nbsp;</span><span style=\"font-size: 9pt; font-family: Arial, sans-serif;\">&ndash;&nbsp;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.<o:p></o:p></span></p>\r\n<p><span class=\"MsoHyperlink\"><b><span style=\"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif\"><a href=\"https://www.iprhelpdesk.eu/\" target=\"_blank\">European IPR Helpdesk</a></span></b></span><span style=\"font-size: 9pt; font-family: Arial, sans-serif;\">&nbsp;assists you on intellectual property issues.<br />\r\n<br />\r\n</span><b><a href=\"mailto:research@cencenelec.eu\" target=\"_blank\">CEN-CENELEC Research Helpdesk</a> and <a href=\"https://www.etsi.org/research/helpdesk\" target=\"_blank\">ETSI Research Helpdesk</a></b>&nbsp;<span style=\"font-family: Arial, sans-serif;\">&ndash;&nbsp;&nbsp;</span>the European Standards Organisations&nbsp;advise you how to tackle standardisation in your project proposal.&nbsp;&nbsp;</p>\r\n<p class=\"MsoNormal\" style=\"margin-left:36.0pt\"><o:p></o:p></p>\r\n<p><span class=\"MsoHyperlink\"><b><span style=\"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif\"><a href=\"https://euraxess.ec.europa.eu/sites/default/files/am509774cee_en_e4.pdf\" target=\"_blank\">The European Charter for Researchers and the Code of Conduct for their recruitment</a></span></b></span><strong><u><span style=\"font-size:&#10;9.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#003366\"> </span></u></strong><strong><span style=\"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#003366;font-weight:&#10;normal;mso-bidi-font-weight:bold\">&ndash; consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.</span></strong><b><span style=\"font-size: 9pt; font-family: Arial, sans-serif;\"><o:p></o:p></span></b></p>\r\n<p><span class=\"MsoHyperlink\"><b><span style=\"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif\"><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/partner-search\" target=\"_blank\">Partner Search Services</a></span></b></span><span style=\"font-size: 9pt; font-family: Arial, sans-serif;\">&nbsp;help you find a partner organisation for your proposal.<o:p></o:p></span></p>\r\n<p>&nbsp;</p>"
+        ],
+        "missionDetails": [],
+        "sepTemplate": [
+          "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p>\r\n<p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+        ],
+        "sortStatus": [
+          "3"
+        ],
+        "destination": [
+          "43650675"
+        ],
+        "topicConditions": [
+          "<p><b><span style=\"font-size:12.0pt;mso-bidi-font-size:&#xA;11.0pt;line-height:115%;mso-ansi-language:EN-US\" lang=\"EN-US\">General conditions</span></b></p>\r\n<p class=\"MsoNormal\"><b><span style=\"mso-ansi-language:EN-US\" lang=\"EN-US\">1. Admissibility conditions: </span></b><span style=\"mso-ansi-language:EN-US;&#xA;mso-bidi-font-weight:bold\" lang=\"EN-US\">described in </span><span class=\"MsoHyperlink\"><span style=\"mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin\"><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2021-2022/wp-13-general-annexes_horizon-2021-2022_en.pdf\">Annex A</a></span></span><span style=\"mso-ansi-language:EN-US;mso-bidi-font-weight:&#xA;bold\" lang=\"EN-US\"> and </span><span class=\"MsoHyperlink\"><span style=\"mso-bidi-font-family:&#xA;Calibri;mso-bidi-theme-font:minor-latin\"><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2021-2022/wp-13-general-annexes_horizon-2021-2022_en.pdf\">Annex E</a></span></span><span style=\"mso-ansi-language:EN-US;mso-bidi-font-weight:&#xA;bold\" lang=\"EN-US\"> of the Horizon Europe Work Programme General Annexes.</span></p>\n<p><b><span style=\"mso-ansi-language:EN-US\" lang=\"EN-US\">Proposal page limits and layout:</span></b><span style=\"mso-ansi-language:&#xA;EN-US\" lang=\"EN-US\"> described in Part B of the Application Form available in the Submission System.</span></p>\n<p>&nbsp;</p>\r\n<p><b><span style=\"mso-ansi-language:EN-US\" lang=\"EN-US\">2. Eligible countries: </span></b><span style=\"mso-ansi-language:EN-US\" lang=\"EN-US\">described in </span><span class=\"MsoHyperlink\"><span style=\"mso-bidi-font-family:Calibri;&#xA;mso-bidi-theme-font:minor-latin\"><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2021-2022/wp-13-general-annexes_horizon-2021-2022_en.pdf\">Annex B</a></span></span><span style=\"mso-ansi-language:EN-US\" lang=\"EN-US\"> of the Work Programme General Annexes.</span></p>\r\n<p class=\"MsoNormal\"><span style=\"mso-ansi-language:EN-US\" lang=\"EN-US\">A  number of non-EU/non-Associated Countries that are not automatically  eligible for funding have made specific provisions for making funding  available for their participants in Horizon Europe projects. See the  information in the </span><span class=\"MsoHyperlink\"><span style=\"mso-bidi-font-family:Calibri;mso-bidi-theme-font:&#xA;minor-latin\"><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\">Horizon Europe Programme Guide</a></span></span><span style=\"mso-ansi-language:&#xA;EN-US\" lang=\"EN-US\">.</span></p>\r\n<p class=\"MsoNormal\"><span style=\"mso-ansi-language:&#xA;EN-US\" lang=\"EN-US\">In recognition of the opening of the US National  Institutes of Health&rsquo;s programmes to European researchers, any legal  entity established in the United States of America is eligible to  receive Union funding to support its participation in projects funded  under the Health cluster.</span></p>\n<p>&nbsp;</p>\r\n<p><b style=\"mso-bidi-font-weight:normal\"><span style=\"mso-ansi-language:EN-US\" lang=\"EN-US\">3<span style=\"mso-bidi-font-weight:bold\">. Other eligibility conditions:</span></span></b><span style=\"mso-ansi-language:&#xA;EN-US\" lang=\"EN-US\"> described in </span><span class=\"MsoHyperlink\"><span style=\"mso-bidi-font-family:&#xA;Calibri;mso-bidi-theme-font:minor-latin\"><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2021-2022/wp-13-general-annexes_horizon-2021-2022_en.pdf\">Annex B</a></span></span><span style=\"mso-ansi-language:EN-US\"> <span lang=\"EN-US\">of the Work Programme General Annexes.</span></span></p>\n<p>&nbsp;</p>\r\n<p><b>4. Financial and operational capacity and exclusion: </b><span style=\"mso-bidi-font-weight:bold\">described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2021-2022/wp-13-general-annexes_horizon-2021-2022_en.pdf\">Annex C</a> of the Work Programme General Annexes</span>.</p>\n<p>&nbsp;</p>\r\n<p><b><span style=\"mso-ansi-language:FR-BE\" lang=\"FR-BE\">5.&nbsp;Evaluation and award:</span></b></p>\n<p><b><span lang=\"EN-US\">Award criteria, scoring and      thresholds</span></b><span lang=\"EN-US\"> are      described in </span><span class=\"MsoHyperlink\"><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2021-2022/wp-13-general-annexes_horizon-2021-2022_en.pdf\">Annex      D</a></span><span lang=\"EN-US\"> of      the Work Programme General Annexes.</span></p>\n<p><b><span lang=\"EN-US\">Submission and evaluation      processes</span></b><span lang=\"EN-US\"> are      described in </span><span class=\"MsoHyperlink\"><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2021-2022/wp-13-general-annexes_horizon-2021-2022_en.pdf\">Annex      F</a></span><span lang=\"EN-US\"> of      the Work Programme General Annexes and the </span><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\">Online      Manual</a><span lang=\"EN-US\"><o:p></o:p></span>.</p>\n<p><b><span lang=\"EN-US\">Indicative timeline for      evaluation and grant agreement: </span></b><span lang=\"EN-US\">described in </span><span class=\"MsoHyperlink\"><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2021-2022/wp-13-general-annexes_horizon-2021-2022_en.pdf\">Annex      F</a></span><span lang=\"EN-US\"> of the Work Programme General Annexes.</span></p>\n<p>&nbsp;</p>\r\n<p><b style=\"mso-bidi-font-weight:normal\"><span style=\"mso-ansi-language:EN-US\" lang=\"EN-US\">6. Legal and financial set-up of the grants: </span></b><span style=\"mso-ansi-language:EN-US\" lang=\"EN-US\">described in </span><span class=\"MsoHyperlink\"><span style=\"mso-bidi-font-family:Calibri;mso-bidi-theme-font:&#xA;minor-latin\"><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2021-2022/wp-13-general-annexes_horizon-2021-2022_en.pdf\">Annex G</a></span></span><span style=\"mso-ansi-language:EN-US\" lang=\"EN-US\"> of the Work Programme General Annexes.</span></p>\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\"><b><span style=\"font-size:12.0pt;mso-bidi-font-size:&#xA;11.0pt;line-height:115%;mso-ansi-language:EN-US\" lang=\"EN-US\">Specific conditions<o:p></o:p></span></b></p>\r\n<p class=\"MsoNormal\"><b><span lang=\"EN-US\">7. Specific conditions: </span></b><span lang=\"EN-US\">described in the specific topic of the Work Programme.<o:p></o:p></span></p>\n<p>&nbsp;</p>\r\n<p><b><span style=\"font-size:12.0pt;mso-bidi-font-size:&#xA;11.0pt;line-height:115%;mso-ansi-language:EN-US\" lang=\"EN-US\">Documents</span></b></p>\r\n<p class=\"MsoNormal\" style=\"margin-bottom:0cm;margin-bottom:.0001pt\"><b><span style=\"mso-ansi-language:EN-US\" lang=\"EN-US\">Call documents:</span></b></p>\r\n<p class=\"MsoNormal\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;tab-stops:&#xA;191.4pt\"><span style=\"mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin\"><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-ria-ia_en.pdf\" target=\"_blank\">Standard application form (HE RIA, IA)</a> &mdash; call-specific application form is available in the Submission System</span><span style=\"color:#404040;mso-themecolor:&#xA;text1;mso-themetint:191;mso-ansi-language:EN-US;mso-bidi-font-weight:bold\"> </span><br />\r\n<span style=\"mso-ansi-language:EN-US;mso-bidi-font-weight:bold\" lang=\"EN-US\"><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/ef/ef_he-ria-ia_en.pdf\" target=\"_blank\">Standard evaluation form (HE RIA, IA)</a> &mdash; will be used with the necessary adaptations</span><span style=\"color:#404040;&#xA;mso-themecolor:text1;mso-themetint:191;mso-ansi-language:EN-US;mso-bidi-font-weight:&#xA;bold\" lang=\"EN-US\"> </span><br />\r\n<span class=\"MsoHyperlink\"><br />\r\n<span style=\"mso-bidi-font-weight:bold\"><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf\">HE <span style=\"mso-ansi-language:EN-US\" lang=\"EN-US\">General MGA v1.0</span></a></span></span><span class=\"MsoHyperlink\"><span style=\"mso-ansi-language:EN-US;mso-bidi-font-weight:&#xA;bold\"> </span></span><span class=\"MsoHyperlink\"><span style=\"mso-ansi-language:EN-US;mso-bidi-font-weight:&#xA;bold\" lang=\"EN-US\"><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/information-on-clinical-studies_he_en.docx\"><br />\r\n<br />\r\nEssential Information for Clinical Studies</a></span></span></p>\n<p class=\"MsoNormal\" style=\"margin-bottom:0cm;margin-bottom:.0001pt\">&nbsp;</p>\r\n<p class=\"MsoNormal\" style=\"margin-bottom:0cm;margin-bottom:.0001pt\"><b><span lang=\"EN-US\">Additional documents:</span></b></p>\r\n<p class=\"MsoNormal\" style=\"margin-bottom:0cm;margin-bottom:.0001pt\"><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2021-2022/wp-1-general-introduction_horizon-2021-2022_en.pdf\">HE Main Work Programme 2021&ndash;2022 &ndash; 1. General Introduction</a><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2021-2022/wp-4-health_horizon-2021-2022_en.pdf\"><br />\r\nHE Main Work Programme 2021&ndash;2022 &ndash; 4. Health</a><br />\r\n<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2021-2022/wp-13-general-annexes_horizon-2021-2022_en.pdf\">HE Main Work Programme 2021&ndash;2022 &ndash; 13. General Annexes</a><span class=\"MsoHyperlink\"><br />\r\n<br />\r\n<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\">HE Programme Guide</a></span><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32018R1046&amp;qid=1535046024012\"><span lang=\"EN-US\"><br />\r\nEU Financial Regulation</span></a><span style=\"color:#404040;mso-themecolor:text1;mso-themetint:191;&#xA;mso-ansi-language:EN-US\" lang=\"EN-US\"><br />\r\n<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a><br />\r\n<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\"><span lang=\"EN-US\">EU Grants AGA </span>&mdash; Annotated Model Grant Agreement</a> <br />\r\n<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\"><span lang=\"EN-US\">Funding &amp; Tenders Portal Online Manual</span></a><br />\r\n<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\">Funding &amp; Tenders Portal Terms and Conditions<br />\r\n</a><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/privacy-statement_en.pdf\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a><span style=\"font-size:11.0pt;line-height:115%;font-family:&quot;Calibri&quot;,sans-serif;&#xA;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:&#xA;minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;&#xA;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-GB;mso-fareast-language:&#xA;EN-US;mso-bidi-language:AR-SA\"><br />\r\n</span></span></p>"
+        ],
+        "title": [
+          "Innovative tools for use and re-use of health data (in particular of electronic health records and/or patient registries)"
+        ],
+        "missionDescription": [],
+        "esST_checksum": [
+          "A086857AACAA714C743E3B0BD8C70CFBB6BBFDC6259D77DA64E517A3D8958E72"
+        ],
+        "cftId": [
+          "0"
+        ],
+        "infoPackDossiers": [
+          "[]"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "ccm2Id": [
+          "43970560"
+        ],
+        "REFERENCE": [
+          "43970560HORIZONResearchandInnovationActions1624320000000"
+        ],
+        "programmeDivision": [
+          "43108638",
+          "43108557",
+          "43108541"
+        ],
+        "crossCuttingPriorities": [
+          "EoscAndFairData",
+          "DigitalAgenda",
+          "SSH"
+        ],
+        "esDA_IngestDate": [
+          "2024-06-28T10:19:47.999+0200"
+        ],
+        "typesOfAction": [
+          "HORIZON  Research and Innovation Actions"
+        ],
+        "callUpdates": [
+          "[{\"approvalDate\":\"Feb 1, 2022 11:54:52 AM\",\"lastChangeDate\":\"Feb 1, 2022 11:54:52 AM\",\"content\":\"\\u003cp\\u003eWe recently informed the applicants about the evaluation results for their proposals submitted under this call. The results of the evaluation are as follows:\\u003c/p\\u003e\\r\\n\\u003cul\\u003e\\r\\n    \\u003cli\\u003eNumber of proposals submitted (including proposals transferred from or to other calls): 84\\u003c/li\\u003e\\r\\n    \\u003cli\\u003eNumber of inadmissible proposals: 1\\u003c/li\\u003e\\r\\n    \\u003cli\\u003eNumber of ineligible proposals: 2\\u003c/li\\u003e\\r\\n    \\u003cli\\u003eNumber of above-threshold proposals: 41\\u003c/li\\u003e\\r\\n    \\u003cli\\u003eTotal budget requested for above-threshold proposals: EUR 298.969.154\\u003c/li\\u003e\\r\\n\\u003c/ul\\u003e\"},{\"approvalDate\":\"Oct 4, 2021 12:09:08 PM\",\"lastChangeDate\":\"Oct 4, 2021 12:09:08 PM\",\"content\":\"\\u003cp\\u003eCall HORIZON-HLTH-2021-TOOL-06 closed on 21 September 2021. 84 proposals were submitted. The breakdown per topic is:\\u003c/p\\u003e\\r\\n\\u003cul\\u003e\\r\\n    \\u003cli\\u003eHORIZON-HLTH-2021-TOOL-06-01: 7 proposals\\u0026nbsp;\\u003c/li\\u003e\\r\\n    \\u003cli\\u003eHORIZON-HLTH-2021-TOOL-06-02: 31 proposals\\u003c/li\\u003e\\r\\n    \\u003cli\\u003eHORIZON-HLTH-2021-TOOL-06-03: 46 proposals\\u003c/li\\u003e\\r\\n\\u003c/ul\\u003e\\r\\n\\u003cp\\u003eEvaluation results are expected to be communicated on Friday 28 January 2022 at the earliest.\\u003c/p\\u003e\"},{\"approvalDate\":\"Jun 23, 2021 10:17:54 AM\",\"lastChangeDate\":\"Jun 23, 2021 10:17:54 AM\",\"content\":\"The submission session is now available for: HORIZON-HLTH-2021-TOOL-06-02(HORIZON-RIA), HORIZON-HLTH-2021-TOOL-06-01(HORIZON-IA), HORIZON-HLTH-2021-TOOL-06-03(HORIZON-RIA)\"}]"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/HORIZON-HLTH-2021-TOOL-06-03.json"
+        ],
+        "additionalDossiers": [
+          "[]"
+        ],
+        "allowPartnerSearch": [
+          "true"
+        ],
+        "budgetOverview": [
+          "{\"budgetTopicActionMap\":{\"3339609\":[{\"plannedOpeningDate\":\"22 June 2021\",\"deadlineDates\":[\"21 September 2021\"],\"action\":\"HORIZON-HLTH-2021-TOOL-06-03 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"budgetYearMap\":{\"2021\":30000000},\"budgetTopicActionMap\":{},\"deadlineModel\":\"single-stage\"}],\"3339606\":[{\"plannedOpeningDate\":\"22 June 2021\",\"deadlineDates\":[\"21 September 2021\"],\"action\":\"HORIZON-HLTH-2021-TOOL-06-01 - HORIZON-IA HORIZON Innovation Actions\",\"budgetYearMap\":{\"2021\":25000000},\"budgetTopicActionMap\":{},\"deadlineModel\":\"single-stage\"}],\"3339612\":[{\"plannedOpeningDate\":\"22 June 2021\",\"deadlineDates\":[\"21 September 2021\"],\"action\":\"HORIZON-HLTH-2021-TOOL-06-02 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"budgetYearMap\":{\"2021\":60000000},\"budgetTopicActionMap\":{},\"deadlineModel\":\"single-stage\"}]},\"budgetYearsColumns\":[\"2021\"]}"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "Innovative tools for use and re-use of <b>health</b> <b>data</b> (in particular of electronic <b>health</b> records and/or patient registries)"
+      ]
+    }
+  ]
+}

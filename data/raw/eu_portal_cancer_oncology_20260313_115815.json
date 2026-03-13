@@ -1,0 +1,1001 @@
+{
+  "apiVersion": "2.145.3",
+  "terms": "cancer oncology",
+  "responseTime": 171,
+  "totalResults": 6291,
+  "pageNumber": 1,
+  "pageSize": 50,
+  "sort": "relevance",
+  "groupByField": "sortStatus",
+  "queryLanguage": {
+    "language": "en",
+    "probability": 0.0
+  },
+  "spellingSuggestion": "cancer oncology",
+  "bestBets": [],
+  "warnings": [],
+  "results_sample": [
+    {
+      "apiVersion": "2.145.3",
+      "reference": "4024en",
+      "url": "https://etendering.ted.europa.eu/cft/cft-display.html?cftId=4024",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Reviews on Non-animal Methods in Use for Biomedical Research Divided in 5 Lots",
+      "weight": 23.894814,
+      "groupById": "3",
+      "content": "Reviews on Non-animal Methods in Use for Biomedical Research Divided in 5 Lots",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "FB5D0123425865BF6F469CF64348F12B5D7D731BD845136F877889D51A38E1FE",
+      "metadata": {
+        "es_SortDate": [
+          "2018-09-12T00:00:00.000+0000"
+        ],
+        "cftPartyLegalEntityId": [
+          "47352548"
+        ],
+        "cftMaxNumberOfLots": [],
+        "contractType": [
+          "31095498"
+        ],
+        "awardMethod": [],
+        "cftContractingSystems": [
+          "PUBLIC_CONTRACT"
+        ],
+        "language": [
+          "en"
+        ],
+        "type": [
+          "0"
+        ],
+        "cftDocuments": [
+          "{\"cftDocuments\":[{\"documentPublicationID\":\"51282\",\"languageCode\":\"ENG\",\"documentTitle\":\"3. LOT 4_Tender spec_Part 2_Technical specifications\",\"documentType\":\"Technical Specifications\",\"considerChangedUntilDate\":\"2018-09-12T12:00:00\",\"documentChangeCode\":\"NEW\",\"changedNotificationText\":\"NEW\",\"hermesDocumentReferences\":[{\"documentID\":\"51282\",\"attachmentID\":\"44839\",\"versionNR\":\"1\",\"isCurrentVersion\":\"Y\",\"publicationDate\":\"2018-09-12T12:00:00\",\"documentFileName\":\"4024_51282_EN-3. LOT 4_Tender spec_Part 2_Technical specifications.doc_ENG_V1.pdf\",\"publicationFormat\":\"1PD\"}],\"applicableProcurementProjectLots\":[{\"procurementProjectLotID\":\"4\"}],\"obsolete\":false},{\"documentPublicationID\":\"51281\",\"languageCode\":\"ENG\",\"documentTitle\":\"3. LOT 3_Tender spec_Part 2_Technical specifications\",\"documentType\":\"Technical Specifications\",\"considerChangedUntilDate\":\"2018-09-12T12:00:00\",\"documentChangeCode\":\"NEW\",\"changedNotificationText\":\"NEW\",\"hermesDocumentReferences\":[{\"documentID\":\"51281\",\"attachmentID\":\"44838\",\"versionNR\":\"1\",\"isCurrentVersion\":\"Y\",\"publicationDate\":\"2018-09-12T12:00:00\",\"documentFileName\":\"4024_51281_EN-3. LOT 3_Tender spec_Part 2_Technical specifications.doc_ENG_V1.pdf\",\"publicationFormat\":\"1PD\"}],\"applicableProcurementProjectLots\":[{\"procurementProjectLotID\":\"3\"}],\"obsolete\":false},{\"documentPublicationID\":\"51280\",\"languageCode\":\"ENG\",\"documentTitle\":\"3. LOT 2_Tender spec_Part 2_Technical specifications\",\"documentType\":\"Technical Specifications\",\"considerChangedUntilDate\":\"2018-09-12T12:00:00\",\"documentChangeCode\":\"NEW\",\"changedNotificationText\":\"NEW\",\"hermesDocumentReferences\":[{\"documentID\":\"51280\",\"attachmentID\":\"44837\",\"versionNR\":\"1\",\"isCurrentVersion\":\"Y\",\"publicationDate\":\"2018-09-12T12:00:00\",\"documentFileName\":\"4024_51280_EN-3. LOT 2_Tender spec_Part 2_Technical specifications.doc_ENG_V1.pdf\",\"publicationFormat\":\"1PD\"}],\"applicableProcurementProjectLots\":[{\"procurementProjectLotID\":\"2\"}],\"obsolete\":false},{\"documentPublicationID\":\"51279\",\"languageCode\":\"ENG\",\"documentTitle\":\"3. LOT 1_Tender spec_Part 2_Technical specifications\",\"documentType\":\"Technical Specifications\",\"considerChangedUntilDate\":\"2018-09-12T12:00:00\",\"documentChangeCode\":\"NEW\",\"changedNotificationText\":\"NEW\",\"hermesDocumentReferences\":[{\"documentID\":\"51279\",\"attachmentID\":\"44836\",\"versionNR\":\"1\",\"isCurrentVersion\":\"Y\",\"publicationDate\":\"2018-09-12T12:00:00\",\"documentFileName\":\"4024_51279_EN-3. LOT 1_Tender spec_Part 2_Technical specifications.doc_ENG_V1.pdf\",\"publicationFormat\":\"1PD\"}],\"applicableProcurementProjectLots\":[{\"procurementProjectLotID\":\"1\"}],\"obsolete\":false},{\"documentPublicationID\":\"51285\",\"languageCode\":\"ENG\",\"documentTitle\":\"5. Annex IV_to_Contract_Rules_relating_to_access_to_JRC_Ispra_site\",\"documentType\":\"Annexes\",\"considerChangedUntilDate\":\"2018-09-12T12:00:00\",\"documentChangeCode\":\"NEW\",\"changedNotificationText\":\"NEW\",\"hermesDocumentReferences\":[{\"documentID\":\"51285\",\"attachmentID\":\"44842\",\"versionNR\":\"1\",\"isCurrentVersion\":\"Y\",\"publicationDate\":\"2018-09-12T12:00:00\",\"documentFileName\":\"4024_51285_EN-5. Annex IV_to_Contract_Rules_relating_to_access_to_JRC_Ispra_site.docx_ENG_V1.pdf\",\"publicationFormat\":\"1PD\"}],\"obsolete\":false},{\"documentPublicationID\":\"51284\",\"languageCode\":\"ENG\",\"documentTitle\":\"4. Draft Service Contract\",\"documentType\":\"Draft Contract\",\"considerChangedUntilDate\":\"2018-09-12T12:00:00\",\"documentChangeCode\":\"NEW\",\"changedNotificationText\":\"NEW\",\"hermesDocumentReferences\":[{\"documentID\":\"51284\",\"attachmentID\":\"44841\",\"versionNR\":\"1\",\"isCurrentVersion\":\"Y\",\"publicationDate\":\"2018-09-12T12:00:00\",\"documentFileName\":\"4024_51284_EN-4. Draft Service Contract.docx_ENG_V1.pdf\",\"publicationFormat\":\"1PD\"}],\"obsolete\":false},{\"documentPublicationID\":\"51286\",\"languageCode\":\"ENG\",\"documentTitle\":\"6. Annex V_to_Contract_Safety contractual clauses\",\"documentType\":\"Annexes\",\"considerChangedUntilDate\":\"2018-09-12T12:00:00\",\"documentChangeCode\":\"NEW\",\"changedNotificationText\":\"NEW\",\"hermesDocumentReferences\":[{\"documentID\":\"51286\",\"attachmentID\":\"44843\",\"versionNR\":\"1\",\"isCurrentVersion\":\"Y\",\"publicationDate\":\"2018-09-12T12:00:00\",\"documentFileName\":\"4024_51286_EN-6. Annex V_to_Contract_Safety contractual clauses (LIGHT version) JRC Ispra.docx_ENG_V1.pdf\",\"publicationFormat\":\"1PD\"}],\"obsolete\":false},{\"documentPublicationID\":\"51283\",\"languageCode\":\"ENG\",\"documentTitle\":\"3. LOT 5_Tender spec_Part 2_Technical specifications\",\"documentType\":\"Technical Specifications\",\"considerChangedUntilDate\":\"2018-09-12T12:00:00\",\"documentChangeCode\":\"NEW\",\"changedNotificationText\":\"NEW\",\"hermesDocumentReferences\":[{\"documentID\":\"51283\",\"attachmentID\":\"44840\",\"versionNR\":\"1\",\"isCurrentVersion\":\"Y\",\"publicationDate\":\"2018-09-12T12:00:00\",\"documentFileName\":\"4024_51283_EN-3. LOT 5_Tender spec_Part 2_Technical specifications.doc_ENG_V1.pdf\",\"publicationFormat\":\"1PD\"}],\"applicableProcurementProjectLots\":[{\"procurementProjectLotID\":\"5\"}],\"obsolete\":false},{\"documentPublicationID\":\"51766\",\"languageCode\":\"ENG\",\"documentTitle\":\"2.1. Declaration on honour v. 21 09 2018\",\"documentType\":\"Declaration on honour\",\"considerChangedUntilDate\":\"2018-09-21T12:00:00\",\"documentChangeCode\":\"NEW\",\"changedNotificationText\":\"NEW\",\"hermesDocumentReferences\":[{\"documentID\":\"51278\",\"attachmentID\":\"44835\",\"versionNR\":\"1\",\"isCurrentVersion\":\"N\",\"publicationDate\":\"2018-09-12T12:00:00\",\"documentFileName\":\"4024_51278_EN-2.1. Declaration on honour_ENG_V1.docx\",\"publicationFormat\":\"1DOC\",\"translations\":[{\"translationAttachmentID\":\"10\",\"translationLanguageCode\":\"ENG\",\"translationTitle\":\"2.1. Declaration on honour\",\"translationFileName\":\"4024_51278_EN-2.1. Declaration on honour_ENG_V1.docx\",\"documentFileName\":\"4024_51278_EN-2.1. Declaration on honour_ENG_V1.docx\"}]},{\"documentID\":\"51766\",\"attachmentID\":\"44835\",\"versionNR\":\"2\",\"isCurrentVersion\":\"Y\",\"publicationDate\":\"2018-09-21T12:00:00\",\"documentFileName\":\"4024_51766_EN-2.1. Declaration on honour_001_ENG_V2.docx\",\"publicationFormat\":\"2DOC\"}],\"obsolete\":false},{\"documentPublicationID\":\"52399\",\"languageCode\":\"ENG\",\"documentTitle\":\"2. Tender spec_Part 1_Administrative Annex v. 10 10 2018\",\"documentType\":\"Annexes\",\"considerChangedUntilDate\":\"2018-10-10T12:00:00\",\"documentChangeCode\":\"NEW\",\"changedNotificationText\":\"NEW\",\"hermesDocumentReferences\":[{\"documentID\":\"51277\",\"attachmentID\":\"44834\",\"versionNR\":\"1\",\"isCurrentVersion\":\"N\",\"publicationDate\":\"2018-09-12T12:00:00\",\"documentFileName\":\"4024_51277_EN-2. Tender spec_Part 1_Administrative Annex.docx_ENG_V1.pdf\",\"publicationFormat\":\"1PD\",\"translations\":[{\"translationAttachmentID\":\"7\",\"translationLanguageCode\":\"ENG\",\"translationTitle\":\"2. Tender spec_Part 1_Administrative Annex\",\"translationFileName\":\"4024_51277_EN-2. Tender spec_Part 1_Administrative Annex.docx_ENG_V1.pdf\",\"documentFileName\":\"4024_51277_EN-2. Tender spec_Part 1_Administrative Annex.docx_ENG_V1.pdf\"}]},{\"documentID\":\"52399\",\"attachmentID\":\"44834\",\"versionNR\":\"2\",\"isCurrentVersion\":\"Y\",\"publicationDate\":\"2018-10-10T12:00:00\",\"documentFileName\":\"4024_52399_EN-2. Tender spec_Part 1_Administrative Annex.docx_001_ENG_V2.pdf\",\"publicationFormat\":\"2PD\"}],\"obsolete\":false},{\"documentPublicationID\":\"51276\",\"languageCode\":\"ENG\",\"documentTitle\":\"1. Invitation letter\",\"documentType\":\"Invitation\",\"considerChangedUntilDate\":\"2018-09-12T12:00:00\",\"documentChangeCode\":\"NEW\",\"changedNotificationText\":\"NEW\",\"hermesDocumentReferences\":[{\"documentID\":\"51276\",\"attachmentID\":\"44833\",\"versionNR\":\"1\",\"isCurrentVersion\":\"Y\",\"publicationDate\":\"2018-09-12T12:00:00\",\"documentFileName\":\"4024_51276_EN-1. Invitation letter_Reviews on Non-animal Methods_JRC_IPR_2018_F.3_0035_OC.docx_ENG_V1.pdf\",\"publicationFormat\":\"1PD\"}],\"obsolete\":false}]}"
+        ],
+        "callIdentifier": [
+          "JRC/IPR/2018/F.3/0035/OC"
+        ],
+        "cftSubmissionsAllowed": [],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "cftPublicationDisplayStatus": [],
+        "identifier": [
+          "8f0a7d8a-9548-45ea-a1e7-8f851cdfde67"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "programmePeriod": [
+          "2014 - 2020",
+          "2021 - 2027"
+        ],
+        "cftSubscriptionsAllowed": [],
+        "deadlineDate": [
+          "2018-10-19T15:00:00.000+0000"
+        ],
+        "cftCorrigendaList": [],
+        "closingDate": [
+          "2018-10-19T15:00:00Z"
+        ],
+        "es_Combine": [
+          "3"
+        ],
+        "esST_URL": [
+          "https://etendering.ted.europa.eu/cft/cft-display.html?cftId=4024"
+        ],
+        "esDA_QueueDate": [
+          "2024-09-27T15:29:26.539+0200"
+        ],
+        "mainCpv": [],
+        "mainCpvCode": [
+          "null"
+        ],
+        "startDate": [
+          "2018-09-12T00:00:00.000+0000"
+        ],
+        "placesOfDeliveryOrPerformance": [],
+        "status": [
+          "31094503"
+        ],
+        "procedureType": [
+          "47396220"
+        ],
+        "updateDate": [
+          "2018-10-22T10:00:00.000+0000"
+        ],
+        "sortStatus": [
+          "3"
+        ],
+        "conditionOfParticipation": [
+          "{\"id\":474733,\"cft_id\":4024,\"publishedDate\":null,\"language\":\"EN\",\"excCrit\":\"See Internet address provided in Section I.3.\",\"inInfo\":\"Selection criteria as stated in the procurement documents\",\"finMin\":\"Selection criteria as stated in the procurement documents\",\"tecInfo\":\"Selection criteria as stated in the procurement documents\",\"tecMin\":\"Selection criteria as stated in the procurement documents\",\"accProc\":null}"
+        ],
+        "description": [
+          "A collection of non-animal methods shall be provided in use for basic and applied research concerning the following human disease areas:\u2014 Lot 1:Cardiovascular diseases,\u2014 Lot 2: Breast Cancer,\u2014 Lot 3: Immunogenicity testing for advanced therapy medicinal products,\u2014 Lot 4: Autoimmune diseases,\u2014 Lot 5: Immune Oncology Models."
+        ],
+        "title": [
+          "Reviews on Non-animal Methods in Use for Biomedical Research Divided in 5 Lots"
+        ],
+        "esST_checksum": [
+          "FB5D0123425865BF6F469CF64348F12B5D7D731BD845136F877889D51A38E1FE"
+        ],
+        "cftId": [
+          "4024"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "REFERENCE": [
+          "4024en"
+        ],
+        "cftTendersMayBeSubmitted": [
+          "ONE_OR_MORE_LOT"
+        ],
+        "cftTimezone": [],
+        "cftEstimatedTotalProcedureValue": [],
+        "additionalCpvs": [
+          "[]"
+        ],
+        "cftContractNoticeLink": [
+          "[{\"noticeType\":\"1\",\"publicationDate\":\"12/09/18\",\"publicationReference\":\"2018/S 175-396035\",\"link\":\"http://ted.europa.eu/udl?uri=TED:NOTICE:396035-2018:TEXT:EN:HTML\"}]"
+        ],
+        "cftRepublish": [],
+        "cftSubmissionMethodCode": [
+          "ESUBMISSION"
+        ],
+        "cftProcurementType": [],
+        "caName": [
+          "100"
+        ],
+        "cftPlannedDate": [],
+        "publicationDocuments": [
+          "[\"EN\"]"
+        ],
+        "esDA_IngestDate": [
+          "2024-09-27T15:29:27.017+0200"
+        ],
+        "cftInterinstitutional": [],
+        "cftQuestionsAnswersAllowed": [],
+        "url": [
+          "https://etendering.ted.europa.eu/cft/cft-display.html?cftId=4024"
+        ],
+        "lots": [
+          "[{\"number\":\"2\",\"title\":\"Breast Cancer\",\"description\":\"A collection of non-animal methods shall be provided in use for basic and applied research concerning the following human disease area: Breast Cancer.\",\"nuts\":[],\"additionalCpvs\":[],\"estimatedValue\":null,\"awardMethod\":\"1\",\"lng\":null},{\"number\":\"1\",\"title\":\"Cardiovascular Diseases\",\"description\":\"A collection of non-animal methods shall be provided in use for basic and applied research concerning the following human disease area: Cardiovascular diseases.\",\"nuts\":[],\"additionalCpvs\":[],\"estimatedValue\":null,\"awardMethod\":\"1\",\"lng\":null},{\"number\":\"3\",\"title\":\"Immunogenicity Testing Advance Therapy\",\"description\":\"A collection of non-animal methods shall be provided in use for basic and applied research concerning the following human disease areas: Immunogenicity testing for advanced therapy medicinal products.\",\"nuts\":[],\"additionalCpvs\":[],\"estimatedValue\":null,\"awardMethod\":\"1\",\"lng\":null},{\"number\":\"4\",\"title\":\"Autoimmune Diseases\",\"description\":\"A collection of non-animal methods shall be provided in use for basic and applied research concerning the following human disease areas: Autoimmune diseases.\",\"nuts\":[],\"additionalCpvs\":[],\"estimatedValue\":null,\"awardMethod\":\"1\",\"lng\":null},{\"number\":\"5\",\"title\":\"Immune Oncology Models\",\"description\":\"A collection of non-animal methods shall be provided in use for basic and applied research concerning the following human disease areas: Immune Oncology Models.\",\"nuts\":[],\"additionalCpvs\":[],\"estimatedValue\":null,\"awardMethod\":\"1\",\"lng\":null}]"
+        ],
+        "cftEXARegistrationDeadline": [],
+        "indicativeLaunch": [],
+        "cftLeadContractingAuthorityCode": [
+          "null"
+        ],
+        "cftBuyerProfileUrl": [],
+        "cftPublicationDateEForm": [
+          "12/09/2018 00:00:00"
+        ],
+        "cftEstimatedOverallContractCurrency": []
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": []
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "31081229ResearchandInnovationaction1483488000000",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/IMI2-2016-10-02.json",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "How Big Data could support better diagnosis and treatment outcomes for Prostate Cancer",
+      "weight": 21.382275,
+      "groupById": "3",
+      "content": "How Big Data could support better diagnosis and treatment outcomes for Prostate <b>Cancer</b>",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "803729165C27D392517DDC9FF3F30D0F961516AFECCA4C1AF37AB694B53ADF82",
+      "metadata": {
+        "latestInfos": [
+          "[{\"approvalDate\":\"Aug 1, 2017 3:51:10 PM\",\"lastChangeDate\":\"Aug 1, 2017 3:51:10 PM\",\"content\":\"\\u003cp\\u003e\\u0026nbsp;An overview of the evaluation results (\\u003ca href\\u003d\\\"http://ec.europa.eu/research/participants/portal/doc/call/h2020/imi2-2016-10-01/1777637-imi2_call_10_-_stage-one_-_falsh_call_info_en.pdf\\\" target\\u003d\\\"_blank\\\"\\u003eflash call info \\u0026ndash; IMI2 Call 10 \\u0026ndash; stage one\\u003c/a\\u003e) is now available under the call \\u0026lsquo;Additional documents\\u0026rsquo; tab.\\u003c/p\\u003e\"}]"
+        ],
+        "es_SortDate": [
+          "2017-01-04T00:00:00.000+0000"
+        ],
+        "keywords": [
+          "Oncology",
+          "Quality-of-life",
+          "Prostate cancer",
+          "IMI2 JU",
+          "cancer",
+          "Innovative Medicines Initiative",
+          "IMI JU",
+          "IMI",
+          "Big Data",
+          "Oncology",
+          "IMI2"
+        ],
+        "workProgrammepart": [],
+        "language": [
+          "en"
+        ],
+        "type": [
+          "1"
+        ],
+        "focusArea": [],
+        "destinationDetails": [],
+        "typeOfMGAs": [],
+        "callIdentifier": [
+          "H2020-JTI-IMI2-2016-10-two-stage"
+        ],
+        "callccm2Id": [
+          "31081237"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "links": [
+          "[]"
+        ],
+        "callTitle": [
+          "H2020-JTI-IMI2-2016-10-two-stage"
+        ],
+        "frameworkProgramme": [
+          "31045243"
+        ],
+        "descriptionByte": [
+          "<SPAN class=\"topicdescriptionkind\">Specific Challenge</SPAN>:<p>Prostate cancer (PCa) is the second most common cancer in men.</p><p>Most recent clinical research focuses on the late stages of PCa, but there is a lack of data to support clinical practice in the early stages. While prognostic factors linked with overall survival have been proposed, there is no clear treatment path according to these factors. Despite a large increase in new technologies, there is also scarce data on whether real world outcomes of patients are improving.</p>\n<SPAN class=\"topicdescriptionkind\">Scope</SPAN>:<p>Address the scarcity of epidemiologic, clinical, genomic/biomarker, economic, patient reported outcome, and humanistic data on the treatment path of prostate cancer including all stages of the disease. Leverage real-life data on patients from different European countries, using existing registries, trial data, and data from prostate cancer specialized centres as well as data from patient groups. Foster the collection and use of data to improve the outcomes and health system efficiency, an aim of the entire BD4BO. </p>\n<SPAN class=\"topicdescriptionkind\">Expected Impact</SPAN>:<ul level=\"0\">  <li>Identifying relevant outcomes to assess the impact of Prostate Cancer on patients\u2019 lives</li>  <li>Identifying and building real-world data sets that are suitable for answering questions about the natural history, cost-effectiveness, and clinical utility of new and innovative diagnostic and treatment interventions across the disease;</li>  <li>Engagement with stakeholders to ensure future prospective data collection efforts</li>  <li>Providing a road map of aligned outcomes to enable healthcare systems to adopt precision medicine</li> </ul>\n"
+        ],
+        "identifier": [
+          "IMI2-2016-10-02"
+        ],
+        "additionalInfos": [
+          "{}"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "programmePeriod": [
+          "2014 - 2020"
+        ],
+        "deadlineDate": [
+          "2017-03-28T17:00:00.000+0000",
+          "2017-10-19T17:00:00.000+0000"
+        ],
+        "es_Combine": [
+          "3"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/IMI2-2016-10-02.json"
+        ],
+        "tags": [
+          "Innovative Medicines Initiative",
+          "IMI JU",
+          "IMI2",
+          "IMI",
+          "Big Data",
+          "IMI2 JU",
+          "Oncology",
+          "cancer",
+          "Prostate cancer"
+        ],
+        "cenTagsA": [
+          "TOPICS-041559",
+          "TOPICS-041560",
+          "TOPICS-041561",
+          "TOPICS-041562",
+          "TOPICS-041563",
+          "TOPICS-000116",
+          "TOPICS-001854",
+          "TOPICS-007167",
+          "TOPICS-001855",
+          "TOPICS-007391",
+          "TOPICS-041564",
+          "TOPICS-001856",
+          "TOPICS-001858",
+          "TOPICS-001859",
+          "TOPICS-002262"
+        ],
+        "esDA_QueueDate": [
+          "2024-06-28T10:25:42.949+0200"
+        ],
+        "cenTagsB": [
+          "TCK_72840500",
+          "TTG_00001957",
+          "TTG_00008176",
+          "TTG_00014695",
+          "TTG_00000239",
+          "TTG_00000240",
+          "TTG_00000242",
+          "TTG_00014699",
+          "TTG_00014700",
+          "TTG_00003964",
+          "TCK_72840499",
+          "TCK_72840500",
+          "TCK_72840501",
+          "TCK_72840502",
+          "TCK_72840503",
+          "TCK_72840504",
+          "TCK_72840505",
+          "TCK_72840506",
+          "TCK_72840507",
+          "TCK_72840508",
+          "TCK_72840509",
+          "TCK_72840510",
+          "TCK_72840511",
+          "TCK_72840513",
+          "TTL_00014690",
+          "TCM_00014691",
+          "TCM_00012216"
+        ],
+        "destinationDescription": [],
+        "actions": [
+          "[{\"status\":{\"id\":31094503,\"abbreviation\":\"Closed\",\"description\":\"Closed\"},\"types\":[{\"typeOfAction\":\"IMI2-RIA Research and Innovation action\",\"typeOfMGA\":[]}],\"plannedOpeningDate\":\"04 January 2017\",\"submissionProcedure\":{\"id\":31094505,\"abbreviation\":\"two-stage\",\"description\":\"two-stage\"},\"deadlineDates\":[\"28 March 2017\",\"19 October 2017\"]}]"
+        ],
+        "startDate": [
+          "2017-01-04T00:00:00.000+0000"
+        ],
+        "deadlineModel": [
+          "two-stage"
+        ],
+        "status": [
+          "31094503"
+        ],
+        "supportInfo": [
+          "<p><strong>Contact the IMI Programme Office </strong>: E-mail: <u><strong><span style=\"color: rgb(0, 0, 255);\">Infodesk@imi.europa.eu</span></strong></u><strong><span style=\"color: rgb(0, 0, 255);\"> </span></strong>| Tel : +32 2 221 81 81</p>\r\n<p>Contact you <strong>SRG member</strong> for assistance:&nbsp;<a href=\"http://www.imi.europa.eu/content/states-representatives-groups\"><strong>IMI States Representative Group (SRG)</strong></a>&nbsp;</p>\r\n<p><a href=\"http://www.imi.europa.eu/content/partner-search\"><strong>IMI Partner Search Tool</strong></a>&nbsp;helps you find a partner organisation for your proposal.</p>\r\n<p><strong><a href=\"http://ec.europa.eu/research/participants/docs/h2020-funding-guide/index_en.htm\">H2020 Online Manual</a></strong> your online guide on the procedures from proposal submission to managing your grant.<br />\r\n<br />\r\n<strong><span><a href=\"http://ec.europa.eu/research/participants/portal/desktop/en/support/faq.html\">Participant Portal FAQ</a> </span></strong><span>&ndash; Submission of proposals.</span></p>\r\n<p><a href=\"http://ec.europa.eu/research/participants/api/contact/index.html\"><strong>IT Helpdesk</strong></a>- contact the Participant Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.<br />\r\n<strong><br />\r\n<span><a href=\"http://ec.europa.eu/research/participants/portal4/desktop/en/support/national_contact_points.html\">National Contact Points (NCP)</a>&nbsp;-&nbsp;</span></strong><span>contact your NCP for further assistance.</span><br />\r\n<strong><br />\r\n<span><a href=\"http://ec.europa.eu/research/index.cfm?lg=en&amp;pg=enquiries\">Research Enquiry Service</a></span></strong><span> &ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.</span><br />\r\n<a href=\"http://een.ec.europa.eu/\"><br />\r\n<strong>Enterprise Europe Network</strong></a> &ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.<strong><br />\r\n</strong></p>\r\n<p><strong> Ethics</strong> &ndash; for compliance with ethical issues, check the information available on the<a href=\"http://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/ethics_en.htm\"> Participant Portal</a>, on the &nbsp;<a href=\"http://ec.europa.eu/research/swafs/index.cfm?pg=policy&amp;lib=ethics\">Science and Society Portal</a>&nbsp;and in the&nbsp;<a href=\"http://ec.europa.eu/euraxess/pdf/brochure_rights/am509774CEE_EN_E4.pdf\"><strong>The European Charter for Researchers and the Code of Conduct for their recruitment</strong></a><a href=\"http://www.iprhelpdesk.eu/\"><br />\r\n</a></p>\r\n<p><strong>IP </strong>&ndash;&nbsp;<a href=\"http://www.iprhelpdesk.eu/\"><strong>European IPR Helpdesk</strong></a> assists you on intellectual property issues<br />\r\n<a href=\"http://www.cen.eu/cen/Services/Innovation/Pages/default.aspx\"><br />\r\n<strong>CEN</strong></a> and <a href=\"http://www.cenelec.eu/aboutcenelec/whatwestandfor/fosterinnovation/randd.html\"><strong>CENELEC</strong></a>, the European Standards Organisations, advise you how to tackle standardisation in your project proposal. Contact CEN-CENELEC Research Helpdesk at <a href=\"mailto:research@cencenelec.eu\">research@cencenelec.eu</a>.<br />\r\n<strong><br />\r\n</strong></p>"
+        ],
+        "missionDetails": [],
+        "sepTemplate": [
+          "<p>To access the Electronic Submission Service of the topic, please select the <strong>type of action</strong> that is most relevant to your proposal from the list below and click on the <strong>'Start Submission' </strong>button. You will then be asked to confirm your choice of the type of action and topic, as these cannot be changed in the submission system. Upon confirmation you will be linked to the correct entry point.</p>\r\n<p>To access existing draft proposals for this topic, please login to the Participant Portal and select the My Proposals page of the My Area section.</p>"
+        ],
+        "sortStatus": [
+          "3"
+        ],
+        "topicConditions": [
+          "<p>Please read carefully all provisions below before the preparation of your application.</p>\r\n<p>You can access the description of the different topics in the&nbsp;<a href=\"http://ec.europa.eu/research/participants/data/ref/h2020/other/call_fiches/jtis/h2020-call-fiche16-10-imi2-ju_en.pdf\" target=\"_blank\"><strong>Call 10&nbsp;topics text</strong></a>.</p>\r\n<p>The budget breakdown for this Call is given at the end of the Call topics text, in the <a href=\"http://ec.europa.eu/research/participants/data/ref/h2020/other/call_fiches/jtis/h2020-call-fiche16-10-imi2-ju_en.pdf\" target=\"_blank\"><strong>Conditions for this Call for proposals</strong></a>&nbsp;section, as well as the following information :</p>\r\n<ol>\r\n    <li><strong><span style=\"color: rgb(0, 51, 102);\">List of countries and applicable rules for funding</span></strong><br />\r\n    &nbsp;</li>\r\n    <li><strong><span style=\"color: rgb(0, 51, 102);\">Eligibility and admissibility conditions</span></strong><br />\r\n    &nbsp;</li>\r\n    <li><strong><span style=\"color: rgb(0, 51, 102);\">Evaluation criteria and procedure, scoring and treshold: &nbsp;</span></strong><span style=\"color: rgb(0, 51, 102);\">described in the <strong><a href=\"http://ec.europa.eu/research/participants/data/ref/h2020/other/guides_for_applicants/jtis/h2020-guide-pse-imi-ju-v1.4_en.pdf\" target=\"_blank\">IMI2 Manual for evaluation, submission and grant award</a>. </strong></span><br />\r\n    &nbsp;</li>\r\n    <li><strong><span style=\"color: rgb(0, 51, 102);\">Indicative timetable for evaluation and grant agreement</span></strong><br />\r\n    &nbsp;</li>\r\n    <li><strong><span style=\"color: rgb(0, 51, 102);\">Provisions, proposal templates and evaluation forms for the type of actions under the Call topics:</span></strong>  <br />\r\n    <br />\r\n    <u>IMI2 Research and Innovation Action (IMI2-RIA) and (IMI2-IA):<br />\r\n    </u><br />\r\n    <a href=\"http://ec.europa.eu/research/participants/data/ref/h2020/other/guides_for_applicants/jtis/h2020-guide-rel-prov-imi-ju_en.pdf\">Summary of the most relevant provisions for participating in IMI2 actions</a><br />\r\n    Proposal templates are available after entering the submission tool<br />\r\n    <a href=\"http://ec.europa.eu/research/participants/data/ref/h2020/other/call_ptef/ef/h2020-call-ef-imi2-ria-ia-2016_en.pdf\">Standard evaluation form</a><br />\r\n    <a href=\"http://ec.europa.eu/research/participants/data/ref/h2020/other/mga/jtis/h2020-mga-imi_en.pdf\" target=\"_blank\">IMI2 Model Grant Agreement</a><br />\r\n    <a href=\"http://ec.europa.eu/research/participants/data/ref/h2020/other/legal/templ/h2020_tmpl-clinical-studies_en.pdf \" target=\"_blank\">     Template for essential clinical trials information</a></li>\r\n</ol>\r\n<p>&nbsp;</p>"
+        ],
+        "title": [
+          "How Big Data could support better diagnosis and treatment outcomes for Prostate Cancer"
+        ],
+        "missionDescription": [],
+        "esST_checksum": [
+          "803729165C27D392517DDC9FF3F30D0F961516AFECCA4C1AF37AB694B53ADF82"
+        ],
+        "cftId": [
+          "0"
+        ],
+        "infoPackDossiers": [
+          "[]"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "ccm2Id": [
+          "31081229"
+        ],
+        "REFERENCE": [
+          "31081229ResearchandInnovationaction1483488000000"
+        ],
+        "programmeDivision": [
+          "31047894",
+          "31047893",
+          "31062059",
+          "31045244"
+        ],
+        "crossCuttingPriorities": [],
+        "esDA_IngestDate": [
+          "2024-06-28T10:25:43.069+0200"
+        ],
+        "typesOfAction": [
+          "Research and Innovation action"
+        ],
+        "callUpdates": [
+          "[{\"approvalDate\":\"Feb 26, 2018 3:31:08 PM\",\"lastChangeDate\":\"Feb 26, 2018 3:31:08 PM\",\"content\":\"\\u003cp\\u003eAn overview of the evaluation results (\\u003ca href\\u003d\\\"http://ec.europa.eu/research/participants/portal/doc/call/h2020/imi2-2016-10-01/1805119-imi2_call_10_s2_-_flash_call_info_report_en.pdf\\\" target\\u003d\\\"_blank\\\"\\u003eflash call info \\u0026ndash; IMI2 Call 10 \\u0026ndash; stage two)\\u003c/a\\u003e is now available under the call \\u0026lsquo;Additional documents\\u0026rsquo; tab.\\u003c/p\\u003e\"},{\"approvalDate\":\"Aug 8, 2017 10:03:56 AM\",\"lastChangeDate\":\"Aug 8, 2017 10:03:56 AM\",\"content\":\"\\u003cp\\u003eAn overview of the evaluation results (\\u003ca href\\u003d\\\"http://ec.europa.eu/research/participants/portal/doc/call/h2020/imi2-2016-10-01/1777637-imi2_call_10_-_stage-one_-_falsh_call_info_en.pdf\\\" target\\u003d\\\"_blank\\\"\\u003eflash call info \\u0026ndash; IMI2 Call 10 \\u0026ndash; stage one\\u003c/a\\u003e) is now available under the call \\u0026lsquo;Additional documents\\u0026rsquo; tab.\\u003c/p\\u003e\"},{\"approvalDate\":\"Mar 31, 2017 4:52:59 PM\",\"lastChangeDate\":\"Mar 31, 2017 4:52:05 PM\",\"content\":\"\\u003cp\\u003eA total number of 36 proposals were submitted in response to the IMI2 Call 10\\u0026nbsp; - stage one. The number of proposals for each topic is shown below.\\u003c/p\\u003e\\r\\n\\u003cp\\u003eTopic 1 \\u0026ndash; Understanding hypoglycaemia: 3\\u003cbr /\\u003e\\r\\nTopic 2 \\u0026ndash; Big data \\u0026amp; prostate cancer: 4\\u003cbr /\\u003e\\r\\nTopic 3 \\u0026ndash; Acute \\u0026amp; chronic pain: 6\\u003cbr /\\u003e\\r\\nTopic 4 \\u0026ndash; Pan-European paediatric clinical trials network: 2\\u003cbr /\\u003e\\r\\nTopic 5 \\u0026ndash; Biomanufacturing 2020: 10\\u003cbr /\\u003e\\r\\nTopic 6 \\u0026ndash; Solute carrier gene-family for effective new therapies: 3\\u003cbr /\\u003e\\r\\nTopic 7 \\u0026ndash; Patient perspectives in medicines lifecycle: 5\\u003cbr /\\u003e\\r\\nTopic 8 \\u0026ndash; Personalised medicine in autism spectrum disorders: 3\\u003cbr /\\u003e\\r\\n\\u0026nbsp;\\u003c/p\\u003e\"},{\"approvalDate\":\"Jan 4, 2017 10:24:49 AM\",\"lastChangeDate\":\"Jan 4, 2017 10:24:49 AM\",\"content\":\"The submission session is now available for: IMI2-2016-10-01(IMI2-RIA), IMI2-2016-10-04(IMI2-RIA), IMI2-2016-10-03(IMI2-RIA), IMI2-2016-10-08(IMI2-RIA), IMI2-2016-10-07(IMI2-RIA), IMI2-2016-10-05(IMI2-RIA), IMI2-2016-10-02(IMI2-RIA), IMI2-2016-10-06(IMI2-RIA)\"}]"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/IMI2-2016-10-02.json"
+        ],
+        "additionalDossiers": [
+          "[{\"callId\":52392540207,\"id\":165809120,\"title\":\"Flash Call Info Report\",\"sectionId\":52392540207,\"translationFiles\":[{\"language\":\"en\",\"mimeType\":\"application/pdf\",\"fileSize\":250958,\"docPath\":\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/cap/h2020/imi2-2016-10-02/1805119-imi2_call_10_s2_-_flash_call_info_report_en.pdf\",\"id\":1805119,\"fileName\":\"IMI2 Call 10_S2 - Flash Call Info Report_EN.pdf\",\"common\":false,\"crc32\":4072101944}]},{\"callId\":52392540207,\"id\":165809121,\"title\":\"Call 10 Flash Call Info Report \",\"sectionId\":52392540207,\"translationFiles\":[]}]"
+        ],
+        "allowPartnerSearch": [
+          "true"
+        ],
+        "budgetOverview": [
+          "{\"budgetTopicActionMap\":{\"3209410\":[{\"plannedOpeningDate\":\"04 January 2017\",\"deadlineDates\":[\"28 March 2017\",\"19 October 2017\"],\"action\":\"IMI2-2016-10-01 - IMI2-RIA Research and Innovation action\",\"budgetYearMap\":{\"2016\":348030000},\"budgetTopicActionMap\":{},\"deadlineModel\":\"two-stage\"},{\"plannedOpeningDate\":\"04 January 2017\",\"deadlineDates\":[\"28 March 2017\",\"19 October 2017\"],\"action\":\"IMI2-2016-10-04 - IMI2-RIA Research and Innovation action\",\"budgetYearMap\":{\"2016\":348030000},\"budgetTopicActionMap\":{},\"deadlineModel\":\"two-stage\"},{\"plannedOpeningDate\":\"04 January 2017\",\"deadlineDates\":[\"28 March 2017\",\"19 October 2017\"],\"action\":\"IMI2-2016-10-03 - IMI2-RIA Research and Innovation action\",\"budgetYearMap\":{\"2016\":348030000},\"budgetTopicActionMap\":{},\"deadlineModel\":\"two-stage\"},{\"plannedOpeningDate\":\"04 January 2017\",\"deadlineDates\":[\"28 March 2017\",\"19 October 2017\"],\"action\":\"IMI2-2016-10-08 - IMI2-RIA Research and Innovation action\",\"budgetYearMap\":{\"2016\":348030000},\"budgetTopicActionMap\":{},\"deadlineModel\":\"two-stage\"},{\"plannedOpeningDate\":\"04 January 2017\",\"deadlineDates\":[\"28 March 2017\",\"19 October 2017\"],\"action\":\"IMI2-2016-10-02 - IMI2-RIA Research and Innovation action\",\"budgetYearMap\":{\"2016\":348030000},\"budgetTopicActionMap\":{},\"deadlineModel\":\"two-stage\"},{\"plannedOpeningDate\":\"04 January 2017\",\"deadlineDates\":[\"28 March 2017\",\"19 October 2017\"],\"action\":\"IMI2-2016-10-06 - IMI2-RIA Research and Innovation action\",\"budgetYearMap\":{\"2016\":348030000},\"budgetTopicActionMap\":{},\"deadlineModel\":\"two-stage\"},{\"plannedOpeningDate\":\"04 January 2017\",\"deadlineDates\":[\"28 March 2017\",\"19 October 2017\"],\"action\":\"IMI2-2016-10-05 - IMI2-RIA Research and Innovation action\",\"budgetYearMap\":{\"2016\":348030000},\"budgetTopicActionMap\":{},\"deadlineModel\":\"two-stage\"},{\"plannedOpeningDate\":\"04 January 2017\",\"deadlineDates\":[\"28 March 2017\",\"19 October 2017\"],\"action\":\"IMI2-2016-10-07 - IMI2-RIA Research and Innovation action\",\"budgetYearMap\":{\"2016\":348030000},\"budgetTopicActionMap\":{},\"deadlineModel\":\"two-stage\"}]},\"budgetYearsColumns\":[\"2016\"]}"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "How Big Data could support better diagnosis and treatment outcomes for Prostate <b>Cancer</b>"
+      ]
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "31081229ResearchandInnovationaction1483488000000de",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/IMI2-2016-10-02.json",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "de",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "How Big Data could support better diagnosis and treatment outcomes for Prostate Cancer",
+      "weight": 19.987448,
+      "groupById": "3",
+      "content": "How Big Data could support better diagnosis and treatment outcomes for Prostate <b>Cancer</b>",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "803729165C27D392517DDC9FF3F30D0F961516AFECCA4C1AF37AB694B53ADF82",
+      "metadata": {
+        "latestInfos": [
+          "[{\"approvalDate\":\"Aug 1, 2017 3:51:10 PM\",\"lastChangeDate\":\"Aug 1, 2017 3:51:10 PM\",\"content\":\"\\u003cp\\u003e\\u0026nbsp;An overview of the evaluation results (\\u003ca href\\u003d\\\"http://ec.europa.eu/research/participants/portal/doc/call/h2020/imi2-2016-10-01/1777637-imi2_call_10_-_stage-one_-_falsh_call_info_en.pdf\\\" target\\u003d\\\"_blank\\\"\\u003eflash call info \\u0026ndash; IMI2 Call 10 \\u0026ndash; stage one\\u003c/a\\u003e) is now available under the call \\u0026lsquo;Additional documents\\u0026rsquo; tab.\\u003c/p\\u003e\"}]"
+        ],
+        "es_SortDate": [
+          "2017-01-04T00:00:00.000+0000"
+        ],
+        "keywords": [
+          "Oncology",
+          "Quality-of-life",
+          "Prostate cancer",
+          "IMI2 JU",
+          "cancer",
+          "Innovative Medicines Initiative",
+          "IMI JU",
+          "IMI",
+          "Big Data",
+          "Oncology",
+          "IMI2"
+        ],
+        "workProgrammepart": [],
+        "language": [
+          "de"
+        ],
+        "type": [
+          "1"
+        ],
+        "focusArea": [],
+        "destinationDetails": [],
+        "typeOfMGAs": [],
+        "callIdentifier": [
+          "H2020-JTI-IMI2-2016-10-two-stage"
+        ],
+        "callccm2Id": [
+          "31081237"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "links": [
+          "[]"
+        ],
+        "callTitle": [
+          "H2020-JTI-IMI2-2016-10-two-stage"
+        ],
+        "frameworkProgramme": [
+          "31045243"
+        ],
+        "descriptionByte": [
+          "<SPAN class=\"topicdescriptionkind\">Specific Challenge</SPAN>:<p>Prostate cancer (PCa) is the second most common cancer in men.</p><p>Most recent clinical research focuses on the late stages of PCa, but there is a lack of data to support clinical practice in the early stages. While prognostic factors linked with overall survival have been proposed, there is no clear treatment path according to these factors. Despite a large increase in new technologies, there is also scarce data on whether real world outcomes of patients are improving.</p>\n<SPAN class=\"topicdescriptionkind\">Scope</SPAN>:<p>Address the scarcity of epidemiologic, clinical, genomic/biomarker, economic, patient reported outcome, and humanistic data on the treatment path of prostate cancer including all stages of the disease. Leverage real-life data on patients from different European countries, using existing registries, trial data, and data from prostate cancer specialized centres as well as data from patient groups. Foster the collection and use of data to improve the outcomes and health system efficiency, an aim of the entire BD4BO. </p>\n<SPAN class=\"topicdescriptionkind\">Expected Impact</SPAN>:<ul level=\"0\">  <li>Identifying relevant outcomes to assess the impact of Prostate Cancer on patients\u2019 lives</li>  <li>Identifying and building real-world data sets that are suitable for answering questions about the natural history, cost-effectiveness, and clinical utility of new and innovative diagnostic and treatment interventions across the disease;</li>  <li>Engagement with stakeholders to ensure future prospective data collection efforts</li>  <li>Providing a road map of aligned outcomes to enable healthcare systems to adopt precision medicine</li> </ul>\n"
+        ],
+        "identifier": [
+          "IMI2-2016-10-02"
+        ],
+        "additionalInfos": [
+          "{}"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "programmePeriod": [
+          "2014 - 2020"
+        ],
+        "deadlineDate": [
+          "2017-03-28T00:00:00.000+0000",
+          "2017-10-19T00:00:00.000+0000"
+        ],
+        "es_Combine": [
+          "3"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/IMI2-2016-10-02.json"
+        ],
+        "tags": [
+          "Innovative Medicines Initiative",
+          "IMI JU",
+          "IMI2",
+          "IMI",
+          "Big Data",
+          "IMI2 JU",
+          "Oncology",
+          "cancer",
+          "Prostate cancer"
+        ],
+        "esDA_QueueDate": [
+          "2024-08-02T10:21:35.924+0200"
+        ],
+        "destinationDescription": [],
+        "actions": [
+          "[{\"status\":{\"id\":31094503,\"abbreviation\":\"Closed\",\"description\":\"Closed\"},\"types\":[{\"typeOfAction\":\"IMI2-RIA Research and Innovation action\",\"typeOfMGA\":[]}],\"plannedOpeningDate\":\"04 January 2017\",\"submissionProcedure\":{\"id\":31094505,\"abbreviation\":\"two-stage\",\"description\":\"two-stage\"},\"deadlineDates\":[\"28 March 2017\",\"19 October 2017\"]}]"
+        ],
+        "startDate": [
+          "2017-01-04T00:00:00.000+0000"
+        ],
+        "deadlineModel": [
+          "two-stage"
+        ],
+        "status": [
+          "31094503"
+        ],
+        "supportInfo": [
+          "<p><strong>Contact the IMI Programme Office </strong>: E-mail: <u><strong><span style=\"color: rgb(0, 0, 255);\">Infodesk@imi.europa.eu</span></strong></u><strong><span style=\"color: rgb(0, 0, 255);\"> </span></strong>| Tel : +32 2 221 81 81</p>\r\n<p>Contact you <strong>SRG member</strong> for assistance:&nbsp;<a href=\"http://www.imi.europa.eu/content/states-representatives-groups\"><strong>IMI States Representative Group (SRG)</strong></a>&nbsp;</p>\r\n<p><a href=\"http://www.imi.europa.eu/content/partner-search\"><strong>IMI Partner Search Tool</strong></a>&nbsp;helps you find a partner organisation for your proposal.</p>\r\n<p><strong><a href=\"http://ec.europa.eu/research/participants/docs/h2020-funding-guide/index_en.htm\">H2020 Online Manual</a></strong> your online guide on the procedures from proposal submission to managing your grant.<br />\r\n<br />\r\n<strong><span><a href=\"http://ec.europa.eu/research/participants/portal/desktop/en/support/faq.html\">Participant Portal FAQ</a> </span></strong><span>&ndash; Submission of proposals.</span></p>\r\n<p><a href=\"http://ec.europa.eu/research/participants/api/contact/index.html\"><strong>IT Helpdesk</strong></a>- contact the Participant Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.<br />\r\n<strong><br />\r\n<span><a href=\"http://ec.europa.eu/research/participants/portal4/desktop/en/support/national_contact_points.html\">National Contact Points (NCP)</a>&nbsp;-&nbsp;</span></strong><span>contact your NCP for further assistance.</span><br />\r\n<strong><br />\r\n<span><a href=\"http://ec.europa.eu/research/index.cfm?lg=en&amp;pg=enquiries\">Research Enquiry Service</a></span></strong><span> &ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.</span><br />\r\n<a href=\"http://een.ec.europa.eu/\"><br />\r\n<strong>Enterprise Europe Network</strong></a> &ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.<strong><br />\r\n</strong></p>\r\n<p><strong> Ethics</strong> &ndash; for compliance with ethical issues, check the information available on the<a href=\"http://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/ethics_en.htm\"> Participant Portal</a>, on the &nbsp;<a href=\"http://ec.europa.eu/research/swafs/index.cfm?pg=policy&amp;lib=ethics\">Science and Society Portal</a>&nbsp;and in the&nbsp;<a href=\"http://ec.europa.eu/euraxess/pdf/brochure_rights/am509774CEE_EN_E4.pdf\"><strong>The European Charter for Researchers and the Code of Conduct for their recruitment</strong></a><a href=\"http://www.iprhelpdesk.eu/\"><br />\r\n</a></p>\r\n<p><strong>IP </strong>&ndash;&nbsp;<a href=\"http://www.iprhelpdesk.eu/\"><strong>European IPR Helpdesk</strong></a> assists you on intellectual property issues<br />\r\n<a href=\"http://www.cen.eu/cen/Services/Innovation/Pages/default.aspx\"><br />\r\n<strong>CEN</strong></a> and <a href=\"http://www.cenelec.eu/aboutcenelec/whatwestandfor/fosterinnovation/randd.html\"><strong>CENELEC</strong></a>, the European Standards Organisations, advise you how to tackle standardisation in your project proposal. Contact CEN-CENELEC Research Helpdesk at <a href=\"mailto:research@cencenelec.eu\">research@cencenelec.eu</a>.<br />\r\n<strong><br />\r\n</strong></p>"
+        ],
+        "missionDetails": [],
+        "sepTemplate": [
+          "<p>To access the Electronic Submission Service of the topic, please select the <strong>type of action</strong> that is most relevant to your proposal from the list below and click on the <strong>'Start Submission' </strong>button. You will then be asked to confirm your choice of the type of action and topic, as these cannot be changed in the submission system. Upon confirmation you will be linked to the correct entry point.</p>\r\n<p>To access existing draft proposals for this topic, please login to the Participant Portal and select the My Proposals page of the My Area section.</p>"
+        ],
+        "sortStatus": [
+          "3"
+        ],
+        "topicConditions": [
+          "<p>Please read carefully all provisions below before the preparation of your application.</p>\r\n<p>You can access the description of the different topics in the&nbsp;<a href=\"http://ec.europa.eu/research/participants/data/ref/h2020/other/call_fiches/jtis/h2020-call-fiche16-10-imi2-ju_en.pdf\" target=\"_blank\"><strong>Call 10&nbsp;topics text</strong></a>.</p>\r\n<p>The budget breakdown for this Call is given at the end of the Call topics text, in the <a href=\"http://ec.europa.eu/research/participants/data/ref/h2020/other/call_fiches/jtis/h2020-call-fiche16-10-imi2-ju_en.pdf\" target=\"_blank\"><strong>Conditions for this Call for proposals</strong></a>&nbsp;section, as well as the following information :</p>\r\n<ol>\r\n    <li><strong><span style=\"color: rgb(0, 51, 102);\">List of countries and applicable rules for funding</span></strong><br />\r\n    &nbsp;</li>\r\n    <li><strong><span style=\"color: rgb(0, 51, 102);\">Eligibility and admissibility conditions</span></strong><br />\r\n    &nbsp;</li>\r\n    <li><strong><span style=\"color: rgb(0, 51, 102);\">Evaluation criteria and procedure, scoring and treshold: &nbsp;</span></strong><span style=\"color: rgb(0, 51, 102);\">described in the <strong><a href=\"http://ec.europa.eu/research/participants/data/ref/h2020/other/guides_for_applicants/jtis/h2020-guide-pse-imi-ju-v1.4_en.pdf\" target=\"_blank\">IMI2 Manual for evaluation, submission and grant award</a>. </strong></span><br />\r\n    &nbsp;</li>\r\n    <li><strong><span style=\"color: rgb(0, 51, 102);\">Indicative timetable for evaluation and grant agreement</span></strong><br />\r\n    &nbsp;</li>\r\n    <li><strong><span style=\"color: rgb(0, 51, 102);\">Provisions, proposal templates and evaluation forms for the type of actions under the Call topics:</span></strong>  <br />\r\n    <br />\r\n    <u>IMI2 Research and Innovation Action (IMI2-RIA) and (IMI2-IA):<br />\r\n    </u><br />\r\n    <a href=\"http://ec.europa.eu/research/participants/data/ref/h2020/other/guides_for_applicants/jtis/h2020-guide-rel-prov-imi-ju_en.pdf\">Summary of the most relevant provisions for participating in IMI2 actions</a><br />\r\n    Proposal templates are available after entering the submission tool<br />\r\n    <a href=\"http://ec.europa.eu/research/participants/data/ref/h2020/other/call_ptef/ef/h2020-call-ef-imi2-ria-ia-2016_en.pdf\">Standard evaluation form</a><br />\r\n    <a href=\"http://ec.europa.eu/research/participants/data/ref/h2020/other/mga/jtis/h2020-mga-imi_en.pdf\" target=\"_blank\">IMI2 Model Grant Agreement</a><br />\r\n    <a href=\"http://ec.europa.eu/research/participants/data/ref/h2020/other/legal/templ/h2020_tmpl-clinical-studies_en.pdf \" target=\"_blank\">     Template for essential clinical trials information</a></li>\r\n</ol>\r\n<p>&nbsp;</p>"
+        ],
+        "title": [
+          "How Big Data could support better diagnosis and treatment outcomes for Prostate Cancer"
+        ],
+        "missionDescription": [],
+        "esST_checksum": [
+          "803729165C27D392517DDC9FF3F30D0F961516AFECCA4C1AF37AB694B53ADF82"
+        ],
+        "infoPackDossiers": [
+          "[]"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "ccm2Id": [
+          "31081229"
+        ],
+        "REFERENCE": [
+          "31081229ResearchandInnovationaction1483488000000de"
+        ],
+        "programmeDivision": [
+          "31047894",
+          "31047893",
+          "31062059",
+          "31045244"
+        ],
+        "crossCuttingPriorities": [],
+        "esDA_IngestDate": [
+          "2024-08-02T10:21:36.098+0200"
+        ],
+        "typesOfAction": [
+          "Research and Innovation action"
+        ],
+        "callUpdates": [
+          "[{\"approvalDate\":\"Feb 26, 2018 3:31:08 PM\",\"lastChangeDate\":\"Feb 26, 2018 3:31:08 PM\",\"content\":\"\\u003cp\\u003eAn overview of the evaluation results (\\u003ca href\\u003d\\\"http://ec.europa.eu/research/participants/portal/doc/call/h2020/imi2-2016-10-01/1805119-imi2_call_10_s2_-_flash_call_info_report_en.pdf\\\" target\\u003d\\\"_blank\\\"\\u003eflash call info \\u0026ndash; IMI2 Call 10 \\u0026ndash; stage two)\\u003c/a\\u003e is now available under the call \\u0026lsquo;Additional documents\\u0026rsquo; tab.\\u003c/p\\u003e\"},{\"approvalDate\":\"Aug 8, 2017 10:03:56 AM\",\"lastChangeDate\":\"Aug 8, 2017 10:03:56 AM\",\"content\":\"\\u003cp\\u003eAn overview of the evaluation results (\\u003ca href\\u003d\\\"http://ec.europa.eu/research/participants/portal/doc/call/h2020/imi2-2016-10-01/1777637-imi2_call_10_-_stage-one_-_falsh_call_info_en.pdf\\\" target\\u003d\\\"_blank\\\"\\u003eflash call info \\u0026ndash; IMI2 Call 10 \\u0026ndash; stage one\\u003c/a\\u003e) is now available under the call \\u0026lsquo;Additional documents\\u0026rsquo; tab.\\u003c/p\\u003e\"},{\"approvalDate\":\"Mar 31, 2017 4:52:59 PM\",\"lastChangeDate\":\"Mar 31, 2017 4:52:05 PM\",\"content\":\"\\u003cp\\u003eA total number of 36 proposals were submitted in response to the IMI2 Call 10\\u0026nbsp; - stage one. The number of proposals for each topic is shown below.\\u003c/p\\u003e\\r\\n\\u003cp\\u003eTopic 1 \\u0026ndash; Understanding hypoglycaemia: 3\\u003cbr /\\u003e\\r\\nTopic 2 \\u0026ndash; Big data \\u0026amp; prostate cancer: 4\\u003cbr /\\u003e\\r\\nTopic 3 \\u0026ndash; Acute \\u0026amp; chronic pain: 6\\u003cbr /\\u003e\\r\\nTopic 4 \\u0026ndash; Pan-European paediatric clinical trials network: 2\\u003cbr /\\u003e\\r\\nTopic 5 \\u0026ndash; Biomanufacturing 2020: 10\\u003cbr /\\u003e\\r\\nTopic 6 \\u0026ndash; Solute carrier gene-family for effective new therapies: 3\\u003cbr /\\u003e\\r\\nTopic 7 \\u0026ndash; Patient perspectives in medicines lifecycle: 5\\u003cbr /\\u003e\\r\\nTopic 8 \\u0026ndash; Personalised medicine in autism spectrum disorders: 3\\u003cbr /\\u003e\\r\\n\\u0026nbsp;\\u003c/p\\u003e\"},{\"approvalDate\":\"Jan 4, 2017 10:24:49 AM\",\"lastChangeDate\":\"Jan 4, 2017 10:24:49 AM\",\"content\":\"The submission session is now available for: IMI2-2016-10-01(IMI2-RIA), IMI2-2016-10-04(IMI2-RIA), IMI2-2016-10-03(IMI2-RIA), IMI2-2016-10-08(IMI2-RIA), IMI2-2016-10-07(IMI2-RIA), IMI2-2016-10-05(IMI2-RIA), IMI2-2016-10-02(IMI2-RIA), IMI2-2016-10-06(IMI2-RIA)\"}]"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/IMI2-2016-10-02.json"
+        ],
+        "additionalDossiers": [
+          "[{\"callId\":52392540207,\"id\":165809120,\"title\":\"Flash Call Info Report\",\"sectionId\":52392540207,\"translationFiles\":[{\"language\":\"en\",\"mimeType\":\"application/pdf\",\"fileSize\":250958,\"docPath\":\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/cap/h2020/imi2-2016-10-02/1805119-imi2_call_10_s2_-_flash_call_info_report_en.pdf\",\"id\":1805119,\"fileName\":\"IMI2 Call 10_S2 - Flash Call Info Report_EN.pdf\",\"common\":false,\"crc32\":4072101944}]},{\"callId\":52392540207,\"id\":165809121,\"title\":\"Call 10 Flash Call Info Report \",\"sectionId\":52392540207,\"translationFiles\":[]}]"
+        ],
+        "allowPartnerSearch": [
+          "true"
+        ],
+        "budgetOverview": [
+          "{\"budgetTopicActionMap\":{\"3209410\":[{\"action\":\"IMI2-2016-10-01 - IMI2-RIA Research and Innovation action\",\"plannedOpeningDate\":\"04 January 2017\",\"deadlineModel\":\"two-stage\",\"deadlineDates\":[\"28 March 2017\",\"19 October 2017\"],\"budgetYearMap\":{\"2016\":348030000},\"budgetTopicActionMap\":{}},{\"action\":\"IMI2-2016-10-04 - IMI2-RIA Research and Innovation action\",\"plannedOpeningDate\":\"04 January 2017\",\"deadlineModel\":\"two-stage\",\"deadlineDates\":[\"28 March 2017\",\"19 October 2017\"],\"budgetYearMap\":{\"2016\":348030000},\"budgetTopicActionMap\":{}},{\"action\":\"IMI2-2016-10-03 - IMI2-RIA Research and Innovation action\",\"plannedOpeningDate\":\"04 January 2017\",\"deadlineModel\":\"two-stage\",\"deadlineDates\":[\"28 March 2017\",\"19 October 2017\"],\"budgetYearMap\":{\"2016\":348030000},\"budgetTopicActionMap\":{}},{\"action\":\"IMI2-2016-10-08 - IMI2-RIA Research and Innovation action\",\"plannedOpeningDate\":\"04 January 2017\",\"deadlineModel\":\"two-stage\",\"deadlineDates\":[\"28 March 2017\",\"19 October 2017\"],\"budgetYearMap\":{\"2016\":348030000},\"budgetTopicActionMap\":{}},{\"action\":\"IMI2-2016-10-02 - IMI2-RIA Research and Innovation action\",\"plannedOpeningDate\":\"04 January 2017\",\"deadlineModel\":\"two-stage\",\"deadlineDates\":[\"28 March 2017\",\"19 October 2017\"],\"budgetYearMap\":{\"2016\":348030000},\"budgetTopicActionMap\":{}},{\"action\":\"IMI2-2016-10-06 - IMI2-RIA Research and Innovation action\",\"plannedOpeningDate\":\"04 January 2017\",\"deadlineModel\":\"two-stage\",\"deadlineDates\":[\"28 March 2017\",\"19 October 2017\"],\"budgetYearMap\":{\"2016\":348030000},\"budgetTopicActionMap\":{}},{\"action\":\"IMI2-2016-10-05 - IMI2-RIA Research and Innovation action\",\"plannedOpeningDate\":\"04 January 2017\",\"deadlineModel\":\"two-stage\",\"deadlineDates\":[\"28 March 2017\",\"19 October 2017\"],\"budgetYearMap\":{\"2016\":348030000},\"budgetTopicActionMap\":{}},{\"action\":\"IMI2-2016-10-07 - IMI2-RIA Research and Innovation action\",\"plannedOpeningDate\":\"04 January 2017\",\"deadlineModel\":\"two-stage\",\"deadlineDates\":[\"28 March 2017\",\"19 October 2017\"],\"budgetYearMap\":{\"2016\":348030000},\"budgetTopicActionMap\":{}}]},\"budgetYearsColumns\":[\"2016\"]}"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "How Big Data could support better diagnosis and treatment outcomes for Prostate <b>Cancer</b>"
+      ]
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "31081229ResearchandInnovationaction1483488000000fr",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/IMI2-2016-10-02.json",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "fr",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "How Big Data could support better diagnosis and treatment outcomes for Prostate Cancer",
+      "weight": 19.987448,
+      "groupById": "3",
+      "content": "How Big Data could support better diagnosis and treatment outcomes for Prostate <b>Cancer</b>",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "803729165C27D392517DDC9FF3F30D0F961516AFECCA4C1AF37AB694B53ADF82",
+      "metadata": {
+        "latestInfos": [
+          "[{\"approvalDate\":\"Aug 1, 2017 3:51:10 PM\",\"lastChangeDate\":\"Aug 1, 2017 3:51:10 PM\",\"content\":\"\\u003cp\\u003e\\u0026nbsp;An overview of the evaluation results (\\u003ca href\\u003d\\\"http://ec.europa.eu/research/participants/portal/doc/call/h2020/imi2-2016-10-01/1777637-imi2_call_10_-_stage-one_-_falsh_call_info_en.pdf\\\" target\\u003d\\\"_blank\\\"\\u003eflash call info \\u0026ndash; IMI2 Call 10 \\u0026ndash; stage one\\u003c/a\\u003e) is now available under the call \\u0026lsquo;Additional documents\\u0026rsquo; tab.\\u003c/p\\u003e\"}]"
+        ],
+        "es_SortDate": [
+          "2017-01-04T00:00:00.000+0000"
+        ],
+        "keywords": [
+          "Oncology",
+          "Quality-of-life",
+          "Prostate cancer",
+          "IMI2 JU",
+          "cancer",
+          "Innovative Medicines Initiative",
+          "IMI JU",
+          "IMI",
+          "Big Data",
+          "Oncology",
+          "IMI2"
+        ],
+        "workProgrammepart": [],
+        "language": [
+          "fr"
+        ],
+        "type": [
+          "1"
+        ],
+        "focusArea": [],
+        "destinationDetails": [],
+        "typeOfMGAs": [],
+        "callIdentifier": [
+          "H2020-JTI-IMI2-2016-10-two-stage"
+        ],
+        "callccm2Id": [
+          "31081237"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "links": [
+          "[]"
+        ],
+        "callTitle": [
+          "H2020-JTI-IMI2-2016-10-two-stage"
+        ],
+        "frameworkProgramme": [
+          "31045243"
+        ],
+        "descriptionByte": [
+          "<SPAN class=\"topicdescriptionkind\">Specific Challenge</SPAN>:<p>Prostate cancer (PCa) is the second most common cancer in men.</p><p>Most recent clinical research focuses on the late stages of PCa, but there is a lack of data to support clinical practice in the early stages. While prognostic factors linked with overall survival have been proposed, there is no clear treatment path according to these factors. Despite a large increase in new technologies, there is also scarce data on whether real world outcomes of patients are improving.</p>\n<SPAN class=\"topicdescriptionkind\">Scope</SPAN>:<p>Address the scarcity of epidemiologic, clinical, genomic/biomarker, economic, patient reported outcome, and humanistic data on the treatment path of prostate cancer including all stages of the disease. Leverage real-life data on patients from different European countries, using existing registries, trial data, and data from prostate cancer specialized centres as well as data from patient groups. Foster the collection and use of data to improve the outcomes and health system efficiency, an aim of the entire BD4BO. </p>\n<SPAN class=\"topicdescriptionkind\">Expected Impact</SPAN>:<ul level=\"0\">  <li>Identifying relevant outcomes to assess the impact of Prostate Cancer on patients\u2019 lives</li>  <li>Identifying and building real-world data sets that are suitable for answering questions about the natural history, cost-effectiveness, and clinical utility of new and innovative diagnostic and treatment interventions across the disease;</li>  <li>Engagement with stakeholders to ensure future prospective data collection efforts</li>  <li>Providing a road map of aligned outcomes to enable healthcare systems to adopt precision medicine</li> </ul>\n"
+        ],
+        "identifier": [
+          "IMI2-2016-10-02"
+        ],
+        "additionalInfos": [
+          "{}"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "programmePeriod": [
+          "2014 - 2020"
+        ],
+        "deadlineDate": [
+          "2017-03-28T00:00:00.000+0000",
+          "2017-10-19T00:00:00.000+0000"
+        ],
+        "es_Combine": [
+          "3"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/IMI2-2016-10-02.json"
+        ],
+        "tags": [
+          "Innovative Medicines Initiative",
+          "IMI JU",
+          "IMI2",
+          "IMI",
+          "Big Data",
+          "IMI2 JU",
+          "Oncology",
+          "cancer",
+          "Prostate cancer"
+        ],
+        "esDA_QueueDate": [
+          "2024-08-02T10:21:36.983+0200"
+        ],
+        "destinationDescription": [],
+        "actions": [
+          "[{\"status\":{\"id\":31094503,\"abbreviation\":\"Closed\",\"description\":\"Closed\"},\"types\":[{\"typeOfAction\":\"IMI2-RIA Research and Innovation action\",\"typeOfMGA\":[]}],\"plannedOpeningDate\":\"04 January 2017\",\"submissionProcedure\":{\"id\":31094505,\"abbreviation\":\"two-stage\",\"description\":\"two-stage\"},\"deadlineDates\":[\"28 March 2017\",\"19 October 2017\"]}]"
+        ],
+        "startDate": [
+          "2017-01-04T00:00:00.000+0000"
+        ],
+        "deadlineModel": [
+          "two-stage"
+        ],
+        "status": [
+          "31094503"
+        ],
+        "supportInfo": [
+          "<p><strong>Contact the IMI Programme Office </strong>: E-mail: <u><strong><span style=\"color: rgb(0, 0, 255);\">Infodesk@imi.europa.eu</span></strong></u><strong><span style=\"color: rgb(0, 0, 255);\"> </span></strong>| Tel : +32 2 221 81 81</p>\r\n<p>Contact you <strong>SRG member</strong> for assistance:&nbsp;<a href=\"http://www.imi.europa.eu/content/states-representatives-groups\"><strong>IMI States Representative Group (SRG)</strong></a>&nbsp;</p>\r\n<p><a href=\"http://www.imi.europa.eu/content/partner-search\"><strong>IMI Partner Search Tool</strong></a>&nbsp;helps you find a partner organisation for your proposal.</p>\r\n<p><strong><a href=\"http://ec.europa.eu/research/participants/docs/h2020-funding-guide/index_en.htm\">H2020 Online Manual</a></strong> your online guide on the procedures from proposal submission to managing your grant.<br />\r\n<br />\r\n<strong><span><a href=\"http://ec.europa.eu/research/participants/portal/desktop/en/support/faq.html\">Participant Portal FAQ</a> </span></strong><span>&ndash; Submission of proposals.</span></p>\r\n<p><a href=\"http://ec.europa.eu/research/participants/api/contact/index.html\"><strong>IT Helpdesk</strong></a>- contact the Participant Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.<br />\r\n<strong><br />\r\n<span><a href=\"http://ec.europa.eu/research/participants/portal4/desktop/en/support/national_contact_points.html\">National Contact Points (NCP)</a>&nbsp;-&nbsp;</span></strong><span>contact your NCP for further assistance.</span><br />\r\n<strong><br />\r\n<span><a href=\"http://ec.europa.eu/research/index.cfm?lg=en&amp;pg=enquiries\">Research Enquiry Service</a></span></strong><span> &ndash; ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.</span><br />\r\n<a href=\"http://een.ec.europa.eu/\"><br />\r\n<strong>Enterprise Europe Network</strong></a> &ndash; contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.<strong><br />\r\n</strong></p>\r\n<p><strong> Ethics</strong> &ndash; for compliance with ethical issues, check the information available on the<a href=\"http://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/ethics_en.htm\"> Participant Portal</a>, on the &nbsp;<a href=\"http://ec.europa.eu/research/swafs/index.cfm?pg=policy&amp;lib=ethics\">Science and Society Portal</a>&nbsp;and in the&nbsp;<a href=\"http://ec.europa.eu/euraxess/pdf/brochure_rights/am509774CEE_EN_E4.pdf\"><strong>The European Charter for Researchers and the Code of Conduct for their recruitment</strong></a><a href=\"http://www.iprhelpdesk.eu/\"><br />\r\n</a></p>\r\n<p><strong>IP </strong>&ndash;&nbsp;<a href=\"http://www.iprhelpdesk.eu/\"><strong>European IPR Helpdesk</strong></a> assists you on intellectual property issues<br />\r\n<a href=\"http://www.cen.eu/cen/Services/Innovation/Pages/default.aspx\"><br />\r\n<strong>CEN</strong></a> and <a href=\"http://www.cenelec.eu/aboutcenelec/whatwestandfor/fosterinnovation/randd.html\"><strong>CENELEC</strong></a>, the European Standards Organisations, advise you how to tackle standardisation in your project proposal. Contact CEN-CENELEC Research Helpdesk at <a href=\"mailto:research@cencenelec.eu\">research@cencenelec.eu</a>.<br />\r\n<strong><br />\r\n</strong></p>"
+        ],
+        "missionDetails": [],
+        "sepTemplate": [
+          "<p>To access the Electronic Submission Service of the topic, please select the <strong>type of action</strong> that is most relevant to your proposal from the list below and click on the <strong>'Start Submission' </strong>button. You will then be asked to confirm your choice of the type of action and topic, as these cannot be changed in the submission system. Upon confirmation you will be linked to the correct entry point.</p>\r\n<p>To access existing draft proposals for this topic, please login to the Participant Portal and select the My Proposals page of the My Area section.</p>"
+        ],
+        "sortStatus": [
+          "3"
+        ],
+        "topicConditions": [
+          "<p>Please read carefully all provisions below before the preparation of your application.</p>\r\n<p>You can access the description of the different topics in the&nbsp;<a href=\"http://ec.europa.eu/research/participants/data/ref/h2020/other/call_fiches/jtis/h2020-call-fiche16-10-imi2-ju_en.pdf\" target=\"_blank\"><strong>Call 10&nbsp;topics text</strong></a>.</p>\r\n<p>The budget breakdown for this Call is given at the end of the Call topics text, in the <a href=\"http://ec.europa.eu/research/participants/data/ref/h2020/other/call_fiches/jtis/h2020-call-fiche16-10-imi2-ju_en.pdf\" target=\"_blank\"><strong>Conditions for this Call for proposals</strong></a>&nbsp;section, as well as the following information :</p>\r\n<ol>\r\n    <li><strong><span style=\"color: rgb(0, 51, 102);\">List of countries and applicable rules for funding</span></strong><br />\r\n    &nbsp;</li>\r\n    <li><strong><span style=\"color: rgb(0, 51, 102);\">Eligibility and admissibility conditions</span></strong><br />\r\n    &nbsp;</li>\r\n    <li><strong><span style=\"color: rgb(0, 51, 102);\">Evaluation criteria and procedure, scoring and treshold: &nbsp;</span></strong><span style=\"color: rgb(0, 51, 102);\">described in the <strong><a href=\"http://ec.europa.eu/research/participants/data/ref/h2020/other/guides_for_applicants/jtis/h2020-guide-pse-imi-ju-v1.4_en.pdf\" target=\"_blank\">IMI2 Manual for evaluation, submission and grant award</a>. </strong></span><br />\r\n    &nbsp;</li>\r\n    <li><strong><span style=\"color: rgb(0, 51, 102);\">Indicative timetable for evaluation and grant agreement</span></strong><br />\r\n    &nbsp;</li>\r\n    <li><strong><span style=\"color: rgb(0, 51, 102);\">Provisions, proposal templates and evaluation forms for the type of actions under the Call topics:</span></strong>  <br />\r\n    <br />\r\n    <u>IMI2 Research and Innovation Action (IMI2-RIA) and (IMI2-IA):<br />\r\n    </u><br />\r\n    <a href=\"http://ec.europa.eu/research/participants/data/ref/h2020/other/guides_for_applicants/jtis/h2020-guide-rel-prov-imi-ju_en.pdf\">Summary of the most relevant provisions for participating in IMI2 actions</a><br />\r\n    Proposal templates are available after entering the submission tool<br />\r\n    <a href=\"http://ec.europa.eu/research/participants/data/ref/h2020/other/call_ptef/ef/h2020-call-ef-imi2-ria-ia-2016_en.pdf\">Standard evaluation form</a><br />\r\n    <a href=\"http://ec.europa.eu/research/participants/data/ref/h2020/other/mga/jtis/h2020-mga-imi_en.pdf\" target=\"_blank\">IMI2 Model Grant Agreement</a><br />\r\n    <a href=\"http://ec.europa.eu/research/participants/data/ref/h2020/other/legal/templ/h2020_tmpl-clinical-studies_en.pdf \" target=\"_blank\">     Template for essential clinical trials information</a></li>\r\n</ol>\r\n<p>&nbsp;</p>"
+        ],
+        "title": [
+          "How Big Data could support better diagnosis and treatment outcomes for Prostate Cancer"
+        ],
+        "missionDescription": [],
+        "esST_checksum": [
+          "803729165C27D392517DDC9FF3F30D0F961516AFECCA4C1AF37AB694B53ADF82"
+        ],
+        "infoPackDossiers": [
+          "[]"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "ccm2Id": [
+          "31081229"
+        ],
+        "REFERENCE": [
+          "31081229ResearchandInnovationaction1483488000000fr"
+        ],
+        "programmeDivision": [
+          "31047894",
+          "31047893",
+          "31062059",
+          "31045244"
+        ],
+        "crossCuttingPriorities": [],
+        "esDA_IngestDate": [
+          "2024-08-02T10:21:37.033+0200"
+        ],
+        "typesOfAction": [
+          "Research and Innovation action"
+        ],
+        "callUpdates": [
+          "[{\"approvalDate\":\"Feb 26, 2018 3:31:08 PM\",\"lastChangeDate\":\"Feb 26, 2018 3:31:08 PM\",\"content\":\"\\u003cp\\u003eAn overview of the evaluation results (\\u003ca href\\u003d\\\"http://ec.europa.eu/research/participants/portal/doc/call/h2020/imi2-2016-10-01/1805119-imi2_call_10_s2_-_flash_call_info_report_en.pdf\\\" target\\u003d\\\"_blank\\\"\\u003eflash call info \\u0026ndash; IMI2 Call 10 \\u0026ndash; stage two)\\u003c/a\\u003e is now available under the call \\u0026lsquo;Additional documents\\u0026rsquo; tab.\\u003c/p\\u003e\"},{\"approvalDate\":\"Aug 8, 2017 10:03:56 AM\",\"lastChangeDate\":\"Aug 8, 2017 10:03:56 AM\",\"content\":\"\\u003cp\\u003eAn overview of the evaluation results (\\u003ca href\\u003d\\\"http://ec.europa.eu/research/participants/portal/doc/call/h2020/imi2-2016-10-01/1777637-imi2_call_10_-_stage-one_-_falsh_call_info_en.pdf\\\" target\\u003d\\\"_blank\\\"\\u003eflash call info \\u0026ndash; IMI2 Call 10 \\u0026ndash; stage one\\u003c/a\\u003e) is now available under the call \\u0026lsquo;Additional documents\\u0026rsquo; tab.\\u003c/p\\u003e\"},{\"approvalDate\":\"Mar 31, 2017 4:52:59 PM\",\"lastChangeDate\":\"Mar 31, 2017 4:52:05 PM\",\"content\":\"\\u003cp\\u003eA total number of 36 proposals were submitted in response to the IMI2 Call 10\\u0026nbsp; - stage one. The number of proposals for each topic is shown below.\\u003c/p\\u003e\\r\\n\\u003cp\\u003eTopic 1 \\u0026ndash; Understanding hypoglycaemia: 3\\u003cbr /\\u003e\\r\\nTopic 2 \\u0026ndash; Big data \\u0026amp; prostate cancer: 4\\u003cbr /\\u003e\\r\\nTopic 3 \\u0026ndash; Acute \\u0026amp; chronic pain: 6\\u003cbr /\\u003e\\r\\nTopic 4 \\u0026ndash; Pan-European paediatric clinical trials network: 2\\u003cbr /\\u003e\\r\\nTopic 5 \\u0026ndash; Biomanufacturing 2020: 10\\u003cbr /\\u003e\\r\\nTopic 6 \\u0026ndash; Solute carrier gene-family for effective new therapies: 3\\u003cbr /\\u003e\\r\\nTopic 7 \\u0026ndash; Patient perspectives in medicines lifecycle: 5\\u003cbr /\\u003e\\r\\nTopic 8 \\u0026ndash; Personalised medicine in autism spectrum disorders: 3\\u003cbr /\\u003e\\r\\n\\u0026nbsp;\\u003c/p\\u003e\"},{\"approvalDate\":\"Jan 4, 2017 10:24:49 AM\",\"lastChangeDate\":\"Jan 4, 2017 10:24:49 AM\",\"content\":\"The submission session is now available for: IMI2-2016-10-01(IMI2-RIA), IMI2-2016-10-04(IMI2-RIA), IMI2-2016-10-03(IMI2-RIA), IMI2-2016-10-08(IMI2-RIA), IMI2-2016-10-07(IMI2-RIA), IMI2-2016-10-05(IMI2-RIA), IMI2-2016-10-02(IMI2-RIA), IMI2-2016-10-06(IMI2-RIA)\"}]"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/IMI2-2016-10-02.json"
+        ],
+        "additionalDossiers": [
+          "[{\"callId\":52392540207,\"id\":165809120,\"title\":\"Flash Call Info Report\",\"sectionId\":52392540207,\"translationFiles\":[{\"language\":\"en\",\"mimeType\":\"application/pdf\",\"fileSize\":250958,\"docPath\":\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/cap/h2020/imi2-2016-10-02/1805119-imi2_call_10_s2_-_flash_call_info_report_en.pdf\",\"id\":1805119,\"fileName\":\"IMI2 Call 10_S2 - Flash Call Info Report_EN.pdf\",\"common\":false,\"crc32\":4072101944}]},{\"callId\":52392540207,\"id\":165809121,\"title\":\"Call 10 Flash Call Info Report \",\"sectionId\":52392540207,\"translationFiles\":[]}]"
+        ],
+        "allowPartnerSearch": [
+          "true"
+        ],
+        "budgetOverview": [
+          "{\"budgetTopicActionMap\":{\"3209410\":[{\"action\":\"IMI2-2016-10-01 - IMI2-RIA Research and Innovation action\",\"plannedOpeningDate\":\"04 January 2017\",\"deadlineModel\":\"two-stage\",\"deadlineDates\":[\"28 March 2017\",\"19 October 2017\"],\"budgetYearMap\":{\"2016\":348030000},\"budgetTopicActionMap\":{}},{\"action\":\"IMI2-2016-10-04 - IMI2-RIA Research and Innovation action\",\"plannedOpeningDate\":\"04 January 2017\",\"deadlineModel\":\"two-stage\",\"deadlineDates\":[\"28 March 2017\",\"19 October 2017\"],\"budgetYearMap\":{\"2016\":348030000},\"budgetTopicActionMap\":{}},{\"action\":\"IMI2-2016-10-03 - IMI2-RIA Research and Innovation action\",\"plannedOpeningDate\":\"04 January 2017\",\"deadlineModel\":\"two-stage\",\"deadlineDates\":[\"28 March 2017\",\"19 October 2017\"],\"budgetYearMap\":{\"2016\":348030000},\"budgetTopicActionMap\":{}},{\"action\":\"IMI2-2016-10-08 - IMI2-RIA Research and Innovation action\",\"plannedOpeningDate\":\"04 January 2017\",\"deadlineModel\":\"two-stage\",\"deadlineDates\":[\"28 March 2017\",\"19 October 2017\"],\"budgetYearMap\":{\"2016\":348030000},\"budgetTopicActionMap\":{}},{\"action\":\"IMI2-2016-10-02 - IMI2-RIA Research and Innovation action\",\"plannedOpeningDate\":\"04 January 2017\",\"deadlineModel\":\"two-stage\",\"deadlineDates\":[\"28 March 2017\",\"19 October 2017\"],\"budgetYearMap\":{\"2016\":348030000},\"budgetTopicActionMap\":{}},{\"action\":\"IMI2-2016-10-06 - IMI2-RIA Research and Innovation action\",\"plannedOpeningDate\":\"04 January 2017\",\"deadlineModel\":\"two-stage\",\"deadlineDates\":[\"28 March 2017\",\"19 October 2017\"],\"budgetYearMap\":{\"2016\":348030000},\"budgetTopicActionMap\":{}},{\"action\":\"IMI2-2016-10-05 - IMI2-RIA Research and Innovation action\",\"plannedOpeningDate\":\"04 January 2017\",\"deadlineModel\":\"two-stage\",\"deadlineDates\":[\"28 March 2017\",\"19 October 2017\"],\"budgetYearMap\":{\"2016\":348030000},\"budgetTopicActionMap\":{}},{\"action\":\"IMI2-2016-10-07 - IMI2-RIA Research and Innovation action\",\"plannedOpeningDate\":\"04 January 2017\",\"deadlineModel\":\"two-stage\",\"deadlineDates\":[\"28 March 2017\",\"19 October 2017\"],\"budgetYearMap\":{\"2016\":348030000},\"budgetTopicActionMap\":{}}]},\"budgetYearsColumns\":[\"2016\"]}"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "How Big Data could support better diagnosis and treatment outcomes for Prostate <b>Cancer</b>"
+      ]
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "43142587PilotProject&PreparationActionGrant1594684800000",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/PPPA-AIPC-2020.json",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Develop Artificial Intelligence for diagnosis and treatment of paediatric cancer",
+      "weight": 19.867384,
+      "groupById": "3",
+      "content": "Develop Artificial Intelligence for diagnosis and treatment of paediatric <b>cancer</b>",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "7A5D82059A20C1C21CE8D6BEDFC12DA2A6B5DC03656C6AF26316FFBAF37770A2",
+      "metadata": {
+        "latestInfos": [
+          "[]"
+        ],
+        "es_SortDate": [
+          "2020-07-14T00:00:00.000+0000"
+        ],
+        "keywords": [
+          "children",
+          "tumour",
+          "oncology",
+          "machine learning",
+          "artificial intelligence",
+          "network",
+          "paediatric cancer",
+          "cancer",
+          "paediatrics"
+        ],
+        "workProgrammepart": [],
+        "language": [
+          "en"
+        ],
+        "type": [
+          "1"
+        ],
+        "focusArea": [],
+        "destinationDetails": [],
+        "typeOfMGAs": [],
+        "callIdentifier": [
+          "PPPA-AIPC-2020"
+        ],
+        "callccm2Id": [
+          "43142603"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "links": [
+          "[]"
+        ],
+        "callTitle": [
+          "Develop Artificial Intelligence for diagnosis and treatment of paediatric cancer"
+        ],
+        "frameworkProgramme": [
+          "31084250"
+        ],
+        "descriptionByte": [
+          "<SPAN class=\"topicdescriptionkind\">Scope</SPAN>:<ul level=\"0\"><li><span>The European Commission adopted on 20 April 2020, a decision on the financing of pilot projects and preparatory actions in the field of \"Communications Networks, Content and Technology\" and on the adoption of the work programme for 2020<sup><a target=_self href=#fn1 id=r1>[1]</a></sup></span>.</li><li><span>Paediatric cancers are a collection of diverse rare diseases that together represent individually life- threatening diseases and collectively a major public health issue. With 35,000 new cases and more than 6,000 children and young people dying each year in Europe, paediatric cancer remains the leading cause of death from disease for children and adolescents. Moreover, there are more than 300,000 European childhood cancer survivors (nearly half a million by 2020). Two-thirds of survivors live with the long-term treatment-related side effects that can be severe and impact on the daily life of half of those affected. </span></li><li><span>Artificial Intelligence (AI) in is an important enabler of advancements in the field of health and care: it can unlock data insights needed to support data-driven decisions for diagnostics and treatments. In particular, AI has the potential to carry out complex tasks that are currently performed by specialists to improve diagnostic accuracy, increase efficiency of throughputs, improve clinical workflow, decrease human resource costs and improve treatment choices. In this sense, AI technologies have the potential to ease the burden on the health system and improve access to healthcare (e.g. screening) in remote or low resource areas. AI may also play a role in training healthcare professionals.</span></li><li><span>The effective implementation of machine-learning and Artificial Intelligence technologies can bring solutions to many societal challenges, including improved diagnostic and treatment pathways. Integrated healthcare and research data platforms that collate information on clinical phenotypes, diagnostic tests (including pathology, genomics, radiological imaging), treatment interventions and clinical outcomes will be powerful tools towards early and accurate diagnoses, enable precision in stratification of patient cohorts according to therapeutic needs and facilitate development of new therapeutic innovation. </span></li><li><span>The particularity of paediatric cancers being rare diseases necessitates a collaborative approach to collate and integrate the data collected in all Member States, including best practices and new technologies in order to further develop common solutions. The use of big data for better insights in cancer genesis, outcomes and the long-term side effects of treatments is currently under-developed. Artificial intelligence and machine learning are powerful tools allowing for complex data analytics on large-scale data sets with great potential for fostering precision cancer medicine for all young people in Europe. </span></li><li><span>Further advances in the diagnosis and treatment of paediatric oncology will require multi-national, multidisciplinary integrated healthcare and research data platforms that will allow real world data simulations of machine-learning algorithms and artificial intelligence that can be exploited in data-driven clinical decision support applications that directly benefit patients</span></li> </ul><p><strong><em><span>Specific objectives</span></em></strong></p><ul level=\"0\"><li><span>The project will support the development of multi-national approaches to facilitate capturing data on paediatric cancer from multiple sources, and build a multi-stakeholder network to explore the applications of Artificial Intelligence technologies in paediatric cancer. </span></li><li><span>The project will develop a state-of-the-art report to help understanding the challenges, needs and gaps in capturing data on paediatric cancer across the Union or the EEA countries, or both. </span></li><li><span>The project will develop a framework to find solutions and prioritise opportunities to bridge existing gaps with a multi-national, multi-disciplinary approach.</span></li><li><span>Mapping and building on existing multi-disciplinary and multi-national platforms/datasets and registries, the project will pave the road to a one-stop shop European point of access for integrated healthcare and research data platforms that collate clinical data, including, for example, clinical history, relevant diagnostic tests (pathology, genomics, radiological imaging), treatment interventions and clinical outcomes for childhood cancers. </span></li><li><span>The project will create a multi-stakeholder network to connect and facilitate the exchanges and dissemination of best practices in clinically relevant Machine-Learning and Artificial Intelligence technologies between all relevant stakeholders, including paediatric oncology, technology developers, and the European Reference Network for Paediatric Oncology (ERN PaedCan), and experiment on their application in relation to multi-national large-scale data sets.</span></li><li><span>The project should focus on multiple applications, for example radiological imaging, digital pathology, integrated genotyping and outcome prediction algorithms and clinical decision-making.</span></li> </ul>\n<SPAN class=\"topicdescriptionkind\">Expected Impact</SPAN>:<ul level=\"0\"><li><span>The project will support research and further collaboration on Artificial intelligence technologies applied for diagnosis and treatment of paediatric cancers. Project results are expected to cover a representative range of stakeholders and solutions across Union or the EEA countries, or both. </span></li><li><span>The project is expected to link to and collaborate with relevant Union initiatives (including the European Reference Network for Paediatric Oncology, ERN PaedCan) and build on Union-funded projects (for example, the Paediatric Rare Tumours Network \u2013 PARTNER project).</span></li> </ul>\n<p id=fn1><a  target=_self href=#r1>[1]</a>] C(2020) 2259 final</p>"
+        ],
+        "identifier": [
+          "PPPA-AIPC-2020"
+        ],
+        "additionalInfos": [
+          "{}"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "programmePeriod": [
+          "2014 - 2020"
+        ],
+        "deadlineDate": [
+          "2020-08-18T17:00:00.000+0000"
+        ],
+        "es_Combine": [
+          "3"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/PPPA-AIPC-2020.json"
+        ],
+        "tags": [
+          "oncology",
+          "network",
+          "children",
+          "cancer",
+          "tumour",
+          "paediatric cancer",
+          "paediatrics",
+          "machine learning",
+          "artificial intelligence"
+        ],
+        "cenTagsA": [
+          "TOPICS-014890",
+          "TOPICS-014895",
+          "TOPICS-014896",
+          "TOPICS-014893",
+          "TOPICS-052770",
+          "TOPICS-000169",
+          "TOPICS-007167",
+          "TOPICS-002066",
+          "TOPICS-000677",
+          "TOPICS-007384",
+          "TOPICS-007391",
+          "TOPICS-003994",
+          "TOPICS-000194",
+          "TOPICS-014898"
+        ],
+        "esDA_QueueDate": [
+          "2024-06-28T10:37:54.548+0200"
+        ],
+        "cenTagsB": [
+          "TCK_147893",
+          "TCK_147888",
+          "TCK_147883",
+          "TCK_147888",
+          "TCK_147890",
+          "TTL_00063090",
+          "TTG_00003964",
+          "TTG_00000115",
+          "TTG_00002288",
+          "TTG_00002507",
+          "TTG_00001683",
+          "TTG_00014699",
+          "TTG_00031576",
+          "TTG_00018002",
+          "TTG_00012456",
+          "TCK_163764",
+          "TCK_163765",
+          "TCK_163768",
+          "TCK_163769",
+          "TCK_163770"
+        ],
+        "destinationDescription": [],
+        "actions": [
+          "[{\"status\":{\"id\":31094503,\"abbreviation\":\"Closed\",\"description\":\"Closed\"},\"types\":[{\"typeOfAction\":\"PPPA-AG Pilot Project & Preparation Action Grant\",\"typeOfMGA\":[]}],\"plannedOpeningDate\":\"14 July 2020\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"18 August 2020\"]}]"
+        ],
+        "startDate": [
+          "2020-07-14T00:00:00.000+0000"
+        ],
+        "deadlineModel": [
+          "single-stage"
+        ],
+        "status": [
+          "31094503"
+        ],
+        "supportInfo": [
+          "<p>For further assistance related to the <strong>call, topics and the content of proposals,</strong> please contact<span style=\"color: rgb(51, 153, 102);\"> CNECT-H3@ec.europa.eu &nbsp;</span></p>\r\n<p><strong><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq;categories=;programme=null;actions=;keyword=\" target=\"_blank\">F&amp;T Portal FAQ</a></strong>&nbsp;&ndash; Submission of proposals.<br />\r\n<br />\r\n<strong><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" target=\"_blank\">IT Helpdesk</a></strong>&nbsp;&ndash; contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p>\r\n<p><strong><br />\r\n</strong><a href=\"http://ec.europa.eu/research/participants/portal4/desktop/en/funding/guide.html\" target=\"_blank\"><strong>H2020 Online Manual</strong></a> &ndash; Please use the manual with caution and only for the Participant Portal tools guidance, i.e. Submission service and Beneficiary register, because it is H2020 specific and does not cover the Justice Programme rules. Some aspects of the Justice Programme are different from the provisions of the H2020 programme.<br />\r\n&nbsp;</p>"
+        ],
+        "missionDetails": [],
+        "sepTemplate": [
+          "<p>To access the Electronic Submission Service, please click on the submission-button next to the type of action that corresponds to your proposal. You will then be asked to confirm your choice of the type of action and topic, as these cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p>\r\n<p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+        ],
+        "sortStatus": [
+          "3"
+        ],
+        "topicConditions": [
+          "<p><b><span style=\"font-size:9.0pt;line-height:115%;&#10;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;&#10;color:#003366;mso-ansi-language:EN-GB;mso-fareast-language:EN-GB;mso-bidi-language:&#10;AR-SA\">1.&nbsp;&nbsp; Eligible countries:&nbsp;</span></b><span style=\"font-size:9.0pt;&#10;line-height:115%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;&#10;color:black;mso-ansi-language:EN-GB;mso-fareast-language:EN-GB;mso-bidi-language:&#10;AR-SA\">described in section 6 of the <a href=\"https://ec.europa.eu/research/participants/data/ref/other_eu_prog/other/pppa/wp-call/call-fiche_pppa-aipc-2020_en.pdf\" target=\"_blank\">Call document</a>.<br />\r\n</span></p>\r\n<p>&nbsp;</p>\n<p><b><span style=\"font-size:9.0pt;line-height:115%;&#10;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;&#10;color:#003366;mso-ansi-language:EN-GB;mso-fareast-language:EN-GB;mso-bidi-language:&#10;AR-SA\">2.&nbsp;&nbsp; Eligibility and admissibility conditions:</span></b><span style=\"font-size:9.0pt;line-height:115%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;&#10;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB;&#10;mso-fareast-language:EN-GB;mso-bidi-language:AR-SA\"> described in sections 5 and 6 of the <a href=\"https://ec.europa.eu/research/participants/data/ref/other_eu_prog/other/pppa/wp-call/call-fiche_pppa-aipc-2020_en.pdf\" target=\"_blank\">Call document</a>.<br />\r\n</span></p>\r\n<p>&nbsp;</p>\n<p><b><span style=\"font-size:9.0pt;line-height:115%;&#10;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;&#10;color:#003366;mso-ansi-language:EN-GB;mso-fareast-language:EN-GB;mso-bidi-language:&#10;AR-SA\">&nbsp;&nbsp;&nbsp;&nbsp; Proposal page limits and layout:</span></b><span style=\"font-size:9.0pt;&#10;line-height:115%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;&#10;color:black;mso-ansi-language:EN-GB;mso-fareast-language:EN-GB;mso-bidi-language:&#10;AR-SA\">&nbsp;Please refer to Part B of the standard proposal template.&nbsp;Proposal Part B Sections 1, 2 and 3, together, should not be longer than 25 pages.</span></p>\r\n<p>&nbsp;</p>\n<p><b><span style=\"font-size:9.0pt;line-height:115%;&#10;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;&#10;color:#003366;mso-ansi-language:EN-GB;mso-fareast-language:EN-GB;mso-bidi-language:&#10;AR-SA\">3.&nbsp;&nbsp; Evaluation</span></b><span style=\"font-size:9.0pt;line-height:115%;&#10;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;&#10;color:black;mso-ansi-language:EN-GB;mso-fareast-language:EN-GB;mso-bidi-language:&#10;AR-SA\"><br />\r\n<br />\r\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=\"font-size:9.0pt;&#10;line-height:115%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;&#10;color:black;mso-ansi-language:EN-GB;mso-fareast-language:EN-GB;mso-bidi-language:&#10;AR-SA\">Evaluation criteria, scoring, threshold and process are described in sections 8 and 9 of the <a href=\"https://ec.europa.eu/research/participants/data/ref/other_eu_prog/other/pppa/wp-call/call-fiche_pppa-aipc-2020_en.pdf\" target=\"_blank\">Call document</a>.<br />\r\n</span></p>\r\n<p>&nbsp;</p>\n<p><b><span style=\"font-size:9.0pt;line-height:115%;&#10;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;&#10;color:#003366;mso-ansi-language:EN-GB;mso-fareast-language:EN-GB;mso-bidi-language:&#10;AR-SA\">4.&nbsp;&nbsp; Indicative timetable for evaluation and grant agreement:</span></b><span style=\"font-size:9.0pt;line-height:115%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;&#10;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-GB;&#10;mso-fareast-language:EN-GB;mso-bidi-language:AR-SA\"> described in section 3 of the <a href=\"https://ec.europa.eu/research/participants/data/ref/other_eu_prog/other/pppa/wp-call/call-fiche_pppa-aipc-2020_en.pdf\" target=\"_blank\">Call document</a>.</span></p>\r\n<p>&nbsp;</p>\n<p><b><span style=\"font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&#10;&quot;Times New Roman&quot;;color:#003366;mso-fareast-language:EN-GB\">5.&nbsp;&nbsp; Proposal templates, guidance and model grant agreements (MGA):</span></b></p>\r\n<p><span style=\"font-size: 9pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href=\"https://ec.europa.eu/research/participants/data/ref/other_eu_prog/other/pppa/tpl/pt/call-af_pppa-aipc-2020_en.pdf\" target=\"_blank\">Standard proposal template</a> </span><br />\r\n<span style=\"font-size: 9pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;\"><span style=\"font-size: 9pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://ec.europa.eu/research/participants/data/ref/other_eu_prog/other/pppa/wp-call/call-fiche_pppa-aipc-2020_en.pdf\" target=\"_blank\"> Call document</a><br />\r\n&nbsp; &nbsp; &nbsp;&nbsp;</span></span><span style=\"font-size: 9pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;\"><span style=\"font-size: 9pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;\"><span style=\"font-size: 9pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;\"><br />\r\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><a href=\"https://ec.europa.eu/research/participants/data/ref/other_eu_prog/other/pppa/mga/pppa-mga-multi_en.docx\" target=\"_blank\">Multi-beneficiary Model Grant Agreement</a></span></p>\r\n<p><span style=\"font-size: 9pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;\"><a href=\"https://ec.europa.eu/research/participants/data/ref/other_eu_prog/other/pppa/tpl/pt/appl-declhonour_pppa-aipc-2020_en.docx\" target=\"_blank\">Declaration on honour</a></span></p>\r\n<p><span style=\"font-size: 9pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;\"><a href=\"https://ec.europa.eu/research/participants/data/ref/other_eu_prog/other/pppa/tpl/report/model-financial-report_pppa-aipc-2020_en.pdf\" target=\"_blank\">Model financial report</a></span></p>\r\n<p style=\"margin-left: 80px;\">&nbsp;Due to technical constraints, the forms used in the submission system are standard forms for EMFF and H2020 actions. Nevertheless, this Pilot Project is not an EMFF or H2020 action and any reference to EMFF or H2020 in the forms or in the templates must be disregarded. The only reference document is this Call Document and the related Commission Decision C (2020) 2259 of 20.4.2020.</p>\r\n<p style=\"margin-left: 40px;\">&nbsp;</p>\r\n<p>&nbsp;</p>\n<p>Members of consortium are not required to conclude a consortium agreement</p>"
+        ],
+        "title": [
+          "Develop Artificial Intelligence for diagnosis and treatment of paediatric cancer"
+        ],
+        "missionDescription": [],
+        "esST_checksum": [
+          "7A5D82059A20C1C21CE8D6BEDFC12DA2A6B5DC03656C6AF26316FFBAF37770A2"
+        ],
+        "cftId": [
+          "0"
+        ],
+        "infoPackDossiers": [
+          "[]"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "ccm2Id": [
+          "43142587"
+        ],
+        "REFERENCE": [
+          "43142587PilotProject&PreparationActionGrant1594684800000"
+        ],
+        "programmeDivision": [
+          "31084251",
+          "31087207"
+        ],
+        "crossCuttingPriorities": [],
+        "esDA_IngestDate": [
+          "2024-06-28T10:37:54.638+0200"
+        ],
+        "typesOfAction": [
+          "Pilot Project & Preparation Action Grant"
+        ],
+        "callUpdates": [
+          "[{\"approvalDate\":\"Jul 14, 2020 10:19:23 AM\",\"lastChangeDate\":\"Jul 14, 2020 10:19:23 AM\",\"content\":\"The submission session is now available for: PPPA-AIPC-2020(PPPA-AG)\"}]"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/PPPA-AIPC-2020.json"
+        ],
+        "additionalDossiers": [
+          "[]"
+        ],
+        "allowPartnerSearch": [
+          "true"
+        ],
+        "budgetOverview": [
+          "{\"budgetTopicActionMap\":{\"3301708\":[{\"plannedOpeningDate\":\"14 July 2020\",\"deadlineDates\":[\"18 August 2020\"],\"action\":\"PPPA-AIPC-2020 - PPPA-AG Pilot Project & Preparation Action Grant\",\"budgetYearMap\":{\"2020\":1000000},\"budgetTopicActionMap\":{},\"deadlineModel\":\"single-stage\"}]},\"budgetYearsColumns\":[\"2020\"]}"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "Develop Artificial Intelligence for diagnosis and treatment of paediatric <b>cancer</b>"
+      ]
+    }
+  ]
+}

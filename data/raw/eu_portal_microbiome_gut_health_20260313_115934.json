@@ -1,0 +1,899 @@
+{
+  "apiVersion": "2.145.3",
+  "terms": "microbiome gut health",
+  "responseTime": 380,
+  "totalResults": 59923,
+  "pageNumber": 1,
+  "pageSize": 50,
+  "sort": "relevance",
+  "groupByField": "sortStatus",
+  "queryLanguage": {
+    "language": "en",
+    "probability": 0.9999967414217342
+  },
+  "spellingSuggestion": "microbiome gut health",
+  "bestBets": [],
+  "warnings": [],
+  "results_sample": [
+    {
+      "apiVersion": "2.145.3",
+      "reference": "4bdf9e8e-884e-4a5a-ac75-db17bcc84f0b-PINbg",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/4bdf9e8e-884e-4a5a-ac75-db17bcc84f0b-PIN",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "bg",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Evaluation of microbiome-relevant biomarkers and in vitro models for xenobiotic risk assessment",
+      "weight": 30.281363,
+      "groupById": "2",
+      "content": "Evaluation of <b>microbiome</b>-relevant biomarkers and in vitro models for xenobiotic risk assessment",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "EBBF42303140C0C8A458647A5B5FAD1361BC50F98AA98A8D5CE228E9D5EF50A1",
+      "metadata": {
+        "es_SortDate": [
+          "2026-01-26T00:00:00.000+0000"
+        ],
+        "cftPartyLegalEntityId": [
+          "47352394"
+        ],
+        "cftMaxNumberOfLots": [],
+        "contractType": [
+          "31095498"
+        ],
+        "awardMethod": [],
+        "cftContractingSystems": [],
+        "language": [
+          "bg"
+        ],
+        "type": [
+          "0"
+        ],
+        "cftDocuments": [
+          "{}"
+        ],
+        "callIdentifier": [
+          "EFSA/2026/OP/0008-PIN"
+        ],
+        "cftSubmissionsAllowed": [
+          "false"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "frameworkProgramme": [],
+        "cftPublicationDisplayStatus": [],
+        "identifier": [
+          "4bdf9e8e-884e-4a5a-ac75-db17bcc84f0b-PIN"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "geographicalZones": [],
+        "programmePeriod": [
+          "2014 - 2020",
+          "2021 - 2027"
+        ],
+        "cftSubscriptionsAllowed": [
+          "true"
+        ],
+        "cftCorrigendaList": [],
+        "es_Combine": [
+          "2"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/4bdf9e8e-884e-4a5a-ac75-db17bcc84f0b-PIN"
+        ],
+        "esDA_QueueDate": [
+          "2026-01-26T05:01:37.593+0100"
+        ],
+        "programmeDivisionProspect": [],
+        "mainCpv": [
+          "73000000"
+        ],
+        "mainCpvCode": [
+          "{\"mainCode\":\"73000000\"}"
+        ],
+        "startDate": [
+          "2026-01-26T00:00:00.000+0000"
+        ],
+        "status": [
+          "31094501"
+        ],
+        "procedureType": [
+          "47396222"
+        ],
+        "sortStatus": [
+          "2"
+        ],
+        "conditionOfParticipation": [],
+        "description": [
+          "Addressing a key knowledge gap identified in EFSA's Gut Microbiome Roadmap, the project aims to establish foundational methodological elements for assessing the potential adverse effects of dietary xenobiotics on the gut microbiome and host health through systematic available evidence appraisal and meta-synthesis. In particular, the project will systematically evaluate promising microbiome-relevant biomarkers related to key health endpoints (e.g. intestinal barrier integrity, inflammatory responses, microbiome metabolic capacity, immune system effects, microbiome composition and function) and the suitability of available in vitro models (e.g., SHIME, triple co-culture, MBRA, organoids). It will prioritise optimal biomarker-in vitro model pairings based on regulatory science applicability and feasibility, and identify appropriate analytical methods (including omics-based approaches) for each combination. The outcomes will provide an evidence-based prioritisation framework and feasibility assessment to inform potential follow-up experimental validation of the prioritised biomarker-in vitro model combinations and support the possible integration of microbiome data into risk assessment."
+        ],
+        "title": [
+          "Evaluation of microbiome-relevant biomarkers and in vitro models for xenobiotic risk assessment"
+        ],
+        "esST_checksum": [
+          "EBBF42303140C0C8A458647A5B5FAD1361BC50F98AA98A8D5CE228E9D5EF50A1"
+        ],
+        "cftId": [
+          "4bdf9e8e-884e-4a5a-ac75-db17bcc84f0b-PIN"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "REFERENCE": [
+          "4bdf9e8e-884e-4a5a-ac75-db17bcc84f0b-PINbg"
+        ],
+        "cftTendersMayBeSubmitted": [],
+        "cftTimezone": [
+          "Europe/Rome"
+        ],
+        "cftEstimatedTotalProcedureValue": [
+          "300000 EUR"
+        ],
+        "cftContractNoticeLink": [
+          "[\"54146-2026\",\"17/2026\",\"2026-01-26T00:00:00\"]"
+        ],
+        "cftRepublish": [
+          "true"
+        ],
+        "cftSubmissionMethodCode": [
+          "ESUBMISSION"
+        ],
+        "cftProcurementType": [
+          "31095498"
+        ],
+        "cftEstimatedOverallContractAmount": [
+          "300000"
+        ],
+        "caName": [
+          "Evaluation of microbiome-relevant biomarkers and in vitro models for xenobiotic risk assessment"
+        ],
+        "cftPlannedDate": [
+          "01/04/2026"
+        ],
+        "cftPublishedPinReference": [],
+        "esDA_FirstIngestDate": [
+          "2026-01-26T05:01:37.603+0100"
+        ],
+        "esDA_IngestDate": [
+          "2026-01-26T05:01:37.603+0100"
+        ],
+        "cftInterinstitutional": [],
+        "cftQuestionsAnswersAllowed": [
+          "true"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/4bdf9e8e-884e-4a5a-ac75-db17bcc84f0b-PIN"
+        ],
+        "lots": [
+          "{\"procurementProjectLots\":[{\"tenderingTerms\":{\"tendererQualificationRequest\":{\"specificTendererRequirement\":{}},\"tenderValidityPeriod\":{},\"callForTendersDocumentReference\":{},\"postAwardProcess\":{},\"fundingProgramCode\":\"eu-funds\",\"fundingProgramCodelistName\":\"eu-funded\",\"awardingTerms\":{\"awardingCriterion\":{}},\"appealTerms\":{\"appealReceiverPartyID\":\"ORG-0002\"}},\"programmes\":[],\"procurementProject\":{\"procurementTypeCodeListName\":\"contract-nature\",\"mainCommodityClassification\":{\"itemClassificationCode\":\"73000000\",\"itemClassificationCodeListName\":\"cpv\"},\"requestedTenderTotal\":{\"estimatedOverallContractAmountCurrencyId\":\"EUR\",\"estimatedOverallContractAmount\":300000},\"plannedPeriod\":{\"durationMeasureUnitCode\":\"MONTH\",\"durationMeasure\":12},\"procurementTypeCode\":\"services\",\"name\":\"Evaluation of microbiome-relevant biomarkers and in vitro models for xenobiotic risk assessment\",\"description\":\"Addressing a key knowledge gap identified in EFSA's Gut Microbiome Roadmap, the project aims to establish foundational methodological elements for assessing the potential adverse effects of dietary xenobiotics on the gut microbiome and host health through systematic available evidence appraisal and meta-synthesis. In particular, the project will systematically evaluate promising microbiome-relevant biomarkers related to key health endpoints (e.g. intestinal barrier integrity, inflammatory responses, microbiome metabolic capacity, immune system effects, microbiome composition and function) and the suitability of available in vitro models (e.g., SHIME, triple co-culture, MBRA, organoids). It will prioritise optimal biomarker-in vitro model pairings based on regulatory science applicability and feasibility, and identify appropriate analytical methods (including omics-based approaches) for each combination. The outcomes will provide an evidence-based prioritisation framework and feasibility assessment to inform potential follow-up experimental validation of the prioritised biomarker-in vitro model combinations and support the possible integration of microbiome data into risk assessment.\",\"contractExtension\":{\"renewal\":{\"period\":{}}},\"smeSuitableIndicator\":false},\"tenderingProcess\":{\"accessToolsURI\":\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/4\",\"governmentAgreementConstraintIndicator\":false,\"eformsExtension\":{\"accessToolName\":\"Funding and Tenders Portal\"},\"auctionTerms\":{},\"contractingSystems\":[{\"contractingSystemTypeCode\":\"none\",\"contractingSystemTypeCodeListName\":\"framework-agreement\"}],\"openTenderEvent\":{},\"tenderSubmissionDeadlinePeriod\":{},\"additionalInformationRequestPeriod\":{},\"participationRequestReceptionPeriod\":{}},\"benefittingZones\":[],\"procurementProjectLotID\":\"PAR-0001\"}]}"
+        ],
+        "cftEXARegistrationDeadline": [],
+        "indicativeLaunch": [],
+        "geographicalZone": [],
+        "cftLeadContractingAuthorityCode": [
+          "[{\"name\":\"European Food Safety Authority \",\"link\":\"https://www.efsa.europa.eu\",\"isLeadAuthority\":true}]"
+        ],
+        "cftBuyerProfileUrl": [],
+        "cftPublicationDateEForm": [
+          "2026-01-26T00:00:00"
+        ],
+        "cftEstimatedOverallContractCurrency": [
+          "EUR"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "Evaluation of <b>microbiome</b>-relevant biomarkers and in vitro models for xenobiotic risk assessment"
+      ]
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "4bdf9e8e-884e-4a5a-ac75-db17bcc84f0b-PINcs",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/4bdf9e8e-884e-4a5a-ac75-db17bcc84f0b-PIN",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "cs",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Evaluation of microbiome-relevant biomarkers and in vitro models for xenobiotic risk assessment",
+      "weight": 30.281363,
+      "groupById": "2",
+      "content": "Evaluation of <b>microbiome</b>-relevant biomarkers and in vitro models for xenobiotic risk assessment",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "EBBF42303140C0C8A458647A5B5FAD1361BC50F98AA98A8D5CE228E9D5EF50A1",
+      "metadata": {
+        "es_SortDate": [
+          "2026-01-26T00:00:00.000+0000"
+        ],
+        "cftPartyLegalEntityId": [
+          "47352394"
+        ],
+        "cftMaxNumberOfLots": [],
+        "contractType": [
+          "31095498"
+        ],
+        "awardMethod": [],
+        "cftContractingSystems": [],
+        "language": [
+          "cs"
+        ],
+        "type": [
+          "0"
+        ],
+        "cftDocuments": [
+          "{}"
+        ],
+        "callIdentifier": [
+          "EFSA/2026/OP/0008-PIN"
+        ],
+        "cftSubmissionsAllowed": [
+          "false"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "frameworkProgramme": [],
+        "cftPublicationDisplayStatus": [],
+        "identifier": [
+          "4bdf9e8e-884e-4a5a-ac75-db17bcc84f0b-PIN"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "geographicalZones": [],
+        "programmePeriod": [
+          "2014 - 2020",
+          "2021 - 2027"
+        ],
+        "cftSubscriptionsAllowed": [
+          "true"
+        ],
+        "cftCorrigendaList": [],
+        "es_Combine": [
+          "2"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/4bdf9e8e-884e-4a5a-ac75-db17bcc84f0b-PIN"
+        ],
+        "esDA_QueueDate": [
+          "2026-01-26T05:01:37.967+0100"
+        ],
+        "programmeDivisionProspect": [],
+        "mainCpv": [
+          "73000000"
+        ],
+        "mainCpvCode": [
+          "{\"mainCode\":\"73000000\"}"
+        ],
+        "startDate": [
+          "2026-01-26T00:00:00.000+0000"
+        ],
+        "status": [
+          "31094501"
+        ],
+        "procedureType": [
+          "47396222"
+        ],
+        "sortStatus": [
+          "2"
+        ],
+        "conditionOfParticipation": [],
+        "description": [
+          "Addressing a key knowledge gap identified in EFSA's Gut Microbiome Roadmap, the project aims to establish foundational methodological elements for assessing the potential adverse effects of dietary xenobiotics on the gut microbiome and host health through systematic available evidence appraisal and meta-synthesis. In particular, the project will systematically evaluate promising microbiome-relevant biomarkers related to key health endpoints (e.g. intestinal barrier integrity, inflammatory responses, microbiome metabolic capacity, immune system effects, microbiome composition and function) and the suitability of available in vitro models (e.g., SHIME, triple co-culture, MBRA, organoids). It will prioritise optimal biomarker-in vitro model pairings based on regulatory science applicability and feasibility, and identify appropriate analytical methods (including omics-based approaches) for each combination. The outcomes will provide an evidence-based prioritisation framework and feasibility assessment to inform potential follow-up experimental validation of the prioritised biomarker-in vitro model combinations and support the possible integration of microbiome data into risk assessment."
+        ],
+        "title": [
+          "Evaluation of microbiome-relevant biomarkers and in vitro models for xenobiotic risk assessment"
+        ],
+        "esST_checksum": [
+          "EBBF42303140C0C8A458647A5B5FAD1361BC50F98AA98A8D5CE228E9D5EF50A1"
+        ],
+        "cftId": [
+          "4bdf9e8e-884e-4a5a-ac75-db17bcc84f0b-PIN"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "REFERENCE": [
+          "4bdf9e8e-884e-4a5a-ac75-db17bcc84f0b-PINcs"
+        ],
+        "cftTendersMayBeSubmitted": [],
+        "cftTimezone": [
+          "Europe/Rome"
+        ],
+        "cftEstimatedTotalProcedureValue": [
+          "300000 EUR"
+        ],
+        "cftContractNoticeLink": [
+          "[\"54146-2026\",\"17/2026\",\"2026-01-26T00:00:00\"]"
+        ],
+        "cftRepublish": [
+          "true"
+        ],
+        "cftSubmissionMethodCode": [
+          "ESUBMISSION"
+        ],
+        "cftProcurementType": [
+          "31095498"
+        ],
+        "cftEstimatedOverallContractAmount": [
+          "300000"
+        ],
+        "caName": [
+          "Evaluation of microbiome-relevant biomarkers and in vitro models for xenobiotic risk assessment"
+        ],
+        "cftPlannedDate": [
+          "01/04/2026"
+        ],
+        "cftPublishedPinReference": [],
+        "esDA_FirstIngestDate": [
+          "2026-01-26T05:01:37.998+0100"
+        ],
+        "esDA_IngestDate": [
+          "2026-01-26T05:01:37.998+0100"
+        ],
+        "cftInterinstitutional": [],
+        "cftQuestionsAnswersAllowed": [
+          "true"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/4bdf9e8e-884e-4a5a-ac75-db17bcc84f0b-PIN"
+        ],
+        "lots": [
+          "{\"procurementProjectLots\":[{\"tenderingTerms\":{\"tendererQualificationRequest\":{\"specificTendererRequirement\":{}},\"tenderValidityPeriod\":{},\"callForTendersDocumentReference\":{},\"postAwardProcess\":{},\"fundingProgramCode\":\"eu-funds\",\"fundingProgramCodelistName\":\"eu-funded\",\"awardingTerms\":{\"awardingCriterion\":{}},\"appealTerms\":{\"appealReceiverPartyID\":\"ORG-0002\"}},\"programmes\":[],\"procurementProject\":{\"procurementTypeCodeListName\":\"contract-nature\",\"mainCommodityClassification\":{\"itemClassificationCode\":\"73000000\",\"itemClassificationCodeListName\":\"cpv\"},\"requestedTenderTotal\":{\"estimatedOverallContractAmountCurrencyId\":\"EUR\",\"estimatedOverallContractAmount\":300000},\"plannedPeriod\":{\"durationMeasureUnitCode\":\"MONTH\",\"durationMeasure\":12},\"procurementTypeCode\":\"services\",\"name\":\"Evaluation of microbiome-relevant biomarkers and in vitro models for xenobiotic risk assessment\",\"description\":\"Addressing a key knowledge gap identified in EFSA's Gut Microbiome Roadmap, the project aims to establish foundational methodological elements for assessing the potential adverse effects of dietary xenobiotics on the gut microbiome and host health through systematic available evidence appraisal and meta-synthesis. In particular, the project will systematically evaluate promising microbiome-relevant biomarkers related to key health endpoints (e.g. intestinal barrier integrity, inflammatory responses, microbiome metabolic capacity, immune system effects, microbiome composition and function) and the suitability of available in vitro models (e.g., SHIME, triple co-culture, MBRA, organoids). It will prioritise optimal biomarker-in vitro model pairings based on regulatory science applicability and feasibility, and identify appropriate analytical methods (including omics-based approaches) for each combination. The outcomes will provide an evidence-based prioritisation framework and feasibility assessment to inform potential follow-up experimental validation of the prioritised biomarker-in vitro model combinations and support the possible integration of microbiome data into risk assessment.\",\"contractExtension\":{\"renewal\":{\"period\":{}}},\"smeSuitableIndicator\":false},\"tenderingProcess\":{\"accessToolsURI\":\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/4\",\"governmentAgreementConstraintIndicator\":false,\"eformsExtension\":{\"accessToolName\":\"Funding and Tenders Portal\"},\"auctionTerms\":{},\"contractingSystems\":[{\"contractingSystemTypeCode\":\"none\",\"contractingSystemTypeCodeListName\":\"framework-agreement\"}],\"openTenderEvent\":{},\"tenderSubmissionDeadlinePeriod\":{},\"additionalInformationRequestPeriod\":{},\"participationRequestReceptionPeriod\":{}},\"benefittingZones\":[],\"procurementProjectLotID\":\"PAR-0001\"}]}"
+        ],
+        "cftEXARegistrationDeadline": [],
+        "indicativeLaunch": [],
+        "geographicalZone": [],
+        "cftLeadContractingAuthorityCode": [
+          "[{\"name\":\"European Food Safety Authority \",\"link\":\"https://www.efsa.europa.eu\",\"isLeadAuthority\":true}]"
+        ],
+        "cftBuyerProfileUrl": [],
+        "cftPublicationDateEForm": [
+          "2026-01-26T00:00:00"
+        ],
+        "cftEstimatedOverallContractCurrency": [
+          "EUR"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "Evaluation of <b>microbiome</b>-relevant biomarkers and in vitro models for xenobiotic risk assessment"
+      ]
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "4bdf9e8e-884e-4a5a-ac75-db17bcc84f0b-PINda",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/4bdf9e8e-884e-4a5a-ac75-db17bcc84f0b-PIN",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "da",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Evaluation of microbiome-relevant biomarkers and in vitro models for xenobiotic risk assessment",
+      "weight": 30.281363,
+      "groupById": "2",
+      "content": "Evaluation of <b>microbiome</b>-relevant biomarkers and in vitro models for xenobiotic risk assessment",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "EBBF42303140C0C8A458647A5B5FAD1361BC50F98AA98A8D5CE228E9D5EF50A1",
+      "metadata": {
+        "es_SortDate": [
+          "2026-01-26T00:00:00.000+0000"
+        ],
+        "cftPartyLegalEntityId": [
+          "47352394"
+        ],
+        "cftMaxNumberOfLots": [],
+        "contractType": [
+          "31095498"
+        ],
+        "awardMethod": [],
+        "cftContractingSystems": [],
+        "language": [
+          "da"
+        ],
+        "type": [
+          "0"
+        ],
+        "cftDocuments": [
+          "{}"
+        ],
+        "callIdentifier": [
+          "EFSA/2026/OP/0008-PIN"
+        ],
+        "cftSubmissionsAllowed": [
+          "false"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "frameworkProgramme": [],
+        "cftPublicationDisplayStatus": [],
+        "identifier": [
+          "4bdf9e8e-884e-4a5a-ac75-db17bcc84f0b-PIN"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "geographicalZones": [],
+        "programmePeriod": [
+          "2014 - 2020",
+          "2021 - 2027"
+        ],
+        "cftSubscriptionsAllowed": [
+          "true"
+        ],
+        "cftCorrigendaList": [],
+        "es_Combine": [
+          "2"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/4bdf9e8e-884e-4a5a-ac75-db17bcc84f0b-PIN"
+        ],
+        "esDA_QueueDate": [
+          "2026-01-26T05:01:38.146+0100"
+        ],
+        "programmeDivisionProspect": [],
+        "mainCpv": [
+          "73000000"
+        ],
+        "mainCpvCode": [
+          "{\"mainCode\":\"73000000\"}"
+        ],
+        "startDate": [
+          "2026-01-26T00:00:00.000+0000"
+        ],
+        "status": [
+          "31094501"
+        ],
+        "procedureType": [
+          "47396222"
+        ],
+        "sortStatus": [
+          "2"
+        ],
+        "conditionOfParticipation": [],
+        "description": [
+          "Addressing a key knowledge gap identified in EFSA's Gut Microbiome Roadmap, the project aims to establish foundational methodological elements for assessing the potential adverse effects of dietary xenobiotics on the gut microbiome and host health through systematic available evidence appraisal and meta-synthesis. In particular, the project will systematically evaluate promising microbiome-relevant biomarkers related to key health endpoints (e.g. intestinal barrier integrity, inflammatory responses, microbiome metabolic capacity, immune system effects, microbiome composition and function) and the suitability of available in vitro models (e.g., SHIME, triple co-culture, MBRA, organoids). It will prioritise optimal biomarker-in vitro model pairings based on regulatory science applicability and feasibility, and identify appropriate analytical methods (including omics-based approaches) for each combination. The outcomes will provide an evidence-based prioritisation framework and feasibility assessment to inform potential follow-up experimental validation of the prioritised biomarker-in vitro model combinations and support the possible integration of microbiome data into risk assessment."
+        ],
+        "title": [
+          "Evaluation of microbiome-relevant biomarkers and in vitro models for xenobiotic risk assessment"
+        ],
+        "esST_checksum": [
+          "EBBF42303140C0C8A458647A5B5FAD1361BC50F98AA98A8D5CE228E9D5EF50A1"
+        ],
+        "cftId": [
+          "4bdf9e8e-884e-4a5a-ac75-db17bcc84f0b-PIN"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "REFERENCE": [
+          "4bdf9e8e-884e-4a5a-ac75-db17bcc84f0b-PINda"
+        ],
+        "cftTendersMayBeSubmitted": [],
+        "cftTimezone": [
+          "Europe/Rome"
+        ],
+        "cftEstimatedTotalProcedureValue": [
+          "300000 EUR"
+        ],
+        "cftContractNoticeLink": [
+          "[\"54146-2026\",\"17/2026\",\"2026-01-26T00:00:00\"]"
+        ],
+        "cftRepublish": [
+          "true"
+        ],
+        "cftSubmissionMethodCode": [
+          "ESUBMISSION"
+        ],
+        "cftProcurementType": [
+          "31095498"
+        ],
+        "cftEstimatedOverallContractAmount": [
+          "300000"
+        ],
+        "caName": [
+          "Evaluation of microbiome-relevant biomarkers and in vitro models for xenobiotic risk assessment"
+        ],
+        "cftPlannedDate": [
+          "01/04/2026"
+        ],
+        "cftPublishedPinReference": [],
+        "esDA_FirstIngestDate": [
+          "2026-01-26T05:01:38.157+0100"
+        ],
+        "esDA_IngestDate": [
+          "2026-01-26T05:01:38.157+0100"
+        ],
+        "cftInterinstitutional": [],
+        "cftQuestionsAnswersAllowed": [
+          "true"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/4bdf9e8e-884e-4a5a-ac75-db17bcc84f0b-PIN"
+        ],
+        "lots": [
+          "{\"procurementProjectLots\":[{\"tenderingTerms\":{\"tendererQualificationRequest\":{\"specificTendererRequirement\":{}},\"tenderValidityPeriod\":{},\"callForTendersDocumentReference\":{},\"postAwardProcess\":{},\"fundingProgramCode\":\"eu-funds\",\"fundingProgramCodelistName\":\"eu-funded\",\"awardingTerms\":{\"awardingCriterion\":{}},\"appealTerms\":{\"appealReceiverPartyID\":\"ORG-0002\"}},\"programmes\":[],\"procurementProject\":{\"procurementTypeCodeListName\":\"contract-nature\",\"mainCommodityClassification\":{\"itemClassificationCode\":\"73000000\",\"itemClassificationCodeListName\":\"cpv\"},\"requestedTenderTotal\":{\"estimatedOverallContractAmountCurrencyId\":\"EUR\",\"estimatedOverallContractAmount\":300000},\"plannedPeriod\":{\"durationMeasureUnitCode\":\"MONTH\",\"durationMeasure\":12},\"procurementTypeCode\":\"services\",\"name\":\"Evaluation of microbiome-relevant biomarkers and in vitro models for xenobiotic risk assessment\",\"description\":\"Addressing a key knowledge gap identified in EFSA's Gut Microbiome Roadmap, the project aims to establish foundational methodological elements for assessing the potential adverse effects of dietary xenobiotics on the gut microbiome and host health through systematic available evidence appraisal and meta-synthesis. In particular, the project will systematically evaluate promising microbiome-relevant biomarkers related to key health endpoints (e.g. intestinal barrier integrity, inflammatory responses, microbiome metabolic capacity, immune system effects, microbiome composition and function) and the suitability of available in vitro models (e.g., SHIME, triple co-culture, MBRA, organoids). It will prioritise optimal biomarker-in vitro model pairings based on regulatory science applicability and feasibility, and identify appropriate analytical methods (including omics-based approaches) for each combination. The outcomes will provide an evidence-based prioritisation framework and feasibility assessment to inform potential follow-up experimental validation of the prioritised biomarker-in vitro model combinations and support the possible integration of microbiome data into risk assessment.\",\"contractExtension\":{\"renewal\":{\"period\":{}}},\"smeSuitableIndicator\":false},\"tenderingProcess\":{\"accessToolsURI\":\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/4\",\"governmentAgreementConstraintIndicator\":false,\"eformsExtension\":{\"accessToolName\":\"Funding and Tenders Portal\"},\"auctionTerms\":{},\"contractingSystems\":[{\"contractingSystemTypeCode\":\"none\",\"contractingSystemTypeCodeListName\":\"framework-agreement\"}],\"openTenderEvent\":{},\"tenderSubmissionDeadlinePeriod\":{},\"additionalInformationRequestPeriod\":{},\"participationRequestReceptionPeriod\":{}},\"benefittingZones\":[],\"procurementProjectLotID\":\"PAR-0001\"}]}"
+        ],
+        "cftEXARegistrationDeadline": [],
+        "indicativeLaunch": [],
+        "geographicalZone": [],
+        "cftLeadContractingAuthorityCode": [
+          "[{\"name\":\"European Food Safety Authority \",\"link\":\"https://www.efsa.europa.eu\",\"isLeadAuthority\":true}]"
+        ],
+        "cftBuyerProfileUrl": [],
+        "cftPublicationDateEForm": [
+          "2026-01-26T00:00:00"
+        ],
+        "cftEstimatedOverallContractCurrency": [
+          "EUR"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "Evaluation of <b>microbiome</b>-relevant biomarkers and in vitro models for xenobiotic risk assessment"
+      ]
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "4bdf9e8e-884e-4a5a-ac75-db17bcc84f0b-PINde",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/4bdf9e8e-884e-4a5a-ac75-db17bcc84f0b-PIN",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "de",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Evaluation of microbiome-relevant biomarkers and in vitro models for xenobiotic risk assessment",
+      "weight": 30.281363,
+      "groupById": "2",
+      "content": "Evaluation of <b>microbiome</b>-relevant biomarkers and in vitro models for xenobiotic risk assessment",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "EBBF42303140C0C8A458647A5B5FAD1361BC50F98AA98A8D5CE228E9D5EF50A1",
+      "metadata": {
+        "es_SortDate": [
+          "2026-01-26T00:00:00.000+0000"
+        ],
+        "cftPartyLegalEntityId": [
+          "47352394"
+        ],
+        "cftMaxNumberOfLots": [],
+        "contractType": [
+          "31095498"
+        ],
+        "awardMethod": [],
+        "cftContractingSystems": [],
+        "language": [
+          "de"
+        ],
+        "type": [
+          "0"
+        ],
+        "cftDocuments": [
+          "{}"
+        ],
+        "callIdentifier": [
+          "EFSA/2026/OP/0008-PIN"
+        ],
+        "cftSubmissionsAllowed": [
+          "false"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "frameworkProgramme": [],
+        "cftPublicationDisplayStatus": [],
+        "identifier": [
+          "4bdf9e8e-884e-4a5a-ac75-db17bcc84f0b-PIN"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "geographicalZones": [],
+        "programmePeriod": [
+          "2014 - 2020",
+          "2021 - 2027"
+        ],
+        "cftSubscriptionsAllowed": [
+          "true"
+        ],
+        "cftCorrigendaList": [],
+        "es_Combine": [
+          "2"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/4bdf9e8e-884e-4a5a-ac75-db17bcc84f0b-PIN"
+        ],
+        "esDA_QueueDate": [
+          "2026-01-26T05:01:38.293+0100"
+        ],
+        "programmeDivisionProspect": [],
+        "mainCpv": [
+          "73000000"
+        ],
+        "mainCpvCode": [
+          "{\"mainCode\":\"73000000\"}"
+        ],
+        "startDate": [
+          "2026-01-26T00:00:00.000+0000"
+        ],
+        "status": [
+          "31094501"
+        ],
+        "procedureType": [
+          "47396222"
+        ],
+        "sortStatus": [
+          "2"
+        ],
+        "conditionOfParticipation": [],
+        "description": [
+          "Addressing a key knowledge gap identified in EFSA's Gut Microbiome Roadmap, the project aims to establish foundational methodological elements for assessing the potential adverse effects of dietary xenobiotics on the gut microbiome and host health through systematic available evidence appraisal and meta-synthesis. In particular, the project will systematically evaluate promising microbiome-relevant biomarkers related to key health endpoints (e.g. intestinal barrier integrity, inflammatory responses, microbiome metabolic capacity, immune system effects, microbiome composition and function) and the suitability of available in vitro models (e.g., SHIME, triple co-culture, MBRA, organoids). It will prioritise optimal biomarker-in vitro model pairings based on regulatory science applicability and feasibility, and identify appropriate analytical methods (including omics-based approaches) for each combination. The outcomes will provide an evidence-based prioritisation framework and feasibility assessment to inform potential follow-up experimental validation of the prioritised biomarker-in vitro model combinations and support the possible integration of microbiome data into risk assessment."
+        ],
+        "title": [
+          "Evaluation of microbiome-relevant biomarkers and in vitro models for xenobiotic risk assessment"
+        ],
+        "esST_checksum": [
+          "EBBF42303140C0C8A458647A5B5FAD1361BC50F98AA98A8D5CE228E9D5EF50A1"
+        ],
+        "cftId": [
+          "4bdf9e8e-884e-4a5a-ac75-db17bcc84f0b-PIN"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "REFERENCE": [
+          "4bdf9e8e-884e-4a5a-ac75-db17bcc84f0b-PINde"
+        ],
+        "cftTendersMayBeSubmitted": [],
+        "cftTimezone": [
+          "Europe/Rome"
+        ],
+        "cftEstimatedTotalProcedureValue": [
+          "300000 EUR"
+        ],
+        "cftContractNoticeLink": [
+          "[\"54146-2026\",\"17/2026\",\"2026-01-26T00:00:00\"]"
+        ],
+        "cftRepublish": [
+          "true"
+        ],
+        "cftSubmissionMethodCode": [
+          "ESUBMISSION"
+        ],
+        "cftProcurementType": [
+          "31095498"
+        ],
+        "cftEstimatedOverallContractAmount": [
+          "300000"
+        ],
+        "caName": [
+          "Evaluation of microbiome-relevant biomarkers and in vitro models for xenobiotic risk assessment"
+        ],
+        "cftPlannedDate": [
+          "01/04/2026"
+        ],
+        "cftPublishedPinReference": [],
+        "esDA_FirstIngestDate": [
+          "2026-01-26T05:01:38.305+0100"
+        ],
+        "esDA_IngestDate": [
+          "2026-01-26T05:01:38.305+0100"
+        ],
+        "cftInterinstitutional": [],
+        "cftQuestionsAnswersAllowed": [
+          "true"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/4bdf9e8e-884e-4a5a-ac75-db17bcc84f0b-PIN"
+        ],
+        "lots": [
+          "{\"procurementProjectLots\":[{\"tenderingTerms\":{\"tendererQualificationRequest\":{\"specificTendererRequirement\":{}},\"tenderValidityPeriod\":{},\"callForTendersDocumentReference\":{},\"postAwardProcess\":{},\"fundingProgramCode\":\"eu-funds\",\"fundingProgramCodelistName\":\"eu-funded\",\"awardingTerms\":{\"awardingCriterion\":{}},\"appealTerms\":{\"appealReceiverPartyID\":\"ORG-0002\"}},\"programmes\":[],\"procurementProject\":{\"procurementTypeCodeListName\":\"contract-nature\",\"mainCommodityClassification\":{\"itemClassificationCode\":\"73000000\",\"itemClassificationCodeListName\":\"cpv\"},\"requestedTenderTotal\":{\"estimatedOverallContractAmountCurrencyId\":\"EUR\",\"estimatedOverallContractAmount\":300000},\"plannedPeriod\":{\"durationMeasureUnitCode\":\"MONTH\",\"durationMeasure\":12},\"procurementTypeCode\":\"services\",\"name\":\"Evaluation of microbiome-relevant biomarkers and in vitro models for xenobiotic risk assessment\",\"description\":\"Addressing a key knowledge gap identified in EFSA's Gut Microbiome Roadmap, the project aims to establish foundational methodological elements for assessing the potential adverse effects of dietary xenobiotics on the gut microbiome and host health through systematic available evidence appraisal and meta-synthesis. In particular, the project will systematically evaluate promising microbiome-relevant biomarkers related to key health endpoints (e.g. intestinal barrier integrity, inflammatory responses, microbiome metabolic capacity, immune system effects, microbiome composition and function) and the suitability of available in vitro models (e.g., SHIME, triple co-culture, MBRA, organoids). It will prioritise optimal biomarker-in vitro model pairings based on regulatory science applicability and feasibility, and identify appropriate analytical methods (including omics-based approaches) for each combination. The outcomes will provide an evidence-based prioritisation framework and feasibility assessment to inform potential follow-up experimental validation of the prioritised biomarker-in vitro model combinations and support the possible integration of microbiome data into risk assessment.\",\"contractExtension\":{\"renewal\":{\"period\":{}}},\"smeSuitableIndicator\":false},\"tenderingProcess\":{\"accessToolsURI\":\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/4\",\"governmentAgreementConstraintIndicator\":false,\"eformsExtension\":{\"accessToolName\":\"Funding and Tenders Portal\"},\"auctionTerms\":{},\"contractingSystems\":[{\"contractingSystemTypeCode\":\"none\",\"contractingSystemTypeCodeListName\":\"framework-agreement\"}],\"openTenderEvent\":{},\"tenderSubmissionDeadlinePeriod\":{},\"additionalInformationRequestPeriod\":{},\"participationRequestReceptionPeriod\":{}},\"benefittingZones\":[],\"procurementProjectLotID\":\"PAR-0001\"}]}"
+        ],
+        "cftEXARegistrationDeadline": [],
+        "indicativeLaunch": [],
+        "geographicalZone": [],
+        "cftLeadContractingAuthorityCode": [
+          "[{\"name\":\"European Food Safety Authority \",\"link\":\"https://www.efsa.europa.eu\",\"isLeadAuthority\":true}]"
+        ],
+        "cftBuyerProfileUrl": [],
+        "cftPublicationDateEForm": [
+          "2026-01-26T00:00:00"
+        ],
+        "cftEstimatedOverallContractCurrency": [
+          "EUR"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "Evaluation of <b>microbiome</b>-relevant biomarkers and in vitro models for xenobiotic risk assessment"
+      ]
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "4bdf9e8e-884e-4a5a-ac75-db17bcc84f0b-PINel",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/4bdf9e8e-884e-4a5a-ac75-db17bcc84f0b-PIN",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "el",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Evaluation of microbiome-relevant biomarkers and in vitro models for xenobiotic risk assessment",
+      "weight": 30.281363,
+      "groupById": "2",
+      "content": "Evaluation of <b>microbiome</b>-relevant biomarkers and in vitro models for xenobiotic risk assessment",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "EBBF42303140C0C8A458647A5B5FAD1361BC50F98AA98A8D5CE228E9D5EF50A1",
+      "metadata": {
+        "es_SortDate": [
+          "2026-01-26T00:00:00.000+0000"
+        ],
+        "cftPartyLegalEntityId": [
+          "47352394"
+        ],
+        "cftMaxNumberOfLots": [],
+        "contractType": [
+          "31095498"
+        ],
+        "awardMethod": [],
+        "cftContractingSystems": [],
+        "language": [
+          "el"
+        ],
+        "type": [
+          "0"
+        ],
+        "cftDocuments": [
+          "{}"
+        ],
+        "callIdentifier": [
+          "EFSA/2026/OP/0008-PIN"
+        ],
+        "cftSubmissionsAllowed": [
+          "false"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "frameworkProgramme": [],
+        "cftPublicationDisplayStatus": [],
+        "identifier": [
+          "4bdf9e8e-884e-4a5a-ac75-db17bcc84f0b-PIN"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "geographicalZones": [],
+        "programmePeriod": [
+          "2014 - 2020",
+          "2021 - 2027"
+        ],
+        "cftSubscriptionsAllowed": [
+          "true"
+        ],
+        "cftCorrigendaList": [],
+        "es_Combine": [
+          "2"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/4bdf9e8e-884e-4a5a-ac75-db17bcc84f0b-PIN"
+        ],
+        "esDA_QueueDate": [
+          "2026-01-26T05:01:38.680+0100"
+        ],
+        "programmeDivisionProspect": [],
+        "mainCpv": [
+          "73000000"
+        ],
+        "mainCpvCode": [
+          "{\"mainCode\":\"73000000\"}"
+        ],
+        "startDate": [
+          "2026-01-26T00:00:00.000+0000"
+        ],
+        "status": [
+          "31094501"
+        ],
+        "procedureType": [
+          "47396222"
+        ],
+        "sortStatus": [
+          "2"
+        ],
+        "conditionOfParticipation": [],
+        "description": [
+          "Addressing a key knowledge gap identified in EFSA's Gut Microbiome Roadmap, the project aims to establish foundational methodological elements for assessing the potential adverse effects of dietary xenobiotics on the gut microbiome and host health through systematic available evidence appraisal and meta-synthesis. In particular, the project will systematically evaluate promising microbiome-relevant biomarkers related to key health endpoints (e.g. intestinal barrier integrity, inflammatory responses, microbiome metabolic capacity, immune system effects, microbiome composition and function) and the suitability of available in vitro models (e.g., SHIME, triple co-culture, MBRA, organoids). It will prioritise optimal biomarker-in vitro model pairings based on regulatory science applicability and feasibility, and identify appropriate analytical methods (including omics-based approaches) for each combination. The outcomes will provide an evidence-based prioritisation framework and feasibility assessment to inform potential follow-up experimental validation of the prioritised biomarker-in vitro model combinations and support the possible integration of microbiome data into risk assessment."
+        ],
+        "title": [
+          "Evaluation of microbiome-relevant biomarkers and in vitro models for xenobiotic risk assessment"
+        ],
+        "esST_checksum": [
+          "EBBF42303140C0C8A458647A5B5FAD1361BC50F98AA98A8D5CE228E9D5EF50A1"
+        ],
+        "cftId": [
+          "4bdf9e8e-884e-4a5a-ac75-db17bcc84f0b-PIN"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "REFERENCE": [
+          "4bdf9e8e-884e-4a5a-ac75-db17bcc84f0b-PINel"
+        ],
+        "cftTendersMayBeSubmitted": [],
+        "cftTimezone": [
+          "Europe/Rome"
+        ],
+        "cftEstimatedTotalProcedureValue": [
+          "300000 EUR"
+        ],
+        "cftContractNoticeLink": [
+          "[\"54146-2026\",\"17/2026\",\"2026-01-26T00:00:00\"]"
+        ],
+        "cftRepublish": [
+          "true"
+        ],
+        "cftSubmissionMethodCode": [
+          "ESUBMISSION"
+        ],
+        "cftProcurementType": [
+          "31095498"
+        ],
+        "cftEstimatedOverallContractAmount": [
+          "300000"
+        ],
+        "caName": [
+          "Evaluation of microbiome-relevant biomarkers and in vitro models for xenobiotic risk assessment"
+        ],
+        "cftPlannedDate": [
+          "01/04/2026"
+        ],
+        "cftPublishedPinReference": [],
+        "esDA_FirstIngestDate": [
+          "2026-01-26T05:01:38.690+0100"
+        ],
+        "esDA_IngestDate": [
+          "2026-01-26T05:01:38.690+0100"
+        ],
+        "cftInterinstitutional": [],
+        "cftQuestionsAnswersAllowed": [
+          "true"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/4bdf9e8e-884e-4a5a-ac75-db17bcc84f0b-PIN"
+        ],
+        "lots": [
+          "{\"procurementProjectLots\":[{\"tenderingTerms\":{\"tendererQualificationRequest\":{\"specificTendererRequirement\":{}},\"tenderValidityPeriod\":{},\"callForTendersDocumentReference\":{},\"postAwardProcess\":{},\"fundingProgramCode\":\"eu-funds\",\"fundingProgramCodelistName\":\"eu-funded\",\"awardingTerms\":{\"awardingCriterion\":{}},\"appealTerms\":{\"appealReceiverPartyID\":\"ORG-0002\"}},\"programmes\":[],\"procurementProject\":{\"procurementTypeCodeListName\":\"contract-nature\",\"mainCommodityClassification\":{\"itemClassificationCode\":\"73000000\",\"itemClassificationCodeListName\":\"cpv\"},\"requestedTenderTotal\":{\"estimatedOverallContractAmountCurrencyId\":\"EUR\",\"estimatedOverallContractAmount\":300000},\"plannedPeriod\":{\"durationMeasureUnitCode\":\"MONTH\",\"durationMeasure\":12},\"procurementTypeCode\":\"services\",\"name\":\"Evaluation of microbiome-relevant biomarkers and in vitro models for xenobiotic risk assessment\",\"description\":\"Addressing a key knowledge gap identified in EFSA's Gut Microbiome Roadmap, the project aims to establish foundational methodological elements for assessing the potential adverse effects of dietary xenobiotics on the gut microbiome and host health through systematic available evidence appraisal and meta-synthesis. In particular, the project will systematically evaluate promising microbiome-relevant biomarkers related to key health endpoints (e.g. intestinal barrier integrity, inflammatory responses, microbiome metabolic capacity, immune system effects, microbiome composition and function) and the suitability of available in vitro models (e.g., SHIME, triple co-culture, MBRA, organoids). It will prioritise optimal biomarker-in vitro model pairings based on regulatory science applicability and feasibility, and identify appropriate analytical methods (including omics-based approaches) for each combination. The outcomes will provide an evidence-based prioritisation framework and feasibility assessment to inform potential follow-up experimental validation of the prioritised biomarker-in vitro model combinations and support the possible integration of microbiome data into risk assessment.\",\"contractExtension\":{\"renewal\":{\"period\":{}}},\"smeSuitableIndicator\":false},\"tenderingProcess\":{\"accessToolsURI\":\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/4\",\"governmentAgreementConstraintIndicator\":false,\"eformsExtension\":{\"accessToolName\":\"Funding and Tenders Portal\"},\"auctionTerms\":{},\"contractingSystems\":[{\"contractingSystemTypeCode\":\"none\",\"contractingSystemTypeCodeListName\":\"framework-agreement\"}],\"openTenderEvent\":{},\"tenderSubmissionDeadlinePeriod\":{},\"additionalInformationRequestPeriod\":{},\"participationRequestReceptionPeriod\":{}},\"benefittingZones\":[],\"procurementProjectLotID\":\"PAR-0001\"}]}"
+        ],
+        "cftEXARegistrationDeadline": [],
+        "indicativeLaunch": [],
+        "geographicalZone": [],
+        "cftLeadContractingAuthorityCode": [
+          "[{\"name\":\"European Food Safety Authority \",\"link\":\"https://www.efsa.europa.eu\",\"isLeadAuthority\":true}]"
+        ],
+        "cftBuyerProfileUrl": [],
+        "cftPublicationDateEForm": [
+          "2026-01-26T00:00:00"
+        ],
+        "cftEstimatedOverallContractCurrency": [
+          "EUR"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "Evaluation of <b>microbiome</b>-relevant biomarkers and in vitro models for xenobiotic risk assessment"
+      ]
+    }
+  ]
+}

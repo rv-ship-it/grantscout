@@ -1,0 +1,551 @@
+{
+  "apiVersion": "2.145.3",
+  "terms": "public health epidemiology",
+  "responseTime": 152,
+  "totalResults": 102608,
+  "pageNumber": 1,
+  "pageSize": 50,
+  "sort": "relevance",
+  "groupByField": "sortStatus",
+  "queryLanguage": {
+    "language": "en",
+    "probability": 0.9999972107282273
+  },
+  "spellingSuggestion": "public health epidemiology",
+  "bestBets": [],
+  "warnings": [],
+  "results_sample": [
+    {
+      "apiVersion": "2.145.3",
+      "reference": "47887869TOPICScs",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-GH-EDCTP3-2025-02-FELLOW-01-two-stage",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "cs",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Global Health EDCTP3 JU and contributing partners funded Strategic Training Hubs for Fellowships in Public Health covering Biostatistics, Epidemiology and Modelling",
+      "weight": 29.04564,
+      "groupById": "3",
+      "content": "Global <b>Health</b> EDCTP3 JU and contributing partners funded Strategic Training Hubs for Fellowships in <b>Public</b> <b>Health</b> covering Biostatistics, <b>Epidemiology</b> and Modelling",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "04015DADB9CCEA81F33BB8E8B851383E836EF3D299096EF8BD658A648CF3BDD9",
+      "metadata": {
+        "latestInfos": [
+          "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2025-09-19T13:41:40.358\",\"content\":\"\\u003cp\\u003e\\u003cstrong\\u003ePROPOSAL NUMBERS\\u003c/strong\\u003e\\u003c/p\\u003e\\u003cp\\u003eCall HORIZON-JU-GH-EDCTP3-2025-02-two-stage has closed on 03.09.2025.\\u003c/p\\u003e\\u003cp\\u003e30 proposals have been submitted.\\u003c/p\\u003e\\u003cp class\\u003d\\\"ql-align-justify\\\"\\u003eThe breakdown per topic is:\\u003c/p\\u003e\\u003cul\\u003e\\u003cli data-list\\u003d\\\"bullet\\\" class\\u003d\\\"ql-align-justify\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eHORIZON-JU-GH-EDCTP3-2025-02-FELLOW-01-two-stage: 30\\u003c/li\\u003e\\u003c/ul\\u003e\\u003cp\\u003eEvaluation results are expected to be communicated in January 2026.\\u003c/p\\u003e\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2025-07-10T11:32:23.529\",\"content\":\"\\u003cp\\u003e\\u003cstrong\\u003eErrata corrige\\u003c/strong\\u003e\\u003c/p\\u003e\\u003cp\\u003eFor questions, please contact \\u003ca href\\u003d\\\"mailto:applicants@global-health-edctp3.europa.eu\\\" rel\\u003d\\\"noopener noreferrer\\\" target\\u003d\\\"_blank\\\"\\u003eapplicants@global-health-edctp3.europa.eu\\u003c/a\\u003e\\u003c/p\\u003e\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2025-07-10T10:09:49.287\",\"content\":\"\\u003cp\\u003e\\u003cstrong\\u003e10/07/2025\\u003c/strong\\u003e\\u003c/p\\u003e\\u003cp\\u003e\\u003cstrong\\u003eEVALUATION RESULTS (STAGE 1)\\u003c/strong\\u003e\\u003c/p\\u003e\\u003cp\\u003ePublished: 10/01/25\\u003c/p\\u003e\\u003cp\\u003eDeadline: 20/03/25\\u003c/p\\u003e\\u003cp\\u003eAvailable budget: EUR 15.000.000\\u003c/p\\u003e\\u003cp\\u003eIn accordance with the call conditions, the evaluation of the first-stage proposals was made looking only at the criteria \\u0027Excellence\\u0027 and \\u0027Impact\\u0027. The threshold for both criteria was 4. The overall threshold (applying to the sum of the two individual scores) was set for each topic/type of action with separate call-budget-split at a level that allowed the total requested budget of proposals admitted to stage 2 be as close as possible to 3 times the available budget (and not below 2.5 times the budget):\\u003c/p\\u003e\\u003cul\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eHORIZON-JU-GH-EDCTP3-2025-02-FELLOW-01-two-stage: 8\\u003c/li\\u003e\\u003c/ul\\u003e\\u003cp\\u003eThe results of the evaluation for each topic are as follows:\\u003c/p\\u003e\\u003cp\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003cdiv class\\u003d\\\"quill-better-table-wrapper\\\"\\u003e\\u003ctable class\\u003d\\\"quill-better-table\\\" style\\u003d\\\"width: 200px;\\\"\\u003e\\u003ccolgroup\\u003e\\u003ccol width\\u003d\\\"100\\\"\\u003e\\u003ccol width\\u003d\\\"100\\\"\\u003e\\u003c/col\\u003e\\u003c/col\\u003e\\u003c/colgroup\\u003e\\u003ctbody\\u003e\\u003ctr data-row\\u003d\\\"1\\\"\\u003e\\u003ctd data-row\\u003d\\\"1\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"1\\\" data-cell\\u003d\\\"1\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"1\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"1\\\" data-cell\\u003d\\\"2\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eHORIZON-JU-GH-EDCTP3-2025-02-FELLOW-01-two-stage\\u003c/p\\u003e\\u003c/td\\u003e\\u003c/tr\\u003e\\u003ctr data-row\\u003d\\\"2\\\"\\u003e\\u003ctd data-row\\u003d\\\"2\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"2\\\" data-cell\\u003d\\\"1\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eNumber of proposals submitted (including proposals transferred from or to other calls)\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"2\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"2\\\" data-cell\\u003d\\\"2\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e53\\u003c/p\\u003e\\u003c/td\\u003e\\u003c/tr\\u003e\\u003ctr data-row\\u003d\\\"3\\\"\\u003e\\u003ctd data-row\\u003d\\\"3\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"3\\\" data-cell\\u003d\\\"1\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eNumber of inadmissible proposals\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"3\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"3\\\" data-cell\\u003d\\\"2\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e0\\u003c/p\\u003e\\u003c/td\\u003e\\u003c/tr\\u003e\\u003ctr data-row\\u003d\\\"4\\\"\\u003e\\u003ctd data-row\\u003d\\\"4\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"4\\\" data-cell\\u003d\\\"1\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eNumber of ineligible proposals\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"4\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"4\\\" data-cell\\u003d\\\"2\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e10\\u003c/p\\u003e\\u003c/td\\u003e\\u003c/tr\\u003e\\u003ctr data-row\\u003d\\\"5\\\"\\u003e\\u003ctd data-row\\u003d\\\"5\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"5\\\" data-cell\\u003d\\\"1\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eNumber of above-threshold proposals\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"5\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"5\\\" data-cell\\u003d\\\"2\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e30\\u003c/p\\u003e\\u003c/td\\u003e\\u003c/tr\\u003e\\u003ctr data-row\\u003d\\\"6\\\"\\u003e\\u003ctd data-row\\u003d\\\"6\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"6\\\" data-cell\\u003d\\\"1\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eTotal budget requested for above-threshold proposals\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"6\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"6\\\" data-cell\\u003d\\\"2\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e38.329.583,36 \u20ac\\u003c/p\\u003e\\u003c/td\\u003e\\u003c/tr\\u003e\\u003c/tbody\\u003e\\u003c/table\\u003e\\u003c/div\\u003e\\u003cp\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003cp\\u003eSummary of observer report:\\u003c/p\\u003e\\u003cp\\u003e\\u003cem\\u003eThe evaluations were in the estimation of both observers impartial, fair and equitable. No issues of confidentiality were seen to arise.\\u003c/em\\u003e\\u003c/p\\u003e\\u003cp\\u003e\\u003cem\\u003eThis was, in particular, enabled by a careful selection of experts and recorders as well as ensuring that any experts or recorders with a COI were excluded from the discussions of the proposal in question. The use of the SEP platform for all aspects of the reports (IER, CR and QC) also reinforced the confidentiality of the evaluation.\\u003c/em\\u003e\\u003c/p\\u003e\\u003cp\\u003e\\u003cem\\u003eNo issues of non-conformity were observed and the evaluation followed all the applicable rules. The eligibility of proposals was determined by the Unit prior to the assignment of experts to proposals. Any issues of proposals being not being \u201cin scope\u201d were discussed by the experts during the consensus meetings.\\u003c/em\\u003e\\u003c/p\\u003e\\u003cp\\u003e \\u0026#xa0;\\u003c/p\\u003e\\u003cp\\u003eWe recently informed the applicants about the evaluation results for their proposals on 01/07/2025.\\u003c/p\\u003e\\u003cp\\u003eFor questions, please contact\\u0026#xa0;\\u003ca href\\u003d\\\"mailto:EC-GLOBAL-HEALTH-EDCTP3@ec.europa.eu\\\" rel\\u003d\\\"noopener noreferrer\\\" target\\u003d\\\"_blank\\\"\\u003eEC-GLOBAL-HEALTH-EDCTP3@ec.europa.eu\\u003c/a\\u003e\\u003c/p\\u003e\\u003cp\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003cp\\u003e\\u003cstrong\\u003eGENERALISED FEEDBACK for successful applicants after STAGE 1\\u003c/strong\\u003e\\u003c/p\\u003e\\u003cp class\\u003d\\\"ql-align-justify\\\"\\u003eIn order to best ensure equal treatment, successful stage 1 applicants do not receive the evaluation summary reports (ESRs) for their proposals., but this generalised feedback with information and tips for preparing the full proposal.\\u003c/p\\u003e\\u003cp class\\u003d\\\"ql-align-justify\\\"\\u003eInformation \\u0026amp; tips\\u003c/p\\u003e\\u003cp\\u003ePlease note that the all the amounts in the proposal are expressed in EUR.\\u003c/p\\u003e\\u003cp\\u003eJoin the networking platform and find the right partners and co-funders to maximise the chances of your proposal at the second stage. \\u003ca href\\u003d\\\"https://www.global-health-edctp3.europa.eu/funding/global-health-edctp3-networking-platform_en\\\" rel\\u003d\\\"noopener noreferrer\\\" target\\u003d\\\"_blank\\\"\\u003eDiscover more and register.\\u003c/a\\u003e\\u003c/p\\u003e\\u003cp\\u003ePlease bear in mind that your full proposal will now be evaluated more in-depth and possibly by a new group of outside experts.\\u003c/p\\u003e\\u003cp\\u003ePlease make sure that your full proposal is consistent with your short outline proposal. It may NOT differ substantially. The project must stay the same.\\u003c/p\\u003e\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2025-04-25T19:45:48.929\",\"content\":\"\\u003cp\\u003eCall HORIZON-JU-GH-EDCTP3-2025-02-two-stage_stage1 has closed on the 20/03/2025.\\u003c/p\\u003e\\u003cp\\u003e53 proposals have been submitted.\\u003c/p\\u003e\\u003cp\\u003eEvaluation results are expected to be communicated in July 2025.\\u003c/p\\u003e\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2025-01-30T00:01:01.028\",\"content\":\"The submission session is now available for: HORIZON-JU-GH-EDCTP3-2025-02-FELLOW-01-two-stage\"}]"
+        ],
+        "es_SortDate": [
+          "2025-01-30T00:00:00.000+0000"
+        ],
+        "sepTemplate": [
+          "<p>No submission system is open for this topic.</p>"
+        ],
+        "keywords": [
+          "HORIZON-JU-GH-EDCTP3-2025-02-FELLOW-01-two-stage",
+          "HORIZON-JU-GH-EDCTP3-2025-02-two-stage",
+          "Biostatistics",
+          "Epidemiology",
+          "Global health",
+          "Mathematical modelling"
+        ],
+        "sortStatus": [
+          "3"
+        ],
+        "language": [
+          "cs"
+        ],
+        "topicConditions": [
+          "<div class=\"eui-u-mt-l>\"><h4>General conditions</h4><div><h4>1. Admissibility Conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2023-2024/wp-13-general-annexes_horizon-2023-2024_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex A</a> and <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2023-2024/wp-13-general-annexes_horizon-2023-2024_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex E</a> of the Horizon Europe Work Programme General Annexes.</p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p><p><br></br></p></div></div><div><h4>2. Eligible Countries</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2023-2024/wp-13-general-annexes_horizon-2023-2024_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p><p>A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a>.</p></div></div><div><h4>3. Other Eligible Conditions</h4><div class=\"eui-u-mt-s\"><p>The conditions are described in General Annex B except for the specific conditions for the Global Health EDCTP3 JU funding as regards <u>entities eligible for funding</u> and <u>consortium composition</u>, the specific rule for <u>countries where the coordinator may be established</u> and the obligation to designate a <u>scientific project leader as below</u>.</p><p><strong><u>Specific conditions replacing the relevant sections in General Annex B to the Horizon Europe Work Programmes.</u></strong></p><p><u><strong>A. Entities eligible for funding</strong></u></p><p>This section applies to both Research and Innovation Actions (RIA) and Coordination and Support Actions (CSA).</p><p>To become a beneficiary, legal entities must be eligible for funding. To be eligible for funding, applicants must be established in one of the following countries:</p><ul level=\"0\"><li>The Member States of the European Union, including their outermost regions: Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden;</li><li>The Overseas Countries and Territories (OCTs) linked to the Member States: Aruba (NL), Bonaire (NL), Cura\u00e7\u00e3o (NL), French Polynesia (FR), French Southern and Antarctic Territories (FR), Greenland (DK), New Caledonia (FR), Saba (NL), Saint Barth\u00e9lemy (FR), Sint Eustatius (NL), Sint Maarten (NL), St. Pierre and Miquelon (FR), Wallis and Futuna Islands (FR);</li><li>Countries associated to Horizon Europe<sup>[1]</sup>: Albania, Armenia, Bosnia and Herzegovina, Canada, Faroe Islands, Georgia, Iceland, Israel, Kosovo<sup>[2]</sup>, Moldova, Montenegro, New Zealand (associated to Pillar II 'Global Challenges and European Industrial Competitiveness' as from the Work Programmes 2023 onwards, including for the institutionalised European partnerships), North Macedonia, Norway, Serbia, Tunisia, Turkey, Ukraine, United Kingdom;</li><li>Until association agreements start producing legal effects either through provisional application or their entry into force, transitional arrangements apply. The transitional arrangements apply, at the time of the adoption of this Work Programme, with regard to the following countries and legal entities established in these countries, with which association negotiations are being processed or where association is imminent):Morocco, South Korea, Switzerland</li><li>The following countries which are constituent states of the EDCTP Association <sup>[3]</sup>: Benin, Burkina Faso, Cameroon, C\u00f4te d\u2019Ivoire, Democratic Republic of the Congo, Ethiopia, Eswatini, Gabon, The Gambia, Ghana, Guinea-Bissau, Guinea-Conakry, Kenya, Liberia, Malawi, Mali, Mozambique, Niger, Nigeria, Republic of the Congo, Rwanda, Senegal, Sierra Leone, Somalia, South Africa, Tanzania, Uganda, Zambia, Zimbabwe.</li> </ul><p>Legal entities which are established in countries not listed above will be eligible for funding if provided for in the specific call/topic conditions, or if their participation is considered essential for implementing the action by the granting authority.</p><p>Entities established in low- and middle-income countries that are not members of the EDCTP Association and listed in the Horizon Europe List of Participating Countries on the Funding &amp; Tenders Portal <sup>[4]</sup> are not eligible for funding unless the specific country in which the entity is established, is associated to Horizon Europe or if the participation of the entity is considered essential for implementing the action by the granting authority.</p><p><u><strong>B. Consortium composition</strong></u></p><p>Unless otherwise provided for in the specific call conditions, for all actions, due to the policy objectives of the Global Health EDCTP3 JU, legal entities forming a consortium are eligible to participate in actions under the programme provided that the consortium includes as beneficiaries:</p><ul level=\"0\"><li>At least three legal entities independent from each other and each established in a different country, where legal entities are eligible to receive funding;</li><li>At least one independent legal entity established in a Member State, or in an associated country to Horizon Europe that is a member of the EDCTP Association; and</li><li>At least one independent legal entity established in a sub-Saharan African country that is a member of the EDCTP Association.</li> </ul><p>This condition applies to both Research and Innovation Actions (RIA) and Coordination and SupportActions (CSA).</p><p>For the two CSA topics, i.e. topic HORIZON-JU-GH-EDCTP3-2025-02-FELLOW-01-two-stage and topic HORIZON-JU-GH-EDCTP3-2025-03-NETWORKS-01-two-stage - according to which the EDCTP Association is obligatorily part of the consortium as coordinator, the EDCTP Association must not be counted as one of the three independent legal entities necessary to ensure the eligibility of the consortium composition.</p><p><u><strong>Specific cases:</strong></u></p><p><strong>Affiliated entities</strong> \u2014 Affiliated entities are eligible for funding if they are established in one of the countries listed above, or in a country identified in the specific call/topic conditions.</p><p><strong>Associated partners</strong> \u2014 Entities not eligible for funding and therefore not able to participate as beneficiaries or affiliated entities (i.e. entities which participate in the action without signing the grant agreement, and without the right to charge costs or claim contributions) are allowed, subject to any conditions regarding associated partners set out in the specific call conditions.</p><p><strong>International organisations</strong> \u2013 International European research organisations are eligible to receive funding. Other international organisations are not eligible to receive funding unless their participation is considered essential for implementing the action by the granting authority. International organisations with headquarters in a Member State or associated country are eligible to receive funding when provided for in the specific call conditions.</p><p><u><strong>Specific rules regarding legal entities that may be the coordinator of an indirect action</strong></u></p><p>In accordance with Article 110(2) of the Council Regulation 2021/2085 establishing the Joint Undertakings under Horizon Europe<sup>[5]</sup>, where entities established in a third country without an agreement to protect the financial interests of the Union participate with funding in an indirect action, the coordinator of the indirectaction must be established in a Member State or associated country, or South Africa.</p><p><u><strong>Scientific project leader</strong></u></p><p>If the coordinator is not established in a country in SSA (<em>please see previous paragraph</em>), the designation of a scientific project leader established in a SSA country member of the EDCTP Association with the roles as described below is mandatory. A work package on \u2018scientific project leadership\u2019 must be included in the proposals and budget needs to be provided for this activity. The scientific project leader oversees the project scientific governance and leadership. For this purpose, proposals must include a work package where the details of scientific project leadership are laid down. The scientific project leader should indicatively perform the following tasks:</p><ul level=\"0\"><li>During the call for proposals and selection process, coordinate meetings on and drafting of the full project proposal;</li><li>Work with the coordinator and other beneficiaries on the drafting and negotiation of the consortium agreement and other legal agreements among the beneficiaries;</li><li>Act as the key contact point for the Global Health EDCTP3 JU regarding all scientific action governance issues, steer and provide oversight in the development of the scientific actions, without prejudice to the tasks entrusted directly to the coordinator as per the Model Grant Agreement;</li><li>Support and collaborate with the coordinator on its monitoring activities and the adoption of appropriate internal measures, to ensure that beneficiaries are fulfilling their obligations regarding budget, timeline, deliverables, and scientific quality;</li><li>Review the action\u2019s deliverables and reports before their submission by the coordinator;</li><li>Lead the work packages(s) related to the tasks of scientific project leadership.</li> </ul><p>Annex 1 to the grant agreement and the consortium agreement should address the relationship of the scientific project leader with the coordinator regarding their respective tasks, for example sharing of the information received from or sent to the Global Health EDCTP3 JU on all issues of interest for the proper scientific management of the action.</p><p><sup>[1]</sup> The list is correct at the time of adoption of this work programme. Please see the Horizon Europe List of Participating Countries on the Funding &amp; Tenders Portal for up-to-date information on the current list and on the position for Associated Countries: <a href=\"http://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/list-3rd-country-participation_horizon-euratom_en.pdf\">https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/list-3rd-country-participation_horizon-euratom_en.pdf</a></p><p><sup>[2]</sup> This designation is without prejudice to positions on status and is in line with UNSCR 1244/1999 and the ICJ Opinion on the Kosovo declaration of independence.</p><p><sup>[3]</sup> The list is correct at the time of adoption of this work programme. For an update, please check the EDCTP Association website <a href=\"http://www.edctp.org/\">www.edctp.org</a></p><p><sup>[4]</sup> Horizon Europe List of Participating Countries on the Funding &amp; Tenders Portal <a href=\"http://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/list-3rd-country-participation_horizon-euratom_en.pdf\">https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/list-3rd-country-participation_horizon-euratom_en.pdf</a></p><p><sup>[5]</sup> Council Regulation (EU) 2021/2085 of 19 November 2021 establishing the Joint Undertakings under Horizon Europe and repealing Regulations (EC) No 219/2007, (EU) No 557/2014, (EU) No 558/2014, (EU) No 559/2014, (EU) No 560/2014, (EU) No 561/2014 and (EU) No 642/2014. OJ L 427, 30.11.2021, p. 17\u2013119; <a href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32021R2085\">Regulation - 2021/2085 - EN - EUR-Lex (europa.eu)</a>.</p></div><div class=\"eui-u-mt-s\"><p>All proposals submitted under this topic must include the EDCTP Association as a coordinator at the second stage of the proposals' submission. This requirement is justified by the financial and administrative expertise of the EDCTP Association on project management and its technical expertise in SSA, which are relevant in the context of this lump sum Model Grant Agreement pilot. This is relevant namely regarding distribution of payments and quality of the reporting and deliverables. Most importantly, the EDCTP Association has a unique expertise in terms of African and European collaboration and wide knowledge of the research context in sub-Saharan Africa, which are crucial for the coordination of large collaborative schemes that are expected to work in the successful projects of this topic, as well as presence in Africa, ensuring proximity to the field and the activities implemented by the projects. </p><p>The eligible costs of the EDCTP Association in the actions funded under this topic may not be reimbursed by the JU and may be used as a basis for in-kind contributions to operational activities (IKOP). This in-kind contribution of the EDCTP Association will cover the coordination activities of the project. On the basis of the outcome of the first stage evaluation, the applicant consortia of the highest ranked short proposals (first stage) will be invited to contact the EDCTP Association in order to include it as coordinator in their full proposal (second stage) and obtain the estimated amount of the Association\u2019s contribution as well as any other relevant information. First stage applicants should nevertheless include an entity acting as coordinator to submit the proposal. The EDCTP Association must not be counted as one of the three independent legal entities necessary to ensure the eligibility of the consortium composition, as requested in the Call conditions, <em>\"Specific conditions to Global Health EDCTP3 JU - B. Consortium composition\".</em></p></div><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2023-2024/wp-13-general-annexes_horizon-2023-2024_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2023-2024/wp-13-general-annexes_horizon-2023-2024_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex C</a> of the Work Programme General Annexes.</p></div></div><div><h4>5a. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2023-2024/wp-13-general-annexes_horizon-2023-2024_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex D</a> of the Work Programme General Annexes.</p></div></div><div><h4>5b. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p><u><strong>Specific conditions related to Scores and weighting</strong></u></p><p><strong>Replacing the scores and weighting section in General Annex D to the Horizon Europe Work Programmes as regards second stage of two-stage evaluations, for both Research and Innovation Actions (RIA) and Coordination and Support Actions (CSA)</strong></p><p>Evaluation scores will be awarded for the criteria, and not for the different aspects listed in the table. For full applications, each criterion will be scored out of 5. The threshold for individual criteria 1 (Excellence) and 2 (Impact) will be 4 and for criterion 3 (Quality and Efficiency of the implementation) will be 3. The overall threshold, applying to the sum of the three individual scores, will be 12.</p><p>Proposals that pass the individual threshold and the overall threshold will be considered for funding, within the limits of the available call budget. Other proposals will be rejected.</p><p><em>Nota bene</em>, for the first stage of the two-stage evaluation of both RIAs and CSAs, the scores and weightingas indicated in Annex D of the General Annexes of the Horizon Europe work programme 2023/2025 apply.</p></div><div class=\"eui-u-mt-s\"><p>In addition to the aspects of award criteria included in General Annex D, the following aspects are taken into consideration during the evaluation of second-stage proposals:</p><ul level=\"0\"><li>For the \u2018impact\u2019 criterion: Production of meaningful and significant effects enhancing the impact of the relevant support and coordination activities via the inclusion of effective in-kind and/or financial contribution of contributing partners.</li><li>For the \u2018quality and efficiency of the implementation\u2019 criterion: Leveraging of financial and/or in-kind contributions from contributing partners that are equal or greater than the requested JU contribution, in order to ensure the necessary resources and effort for the action.</li> </ul></div><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2023-2024/wp-13-general-annexes_horizon-2023-2024_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2023-2024/wp-13-general-annexes_horizon-2023-2024_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>Eligible costs will take the form of a lump sum as defined in the Decision of 7 July 2021 authorising the use of lump sum contributions under the Horizon Europe Programme \u2013 the Framework Programme for Research and Innovation (2021-2027) \u2013 and in actions under the Research and Training Programme of the European Atomic Energy Community (2021-2025) [[This <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf\"><u>decision</u></a> is available on the Funding and Tenders Portal, in the reference documents section for Horizon Europe, under \u2018Simplified costs decisions\u2019 or through this link: <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf\"><u>https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf</u></a>]].</p></div><div class=\"eui-u-mt-s\"><p>Beneficiaries may provide financial support to third parties. The support to third parties can only be provided in the form of grants. The maximum amount to be granted to each third party is EUR 90 000. This is justified since the main objective of these projects is to provide fellowship support. The support to third parties can only be provided in the form of grants. These grants are the fellowships to be awarded. The specific conditions regarding Global Health EDCTP3 JU fellowships laid down inAnnex 5 to the Model Grant Agreement apply.</p></div><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2023-2024/wp-13-general-annexes_horizon-2023-2024_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex G</a> of the Work Programme General Annexes.</p></div></div></div><div class=\"eui-u-mt-l\"><h4>Specific conditions</h4> <div class=\"eui-u-mt-s\"><p><strong><u>JU right to object to transfer/exclusive licensing</u></strong></p><p>The Global Health EDCTP3 JU may, up to 4 years after the end of the action, object to a transfer of ownership or to the exclusive licensing of results, as set out in the specific provision of Annex 5 of the Model Grant Agreement. In addition, in accordance with Article 24(3) of Council Regulation 2021/2085 establishing the Joint Undertakings under Horizon Europe <sup>[1]</sup> and the Model Grant Agreement, the right toobject applies also to participants that have not received funding from the JU.</p><p><sup>[1]</sup>&#xa0;Council Regulation (EU) 2021/2085 of 19 November 2021 establishing the Joint Undertakings under Horizon Europe and repealing Regulations (EC) No 219/2007, (EU) No 557/2014, (EU) No 558/2014, (EU) No 559/2014, (EU) No 560/2014, (EU) No 561/2014 and (EU) No 642/2014; OJ L 427, 30.11.2021, p. 17.</p><p><strong><u>Access to information and involvement of contributing partners.</u></strong></p><p><strong><u>Evaluation</u></strong></p><p>Global Health EDCTP3 may invite any contributing partners providing financial contributions under a certain topic to propose one representative as observer to participate in the evaluation process under confidentiality safeguards. This possibility does not apply to contributing partners that are part of a consortium submitting a proposal under the relevant topic.</p><p><strong><u>Reports and deliverables</u></strong></p><p>By applying under any topic, participants consent that the JU reserves the right to share their project reports and deliverables with contributing partners providing financial contributions under the relevant topic. Global Health EDCTP3 may consult the relevant contributing partners for the purpose of assessing the reports and deliverables. The reports and deliverables will be shared under confidentiality safeguards.</p><p><br></br></p><p><strong><u>Other requirements</u></strong></p><p>As the funding in these actions will also be provided by contributing partners introduced by Global Health EDCTP3 JU, by applying under this topic, participants consent that the JU will share their project technical reports and deliverables with the contributing partners participating in the action, who may provide input to the JU for the assessment of the reports and deliverables.For all projects under this topic, the designation of a scientific project leader with the roles as described in the introduction is mandatory. A work package on \u2018scientific project leadership\u2019 must be included in the proposals and budget needs to be provided for this activity.</p></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\"><p><a href=\"https://www.global-health-edctp3.europa.eu/document/download/a8679719-555a-43c6-8014-22bc7ec3be5c_en?filename=EDCTP3_Annual_Work%20Programme_2025.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annual Work Programme 2025</a></p><p><a href=\"https://www.global-health-edctp3.europa.eu/funding/calls-proposals_en\" rel=\"noopener noreferrer\" target=\"_blank\">Global Health EDCTP3 Calls for proposals</a></p></div><h4>Application and evaluation forms and model grant agreement (MGA):</h4> <div class=\"eui-u-mt-s\"><p><strong>Application form templates</strong> <em>\u2014 the application form specific to this call is available in the Submission System</em></p><p><strong><em><span class=\"ql-cursor\">\ufeff</span><u>Note:</u></em></strong><em> despite blind evaluation being mentioned in the standard application form for stage 1 proposals, available in the Funding and Tenders Portal (at the stage of adoption of this Work Programme), please note that this call is not part of the \u2018blind evaluation pilot\u2019, therefore no anonymisation is required for stage 1proposals of the two-stage calls.</em></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-csa-stage-1_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (HE CSA Stage 1)</a></p><p><strong>Evaluation form templates</strong> <em>\u2014 will be used with the necessary adaptations</em> &#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/ef/ef_he-ria-ia-csa-stage-1_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard evaluation form (HE RIA, IA and CSA Stage 1)</a>&#xa0;</p><p><strong>Guidance</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a>&#xa0;</p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE MGA</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/ls-mga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Lump Sum MGA</a>&#xa0;</p><p><strong>Call-specific instructions</strong>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/temp-form/af/detailed-budget-table_he-ls-euratom_en.xlsm\" rel=\"noopener noreferrer\" target=\"_blank\">Detailed budget table (HE LS)</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/information-on-financial-support-to-third-parties_he_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Information on financial support to third parties (HE)</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/information-on-clinical-studies_he_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Information on clinical studies (HE)</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-funding-what-do-i-need-to-know_he_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Guidance: \"Lump sums - what do I need to know?\"</a></p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2023-2024/wp-4-health_horizon-2023-2024_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2023\u20132025 \u2013 1. General Introduction</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2023-2024/wp-4-health_horizon-2023-2024_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2023\u20132025 \u2013 4. Health</a> &#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2023-2024/wp-13-general-annexes_horizon-2023-2024_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2023\u20132025 \u2013 13. General Annexes</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a>&#xa0;</p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0695\" rel=\"noopener noreferrer\" target=\"_blank\">HE Framework Programme 2021/695</a>&#xa0;</p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021D0764\" rel=\"noopener noreferrer\" target=\"_blank\">HE Specific Programme Decision 2021/764</a>&#xa0;</p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA \u2014 Annotated Model Grant Agreement</a>&#xa0;</p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+        ],
+        "title": [
+          "Global Health EDCTP3 JU and contributing partners funded Strategic Training Hubs for Fellowships in Public Health covering Biostatistics, Epidemiology and Modelling"
+        ],
+        "type": [
+          "1"
+        ],
+        "esST_checksum": [
+          "04015DADB9CCEA81F33BB8E8B851383E836EF3D299096EF8BD658A648CF3BDD9"
+        ],
+        "focusArea": [],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "typeOfMGAs": [
+          "43027849"
+        ],
+        "callIdentifier": [
+          "HORIZON-JU-GH-EDCTP3-2025-02-two-stage"
+        ],
+        "ccm2Id": [
+          "47887869"
+        ],
+        "callccm2Id": [
+          "47888025"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "47887869TOPICScs"
+        ],
+        "links": [
+          "[]"
+        ],
+        "callTitle": [
+          "HORIZON-JU-GH-EDCTP3-2025-02-two-stage"
+        ],
+        "frameworkProgramme": [
+          "43108390"
+        ],
+        "descriptionByte": [
+          "<span class=\"topicdescriptionkind\">Expected Impact:</span><p><u><strong>Expected Impact</strong></u></p><p>The actions funded under this topic should contribute to increased international cooperation amongresearchers and funders, catalyse research synergies, and leverage resources and investments in order to achieve the establishment of an African cohort of epidemiologists, biostatisticians, mathematical modellers by supporting institutions in sub-Saharan Africa and Europe that provide Master\u2019s training in epidemiology and biostatistics or those that process public health data with advanced quantitative methods to inform policy, as part of the Africa CDC\u2019s framework for public health workforce development. Proposals are expected to include the effective in-kind and/or financial contribution of contributing partners, in order toproduce meaningful and significant effects enhancing the impact of the related research activities.</p><p><u><strong>Applicant consortium</strong></u></p><p>The contributions from contributing partners should correspond to the amounts they have committed in the letter of endorsement requesting to become a contributing partner (Article 9 Council Regulation (EU) 2021/2085). Their contributions can consist of financial contributions and/or in-kind contributions. Applicant contributing partners must submit the endorsement letter for approval by the Global Health EDCTP3 Governing Board before the deadline for submission of the second-stage applications. It is recommended that the draft letter is submitted to the Global Health EDCTP3 Programme Office sufficiently ahead of deadline for submission of proposals to allow the review<sup>[1]</sup>.</p><p>In case of in-kind contribution (even combined with financial contribution), contributing partners become a part of the applicant consortium and participate in the project, as appropriate i.e. as beneficiaries orAffiliated entities in the meaning of Article 8 of the Horizon Europe model grant agreement.</p><p><sup>[1]</sup> The Global Health Programme Office will ask the applicant contributing partner to revise the letter in case it significantly departs from the template letter published on the Global Health EDCTP3 JU website or is missing any compulsory elements. The preliminary assessment by the Programme Office does not consider the merits of the application. The final decision as to acceptance or rejection of a new contributing partner rests with the Global Health EDCTP3 JU Governing Board</p><span class=\"topicdescriptionkind\">Expected Outcome:</span><p><u><strong>Background</strong></u></p><p>Capacity building and strengthening of the research environment is at the core of Global Health EDCTP3 objectives and in line with the implementation of the EU Global Health Strategy\u2019s Guiding Principles 6 and 7 to \u201caddress workforce imbalances and foster skills\u201d and \u201cstrengthen capacities for prevention, preparedness and response and early detection of health threats globally\u201d.</p><p>The Africa CDC Framework for Public Health Workforce Development 2020-2025 aims to strengthen the capacity of 1) field epidemiologists, 2) laboratory leadership and medical laboratory training, 3) public health informatics, as well as 4) specific knowledge and skills such as surveillance, AMR monitoring and management, laboratory quality assurance as well as surveillance and response. The 2023-2027 Africa CDC Strategic Plan stresses the acute shortage of critical public health workforce with only 1 900 field epidemiologists out of the 6 000 required and only 5 000 of the needed 25 000 frontline epidemiologists.</p><p>Following a pilot collaboration with Africa CDC for a joint fellowship call under EDCTP2, the Global Health EDCTP3 is proposing to renew the joint call for fellowships <sup>[1]</sup>. After taking stock of the lessons learnt from the first programme, a funders partnership will support a joint call, i) to increase the number of fellows trained and ii) to expand the breadth of skills offered and diversity hosting institutions involved. Thisrenewed joint call will include epidemiology and biostatistics and infectious disease modelling.</p><p><u><strong>Expected Outcome</strong></u></p><p>Proposals submitted under this topic should aim for delivering results that contribute to at least three of the following expected outcomes:</p><ul level=\"0\"><li>Increase the number of public experts: skilled epidemiologists, biostatisticians, and infectious diseases modellers in SSA;</li><li>Promote the career development and retention of skilled personnel in SSA;</li><li>Strengthen SSA countries clinical human capital base in R&amp;I;</li><li>Enhance talent retention, knowledge circulation and uptake across the research and innovation landscape in SSA;</li><li>Establish sustainable and mutually beneficial collaboration between national public health institutes, clinical research organisations and academia across SSA and Europe.</li> </ul><p><sup>[1]</sup> Cooperation is based on the \"Working Arrangement between the Africa CDC and the European Commission\" signed in March 2024 and is foreseen to be further developed within a framework collaboration agreement between the Global Health EDCTP3JU and Africa CDC (currently under preparation).</p><span class=\"topicdescriptionkind\">Scope:</span><p><u><strong>Scope</strong></u></p><p>The objective of this topic is to establish an African cohort of epidemiologists, biostatisticians, mathematical modellers by supporting institutions in SSA and Europe that provide Master\u2019s training in epidemiology and biostatistics or those that process public health data with advanced quantitative methods to inform policy, as part of the Africa CDC\u2019s framework for public health workforce development.</p><p>The Master\u2019s degree courses with practical field research experience must be robust and of the level oftraining for the epidemiology and biostatistics that is delivered within reasonable time for the required numbers and high-quality fit-for purpose personnel urgently needed in zones of outbreak/epidemic risks in SSA. Early- to mid-career researchers or data scientists (or similar) are the targeted level of training for the infectious disease modelling.</p><p>Proposals must demonstrate all of the following:</p><ul level=\"0\"><li>A high-quality training programme as   <ul level=\"1\"><li>1/ Master\u2019s training in Epidemiology and/or Biostatistics (broader Master's in public health majoring in epidemiology or biostatistics are also applicable);</li><li>or 2/ specific training courses/seminars/workshops infectious disease mathematical modelling;</li>   </ul> </li><li>The Master\u2019s programme must include a research and development component aligned with the scope of the Global Health EDCTP3 JU and must be conducted in a country in SSA;</li><li>An open, fair and transparent procedure for selecting the fellows coming from different geographical regions of SSA, based on quality and with appropriate gender balance;</li><li>Robust mentorship and supervision mechanisms to support fellows through to timely successful course completion;</li><li>The applicant must be an organisation with an established legal entity in SSA (the applicant legal entity);</li><li>Proposals must be submitted by a consortium of institutions which must provide above mentioned trainings for up to 50 early- to mid-career researchers per consortium;</li><li>Proposals should provide details on the methodology for linking clinical research aspects with the translation into healthcare practice and policy;</li> </ul><p>The fellow must:</p><ul level=\"0\"><li>Be resident of or be willing to relocate to a sub-Saharan African country, member of the EDCTP Association;</li><li>Not have been funded under a similar previous EDCTP or Global Health EDCTP3 fellowship scheme before.</li> </ul><p>In addition:</p><p>1/ For the Master\u2019s degree training:</p><ul level=\"0\"><li>Proposals should include institutions with a proven track record in the provision of high-quality Master\u2019s training with clear local and regional collaborations with National Public Health Institutes- NPHIs (or similar agencies), Ministries of Health and other academic institutions;</li><li>The maximum fellowship duration shall be 24 months;</li><li>Fellows for the Master training must be employed or have guaranteed employment by the applicant legal entity (the host organisation) where they intend to remain working for a minimum of two years after the expiration of the grant, therefore, applying trainees must provide evidence to demonstrate this through a letter of support from their home institution.</li> </ul><p>2/ For proposals with modelling training:</p><p>Contributing partners, via the Global Health EDCTP3, will provide funding on modelling training, meeting the need for modellers to strengthen NPHIs core functions. The funding will support comprehensive short term training programmes, workshops and/or seminars to interested specialists to empower Africa-based researchers with relevant skills to conduct infectious disease modelling and enhance capacity to respond effectively to outbreaks and pandemics. Supported institutions will offer:</p><ul level=\"0\"><li>Modelling training focusing on infectious diseases modelling;</li><li>Workshops or seminars considering different skill levels of trainees to cover key aspects of infectious disease modelling, including but not limited to:   <ul level=\"1\"><li>i. Mathematical and statistical modelling techniques;</li><li>ii. Scenario planning and model forecasting;</li><li>iii. Integration of modelling output into public health policy and response strategies.</li>   </ul> </li><li>Provide mentorship and support to facilitate the application of acquired skills in real world settings for key LMIC implementors.</li> </ul><p>Proposals submitted against this topic are expected to leverage financial and/or in-kind contribution from contributing partners. Proposals should define the activities of their project in its entirety, including details of the component(s) for which Global Health EDCTP3 JU funding is requested and the component(s) that are to be financed by contributing partners introduced by the applicant consortium.</p><p>In addition to these contributions leveraged by the applicants, Global Health EDCTP3 JU may involve other contributing partners that have expressed interest in supporting this topic with cash or in-kind contribution.</p><p>Proposals should describe how participating organisations are expected or plan to have access to large databases that will enable future fellows to work on and with robust data. Proposals are encouraged to include the use of Artificial Intelligence in the training when relevant.</p><p>FAIR data principles and open access of publications are required in line with the Model Grant Agreement <sup>[1]</sup>.</p><p>Proposals should include consortia with strong representation from institutions and researchers across sub- Saharan African countries, demonstrating a broad regional distribution in the SSA region, including involvement of new institutions and Franco/Lusophone countries, and considering previous EDCTP 1 and 2 investments and current EDCTP3 call. Applicants are also reminded of the expectation of reaching out to organisations in countries with high burden of disease with relatively lower research capacities, for which appropriate funding allocations should be proposed. Collaboration with other international research groups with relevant experience and participation in networking and joint activities, as relevant, is strongly encouraged.</p><p><sup>[1]</sup> <a href=\"http://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf\">general-mga_horizon-euratom_en.pdf (europa.eu)</a></p>"
+        ],
+        "identifier": [
+          "HORIZON-JU-GH-EDCTP3-2025-02-FELLOW-01-two-stage"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "programmeDivision": [
+          "43108557",
+          "43108541",
+          "43108390"
+        ],
+        "crossCuttingPriorities": [
+          "Africa",
+          "DigitalAgenda",
+          "SocietalEngagement",
+          "SSH",
+          "AI"
+        ],
+        "esDA_FirstIngestDate": [
+          "2025-11-01T02:38:43.413+0100"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "deadlineDate": [
+          "2025-03-20T00:00:00.000+0000",
+          "2025-09-03T00:00:00.000+0000"
+        ],
+        "esDA_IngestDate": [
+          "2025-11-01T02:38:43.413+0100"
+        ],
+        "typesOfAction": [
+          "HORIZON JU Coordination and Support Actions"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-GH-EDCTP3-2025-02-FELLOW-01-two-stage"
+        ],
+        "es_Combine": [
+          "3"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-GH-EDCTP3-2025-02-FELLOW-01-two-stage"
+        ],
+        "tags": [
+          "Africa",
+          "Africa CDC",
+          "Biostatistics",
+          "EDCTP",
+          "EDCTP3",
+          "Epidemiology",
+          "Fellowship",
+          "Global Health",
+          "Infectious Disease Modelling",
+          "Master\u2019s training",
+          "Training Hubs",
+          "Workshops",
+          "career development",
+          "early-career researchers",
+          "mathematical modellers",
+          "mentorship",
+          "mid-career researchers",
+          "public health",
+          "public health workforce",
+          "skilled personnel",
+          "sub-Saharan Africa"
+        ],
+        "esDA_QueueDate": [
+          "2025-11-01T02:38:43.404+0100"
+        ],
+        "actions": [
+          "[{\"types\":[{\"typeOfAction\":\"HORIZON-JU-CSA HORIZON JU Coordination and Support Actions\",\"typeOfMGA\":[{\"id\":43027849,\"abbreviation\":\"HORIZON-AG-LS\",\"description\":\"HORIZON Lump Sum Grant\"}]}],\"status\":{\"id\":31094503,\"abbreviation\":\"Closed\",\"description\":\"Closed\"},\"plannedOpeningDate\":\"2025-01-30\",\"submissionProcedure\":{\"id\":31094505,\"abbreviation\":\"two-stage\",\"description\":\"two-stage\"},\"deadlineDates\":[\"2025-03-20\",\"2025-09-03\"]}]"
+        ],
+        "allowPartnerSearch": [
+          "true"
+        ],
+        "budgetOverview": [
+          "{\"budgetYearsColumns\":[\"2025\"],\"budgetTopicActionMap\":{\"109379\":[{\"action\":\"HORIZON-JU-GH-EDCTP3-2025-02-FELLOW-01-two-stage - HORIZON-JU-CSA HORIZON JU Coordination and Support Actions\",\"expectedGrants\":11,\"minContribution\":1360000,\"maxContribution\":1360000,\"budgetYearMap\":{\"2025\":\"15000000\"},\"plannedOpeningDate\":\"2025-01-30\",\"deadlineModel\":\"two-stage\",\"deadlineDates\":[\"2025-03-20\",\"2025-09-03\"]}]}}"
+        ],
+        "startDate": [
+          "2025-01-30T00:00:00.000+0000"
+        ],
+        "deadlineModel": [
+          "two-stage"
+        ],
+        "specificObjective": [],
+        "supportInfo": [
+          "<p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> is your guide on the procedures from proposal submission to managing your grant.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a> contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?isExactMatch=true&amp;status=0&amp;type=0,1&amp;order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=publicationDate\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ</a> \u2013 find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.</p><p><a href=\"https://research-and-innovation.ec.europa.eu/contact-us/research-enquiry-service_en\" rel=\"noopener noreferrer\" target=\"_blank\">Research Enquiry Service</a> \u2013 ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/ncp\" rel=\"noopener noreferrer\" target=\"_blank\">National Contact Points (NCPs)</a> \u2013 get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (\u2018third-countries\u2019).</p><p><a href=\"https://een.ec.europa.eu/\" rel=\"noopener noreferrer\" target=\"_blank\">Enterprise Europe Network</a> \u2013 contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> \u2013 contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://intellectual-property-helpdesk.ec.europa.eu/index_en\" rel=\"noopener noreferrer\" target=\"_blank\">European IPR Helpdesk</a> assists you on intellectual property issues.</p><p><a href=\"mailto:research@cencenelec.eu\" rel=\"noopener noreferrer\" target=\"_blank\">CEN-CENELEC Research Helpdesk</a> and <a href=\"https://www.etsi.org/research/helpdesk\" rel=\"noopener noreferrer\" target=\"_blank\">ETSI Research Helpdesk</a> \u2013 the European Standards Organisations advise you how to tackle standardisation in your project proposal.</p><p><a href=\"https://euraxess.ec.europa.eu/sites/default/files/am509774cee_en_e4.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">The European Charter for Researchers and the Code of Conduct for their recruitment</a> \u2013 consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/partner-search?order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=lastModified&amp;isExactMatch=true&amp;type=ORGANISATION,PERSON&amp;frameworkProgramme=43108390\" rel=\"noopener noreferrer\" target=\"_blank\">Partner Search</a> help you find a partner organisation for your proposal.</p>"
+        ],
+        "status": [
+          "31094503"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "Global <b>Health</b> EDCTP3 JU and contributing partners funded Strategic Training Hubs for Fellowships in <b>Public</b> <b>Health</b> covering Biostatistics, <b>Epidemiology</b> and Modelling"
+      ]
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "478878694658621",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-GH-EDCTP3-2025-02-FELLOW-01-two-stage.json",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Global Health EDCTP3 JU and contributing partners funded Strategic Training Hubs for Fellowships in Public Health covering Biostatistics, Epidemiology and Modelling",
+      "weight": 28.973494,
+      "groupById": null,
+      "content": "Global <b>Health</b> EDCTP3 JU and contributing partners funded Strategic Training Hubs for Fellowships in <b>Public</b> <b>Health</b> covering Biostatistics, <b>Epidemiology</b> and Modelling",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "04015DADB9CCEA81F33BB8E8B851383E836EF3D299096EF8BD658A648CF3BDD9",
+      "metadata": {
+        "identifier": [
+          "HORIZON-JU-GH-EDCTP3-2025-02-FELLOW-01-two-stage"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "es_SortDate": [
+          "2025-09-19T11:41:40.358+0000"
+        ],
+        "esDA_FirstIngestDate": [
+          "2025-09-19T13:41:50.754+0200"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "esDA_IngestDate": [
+          "2025-11-01T02:29:51.892+0100"
+        ],
+        "description": [
+          "<p><strong>PROPOSAL NUMBERS</strong></p><p>Call HORIZON-JU-GH-EDCTP3-2025-02-two-stage has closed on 03.09.2025.</p><p>30 proposals have been submitted.</p><p class=\"ql-align-justify\">The breakdown per topic is:</p><ol><li data-list=\"bullet\" class=\"ql-align-justify\"><span class=\"ql-ui\" contenteditable=\"false\"></span>HORIZON-JU-GH-EDCTP3-2025-02-FELLOW-01-two-stage: 30</li></ol><p>Evaluation results are expected to be communicated in January 2026.</p>"
+        ],
+        "language": [
+          "en"
+        ],
+        "title": [
+          "Global Health EDCTP3 JU and contributing partners funded Strategic Training Hubs for Fellowships in Public Health covering Biostatistics, Epidemiology and Modelling"
+        ],
+        "type": [
+          "6"
+        ],
+        "esST_checksum": [
+          "04015DADB9CCEA81F33BB8E8B851383E836EF3D299096EF8BD658A648CF3BDD9"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-GH-EDCTP3-2025-02-FELLOW-01-two-stage.json"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-GH-EDCTP3-2025-02-FELLOW-01-two-stage.json"
+        ],
+        "esDA_QueueDate": [
+          "2025-11-01T02:29:51.882+0100"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "callIdentifier": [
+          "HORIZON-JU-GH-EDCTP3-2025-02-two-stage"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "478878694658621"
+        ],
+        "callTitle": [
+          "HORIZON-JU-GH-EDCTP3-2025-02-two-stage"
+        ],
+        "frameworkProgramme": [
+          "43108390"
+        ],
+        "startDate": [
+          "2025-09-19T11:41:40.358+0000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "Global <b>Health</b> EDCTP3 JU and contributing partners funded Strategic Training Hubs for Fellowships in <b>Public</b> <b>Health</b> covering Biostatistics, <b>Epidemiology</b> and Modelling"
+      ]
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "478878694594479",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-GH-EDCTP3-2025-02-FELLOW-01-two-stage.json",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Global Health EDCTP3 JU and contributing partners funded Strategic Training Hubs for Fellowships in Public Health covering Biostatistics, Epidemiology and Modelling",
+      "weight": 28.973494,
+      "groupById": null,
+      "content": "Global <b>Health</b> EDCTP3 JU and contributing partners funded Strategic Training Hubs for Fellowships in <b>Public</b> <b>Health</b> covering Biostatistics, <b>Epidemiology</b> and Modelling",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "04015DADB9CCEA81F33BB8E8B851383E836EF3D299096EF8BD658A648CF3BDD9",
+      "metadata": {
+        "identifier": [
+          "HORIZON-JU-GH-EDCTP3-2025-02-FELLOW-01-two-stage"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "es_SortDate": [
+          "2025-07-10T08:09:49.287+0000"
+        ],
+        "esDA_FirstIngestDate": [
+          "2025-07-10T10:15:12.131+0200"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "esDA_IngestDate": [
+          "2025-11-01T02:29:52.128+0100"
+        ],
+        "description": [
+          "<p><strong>10/07/2025</strong></p><p><strong>EVALUATION RESULTS (STAGE 1)</strong></p><p>Published: 10/01/25</p><p>Deadline: 20/03/25</p><p>Available budget: EUR 15.000.000</p><p>In accordance with the call conditions, the evaluation of the first-stage proposals was made looking only at the criteria 'Excellence' and 'Impact'. The threshold for both criteria was 4. The overall threshold (applying to the sum of the two individual scores) was set for each topic/type of action with separate call-budget-split at a level that allowed the total requested budget of proposals admitted to stage 2 be as close as possible to 3 times the available budget (and not below 2.5 times the budget):</p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>HORIZON-JU-GH-EDCTP3-2025-02-FELLOW-01-two-stage: 8</li></ol><p>The results of the evaluation for each topic are as follows:</p><p><br></p><div class=\"quill-better-table-wrapper\"><table class=\"quill-better-table\" style=\"width: 200px;\"><colgroup><col width=\"100\"><col width=\"100\"></colgroup><tbody><tr data-row=\"1\"><td data-row=\"1\" rowspan=\"1\" colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\" style=\"background-color: rgb(242, 242, 242);\"><p class=\"qlbt-cell-line\" data-row=\"1\" data-cell=\"1\" data-rowspan=\"1\" data-colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\"><br></p></td><td data-row=\"1\" rowspan=\"1\" colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\" style=\"background-color: rgb(242, 242, 242);\"><p class=\"qlbt-cell-line\" data-row=\"1\" data-cell=\"2\" data-rowspan=\"1\" data-colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\">HORIZON-JU-GH-EDCTP3-2025-02-FELLOW-01-two-stage</p></td></tr><tr data-row=\"2\"><td data-row=\"2\" rowspan=\"1\" colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\" style=\"background-color: rgb(242, 242, 242);\"><p class=\"qlbt-cell-line\" data-row=\"2\" data-cell=\"1\" data-rowspan=\"1\" data-colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\">Number of proposals submitted (including proposals transferred from or to other calls)</p></td><td data-row=\"2\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line ql-align-center\" data-row=\"2\" data-cell=\"2\" data-rowspan=\"1\" data-colspan=\"1\">53</p></td></tr><tr data-row=\"3\"><td data-row=\"3\" rowspan=\"1\" colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\" style=\"background-color: rgb(242, 242, 242);\"><p class=\"qlbt-cell-line\" data-row=\"3\" data-cell=\"1\" data-rowspan=\"1\" data-colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\">Number of inadmissible proposals</p></td><td data-row=\"3\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line ql-align-center\" data-row=\"3\" data-cell=\"2\" data-rowspan=\"1\" data-colspan=\"1\">0</p></td></tr><tr data-row=\"4\"><td data-row=\"4\" rowspan=\"1\" colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\" style=\"background-color: rgb(242, 242, 242);\"><p class=\"qlbt-cell-line\" data-row=\"4\" data-cell=\"1\" data-rowspan=\"1\" data-colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\">Number of ineligible proposals</p></td><td data-row=\"4\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line ql-align-center\" data-row=\"4\" data-cell=\"2\" data-rowspan=\"1\" data-colspan=\"1\">10</p></td></tr><tr data-row=\"5\"><td data-row=\"5\" rowspan=\"1\" colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\" style=\"background-color: rgb(242, 242, 242);\"><p class=\"qlbt-cell-line\" data-row=\"5\" data-cell=\"1\" data-rowspan=\"1\" data-colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\">Number of above-threshold proposals</p></td><td data-row=\"5\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line ql-align-center\" data-row=\"5\" data-cell=\"2\" data-rowspan=\"1\" data-colspan=\"1\">30</p></td></tr><tr data-row=\"6\"><td data-row=\"6\" rowspan=\"1\" colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\" style=\"background-color: rgb(242, 242, 242);\"><p class=\"qlbt-cell-line\" data-row=\"6\" data-cell=\"1\" data-rowspan=\"1\" data-colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\">Total budget requested for above-threshold proposals</p></td><td data-row=\"6\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line ql-align-center\" data-row=\"6\" data-cell=\"2\" data-rowspan=\"1\" data-colspan=\"1\">38.329.583,36 \u20ac</p></td></tr></tbody></table></div><p><br></p><p>Summary of observer report:</p><p><em>The evaluations were in the estimation of both observers impartial, fair and equitable. No issues of confidentiality were seen to arise.</em></p><p><em>This was, in particular, enabled by a careful selection of experts and recorders as well as ensuring that any experts or recorders with a COI were excluded from the discussions of the proposal in question. The use of the SEP platform for all aspects of the reports (IER, CR and QC) also reinforced the confidentiality of the evaluation.</em></p><p><em>No issues of non-conformity were observed and the evaluation followed all the applicable rules. The eligibility of proposals was determined by the Unit prior to the assignment of experts to proposals. Any issues of proposals being not being \u201cin scope\u201d were discussed by the experts during the consensus meetings.</em></p><p> &nbsp;</p><p>We recently informed the applicants about the evaluation results for their proposals on 01/07/2025.</p><p>For questions, please contact&nbsp;<a href=\"mailto:EC-GLOBAL-HEALTH-EDCTP3@ec.europa.eu\" rel=\"noopener noreferrer\" target=\"_blank\">EC-GLOBAL-HEALTH-EDCTP3@ec.europa.eu</a></p><p><br></p><p><strong>GENERALISED FEEDBACK for successful applicants after STAGE 1</strong></p><p class=\"ql-align-justify\">In order to best ensure equal treatment, successful stage 1 applicants do not receive the evaluation summary reports (ESRs) for their proposals., but this generalised feedback with information and tips for preparing the full proposal.</p><p class=\"ql-align-justify\">Information & tips</p><p>Please note that the all the amounts in the proposal are expressed in EUR.</p><p>Join the networking platform and find the right partners and co-funders to maximise the chances of your proposal at the second stage. <a href=\"https://www.global-health-edctp3.europa.eu/funding/global-health-edctp3-networking-platform_en\" rel=\"noopener noreferrer\" target=\"_blank\">Discover more and register.</a></p><p>Please bear in mind that your full proposal will now be evaluated more in-depth and possibly by a new group of outside experts.</p><p>Please make sure that your full proposal is consistent with your short outline proposal. It may NOT differ substantially. The project must stay the same.</p>"
+        ],
+        "language": [
+          "en"
+        ],
+        "title": [
+          "Global Health EDCTP3 JU and contributing partners funded Strategic Training Hubs for Fellowships in Public Health covering Biostatistics, Epidemiology and Modelling"
+        ],
+        "type": [
+          "6"
+        ],
+        "esST_checksum": [
+          "04015DADB9CCEA81F33BB8E8B851383E836EF3D299096EF8BD658A648CF3BDD9"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-GH-EDCTP3-2025-02-FELLOW-01-two-stage.json"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-GH-EDCTP3-2025-02-FELLOW-01-two-stage.json"
+        ],
+        "esDA_QueueDate": [
+          "2025-11-01T02:29:52.117+0100"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "callIdentifier": [
+          "HORIZON-JU-GH-EDCTP3-2025-02-two-stage"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "478878694594479"
+        ],
+        "callTitle": [
+          "HORIZON-JU-GH-EDCTP3-2025-02-two-stage"
+        ],
+        "frameworkProgramme": [
+          "43108390"
+        ],
+        "startDate": [
+          "2025-07-10T08:09:49.287+0000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "Global <b>Health</b> EDCTP3 JU and contributing partners funded Strategic Training Hubs for Fellowships in <b>Public</b> <b>Health</b> covering Biostatistics, <b>Epidemiology</b> and Modelling"
+      ]
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "478878693267045",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-GH-EDCTP3-2025-02-FELLOW-01-two-stage.json",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Global Health EDCTP3 JU and contributing partners funded Strategic Training Hubs for Fellowships in Public Health covering Biostatistics, Epidemiology and Modelling",
+      "weight": 28.973494,
+      "groupById": null,
+      "content": "Global <b>Health</b> EDCTP3 JU and contributing partners funded Strategic Training Hubs for Fellowships in <b>Public</b> <b>Health</b> covering Biostatistics, <b>Epidemiology</b> and Modelling",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "04015DADB9CCEA81F33BB8E8B851383E836EF3D299096EF8BD658A648CF3BDD9",
+      "metadata": {
+        "identifier": [
+          "HORIZON-JU-GH-EDCTP3-2025-02-FELLOW-01-two-stage"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "es_SortDate": [
+          "2025-04-25T17:45:48.929+0000"
+        ],
+        "esDA_FirstIngestDate": [
+          "2025-04-28T14:51:15.500+0200"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "esDA_IngestDate": [
+          "2025-11-01T02:29:52.258+0100"
+        ],
+        "description": [
+          "<p>Call HORIZON-JU-GH-EDCTP3-2025-02-two-stage_stage1 has closed on the 20/03/2025.</p><p>53 proposals have been submitted.</p><p>Evaluation results are expected to be communicated in July 2025.</p>"
+        ],
+        "language": [
+          "en"
+        ],
+        "title": [
+          "Global Health EDCTP3 JU and contributing partners funded Strategic Training Hubs for Fellowships in Public Health covering Biostatistics, Epidemiology and Modelling"
+        ],
+        "type": [
+          "6"
+        ],
+        "esST_checksum": [
+          "04015DADB9CCEA81F33BB8E8B851383E836EF3D299096EF8BD658A648CF3BDD9"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-GH-EDCTP3-2025-02-FELLOW-01-two-stage.json"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-GH-EDCTP3-2025-02-FELLOW-01-two-stage.json"
+        ],
+        "esDA_QueueDate": [
+          "2025-11-01T02:29:52.241+0100"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "callIdentifier": [
+          "HORIZON-JU-GH-EDCTP3-2025-02-two-stage"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "478878693267045"
+        ],
+        "callTitle": [
+          "HORIZON-JU-GH-EDCTP3-2025-02-two-stage"
+        ],
+        "frameworkProgramme": [
+          "43108390"
+        ],
+        "startDate": [
+          "2025-04-25T17:45:48.929+0000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "Global <b>Health</b> EDCTP3 JU and contributing partners funded Strategic Training Hubs for Fellowships in <b>Public</b> <b>Health</b> covering Biostatistics, <b>Epidemiology</b> and Modelling"
+      ]
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "478878694594515",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-GH-EDCTP3-2025-02-FELLOW-01-two-stage.json",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Global Health EDCTP3 JU and contributing partners funded Strategic Training Hubs for Fellowships in Public Health covering Biostatistics, Epidemiology and Modelling",
+      "weight": 28.973494,
+      "groupById": null,
+      "content": "Global <b>Health</b> EDCTP3 JU and contributing partners funded Strategic Training Hubs for Fellowships in <b>Public</b> <b>Health</b> covering Biostatistics, <b>Epidemiology</b> and Modelling",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "04015DADB9CCEA81F33BB8E8B851383E836EF3D299096EF8BD658A648CF3BDD9",
+      "metadata": {
+        "identifier": [
+          "HORIZON-JU-GH-EDCTP3-2025-02-FELLOW-01-two-stage"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "es_SortDate": [
+          "2025-07-10T09:32:23.529+0000"
+        ],
+        "esDA_FirstIngestDate": [
+          "2025-07-10T11:32:42.057+0200"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "esDA_IngestDate": [
+          "2025-11-01T02:29:52.010+0100"
+        ],
+        "description": [
+          "<p><strong>Errata corrige</strong></p><p>For questions, please contact <a href=\"mailto:applicants@global-health-edctp3.europa.eu\" rel=\"noopener noreferrer\" target=\"_blank\">applicants@global-health-edctp3.europa.eu</a></p>"
+        ],
+        "language": [
+          "en"
+        ],
+        "title": [
+          "Global Health EDCTP3 JU and contributing partners funded Strategic Training Hubs for Fellowships in Public Health covering Biostatistics, Epidemiology and Modelling"
+        ],
+        "type": [
+          "6"
+        ],
+        "esST_checksum": [
+          "04015DADB9CCEA81F33BB8E8B851383E836EF3D299096EF8BD658A648CF3BDD9"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-GH-EDCTP3-2025-02-FELLOW-01-two-stage.json"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-GH-EDCTP3-2025-02-FELLOW-01-two-stage.json"
+        ],
+        "esDA_QueueDate": [
+          "2025-11-01T02:29:51.997+0100"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "callIdentifier": [
+          "HORIZON-JU-GH-EDCTP3-2025-02-two-stage"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "478878694594515"
+        ],
+        "callTitle": [
+          "HORIZON-JU-GH-EDCTP3-2025-02-two-stage"
+        ],
+        "frameworkProgramme": [
+          "43108390"
+        ],
+        "startDate": [
+          "2025-07-10T09:32:23.529+0000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "Global <b>Health</b> EDCTP3 JU and contributing partners funded Strategic Training Hubs for Fellowships in <b>Public</b> <b>Health</b> covering Biostatistics, <b>Epidemiology</b> and Modelling"
+      ]
+    }
+  ]
+}

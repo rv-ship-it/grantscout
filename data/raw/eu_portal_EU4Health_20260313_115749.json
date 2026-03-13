@@ -1,0 +1,589 @@
+{
+  "apiVersion": "2.145.3",
+  "terms": "EU4Health",
+  "responseTime": 91,
+  "totalResults": 2474,
+  "pageNumber": 1,
+  "pageSize": 50,
+  "sort": "relevance",
+  "groupByField": "sortStatus",
+  "queryLanguage": {
+    "language": "en",
+    "probability": 0.0
+  },
+  "spellingSuggestion": "eu4health",
+  "bestBets": [],
+  "warnings": [],
+  "results_sample": [
+    {
+      "apiVersion": "2.145.3",
+      "reference": "469824622840793",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/EU4H-2024-PJ-02-3.json",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Call for proposals on the development of social services for psychosocial support and rehabilitation for children and their families in paediatric oncology clinics in Member States and countries associated to the EU4Health Programme - CR-g-24-43",
+      "weight": 17.701204,
+      "groupById": null,
+      "content": "Call for proposals on the development of social services for psychosocial support and rehabilitation for children and their families in paediatric oncology clinics in Member States and countries associated to the <b>EU4Health</b> Programme - CR-g-24-43",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "092F4E7153D6C4A488B6E57F5817F0807D3AC8AD3898E08BDC6451CC0FB54895",
+      "metadata": {
+        "identifier": [
+          "EU4H-2024-PJ-02-3"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "es_SortDate": [
+          "2025-01-24T15:31:36.304+0000"
+        ],
+        "esDA_FirstIngestDate": [
+          "2025-01-24T16:33:54.480+0100"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "esDA_IngestDate": [
+          "2025-01-24T16:33:55.828+0100"
+        ],
+        "description": [
+          "<p><strong>CALL UPDATE EU4H-2024-PJ-02 - EVALUATION results</strong></p><p>Published: 18/06/2024</p><p>Deadline: 10/10/2024</p><p>Available budget: EUR 25 400 000</p><div class=\"quill-better-table-wrapper\"><table class=\"quill-better-table\" style=\"width: 408px;\"><colgroup><col width=\"134\"><col width=\"100\"><col width=\"174\"></colgroup><tbody><tr data-row=\"1\"><td data-row=\"1\" rowspan=\"1\" colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\" style=\"background-color: rgb(242, 242, 242);\"><p class=\"qlbt-cell-line ql-align-justify\" data-row=\"1\" data-cell=\"1\" data-rowspan=\"1\" data-colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\"><strong>Topic ID</strong> </p></td><td data-row=\"1\" rowspan=\"1\" colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\" style=\"background-color: rgb(242, 242, 242);\"><p class=\"qlbt-cell-line ql-align-justify\" data-row=\"1\" data-cell=\"2\" data-rowspan=\"1\" data-colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\"><strong>Topic short name&nbsp;</strong>&nbsp;</p></td><td data-row=\"1\" rowspan=\"1\" colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\" style=\"background-color: rgb(242, 242, 242);\"><p class=\"qlbt-cell-line ql-align-justify\" data-row=\"1\" data-cell=\"3\" data-rowspan=\"1\" data-colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\"><strong>Budget</strong>&nbsp;</p></td></tr><tr data-row=\"2\"><td data-row=\"2\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line ql-align-justify\" data-row=\"2\" data-cell=\"1\" data-rowspan=\"1\" data-colspan=\"1\">EU4H-2024-PJ-02-1&nbsp;</p></td><td data-row=\"2\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line ql-align-justify\" data-row=\"2\" data-cell=\"2\" data-rowspan=\"1\" data-colspan=\"1\">PJ-02-1&nbsp;</p></td><td data-row=\"2\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line ql-align-justify\" data-row=\"2\" data-cell=\"3\" data-rowspan=\"1\" data-colspan=\"1\">EUR 8 000 000&nbsp;</p></td></tr><tr data-row=\"3\"><td data-row=\"3\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line ql-align-justify\" data-row=\"3\" data-cell=\"1\" data-rowspan=\"1\" data-colspan=\"1\">EU4H-2024-PJ-02-2&nbsp;</p></td><td data-row=\"3\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line ql-align-justify\" data-row=\"3\" data-cell=\"2\" data-rowspan=\"1\" data-colspan=\"1\">PJ-02-2&nbsp;</p></td><td data-row=\"3\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line ql-align-justify\" data-row=\"3\" data-cell=\"3\" data-rowspan=\"1\" data-colspan=\"1\">EUR 5 000 000&nbsp;</p></td></tr><tr data-row=\"4\"><td data-row=\"4\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line ql-align-justify\" data-row=\"4\" data-cell=\"1\" data-rowspan=\"1\" data-colspan=\"1\">EU4H-2024-PJ-02-3&nbsp;</p></td><td data-row=\"4\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line ql-align-justify\" data-row=\"4\" data-cell=\"2\" data-rowspan=\"1\" data-colspan=\"1\">PJ-02-3&nbsp;</p></td><td data-row=\"4\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line ql-align-justify\" data-row=\"4\" data-cell=\"3\" data-rowspan=\"1\" data-colspan=\"1\">EUR 7 400 000&nbsp;</p></td></tr><tr data-row=\"5\"><td data-row=\"5\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line ql-align-justify\" data-row=\"5\" data-cell=\"1\" data-rowspan=\"1\" data-colspan=\"1\">EU4H-2024-PJ-02-4&nbsp;</p></td><td data-row=\"5\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line ql-align-justify\" data-row=\"5\" data-cell=\"2\" data-rowspan=\"1\" data-colspan=\"1\">PJ-02-4&nbsp;</p></td><td data-row=\"5\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line ql-align-justify\" data-row=\"5\" data-cell=\"3\" data-rowspan=\"1\" data-colspan=\"1\">EUR 5 000 000&nbsp;</p></td></tr></tbody></table></div><p class=\"ql-align-justify\"><br></p><p>The results of the evaluation for each topic are as follows:</p><p><br></p><div class=\"quill-better-table-wrapper\"><table class=\"quill-better-table\" style=\"width: 740px;\"><colgroup><col width=\"181\"><col width=\"141\"><col width=\"138\"><col width=\"138\"><col width=\"161\"></colgroup><tbody><tr data-row=\"1\"><td data-row=\"1\" rowspan=\"1\" colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\" style=\"background-color: rgb(242, 242, 242);\"><p class=\"qlbt-cell-line\" data-row=\"1\" data-cell=\"1\" data-rowspan=\"1\" data-colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\"><br></p></td><td data-row=\"1\" rowspan=\"1\" colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\" style=\"background-color: rgb(242, 242, 242);\"><p class=\"qlbt-cell-line\" data-row=\"1\" data-cell=\"2\" data-rowspan=\"1\" data-colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\">PJ-02-1&nbsp;</p></td><td data-row=\"1\" rowspan=\"1\" colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\" style=\"background-color: rgb(242, 242, 242);\"><p class=\"qlbt-cell-line\" data-row=\"1\" data-cell=\"3\" data-rowspan=\"1\" data-colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\">PJ-02-2&nbsp;</p></td><td data-row=\"1\" rowspan=\"1\" colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\" style=\"background-color: rgb(242, 242, 242);\"><p class=\"qlbt-cell-line\" data-row=\"1\" data-cell=\"4\" data-rowspan=\"1\" data-colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\">PJ-02-3&nbsp;</p></td><td data-row=\"1\" rowspan=\"1\" colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\" style=\"background-color: rgb(242, 242, 242);\"><p class=\"qlbt-cell-line\" data-row=\"1\" data-cell=\"5\" data-rowspan=\"1\" data-colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\">PJ-02-4&nbsp;</p></td></tr><tr data-row=\"2\"><td data-row=\"2\" rowspan=\"1\" colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\" style=\"background-color: rgb(242, 242, 242);\"><p class=\"qlbt-cell-line\" data-row=\"2\" data-cell=\"1\" data-rowspan=\"1\" data-colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\">Number of proposals submitted (including proposals transferred from or to other calls)</p></td><td data-row=\"2\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"2\" data-cell=\"2\" data-rowspan=\"1\" data-colspan=\"1\">6</p></td><td data-row=\"2\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"2\" data-cell=\"3\" data-rowspan=\"1\" data-colspan=\"1\">42</p></td><td data-row=\"2\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"2\" data-cell=\"4\" data-rowspan=\"1\" data-colspan=\"1\">4</p></td><td data-row=\"2\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"2\" data-cell=\"5\" data-rowspan=\"1\" data-colspan=\"1\">2</p></td></tr><tr data-row=\"3\"><td data-row=\"3\" rowspan=\"1\" colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\" style=\"background-color: rgb(242, 242, 242);\"><p class=\"qlbt-cell-line\" data-row=\"3\" data-cell=\"1\" data-rowspan=\"1\" data-colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\">Number of inadmissible proposals</p></td><td data-row=\"3\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"3\" data-cell=\"2\" data-rowspan=\"1\" data-colspan=\"1\">2</p></td><td data-row=\"3\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"3\" data-cell=\"3\" data-rowspan=\"1\" data-colspan=\"1\">1</p></td><td data-row=\"3\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"3\" data-cell=\"4\" data-rowspan=\"1\" data-colspan=\"1\"><br></p></td><td data-row=\"3\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"3\" data-cell=\"5\" data-rowspan=\"1\" data-colspan=\"1\"><br></p></td></tr><tr data-row=\"4\"><td data-row=\"4\" rowspan=\"1\" colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\" style=\"background-color: rgb(242, 242, 242);\"><p class=\"qlbt-cell-line\" data-row=\"4\" data-cell=\"1\" data-rowspan=\"1\" data-colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\">Number of ineligible proposals</p></td><td data-row=\"4\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"4\" data-cell=\"2\" data-rowspan=\"1\" data-colspan=\"1\">1</p></td><td data-row=\"4\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"4\" data-cell=\"3\" data-rowspan=\"1\" data-colspan=\"1\"><br></p></td><td data-row=\"4\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"4\" data-cell=\"4\" data-rowspan=\"1\" data-colspan=\"1\"><br></p></td><td data-row=\"4\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"4\" data-cell=\"5\" data-rowspan=\"1\" data-colspan=\"1\"><br></p></td></tr><tr data-row=\"5\"><td data-row=\"5\" rowspan=\"1\" colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\" style=\"background-color: rgb(242, 242, 242);\"><p class=\"qlbt-cell-line\" data-row=\"5\" data-cell=\"1\" data-rowspan=\"1\" data-colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\">Number of above-threshold proposals</p></td><td data-row=\"5\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"5\" data-cell=\"2\" data-rowspan=\"1\" data-colspan=\"1\">3</p></td><td data-row=\"5\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"5\" data-cell=\"3\" data-rowspan=\"1\" data-colspan=\"1\">18</p></td><td data-row=\"5\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"5\" data-cell=\"4\" data-rowspan=\"1\" data-colspan=\"1\">4</p></td><td data-row=\"5\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"5\" data-cell=\"5\" data-rowspan=\"1\" data-colspan=\"1\">2</p></td></tr><tr data-row=\"6\"><td data-row=\"6\" rowspan=\"1\" colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\" style=\"background-color: rgb(242, 242, 242);\"><p class=\"qlbt-cell-line\" data-row=\"6\" data-cell=\"1\" data-rowspan=\"1\" data-colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\">Total budget requested for above-threshold proposals</p></td><td data-row=\"6\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"6\" data-cell=\"2\" data-rowspan=\"1\" data-colspan=\"1\">11.522.847,97 \u20ac</p></td><td data-row=\"6\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"6\" data-cell=\"3\" data-rowspan=\"1\" data-colspan=\"1\">17.048.321,38 \u20ac</p></td><td data-row=\"6\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"6\" data-cell=\"4\" data-rowspan=\"1\" data-colspan=\"1\">14.375.613,77 \u20ac</p></td><td data-row=\"6\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"6\" data-cell=\"5\" data-rowspan=\"1\" data-colspan=\"1\">9.389.012,04 \u20ac</p></td></tr><tr data-row=\"7\"><td data-row=\"7\" rowspan=\"1\" colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\" style=\"background-color: rgb(242, 242, 242);\"><p class=\"qlbt-cell-line\" data-row=\"7\" data-cell=\"1\" data-rowspan=\"1\" data-colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\">Number of proposals retained for funding</p></td><td data-row=\"7\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"7\" data-cell=\"2\" data-rowspan=\"1\" data-colspan=\"1\">2</p></td><td data-row=\"7\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"7\" data-cell=\"3\" data-rowspan=\"1\" data-colspan=\"1\">4</p></td><td data-row=\"7\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"7\" data-cell=\"4\" data-rowspan=\"1\" data-colspan=\"1\">2</p></td><td data-row=\"7\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"7\" data-cell=\"5\" data-rowspan=\"1\" data-colspan=\"1\">1</p></td></tr><tr data-row=\"8\"><td data-row=\"8\" rowspan=\"1\" colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\" style=\"background-color: rgb(242, 242, 242);\"><p class=\"qlbt-cell-line\" data-row=\"8\" data-cell=\"1\" data-rowspan=\"1\" data-colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\">Number of proposals in the reserve list</p></td><td data-row=\"8\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"8\" data-cell=\"2\" data-rowspan=\"1\" data-colspan=\"1\">1</p></td><td data-row=\"8\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"8\" data-cell=\"3\" data-rowspan=\"1\" data-colspan=\"1\">14</p></td><td data-row=\"8\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"8\" data-cell=\"4\" data-rowspan=\"1\" data-colspan=\"1\">2</p></td><td data-row=\"8\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"8\" data-cell=\"5\" data-rowspan=\"1\" data-colspan=\"1\">1</p></td></tr><tr data-row=\"9\"><td data-row=\"9\" rowspan=\"1\" colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\" style=\"background-color: rgb(242, 242, 242);\"><p class=\"qlbt-cell-line\" data-row=\"9\" data-cell=\"1\" data-rowspan=\"1\" data-colspan=\"1\" data-cell-bg=\"rgb(242, 242, 242)\">Funding threshold</p></td><td data-row=\"9\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"9\" data-cell=\"2\" data-rowspan=\"1\" data-colspan=\"1\">84</p></td><td data-row=\"9\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"9\" data-cell=\"3\" data-rowspan=\"1\" data-colspan=\"1\">92</p></td><td data-row=\"9\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"9\" data-cell=\"4\" data-rowspan=\"1\" data-colspan=\"1\">86</p></td><td data-row=\"9\" rowspan=\"1\" colspan=\"1\"><p class=\"qlbt-cell-line\" data-row=\"9\" data-cell=\"5\" data-rowspan=\"1\" data-colspan=\"1\">99</p></td></tr></tbody></table></div><p><br></p><p>We recently informed the applicants about the evaluation results for their proposals. </p><p class=\"ql-align-justify\">For questions, please contact <a href=\"mailto:HaDEA-HP-CALLS@ec.europa.eu\" rel=\"noopener noreferrer\" target=\"_blank\">HaDEA-HP-CALLS@ec.europa.eu.</a></p><p><br></p>"
+        ],
+        "language": [
+          "en"
+        ],
+        "title": [
+          "Call for proposals on the development of social services for psychosocial support and rehabilitation for children and their families in paediatric oncology clinics in Member States and countries associated to the EU4Health Programme - CR-g-24-43"
+        ],
+        "type": [
+          "6"
+        ],
+        "esST_checksum": [
+          "092F4E7153D6C4A488B6E57F5817F0807D3AC8AD3898E08BDC6451CC0FB54895"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/EU4H-2024-PJ-02-3.json"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/EU4H-2024-PJ-02-3.json"
+        ],
+        "esDA_QueueDate": [
+          "2025-01-24T16:33:55.813+0100"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "callIdentifier": [
+          "EU4H-2024-PJ-02"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "469824622840793"
+        ],
+        "callTitle": [
+          "EU4H Action Grants 2024"
+        ],
+        "frameworkProgramme": [
+          "EU4H"
+        ],
+        "startDate": [
+          "2025-01-24T15:31:36.304+0000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "Call for proposals on the development of social services for psychosocial support and rehabilitation for children and their families in paediatric oncology clinics in Member States and countries associated to the <b>EU4Health</b> Programme - CR-g-24-43"
+      ]
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "469824622271592",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/EU4H-2024-PJ-02-3.json",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Call for proposals on the development of social services for psychosocial support and rehabilitation for children and their families in paediatric oncology clinics in Member States and countries associated to the EU4Health Programme - CR-g-24-43",
+      "weight": 17.701204,
+      "groupById": null,
+      "content": "Call for proposals on the development of social services for psychosocial support and rehabilitation for children and their families in paediatric oncology clinics in Member States and countries associated to the <b>EU4Health</b> Programme - CR-g-24-43",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "092F4E7153D6C4A488B6E57F5817F0807D3AC8AD3898E08BDC6451CC0FB54895",
+      "metadata": {
+        "identifier": [
+          "EU4H-2024-PJ-02-3"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "es_SortDate": [
+          "2024-06-17T22:00:01.090+0000"
+        ],
+        "esDA_FirstIngestDate": [
+          "2024-12-17T18:14:21.544+0100"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "esDA_IngestDate": [
+          "2025-01-24T16:33:56.071+0100"
+        ],
+        "description": [
+          "The submission session is now available for: EU4H-2024-PJ-02-1(EU4H-PJG), EU4H-2024-PJ-02-3(EU4H-PJG), EU4H-2024-PJ-02-2(EU4H-PJG), EU4H-2024-PJ-02-4(EU4H-PJG)"
+        ],
+        "language": [
+          "en"
+        ],
+        "title": [
+          "Call for proposals on the development of social services for psychosocial support and rehabilitation for children and their families in paediatric oncology clinics in Member States and countries associated to the EU4Health Programme - CR-g-24-43"
+        ],
+        "type": [
+          "6"
+        ],
+        "esST_checksum": [
+          "092F4E7153D6C4A488B6E57F5817F0807D3AC8AD3898E08BDC6451CC0FB54895"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/EU4H-2024-PJ-02-3.json"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/EU4H-2024-PJ-02-3.json"
+        ],
+        "esDA_QueueDate": [
+          "2025-01-24T16:33:56.053+0100"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "callIdentifier": [
+          "EU4H-2024-PJ-02"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "469824622271592"
+        ],
+        "callTitle": [
+          "EU4H Action Grants 2024"
+        ],
+        "frameworkProgramme": [
+          "EU4H"
+        ],
+        "startDate": [
+          "2024-06-17T22:00:01.090+0000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "Call for proposals on the development of social services for psychosocial support and rehabilitation for children and their families in paediatric oncology clinics in Member States and countries associated to the <b>EU4Health</b> Programme - CR-g-24-43"
+      ]
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "469824622470824",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/EU4H-2024-PJ-02-3.json",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Call for proposals on the development of social services for psychosocial support and rehabilitation for children and their families in paediatric oncology clinics in Member States and countries associated to the EU4Health Programme - CR-g-24-43",
+      "weight": 17.701204,
+      "groupById": null,
+      "content": "Call for proposals on the development of social services for psychosocial support and rehabilitation for children and their families in paediatric oncology clinics in Member States and countries associated to the <b>EU4Health</b> Programme - CR-g-24-43",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "092F4E7153D6C4A488B6E57F5817F0807D3AC8AD3898E08BDC6451CC0FB54895",
+      "metadata": {
+        "identifier": [
+          "EU4H-2024-PJ-02-3"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "es_SortDate": [
+          "2024-10-15T11:20:01.050+0000"
+        ],
+        "esDA_FirstIngestDate": [
+          "2024-12-17T18:14:21.382+0100"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "esDA_IngestDate": [
+          "2025-01-24T16:33:55.951+0100"
+        ],
+        "description": [
+          "<p class=\"ql-align-justify\">Call EU4H-2024-PJ-02 has closed on 10/10/2024. </p><p class=\"ql-align-justify\">54 proposals have been submitted.&nbsp;</p><p class=\"ql-align-justify\">The breakdown per topic is:&nbsp;</p><ol><li data-list=\"bullet\" class=\"ql-align-justify\"><span class=\"ql-ui\" contenteditable=\"false\"></span>EU4H-2024-PJ-02-1: 7&nbsp;proposals&nbsp;</li><li data-list=\"bullet\" class=\"ql-align-justify\"><span class=\"ql-ui\" contenteditable=\"false\"></span>EU4H-2024-PJ-02-2: 39&nbsp;proposals&nbsp;</li><li data-list=\"bullet\" class=\"ql-align-justify\"><span class=\"ql-ui\" contenteditable=\"false\"></span>EU4H-2024-PJ-02-3: 4 proposals&nbsp;</li><li data-list=\"bullet\" class=\"ql-align-justify\"><span class=\"ql-ui\" contenteditable=\"false\"></span>EU4H-2024-PJ-02-4: 4 proposals&nbsp;</li></ol><p class=\"ql-align-justify\">&nbsp;</p><p class=\"ql-align-justify\">Evaluation results are expected to be communicated in February 2025.&nbsp;</p><p>&nbsp;</p>"
+        ],
+        "language": [
+          "en"
+        ],
+        "title": [
+          "Call for proposals on the development of social services for psychosocial support and rehabilitation for children and their families in paediatric oncology clinics in Member States and countries associated to the EU4Health Programme - CR-g-24-43"
+        ],
+        "type": [
+          "6"
+        ],
+        "esST_checksum": [
+          "092F4E7153D6C4A488B6E57F5817F0807D3AC8AD3898E08BDC6451CC0FB54895"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/EU4H-2024-PJ-02-3.json"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/EU4H-2024-PJ-02-3.json"
+        ],
+        "esDA_QueueDate": [
+          "2025-01-24T16:33:55.937+0100"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "callIdentifier": [
+          "EU4H-2024-PJ-02"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "469824622470824"
+        ],
+        "callTitle": [
+          "EU4H Action Grants 2024"
+        ],
+        "frameworkProgramme": [
+          "EU4H"
+        ],
+        "startDate": [
+          "2024-10-15T11:20:01.050+0000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "Call for proposals on the development of social services for psychosocial support and rehabilitation for children and their families in paediatric oncology clinics in Member States and countries associated to the <b>EU4Health</b> Programme - CR-g-24-43"
+      ]
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "46982462EU4HProjectGrants1718668800000",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/EU4H-2024-PJ-02-3.json",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Call for proposals on the development of social services for psychosocial support and rehabilitation for children and their families in paediatric oncology clinics in Member States and countries associated to the EU4Health Programme - CR-g-24-43",
+      "weight": 17.701204,
+      "groupById": "3",
+      "content": "Call for proposals on the development of social services for psychosocial support and rehabilitation for children and their families in paediatric oncology clinics in Member States and countries associated to the <b>EU4Health</b> Programme - CR-g-24-43",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "092F4E7153D6C4A488B6E57F5817F0807D3AC8AD3898E08BDC6451CC0FB54895",
+      "metadata": {
+        "latestInfos": [
+          "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2025-01-24T16:31:36.304\",\"content\":\"\\u003cp\\u003e\\u003cstrong\\u003eCALL UPDATE EU4H-2024-PJ-02 - EVALUATION results\\u003c/strong\\u003e\\u003c/p\\u003e\\u003cp\\u003ePublished: 18/06/2024\\u003c/p\\u003e\\u003cp\\u003eDeadline: 10/10/2024\\u003c/p\\u003e\\u003cp\\u003eAvailable budget: EUR 25 400 000\\u003c/p\\u003e\\u003cdiv class\\u003d\\\"quill-better-table-wrapper\\\"\\u003e\\u003ctable class\\u003d\\\"quill-better-table\\\" style\\u003d\\\"width: 408px;\\\"\\u003e\\u003ccolgroup\\u003e\\u003ccol width\\u003d\\\"134\\\"\\u003e\\u003ccol width\\u003d\\\"100\\\"\\u003e\\u003ccol width\\u003d\\\"174\\\"\\u003e\\u003c/col\\u003e\\u003c/col\\u003e\\u003c/col\\u003e\\u003c/colgroup\\u003e\\u003ctbody\\u003e\\u003ctr data-row\\u003d\\\"1\\\"\\u003e\\u003ctd data-row\\u003d\\\"1\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-justify\\\" data-row\\u003d\\\"1\\\" data-cell\\u003d\\\"1\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003e\\u003cstrong\\u003eTopic ID\\u003c/strong\\u003e \\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"1\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-justify\\\" data-row\\u003d\\\"1\\\" data-cell\\u003d\\\"2\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003e\\u003cstrong\\u003eTopic short name\\u0026#xa0;\\u003c/strong\\u003e\\u0026#xa0;\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"1\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-justify\\\" data-row\\u003d\\\"1\\\" data-cell\\u003d\\\"3\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003e\\u003cstrong\\u003eBudget\\u003c/strong\\u003e\\u0026#xa0;\\u003c/p\\u003e\\u003c/td\\u003e\\u003c/tr\\u003e\\u003ctr data-row\\u003d\\\"2\\\"\\u003e\\u003ctd data-row\\u003d\\\"2\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-justify\\\" data-row\\u003d\\\"2\\\" data-cell\\u003d\\\"1\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003eEU4H-2024-PJ-02-1\\u0026#xa0;\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"2\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-justify\\\" data-row\\u003d\\\"2\\\" data-cell\\u003d\\\"2\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003ePJ-02-1\\u0026#xa0;\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"2\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-justify\\\" data-row\\u003d\\\"2\\\" data-cell\\u003d\\\"3\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003eEUR 8 000 000\\u0026#xa0;\\u003c/p\\u003e\\u003c/td\\u003e\\u003c/tr\\u003e\\u003ctr data-row\\u003d\\\"3\\\"\\u003e\\u003ctd data-row\\u003d\\\"3\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-justify\\\" data-row\\u003d\\\"3\\\" data-cell\\u003d\\\"1\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003eEU4H-2024-PJ-02-2\\u0026#xa0;\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"3\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-justify\\\" data-row\\u003d\\\"3\\\" data-cell\\u003d\\\"2\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003ePJ-02-2\\u0026#xa0;\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"3\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-justify\\\" data-row\\u003d\\\"3\\\" data-cell\\u003d\\\"3\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003eEUR 5 000 000\\u0026#xa0;\\u003c/p\\u003e\\u003c/td\\u003e\\u003c/tr\\u003e\\u003ctr data-row\\u003d\\\"4\\\"\\u003e\\u003ctd data-row\\u003d\\\"4\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-justify\\\" data-row\\u003d\\\"4\\\" data-cell\\u003d\\\"1\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003eEU4H-2024-PJ-02-3\\u0026#xa0;\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"4\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-justify\\\" data-row\\u003d\\\"4\\\" data-cell\\u003d\\\"2\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003ePJ-02-3\\u0026#xa0;\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"4\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-justify\\\" data-row\\u003d\\\"4\\\" data-cell\\u003d\\\"3\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003eEUR 7 400 000\\u0026#xa0;\\u003c/p\\u003e\\u003c/td\\u003e\\u003c/tr\\u003e\\u003ctr data-row\\u003d\\\"5\\\"\\u003e\\u003ctd data-row\\u003d\\\"5\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-justify\\\" data-row\\u003d\\\"5\\\" data-cell\\u003d\\\"1\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003eEU4H-2024-PJ-02-4\\u0026#xa0;\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"5\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-justify\\\" data-row\\u003d\\\"5\\\" data-cell\\u003d\\\"2\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003ePJ-02-4\\u0026#xa0;\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"5\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-justify\\\" data-row\\u003d\\\"5\\\" data-cell\\u003d\\\"3\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003eEUR 5 000 000\\u0026#xa0;\\u003c/p\\u003e\\u003c/td\\u003e\\u003c/tr\\u003e\\u003c/tbody\\u003e\\u003c/table\\u003e\\u003c/div\\u003e\\u003cp class\\u003d\\\"ql-align-justify\\\"\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003cp\\u003eThe results of the evaluation for each topic are as follows:\\u003c/p\\u003e\\u003cp\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003cdiv class\\u003d\\\"quill-better-table-wrapper\\\"\\u003e\\u003ctable class\\u003d\\\"quill-better-table\\\" style\\u003d\\\"width: 740px;\\\"\\u003e\\u003ccolgroup\\u003e\\u003ccol width\\u003d\\\"181\\\"\\u003e\\u003ccol width\\u003d\\\"141\\\"\\u003e\\u003ccol width\\u003d\\\"138\\\"\\u003e\\u003ccol width\\u003d\\\"138\\\"\\u003e\\u003ccol width\\u003d\\\"161\\\"\\u003e\\u003c/col\\u003e\\u003c/col\\u003e\\u003c/col\\u003e\\u003c/col\\u003e\\u003c/col\\u003e\\u003c/colgroup\\u003e\\u003ctbody\\u003e\\u003ctr data-row\\u003d\\\"1\\\"\\u003e\\u003ctd data-row\\u003d\\\"1\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"1\\\" data-cell\\u003d\\\"1\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"1\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"1\\\" data-cell\\u003d\\\"2\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003ePJ-02-1\\u0026#xa0;\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"1\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"1\\\" data-cell\\u003d\\\"3\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003ePJ-02-2\\u0026#xa0;\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"1\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"1\\\" data-cell\\u003d\\\"4\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003ePJ-02-3\\u0026#xa0;\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"1\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"1\\\" data-cell\\u003d\\\"5\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003ePJ-02-4\\u0026#xa0;\\u003c/p\\u003e\\u003c/td\\u003e\\u003c/tr\\u003e\\u003ctr data-row\\u003d\\\"2\\\"\\u003e\\u003ctd data-row\\u003d\\\"2\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"2\\\" data-cell\\u003d\\\"1\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eNumber of proposals submitted (including proposals transferred from or to other calls)\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"2\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"2\\\" data-cell\\u003d\\\"2\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e6\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"2\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"2\\\" data-cell\\u003d\\\"3\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e42\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"2\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"2\\\" data-cell\\u003d\\\"4\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e4\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"2\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"2\\\" data-cell\\u003d\\\"5\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e2\\u003c/p\\u003e\\u003c/td\\u003e\\u003c/tr\\u003e\\u003ctr data-row\\u003d\\\"3\\\"\\u003e\\u003ctd data-row\\u003d\\\"3\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"3\\\" data-cell\\u003d\\\"1\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eNumber of inadmissible proposals\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"3\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"3\\\" data-cell\\u003d\\\"2\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e2\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"3\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"3\\\" data-cell\\u003d\\\"3\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e1\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"3\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"3\\\" data-cell\\u003d\\\"4\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"3\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"3\\\" data-cell\\u003d\\\"5\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003c/td\\u003e\\u003c/tr\\u003e\\u003ctr data-row\\u003d\\\"4\\\"\\u003e\\u003ctd data-row\\u003d\\\"4\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"4\\\" data-cell\\u003d\\\"1\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eNumber of ineligible proposals\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"4\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"4\\\" data-cell\\u003d\\\"2\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e1\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"4\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"4\\\" data-cell\\u003d\\\"3\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"4\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"4\\\" data-cell\\u003d\\\"4\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"4\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"4\\\" data-cell\\u003d\\\"5\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003c/td\\u003e\\u003c/tr\\u003e\\u003ctr data-row\\u003d\\\"5\\\"\\u003e\\u003ctd data-row\\u003d\\\"5\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"5\\\" data-cell\\u003d\\\"1\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eNumber of above-threshold proposals\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"5\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"5\\\" data-cell\\u003d\\\"2\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e3\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"5\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"5\\\" data-cell\\u003d\\\"3\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e18\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"5\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"5\\\" data-cell\\u003d\\\"4\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e4\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"5\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"5\\\" data-cell\\u003d\\\"5\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e2\\u003c/p\\u003e\\u003c/td\\u003e\\u003c/tr\\u003e\\u003ctr data-row\\u003d\\\"6\\\"\\u003e\\u003ctd data-row\\u003d\\\"6\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"6\\\" data-cell\\u003d\\\"1\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eTotal budget requested for above-threshold proposals\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"6\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"6\\\" data-cell\\u003d\\\"2\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e11.522.847,97 \u20ac\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"6\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"6\\\" data-cell\\u003d\\\"3\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e17.048.321,38 \u20ac\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"6\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"6\\\" data-cell\\u003d\\\"4\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e14.375.613,77 \u20ac\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"6\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"6\\\" data-cell\\u003d\\\"5\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e9.389.012,04 \u20ac\\u003c/p\\u003e\\u003c/td\\u003e\\u003c/tr\\u003e\\u003ctr data-row\\u003d\\\"7\\\"\\u003e\\u003ctd data-row\\u003d\\\"7\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"7\\\" data-cell\\u003d\\\"1\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eNumber of proposals retained for funding\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"7\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"7\\\" data-cell\\u003d\\\"2\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e2\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"7\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"7\\\" data-cell\\u003d\\\"3\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e4\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"7\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"7\\\" data-cell\\u003d\\\"4\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e2\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"7\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"7\\\" data-cell\\u003d\\\"5\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e1\\u003c/p\\u003e\\u003c/td\\u003e\\u003c/tr\\u003e\\u003ctr data-row\\u003d\\\"8\\\"\\u003e\\u003ctd data-row\\u003d\\\"8\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"8\\\" data-cell\\u003d\\\"1\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eNumber of proposals in the reserve list\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"8\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"8\\\" data-cell\\u003d\\\"2\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e1\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"8\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"8\\\" data-cell\\u003d\\\"3\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e14\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"8\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"8\\\" data-cell\\u003d\\\"4\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e2\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"8\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"8\\\" data-cell\\u003d\\\"5\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e1\\u003c/p\\u003e\\u003c/td\\u003e\\u003c/tr\\u003e\\u003ctr data-row\\u003d\\\"9\\\"\\u003e\\u003ctd data-row\\u003d\\\"9\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"9\\\" data-cell\\u003d\\\"1\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eFunding threshold\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"9\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"9\\\" data-cell\\u003d\\\"2\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e84\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"9\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"9\\\" data-cell\\u003d\\\"3\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e92\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"9\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"9\\\" data-cell\\u003d\\\"4\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e86\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"9\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"9\\\" data-cell\\u003d\\\"5\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e99\\u003c/p\\u003e\\u003c/td\\u003e\\u003c/tr\\u003e\\u003c/tbody\\u003e\\u003c/table\\u003e\\u003c/div\\u003e\\u003cp\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003cp\\u003eWe recently informed the applicants about the evaluation results for their proposals. \\u003c/p\\u003e\\u003cp class\\u003d\\\"ql-align-justify\\\"\\u003eFor questions, please contact \\u003ca href\\u003d\\\"mailto:HaDEA-HP-CALLS@ec.europa.eu\\\" rel\\u003d\\\"noopener noreferrer\\\" target\\u003d\\\"_blank\\\"\\u003eHaDEA-HP-CALLS@ec.europa.eu.\\u003c/a\\u003e\\u003c/p\\u003e\\u003cp\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2024-10-15T13:20:01.050\",\"content\":\"\\u003cp class\\u003d\\\"ql-align-justify\\\"\\u003eCall EU4H-2024-PJ-02 has closed on 10/10/2024. \\u003c/p\\u003e\\u003cp class\\u003d\\\"ql-align-justify\\\"\\u003e54 proposals have been submitted.\\u0026#xa0;\\u003c/p\\u003e\\u003cp class\\u003d\\\"ql-align-justify\\\"\\u003eThe breakdown per topic is:\\u0026#xa0;\\u003c/p\\u003e\\u003cul\\u003e\\u003cli data-list\\u003d\\\"bullet\\\" class\\u003d\\\"ql-align-justify\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eEU4H-2024-PJ-02-1: 7\\u0026#xa0;proposals\\u0026#xa0;\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\" class\\u003d\\\"ql-align-justify\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eEU4H-2024-PJ-02-2: 39\\u0026#xa0;proposals\\u0026#xa0;\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\" class\\u003d\\\"ql-align-justify\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eEU4H-2024-PJ-02-3: 4 proposals\\u0026#xa0;\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\" class\\u003d\\\"ql-align-justify\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eEU4H-2024-PJ-02-4: 4 proposals\\u0026#xa0;\\u003c/li\\u003e\\u003c/ul\\u003e\\u003cp class\\u003d\\\"ql-align-justify\\\"\\u003e\\u0026#xa0;\\u003c/p\\u003e\\u003cp class\\u003d\\\"ql-align-justify\\\"\\u003eEvaluation results are expected to be communicated in February 2025.\\u0026#xa0;\\u003c/p\\u003e\\u003cp\\u003e\\u0026#xa0;\\u003c/p\\u003e\"},{\"approvalDate\":\"2024-06-18\",\"lastChangeDate\":\"2024-06-18T00:00:01.090\",\"content\":\"The submission session is now available for: EU4H-2024-PJ-02-1(EU4H-PJG), EU4H-2024-PJ-02-3(EU4H-PJG), EU4H-2024-PJ-02-2(EU4H-PJG), EU4H-2024-PJ-02-4(EU4H-PJG)\"}]"
+        ],
+        "es_SortDate": [
+          "2024-06-18T00:00:00.000+0000"
+        ],
+        "sepTemplate": [
+          "<p>No submission system is open for this topic.</p>"
+        ],
+        "keywords": [
+          "EU4H-2024-PJ-02-3",
+          "EU4H-2024-PJ-02"
+        ],
+        "sortStatus": [
+          "3"
+        ],
+        "language": [
+          "en"
+        ],
+        "topicConditions": [
+          "<div class=\"eui-u-mt-l>\"><h4>Conditions</h4><div><h4> </h4><div class=\"eui-u-mt-s\"><p><b>Conditions<br>\r\n<br>\r\n</br></br></b></p>\r\n<p><b>1.&#xa0;</b><b>Admissibility conditions: </b>described in section 5 of the call document&#xa0;</p><p><b>Proposal page limits and layout:</b>&#xa0;described in Part B of the Application Form available in the Submission System</p></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><p><b>2. Eligible countries:&#xa0;</b>described in section 6 of of the call document</p></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><p><b>3. Other eligibility conditions:</b>&#xa0;described in section 6 of the call document</p></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><p><b>4. Financial and operational capacity and exclusion:&#xa0;</b>described in&#xa0;section 7 of the call document</p></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><ul>\r\n    <li><b>Submission and evaluation processes</b><b>:</b>&#xa0;described&#xa0;section 8 of the call document and the&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\">Online Manual</a></li>\r\n</ul></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><ul>\r\n    <li><b>Award criteria, scoring and thresholds:</b>&#xa0;described in section 9 of the call document</li>\r\n</ul></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><ul>\r\n    <li><b>Indicative timeline for evaluation and grant agreement:&#xa0;</b>described in section 4 of the call document</li>\r\n</ul></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><p><b>6</b><b>. Legal and financial set-up of the grants:&#xa0;</b>described&#xa0;in section 10 of the call document</p></div></div></div><div class=\"eui-u-mt-l\"><h4> </h4> <div class=\"eui-u-mt-s\"> </div><h4> </h4> <div class=\"eui-u-mt-s\"><p><b>Documents<br>\r\n<br>\r\n</br></br></b></p>\r\n<p><b>Call documents:</b></p>\r\n<p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/eu4h/wp-call/2024/call-fiche_eu4h-2024-pj-02_en.pdf\" target=\"_blank\">Call document </a></p>\r\n<p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/eu4h/temp-form/af/af_eu4h_en.pdf\" target=\"_blank\">Standard application form ([ToA])</a>&#xa0;</p>\r\n<p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/eu4h/temp-form/af/detailed-budget-table_eu4h_en.xlsx\" target=\"_blank\">Detailed budget table ([ToA])</a></p>\r\n<p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/eu4h/agr-contr/mga_eu4h_en.pdf\" target=\"_blank\">EU4Health Programme General MGA v1.1</a></p>\r\n<p><a href=\"https://health.ec.europa.eu/publications/2024-eu4health-work-programme_en\" target=\"_blank\">EU4Health Work Programme 2024</a></p>\r\n<p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0522\" target=\"_blank\">EU4Health&#xa0;</a><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0522\" target=\"_blank\">Regulation 2021/522</a><br>\r\n<a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32018R1046&amp;qid=1535046024012\">EU Financial Regulation 2018/1046</a></br></p></div><h4> </h4> <div class=\"eui-u-mt-s\"> </div></div>"
+        ],
+        "title": [
+          "Call for proposals on the development of social services for psychosocial support and rehabilitation for children and their families in paediatric oncology clinics in Member States and countries associated to the EU4Health Programme - CR-g-24-43"
+        ],
+        "type": [
+          "1"
+        ],
+        "esST_checksum": [
+          "092F4E7153D6C4A488B6E57F5817F0807D3AC8AD3898E08BDC6451CC0FB54895"
+        ],
+        "focusArea": [],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "typeOfMGAs": [
+          "43326018"
+        ],
+        "callIdentifier": [
+          "EU4H-2024-PJ-02"
+        ],
+        "ccm2Id": [
+          "46982462"
+        ],
+        "callccm2Id": [
+          "46908107"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "46982462EU4HProjectGrants1718668800000"
+        ],
+        "links": [
+          "[]"
+        ],
+        "callTitle": [
+          "EU4H Action Grants 2024"
+        ],
+        "frameworkProgramme": [
+          "43332642"
+        ],
+        "descriptionByte": [
+          "<span class=\"topicdescriptionkind\">Expected Impact:</span><p>The action will contribute to the development of a social service for psychosocial support and rehabilitation for children and their families in paediatric oncology clinics across the Union and countries associated to the EU4Health Programme. This action will address the need to establish a Europe-wide psychosocial care standard in order to ensure high-quality psychosocial care throughout the whole paediatric oncological treatment trajectory, including the transition from the paediatric to the adult care, and to eliminate inequalities in access to care.</p><p>This action will help Member States and countries associated to the EU4Health Programme to improve cooperation among their cancer services, by addressing skill gaps and better equipping the health workforce with personnel trained in cancer care.</p><p>This action will help with overcoming the consequences of the drastic separation from the usual environment, to deal with physical discomfort, late effects of treatment, low self-esteem and lack of self-confidence.</p><span class=\"topicdescriptionkind\">Objective:</span><p>The main objective of this action is to create a service in paediatric oncology clinics that will support children and their families during cancer treatment, by providing the necessary psychological and social support to infants, children, adolescents, and young adults from 0 months to 24 years old.</p><p>The action could support the identification of the different capabilities available across Europe and build the foundation to regularly identify gaps and needs to be addressed at national and regional level across Europe. This process will be focused on quality of life and well-being of children, adolescents, and young adults, their families, siblings, and relatives, including mental, psychosocial and nutritional support, together with clinical oncology, surgery and radiology specialities, including their nursing services.</p><p>This action supports the implementation of the Europe\u2019s Beating Cancer Plan to support childhood cancer and implements the EU4Health Programme\u2019s general objectives to strengthen health systems by improving their resilience and resource efficiency (Article 3, point (d), of Regulation (EU) 2021/522) through the specific objectives defined in Article 4, point(g), of Regulation (EU) 2021/522.</p><span class=\"topicdescriptionkind\">Scope:</span><p>The scope of this action is to address the critical need for comprehensive psychosocial care in paediatric oncology clinics across Member States and countries associated with the EU4Health Programme. The action aims to support the establishment of a unified service system and support infrastructure to deliver psychological and social support to children, adolescents, and young adults undergoing cancer treatment, as well as their families. This includes developing organizational structures, training programs, and tools tailored to the unique needs of paediatric oncology patients. Additionally, the action will conduct a thorough assessment of existing psychosocial services across Europe to identify best practices, gaps and opportunities for improvement. Through collaboration and knowledge sharing, the action seeks to enhance the quality of life and well-being of paediatric cancer patients and their families, ultimately contributing to the broader goals of Europe\u2019s Beating Cancer Plan and the EU4Health Programme.</p>"
+        ],
+        "identifier": [
+          "EU4H-2024-PJ-02-3"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "programmeDivision": [
+          "44176644"
+        ],
+        "crossCuttingPriorities": [],
+        "esDA_FirstIngestDate": [
+          "2024-12-17T18:18:51.296+0100"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "deadlineDate": [
+          "2024-10-10T00:00:00.000+0000"
+        ],
+        "esDA_IngestDate": [
+          "2025-07-01T09:28:38.388+0200"
+        ],
+        "typesOfAction": [
+          "EU4H Project Grants"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/EU4H-2024-PJ-02-3.json"
+        ],
+        "es_Combine": [
+          "3"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/EU4H-2024-PJ-02-3.json"
+        ],
+        "tags": [],
+        "cenTagsA": [
+          "TOPICS-030292",
+          "TOPICS-030293",
+          "TOPICS-030294",
+          "TOPICS-030295",
+          "TOPICS-030296",
+          "TOPICS-030297",
+          "TOPICS-030298",
+          "TOPICS-030299"
+        ],
+        "esDA_QueueDate": [
+          "2025-07-01T09:28:38.378+0200"
+        ],
+        "actions": [
+          "[{\"types\":[{\"typeOfAction\":\"EU4H-PJG EU4H Project Grants\",\"typeOfMGA\":[{\"id\":43326018,\"abbreviation\":\"EU4H-AG\",\"description\":\"EU4H Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094503,\"abbreviation\":\"Closed\",\"description\":\"Closed\"},\"plannedOpeningDate\":\"2024-06-18\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2024-10-10\"]}]"
+        ],
+        "allowPartnerSearch": [
+          "true"
+        ],
+        "budgetOverview": [
+          "{\"budgetYearsColumns\":[\"2024\"],\"budgetTopicActionMap\":{\"103669\":[{\"action\":\"EU4H-2024-PJ-02-1 - EU4H-PJG EU4H Project Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2024\":\"8000000\"},\"plannedOpeningDate\":\"2024-06-18\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2024-10-10\"]}],\"103671\":[{\"action\":\"EU4H-2024-PJ-02-3 - EU4H-PJG EU4H Project Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2024\":\"7400000\"},\"plannedOpeningDate\":\"2024-06-18\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2024-10-10\"]}],\"103670\":[{\"action\":\"EU4H-2024-PJ-02-2 - EU4H-PJG EU4H Project Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2024\":\"5000000\"},\"plannedOpeningDate\":\"2024-06-18\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2024-10-10\"]}],\"103672\":[{\"action\":\"EU4H-2024-PJ-02-4 - EU4H-PJG EU4H Project Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2024\":\"5000000\"},\"plannedOpeningDate\":\"2024-06-18\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2024-10-10\"]}]}}"
+        ],
+        "startDate": [
+          "2024-06-18T00:00:00.000+0000"
+        ],
+        "deadlineModel": [
+          "single-stage"
+        ],
+        "specificObjective": [],
+        "supportInfo": [
+          "<p>For help related to this <strong>call</strong>, please contact:&#xa0;<a href=\"mailto:HaDEA-HP-CALLS@ec.europa.eu\" rel=\"noopener noreferrer\" target=\"_blank\">HaDEA-HP-CALLS@ec.europa.eu</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq;grantAndTendertype=1;categories=p_submission_eval;programme=null;actions=;keyword=;period=null\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ</a>&#xa0;\u2013 Submission of proposals.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a>&#xa0;\u2013 Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>&#xa0;\u2013 Step-by-step online guide through the Portal processes from proposal preparation and submission to reporting on your on-going project. Valid for all 2021-2027 programmes.</p>"
+        ],
+        "status": [
+          "31094503"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "Call for proposals on the development of social services for psychosocial support and rehabilitation for children and their families in paediatric oncology clinics in Member States and countries associated to the <b>EU4Health</b> Programme - CR-g-24-43"
+      ]
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "46982462TOPICSda",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/EU4H-2024-PJ-02-3.json",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "da",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Call for proposals on the development of social services for psychosocial support and rehabilitation for children and their families in paediatric oncology clinics in Member States and countries associated to the EU4Health Programme - CR-g-24-43",
+      "weight": 14.707783,
+      "groupById": "1",
+      "content": "Call for proposals on the development of social services for psychosocial support and rehabilitation for children and their families in paediatric oncology clinics in Member States and countries associated to the <b>EU4Health</b> Programme - CR-g-24-43",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "092F4E7153D6C4A488B6E57F5817F0807D3AC8AD3898E08BDC6451CC0FB54895",
+      "metadata": {
+        "latestInfos": [
+          "[{\"approvalDate\":\"2024-06-18\",\"lastChangeDate\":\"2024-06-18T00:00:01.090\",\"content\":\"The submission session is now available for: EU4H-2024-PJ-02-1(EU4H-PJG), EU4H-2024-PJ-02-3(EU4H-PJG), EU4H-2024-PJ-02-2(EU4H-PJG), EU4H-2024-PJ-02-4(EU4H-PJG)\"}]"
+        ],
+        "es_SortDate": [
+          "2024-06-17T22:00:00.000+0000"
+        ],
+        "keywords": [],
+        "language": [
+          "da"
+        ],
+        "type": [
+          "1"
+        ],
+        "focusArea": [],
+        "destinationDetails": [],
+        "typeOfMGAs": [
+          "43326018"
+        ],
+        "callIdentifier": [
+          "EU4H-2024-PJ-02"
+        ],
+        "callccm2Id": [
+          "46908107"
+        ],
+        "destinationGroup": [],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "links": [
+          "[{\"callIdentifier\":\"EU4H-2024-PJ-02\",\"criterionCode\":\"\",\"criterionDescription\":\"\",\"url\":\"\",\"startDate\":\"1718661600000\",\"endDate\":\"\",\"mgaDescription\":\"\",\"mgaCode\":\"\"},{\"callIdentifier\":\"EU4H-2024-PJ-02\",\"criterionCode\":\"EU4H-PJG\",\"criterionDescription\":\"EU4H Project Grants\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/37342?topic\\u003dEU4H-2024-PJ-02-1\",\"startDate\":\"1718661600000\",\"endDate\":\"1728511200000\",\"mgaDescription\":\"EU4H Action Grant Budget-Based\",\"mgaCode\":\"EU4H-AG\"},{\"callIdentifier\":\"EU4H-2024-PJ-02\",\"criterionCode\":\"EU4H-PJG\",\"criterionDescription\":\"EU4H Project Grants\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/37342?topic\\u003dEU4H-2024-PJ-02-4\",\"startDate\":\"1718661600000\",\"endDate\":\"1728511200000\",\"mgaDescription\":\"EU4H Action Grant Budget-Based\",\"mgaCode\":\"EU4H-AG\"},{\"callIdentifier\":\"EU4H-2024-PJ-02\",\"criterionCode\":\"EU4H-PJG\",\"criterionDescription\":\"EU4H Project Grants\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/37342?topic\\u003dEU4H-2024-PJ-02-2\",\"startDate\":\"1718661600000\",\"endDate\":\"1728511200000\",\"mgaDescription\":\"EU4H Action Grant Budget-Based\",\"mgaCode\":\"EU4H-AG\"},{\"callIdentifier\":\"EU4H-2024-PJ-02\",\"criterionCode\":\"EU4H-PJG\",\"criterionDescription\":\"EU4H Project Grants\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/37342?topic\\u003dEU4H-2024-PJ-02-3\",\"startDate\":\"1718661600000\",\"endDate\":\"1728511200000\",\"mgaDescription\":\"EU4H Action Grant Budget-Based\",\"mgaCode\":\"EU4H-AG\"}]"
+        ],
+        "callTitle": [
+          "EU4H Action Grants 2024"
+        ],
+        "frameworkProgramme": [
+          "43332642"
+        ],
+        "descriptionByte": [
+          "<span class=\"topicdescriptionkind\">Expected Impact:</span><p>The action will contribute to the development of a social service for psychosocial support and rehabilitation for children and their families in paediatric oncology clinics across the Union and countries associated to the EU4Health Programme. This action will address the need to establish a Europe-wide psychosocial care standard in order to ensure high-quality psychosocial care throughout the whole paediatric oncological treatment trajectory, including the transition from the paediatric to the adult care, and to eliminate inequalities in access to care.</p><p>This action will help Member States and countries associated to the EU4Health Programme to improve cooperation among their cancer services, by addressing skill gaps and better equipping the health workforce with personnel trained in cancer care.</p><p>This action will help with overcoming the consequences of the drastic separation from the usual environment, to deal with physical discomfort, late effects of treatment, low self-esteem and lack of self-confidence.</p><span class=\"topicdescriptionkind\">Objective:</span><p>The main objective of this action is to create a service in paediatric oncology clinics that will support children and their families during cancer treatment, by providing the necessary psychological and social support to infants, children, adolescents, and young adults from 0 months to 24 years old.</p><p>The action could support the identification of the different capabilities available across Europe and build the foundation to regularly identify gaps and needs to be addressed at national and regional level across Europe. This process will be focused on quality of life and well-being of children, adolescents, and young adults, their families, siblings, and relatives, including mental, psychosocial and nutritional support, together with clinical oncology, surgery and radiology specialities, including their nursing services.</p><p>This action supports the implementation of the Europe\u2019s Beating Cancer Plan to support childhood cancer and implements the EU4Health Programme\u2019s general objectives to strengthen health systems by improving their resilience and resource efficiency (Article 3, point (d), of Regulation (EU) 2021/522) through the specific objectives defined in Article 4, point(g), of Regulation (EU) 2021/522.</p><span class=\"topicdescriptionkind\">Scope:</span><p>The scope of this action is to address the critical need for comprehensive psychosocial care in paediatric oncology clinics across Member States and countries associated with the EU4Health Programme. The action aims to support the establishment of a unified service system and support infrastructure to deliver psychological and social support to children, adolescents, and young adults undergoing cancer treatment, as well as their families. This includes developing organizational structures, training programs, and tools tailored to the unique needs of paediatric oncology patients. Additionally, the action will conduct a thorough assessment of existing psychosocial services across Europe to identify best practices, gaps and opportunities for improvement. Through collaboration and knowledge sharing, the action seeks to enhance the quality of life and well-being of paediatric cancer patients and their families, ultimately contributing to the broader goals of Europe\u2019s Beating Cancer Plan and the EU4Health Programme.</p>"
+        ],
+        "identifier": [
+          "EU4H-2024-PJ-02-3"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "deadlineDate": [
+          "2024-10-09T22:00:00.000+0000"
+        ],
+        "es_Combine": [
+          "1"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/EU4H-2024-PJ-02-3.json"
+        ],
+        "tags": [],
+        "esDA_QueueDate": [
+          "2024-08-21T03:09:50.013+0200"
+        ],
+        "mission": [],
+        "destinationDescription": [],
+        "actions": [
+          "[{\"types\":[{\"typeOfAction\":\"EU4H-PJG EU4H Project Grants\",\"typeOfMGA\":[{\"id\":43326018,\"abbreviation\":\"EU4H-AG\",\"description\":\"EU4H Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2024-06-18\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2024-10-10\"]}]"
+        ],
+        "startDate": [
+          "2024-06-17T22:00:00.000+0000"
+        ],
+        "deadlineModel": [
+          "single-stage"
+        ],
+        "status": [
+          "31094502"
+        ],
+        "supportInfo": [
+          "<p>For help related to this&nbsp;<b>call</b>, please contact:&nbsp;<a href=\"mailto:HaDEA-HP-CALLS@ec.europa.eu\" target=\"_blank\">HaDEA-HP-CALLS@ec.europa.eu</a></p>\r\n<p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq;grantAndTendertype=1;categories=p_submission_eval;programme=null;actions=;keyword=;period=null\">Funding &amp; Tenders Portal FAQ</a>&nbsp;&ndash; Submission of proposals.</p>\r\n<p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\">IT Helpdesk</a>&nbsp;&ndash; Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p>\r\n<p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\">Online Manual</a>&nbsp;&ndash; Step-by-step online guide through the Portal processes from proposal preparation and submission to reporting on your on-going project. Valid for all 2021-2027 programmes.</p>"
+        ],
+        "missionDetails": [],
+        "sepTemplate": [
+          "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding & Tenders Portal and select the My Proposals page of the My Area section.</p>"
+        ],
+        "sortStatus": [
+          "1"
+        ],
+        "destination": [],
+        "topicConditions": [
+          "<div class=\"eui-u-mt-l>\"><h3>Conditions</h3><div><h4> </h4><div class=\"eui-u-mt-s\"><p><b>Conditions<br>\r\n<br>\r\n</b></p>\r\n<p><b>1.&nbsp;</b><b>Admissibility conditions: </b>described in section 5 of the call document&nbsp;</p><p><b>Proposal page limits and layout:</b>&nbsp;described in Part B of the Application Form available in the Submission System</p></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><p><b>2. Eligible countries:&nbsp;</b>described in section 6 of of the call document</p></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><p><b>3. Other eligibility conditions:</b>&nbsp;described in section 6 of the call document</p></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><p><b>4. Financial and operational capacity and exclusion:&nbsp;</b>described in&nbsp;section 7 of the call document</p></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><ul>\r\n    <li><b>Submission and evaluation processes</b><b>:</b>&nbsp;described&nbsp;section 8 of the call document and the&nbsp;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\">Online Manual</a></li>\r\n</ul></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><ul>\r\n    <li><b>Award criteria, scoring and thresholds:</b>&nbsp;described in section 9 of the call document</li>\r\n</ul></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><ul>\r\n    <li><b>Indicative timeline for evaluation and grant agreement:&nbsp;</b>described in section 4 of the call document</li>\r\n</ul></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><p><b>6</b><b>. Legal and financial set-up of the grants:&nbsp;</b>described&nbsp;in section 10 of the call document</p></div></div></div><div class=\"eui-u-mt-l\"><h4> </h4> <div class=\"eui-u-mt-s\"> </div><h4> </h4> <div class=\"eui-u-mt-s\"><p><b>Documents<br>\r\n<br>\r\n</b></p>\r\n<p><b>Call documents:</b></p>\r\n<p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/eu4h/wp-call/2024/call-fiche_eu4h-2024-pj-02_en.pdf\" target=\"_blank\">Call document </a></p>\r\n<p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/eu4h/temp-form/af/af_eu4h_en.pdf\" target=\"_blank\">Standard application form ([ToA])</a>&nbsp;</p>\r\n<p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/eu4h/temp-form/af/detailed-budget-table_eu4h_en.xlsx\" target=\"_blank\">Detailed budget table ([ToA])</a></p>\r\n<p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/eu4h/agr-contr/mga_eu4h_en.pdf\" target=\"_blank\">EU4Health Programme General MGA v1.1</a></p>\r\n<p><a href=\"https://health.ec.europa.eu/publications/2024-eu4health-work-programme_en\" target=\"_blank\">EU4Health Work Programme 2024</a></p>\r\n<p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0522\" target=\"_blank\">EU4Health&nbsp;</a><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0522\" target=\"_blank\">Regulation 2021/522</a><br>\r\n<a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32018R1046&amp;qid=1535046024012\">EU Financial Regulation 2018/1046</a></p></div><h4> </h4> <div class=\"eui-u-mt-s\"> </div></div>"
+        ],
+        "title": [
+          "Call for proposals on the development of social services for psychosocial support and rehabilitation for children and their families in paediatric oncology clinics in Member States and countries associated to the EU4Health Programme - CR-g-24-43"
+        ],
+        "missionDescription": [],
+        "esST_checksum": [
+          "092F4E7153D6C4A488B6E57F5817F0807D3AC8AD3898E08BDC6451CC0FB54895"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "ccm2Id": [
+          "46982462"
+        ],
+        "REFERENCE": [
+          "46982462TOPICSda"
+        ],
+        "programmeDivision": [
+          "44176644"
+        ],
+        "crossCuttingPriorities": [],
+        "esDA_IngestDate": [
+          "2024-08-21T03:09:50.463+0200"
+        ],
+        "typesOfAction": [
+          "EU4H Project Grants"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/EU4H-2024-PJ-02-3.json"
+        ],
+        "allowPartnerSearch": [
+          "true"
+        ],
+        "missionGroup": [],
+        "budgetOverview": [
+          "{\"budgetYearsColumns\":[\"2024\"],\"budgetTopicActionMap\":{\"125553\":[{\"action\":\"EU4H Project Grants\",\"budgetYearMap\":{\"2024\":5000000},\"plannedOpeningDate\":\"2024-06-18\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2024-10-10\"]}],\"125552\":[{\"action\":\"EU4H Project Grants\",\"budgetYearMap\":{\"2024\":8000000},\"plannedOpeningDate\":\"2024-06-18\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2024-10-10\"]}],\"125555\":[{\"action\":\"EU4H Project Grants\",\"budgetYearMap\":{\"2024\":5000000},\"plannedOpeningDate\":\"2024-06-18\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2024-10-10\"]}],\"125554\":[{\"action\":\"EU4H Project Grants\",\"budgetYearMap\":{\"2024\":7400000},\"plannedOpeningDate\":\"2024-06-18\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2024-10-10\"]}]}}"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "Call for proposals on the development of social services for psychosocial support and rehabilitation for children and their families in paediatric oncology clinics in Member States and countries associated to the <b>EU4Health</b> Programme - CR-g-24-43"
+      ]
+    }
+  ]
+}

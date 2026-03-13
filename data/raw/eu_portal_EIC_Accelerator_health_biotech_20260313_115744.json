@@ -1,0 +1,758 @@
+{
+  "apiVersion": "2.145.3",
+  "terms": "EIC Accelerator health biotech",
+  "responseTime": 210,
+  "totalResults": 68855,
+  "pageNumber": 1,
+  "pageSize": 50,
+  "sort": "relevance",
+  "groupByField": "sortStatus",
+  "queryLanguage": {
+    "language": "en",
+    "probability": 0.9999980862080616
+  },
+  "spellingSuggestion": "eic accelerator health biotech",
+  "bestBets": [],
+  "warnings": [],
+  "results_sample": [
+    {
+      "apiVersion": "2.145.3",
+      "reference": "47395944TOPICSfr",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2025-ACCELERATOR-01",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "fr",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "EIC Accelerator 2025 - Short application",
+      "weight": 23.162655,
+      "groupById": "3",
+      "content": "<b>EIC</b> <b>Accelerator</b> 2025 - Short application",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "CD7D23B5F7193EAB58B8845D9AF19DB7AC2CB35987390F8C938C657A16D46096",
+      "metadata": {
+        "latestInfos": [
+          "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2025-10-09T13:37:09.533\",\"content\":\"\\u003cp\\u003eThe short proposal call \\u003cstrong\\u003eHORIZON-EIC-2025-ACCELERATOR-01\\u003c/strong\\u003e\\u0026#xa0;will close on\\u0026#xa0;\\u003cstrong\\u003eOctober 28\\u003c/strong\\u003e\\u003csup\\u003e\\u003cstrong\\u003eth\\u003c/strong\\u003e\\u003c/sup\\u003e\\u003cstrong\\u003e\\u0026#xa0;2025\\u0026#xa0;\\u003c/strong\\u003eat\\u0026#xa0;\\u003cstrong\\u003e5pm\\u003c/strong\\u003e\\u0026#xa0;(Brussels time).\\u003c/p\\u003e\\u003cp\\u003eThis will be replaced by the 2026 short proposal call HORIZON-EIC-2026-ACCELERATOR-01 upon the adoption of the 2026 EIC Work Programme, indicatively planned around November 6th 2025.\\u003c/p\\u003e\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2025-10-07T13:34:55.687\",\"content\":\"\\u003cp\\u003eA total of 923 proposals were submitted to the call \\u003cstrong\\u003eHORIZON-EIC-2025-ACCELERATOR-02\\u003c/strong\\u003e:\\u003c/p\\u003e\\u003cp\\u003eHORIZON-EIC-2025-ACCELERATOROPEN-01 - EIC Accelerator Open 2025: 752 proposals\\u003c/p\\u003e\\u003cp\\u003eHORIZON-EIC-2025-ACCELERATORCHALLENGES-01 | Acceleration of advanced materials development and upscaling along the value chain: 46 proposals\\u003c/p\\u003e\\u003cp\\u003eHORIZON-EIC-2025-ACCELERATORCHALLENGES-02 | Biotechnology driven low emission food and feed production systems: 20 proposals\\u003c/p\\u003e\\u003cp\\u003eHORIZON-EIC-2025-ACCELERATORCHALLENGES-03 | GenAI4EU: Creating European Champions in Generative AI: 42 proposals\\u003c/p\\u003e\\u003cp\\u003eHORIZON-EIC-2025-ACCELERATORCHALLENGES-04 | Innovative in-space servicing, operations, robotics and technologies for resilient EU space infrastructure: 21 proposals\\u003c/p\\u003e\\u003cp\\u003eHORIZON-EIC-2025-ACCELERATORCHALLENGES-05 | Breakthrough innovations for future mobility: 42 proposals\\u003c/p\\u003e\\u003cp\\u003eThe remote stage evaluation of the proposals will start in October 2025 and will be finalized by mid-December 2025. Applicants who succeed at this stage will then be invited to interviews taking place in Brussels from 19-23 January 2026 (indicatively). The outcome of these interviews will be communicated to the respective applicants by mid-February 2026.\\u003c/p\\u003e\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2024-10-29T00:01:00.389\",\"content\":\"The submission session is now available for: HORIZON-EIC-2025-ACCELERATOR-01\"}]"
+        ],
+        "es_SortDate": [
+          "2024-10-29T00:00:00.000+0000"
+        ],
+        "sepTemplate": [
+          "<p>No submission system is open for this topic.</p>"
+        ],
+        "keywords": [
+          "HORIZON-EIC-2025-ACCELERATOR-01",
+          "HORIZON-EIC-2025-ACCELERATOR-01"
+        ],
+        "sortStatus": [
+          "3"
+        ],
+        "language": [
+          "fr"
+        ],
+        "topicConditions": [
+          "<div class=\"eui-u-mt-l>\"><h4>General conditions</h4><div><h4>1. Admissibility Conditions: </h4><div class=\"eui-u-mt-s\"><p>To be an eligible applicant to EIC Accelerator, you must apply as one of the following eligible entities:</p><ul><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>a single company classified as a SME, and established within a Member State or an Associated Country (see Annex 2 of the <a href=\"https://eic.ec.europa.eu/document/download/5e1eb75f-e437-477f-9ee9-ef54ff6387fd_en?filename=EIC%20Work%20Programme%202025.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2025</a>); or</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>a single company classified as a small mid-cap (up to 499 employees) established in a Member State or an Associated Country, but only for exceptional cases for rapid scale up purposes; or</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>one or more natural persons (including individual entrepreneurs) or legal entities, which are either:</li></ul><p class=\"ql-indent-2\">a. from a Member State or an Associated Country intending to establish an SME or small mid-cap (as defined above) in a Member State or Associated Country by the time of signing the EIC Accelerator grant agreement or, in case the equity only is awarded, at the latest at the date of signature of the agreement on its investment component;</p><p class=\"ql-indent-2\">b. intending to invest in an SME or small mid-cap established in a Member State or an Associated Country and may submit a proposal on behalf of that SME or small mid-cap, provided that a prior agreement exists with the company. The grant agreement and/or the investment agreement will be signed with the beneficiary/final recipient of funding company only; or</p><p class=\"ql-indent-2\">c. from a non-associated third country intending to establish an SME (including start-ups) or to relocate an existing SME to a Member State or an Associated Country. Your company must prove its effective establishment in a Member State or an Associated Country at the time of submission of the full proposal.</p><p>The standard admissibility and eligibility conditions are detailed in Annex 2 of the <a href=\"https://eic.ec.europa.eu/document/download/5e1eb75f-e437-477f-9ee9-ef54ff6387fd_en?filename=EIC%20Work%20Programme%202025.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2025</a>.</p><p>There are limitations on the number of times you can submit a proposal described in the section <strong>Application submission limits</strong> of the <a href=\"https://eic.ec.europa.eu/document/download/5e1eb75f-e437-477f-9ee9-ef54ff6387fd_en?filename=EIC%20Work%20Programme%202025.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2025</a>.</p><p>If you are currently a participant in an eligible project funded by Horizon Europe or Horizon 2020 then you may be able to apply through your existing project under the Fast Track scheme (see Annex 3 of the <a href=\"https://eic.ec.europa.eu/document/download/5e1eb75f-e437-477f-9ee9-ef54ff6387fd_en?filename=EIC%20Work%20Programme%202025.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2025</a>). This scheme is managed by the funding body responsible for the existing project and applies to funding bodies listed in Annex 3 of the EIC Work Programme 2025.</p><p>Applicants may also be able to apply if they have a project financed by an eligible programme managed by a Member State or an Associated Country under the pilot Plug-in scheme. The Plug-in scheme to apply to the EIC Accelerator is detailed in Annex 4&#xa0;of the <a href=\"https://eic.ec.europa.eu/document/download/5e1eb75f-e437-477f-9ee9-ef54ff6387fd_en?filename=EIC%20Work%20Programme%202025.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2025</a>.</p><p><strong>Proposal page limits and layout:</strong>&#xa0;described in Part B of the Application Form available in the Submission System</p><p>The application process consists of a number of steps:</p><p><strong>Submission of short proposals</strong></p><p>Applications may be submitted at any time via the Funding and Tender Opportunities Portal&#xa0;(as from the 29 October 2025). Short applications will be batched and sent for evaluation the first Tuesday of every month. From the date of the batching, you will be informed within approximately 4-6 weeks, and you will receive the evaluation result of your short proposal specifying whether or not your proposal met the admissibility, eligibility and award criteria evaluation elements and can therefore proceed to submit a full proposal. In both cases, you will receive feedback from the assigned four expert evaluators.</p><p><strong>Submission of full proposals</strong></p><p>If your short proposal is successful, then you will be entitled to receive coaching support to prepare a full proposal from one of the business coaches from the EIC Business Acceleration Services. You can only receive this support once for a proposal.</p><p>The optional coaching support is designed to improve the value proposition, business plan and investor pitch. However, it is your decision how to respond to the feedback and support, and the content of your proposal is your sole responsibility.</p><p>If you succeeded with your short application under the 2025 Work programme, your full proposal can be submitted to any of the following cut-offs during 2025, and any of the cut-offs for 2026. Applicants who succeeded with a positive evaluation of their short proposal under the 2023 or 2024 EIC Work Programme may apply to any of the following cut-offs in 2025. You may decide which cut-off to apply to.</p><p>The two cut-off dates for 2025 are:</p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>March 12</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>October 1</li></ol><p>The cut-off dates for 2026 will be announced in the 2026 Work Programme due to be adopted in Autumn 2025.</p><p>The applicants&#xa0;that are eligible to apply for a full proposal will receive the links to the submission environment and will be able&#xa0;to submit the full proposal for the following topics:&#xa0;</p><p><strong>EIC Accelerator Open</strong>, which has no predefined thematic priorities and is open to proposals in any field of technology or application;</p><p>If an application falls within the scope of the Challenges topics below, grant funding is subject to eligibility in accordance with the specific conditions applicable to those topics:</p><p>GenAI4EU: Creating European Champions in Generative AI (Section IV.2.3&#xa0;of the <a href=\"https://eic.ec.europa.eu/document/download/5e1eb75f-e437-477f-9ee9-ef54ff6387fd_en?filename=EIC%20Work%20Programme%202025.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2025</a>)</p><p>Innovative in-space servicing, operations, space-based robotics and technologies for resilient EU space infrastructure (Section IV.2.4&#xa0;of the <a href=\"https://eic.ec.europa.eu/document/download/5e1eb75f-e437-477f-9ee9-ef54ff6387fd_en?filename=EIC%20Work%20Programme%202025.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2025</a>)</p><p><strong>EIC Accelerator Challenges</strong>&#xa0;in the following predefined areas of emerging and strategic technologies:</p><p><strong>Challenge 01</strong> -&#xa0;Acceleration of advanced materials development and upscaling along the value chain</p><p><strong>Challenge 02</strong> -&#xa0;Biotechnology driven low emission food production systems</p><p><strong>Challenge 03</strong> -&#xa0;GenAI4EU: Creating European Champions in Generative AI</p><p><strong>Challenge 04</strong> -&#xa0;Innovative in-space servicing, operations, space-based robotics and technologies for resilient EU space infrastructure</p><p><strong>Challenge 05</strong> -&#xa0;Breakthrough innovations for future mobility</p><p>Once you submit your full proposal, it will be assessed remotely against award criteria evaluation elements by three EIC expert evaluators. Within approximately eight-nine weeks you will be informed about the result of the remote evaluation. If successful, you will be invited to attend an interview with an EIC Jury.</p><p><strong>Interviews with an EIC Jury</strong></p><p>All companies receiving a GO from the remote evaluation stage will be invited to an interview with an EIC jury in Brussels as the final step in the selection process.&#xa0;Interviews will be organised approximately three to four weeks after applicants are informed of the result of the remote evaluation (or longer if there is a need for a further set of interviews). At the interview, you will be assessed by a panel of maximum six jury members. You will be informed about the result of the&#xa0;interview within approximately two-three weeks. Expenses incurred by applicants attending the in-person interviews will not be reimbursed.</p><p><strong>Invitation to negotiate grant component and due diligence process for investment component</strong></p><p>If selected for (potential) funding, you will be invited to negotiate a grant agreement for the requested grant component (if you have applied for it) and to start the due diligence for the investment component (if you have applied for it).</p><p>For further information please see the&#xa0;<a href=\"https://eic.ec.europa.eu/document/download/5e1eb75f-e437-477f-9ee9-ef54ff6387fd_en?filename=EIC%20Work%20Programme%202025.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2025</a>.</p></div></div><div><h4>2. Eligible Countries</h4><div class=\"eui-u-mt-s\"><p>described in Annex 2(B. Eligibility) of the <a href=\"https://eic.ec.europa.eu/document/download/5e1eb75f-e437-477f-9ee9-ef54ff6387fd_en?filename=EIC%20Work%20Programme%202025.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2025</a>. Applicants from the United Kingdom can apply to the EIC Accelerator, but can only request and receive funding in the form of \u201cgrant only\u201d.</p></div></div><div><h4>3. Other Eligible Conditions</h4><div class=\"eui-u-mt-s\"><p>described in Annex 2(General conditions for proposals) of the <a href=\"https://eic.ec.europa.eu/document/download/5e1eb75f-e437-477f-9ee9-ef54ff6387fd_en?filename=EIC%20Work%20Programme%202025.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2025</a>.&#xa0;</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in Annex 2(C. Financial and Operational Capacity) of the <a href=\"https://eic.ec.europa.eu/document/download/5e1eb75f-e437-477f-9ee9-ef54ff6387fd_en?filename=EIC%20Work%20Programme%202025.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2025</a>.&#xa0;</p></div></div><div><h4>5a. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>described in section IV of the <a href=\"https://eic.ec.europa.eu/document/download/5e1eb75f-e437-477f-9ee9-ef54ff6387fd_en?filename=EIC%20Work%20Programme%202025.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2025</a>.</p></div></div><div><h4>5b. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>described in section IV of the <a href=\"https://eic.ec.europa.eu/document/download/5e1eb75f-e437-477f-9ee9-ef54ff6387fd_en?filename=EIC%20Work%20Programme%202025.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2025</a>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in section IV&#xa0;of the <a href=\"https://eic.ec.europa.eu/document/download/5e1eb75f-e437-477f-9ee9-ef54ff6387fd_en?filename=EIC%20Work%20Programme%202025.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2025</a>.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>described in Annex G of the&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2023-2024/wp-13-general-annexes_horizon-2023-2024_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2023\u20132025 \u2013 13. General Annexes</a>.</p></div></div></div><div class=\"eui-u-mt-l\"><h4>Specific conditions</h4> <div class=\"eui-u-mt-s\"><p>described in Section IV.1, Section IV.2.3 and Section IV.2.4 of the <a href=\"https://eic.ec.europa.eu/document/download/5e1eb75f-e437-477f-9ee9-ef54ff6387fd_en?filename=EIC%20Work%20Programme%202025.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2025</a>.</p></div></div><div class=\"eui-u-mt-l\"><h4>Call Documents</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://eic.ec.europa.eu/document/download/5e1eb75f-e437-477f-9ee9-ef54ff6387fd_en?filename=EIC%20Work%20Programme%202025.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2025</a></p></div><h4>Application form and model grant agreement (MGA):</h4> <div class=\"eui-u-mt-s\"><p><strong>Application form templates</strong> <em>\u2014 the application form specific to this call is available in the Submission System</em></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-eic-accelerator-short_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (HE EIC Accelerator stage 1 - short proposal)</a></p><p><strong>Guidance</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a></p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Lump Sum MGA</a></p><p><strong>Call-specific instructions</strong> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/temp-form/af/detailed-budget-table_he-ls-euratom_en.xlsm\" rel=\"noopener noreferrer\" target=\"_blank\">Detailed budget table (HE LS)</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/information-on-clinical-studies_he_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Information on clinical studies (HE)</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-funding-what-do-i-need-to-know_he_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Guidance: \"Lump sums - what do I need to know?\"</a></p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2023-2024/wp-13-general-annexes_horizon-2023-2024_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2023\u20132025 \u2013 13. General Annexes</a> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a>&#xa0;</p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32018R1046\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2018/1046</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a>&#xa0;</p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+        ],
+        "title": [
+          "EIC Accelerator 2025 - Short application"
+        ],
+        "type": [
+          "1"
+        ],
+        "esST_checksum": [
+          "CD7D23B5F7193EAB58B8845D9AF19DB7AC2CB35987390F8C938C657A16D46096"
+        ],
+        "focusArea": [],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "typeOfMGAs": [
+          "43027849"
+        ],
+        "callIdentifier": [
+          "HORIZON-EIC-2025-ACCELERATOR-01"
+        ],
+        "ccm2Id": [
+          "47395944"
+        ],
+        "callccm2Id": [
+          "47395952"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "47395944TOPICSfr"
+        ],
+        "links": [
+          "[]"
+        ],
+        "callTitle": [
+          "EIC Accelerator 2025 - Short application"
+        ],
+        "frameworkProgramme": [
+          "43108390"
+        ],
+        "descriptionByte": [
+          "<span class=\"topicdescriptionkind\">Scope:</span><p>The EIC Accelerator supports companies (principally SMEs, including start-ups) to scale up high impact innovations with the potential to create new markets or disrupt existing ones. The EIC Accelerator provides a unique combination of funding <strong>from EUR 0.5 to EUR 12.5 million</strong> and <strong>Business Acceleration Services</strong> (see Section VI of the <a href=\"http://eic.ec.europa.eu/document/download/5e1eb75f-e437-477f-9ee9-ef54ff6387fd_en?filename=EIC%20Work%20Programme%202025.pdf\">EIC Work Programme 2025</a>).</p><p>The EIC Accelerator focuses in particular on innovations building on scientific discovery or technological breakthroughs (\u2018deep tech\u2019) and where significant funding is needed over a long timeframe before returns can be generated (\u2018patient capital\u2019). Such innovations often struggle to attract financing because the risks and time period involved are too high. Funding and support from the EIC Accelerator is designed to enable such innovators to attract the full investment amounts needed for scale up in a shorter timeframe.</p><p>The EIC Accelerator supports the later stages of technology development as well as scale up. The technology component of your innovation must therefore have been tested and validated in a laboratory and other relevant environment (e.g., at least Technology Readiness Level 5). The EIC Accelerator looks to support companies where the EIC support will act as a catalyst to crowd in other investors necessary for the scale up of the innovation.</p><p>Applicants to EIC Accelerator can submit proposals through the following topics:</p><ul level=\"0\"><li><strong>EIC Accelerator Open</strong>, which has no predefined thematic priorities and is open to proposals in any field of technology or application;</li><li><strong>EIC Accelerator Challenges</strong> in predefined areas of emerging and strategic technologies</li> </ul><p>For further information please see the <a href=\"http://eic.ec.europa.eu/document/download/5e1eb75f-e437-477f-9ee9-ef54ff6387fd_en?filename=EIC%20Work%20Programme%202025.pdf\">EIC Work Programme 2025</a>.</p>"
+        ],
+        "identifier": [
+          "HORIZON-EIC-2025-ACCELERATOR-01"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "programmeDivision": [
+          "43121682",
+          "43121666",
+          "43121633"
+        ],
+        "crossCuttingPriorities": [],
+        "esDA_FirstIngestDate": [
+          "2025-12-09T00:50:27.992+0100"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "deadlineDate": [
+          "2025-10-28T00:00:00.000+0000"
+        ],
+        "esDA_IngestDate": [
+          "2025-12-09T00:50:27.992+0100"
+        ],
+        "typesOfAction": [
+          "HORIZON EIC Accelerator"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2025-ACCELERATOR-01"
+        ],
+        "es_Combine": [
+          "3"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2025-ACCELERATOR-01"
+        ],
+        "tags": [
+          "STEP-Digital/deep tech"
+        ],
+        "esDA_QueueDate": [
+          "2025-12-09T00:50:27.983+0100"
+        ],
+        "actions": [
+          "[{\"types\":[{\"typeOfAction\":\"HORIZON-EIC-ACC HORIZON EIC Accelerator\",\"typeOfMGA\":[{\"id\":43027849,\"abbreviation\":\"HORIZON-AG-LS\",\"description\":\"HORIZON Lump Sum Grant\"}]}],\"status\":{\"id\":31094503,\"abbreviation\":\"Closed\",\"description\":\"Closed\"},\"plannedOpeningDate\":\"2024-10-29\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2025-10-28\"]}]"
+        ],
+        "allowPartnerSearch": [
+          "true"
+        ],
+        "budgetOverview": [
+          "{\"budgetYearsColumns\":[\"2025\"],\"budgetTopicActionMap\":{\"108635\":[{\"action\":\"HORIZON-EIC-2025-ACCELERATOR-01 - HORIZON-EIC-ACC HORIZON EIC Accelerator\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2025\":\"0\"},\"plannedOpeningDate\":\"2024-10-29\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2025-10-28\"]}]}}"
+        ],
+        "startDate": [
+          "2024-10-29T00:00:00.000+0000"
+        ],
+        "deadlineModel": [
+          "single-stage"
+        ],
+        "specificObjective": [],
+        "supportInfo": [
+          "<p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> is your guide on the procedures from proposal submission to managing your grant.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a> contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?isExactMatch=true&amp;status=0&amp;type=0,1&amp;order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=publicationDate\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ</a> \u2013 find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.</p><p><a href=\"https://research-and-innovation.ec.europa.eu/contact-us/research-enquiry-service_en\" rel=\"noopener noreferrer\" target=\"_blank\">Research Enquiry Service</a> \u2013 ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/ncp\" rel=\"noopener noreferrer\" target=\"_blank\">National Contact Points (NCPs)</a> \u2013 get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (\u2018third-countries\u2019).</p><p><a href=\"https://een.ec.europa.eu/\" rel=\"noopener noreferrer\" target=\"_blank\">Enterprise Europe Network</a> \u2013 contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> \u2013 contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://intellectual-property-helpdesk.ec.europa.eu/index_en\" rel=\"noopener noreferrer\" target=\"_blank\">European IPR Helpdesk</a> assists you on intellectual property issues.</p><p><a href=\"mailto:research@cencenelec.eu\" rel=\"noopener noreferrer\" target=\"_blank\">CEN-CENELEC Research Helpdesk</a> and <a href=\"https://www.etsi.org/research/helpdesk\" rel=\"noopener noreferrer\" target=\"_blank\">ETSI Research Helpdesk</a> \u2013 the European Standards Organisations advise you how to tackle standardisation in your project proposal.</p><p><a href=\"https://euraxess.ec.europa.eu/sites/default/files/am509774cee_en_e4.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">The European Charter for Researchers and the Code of Conduct for their recruitment</a> \u2013 consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/partner-search?order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=lastModified&amp;isExactMatch=true&amp;type=ORGANISATION,PERSON&amp;frameworkProgramme=43108390\" rel=\"noopener noreferrer\" target=\"_blank\">Partner Search</a> help you find a partner organisation for your proposal.</p>"
+        ],
+        "status": [
+          "31094503"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "<b>EIC</b> <b>Accelerator</b> 2025 - Short application"
+      ]
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "49662897TOPICSfr",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2026-ACCELERATOR-01",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "fr",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Acc\u00e9l\u00e9rateur du CEI 2026 \u2013 Proposition succincte",
+      "weight": 23.162655,
+      "groupById": "1",
+      "content": "Acc\u00e9l\u00e9rateur du CEI 2026 \u2013 Proposition succincte",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "AA53C057273CA60270FCE261B1B9386217E14D6CED34AC1542FB6756EF378070",
+      "metadata": {
+        "latestInfos": [
+          "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2025-11-07T10:58:06.017\",\"content\":\"La session de soumission est maintenant disponible pour: HORIZON-EIC-2026-ACC\u00c9L\u00c9RATEUR-01\"}]"
+        ],
+        "es_SortDate": [
+          "2025-11-06T00:00:00.000+0000"
+        ],
+        "sepTemplate": [
+          "<p>Pour acc\u00e9der au service de soumission \u00e9lectronique, veuillez cliquer sur le bouton de soumission \u00e0 c\u00f4t\u00e9 du <strong>type d\u2019action</strong> et du <strong>type de convention de subvention type</strong> qui correspond \u00e0 votre proposition. Il vous sera alors demand\u00e9 de confirmer votre choix, car il ne peut pas \u00eatre modifi\u00e9 dans le syst\u00e8me de soumission (NOTE: Les demandeurs peuvent modifier leurs demandes de financement entre les phases de la proposition courte et de la proposition compl\u00e8te. Le sujet ouvert et le sujet du d\u00e9fi ne peuvent \u00eatre s\u00e9lectionn\u00e9s qu&#39;\u00e0 la phase de proposition compl\u00e8te). Apr\u00e8s confirmation, vous serez li\u00e9 au bon point d&#39;entr\u00e9e.</p><p>Pour acc\u00e9der aux projets de propositions existants pour ce sujet, veuillez vous connecter au portail Funding &amp; Tenders et s\u00e9lectionner la page Mes propositions de la section Mon domaine.</p>"
+        ],
+        "keywords": [
+          "HORIZON-EIC-2026-ACCELERATOR-01",
+          "HORIZON-EIC-2026-ACCELERATOR-01"
+        ],
+        "sortStatus": [
+          "1"
+        ],
+        "language": [
+          "fr"
+        ],
+        "topicConditions": [
+          "<div class=\"eui-u-mt-l>\"><h4>Conditions g\u00e9n\u00e9rales</h4><div><h4>1. Conditions de recevabilit\u00e9: Limite et mise en page de la proposition</h4><div class=\"eui-u-mt-s\"><p>Pour \u00eatre un candidat \u00e9ligible \u00e0 EIC Accelerator, vous devez postuler en tant qu&#39;une des entit\u00e9s \u00e9ligibles suivantes:</p><ul><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>une seule entreprise class\u00e9e comme PME et \u00e9tablie dans un \u00c9tat membre ou un pays associ\u00e9 (voir annexe 2 du programme de travail du CEI pour 2026); ou</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>une seule entreprise class\u00e9e comme petite entreprise \u00e0 moyenne capitalisation (jusqu&#39;\u00e0 499 salari\u00e9s) \u00e9tablie dans un \u00c9tat membre ou un pays associ\u00e9, mais uniquement dans des cas exceptionnels \u00e0 des fins d&#39;expansion rapide; ou</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>une ou plusieurs personnes physiques (y compris des entrepreneurs individuels) ou entit\u00e9s juridiques, qui sont:</li></ul><p class=\"ql-indent-2\">a. d\u2019un \u00c9tat membre ou d\u2019un pays associ\u00e9 ayant l\u2019intention d\u2019\u00e9tablir une PME ou une petite entreprise \u00e0 moyenne capitalisation (telle que d\u00e9finie ci-dessus) dans un \u00c9tat membre ou un pays associ\u00e9 au moment de la signature de la convention de subvention de l\u2019Acc\u00e9l\u00e9rateur du CEI ou, dans le cas o\u00f9 les fonds propres uniquement sont attribu\u00e9s, au plus tard \u00e0 la date de signature de la convention relative \u00e0 sa composante investissement;</p><p class=\"ql-indent-2\">b. ayant l&#39;intention d&#39;investir dans une PME ou une petite entreprise \u00e0 moyenne capitalisation \u00e9tablie dans un \u00c9tat membre ou un pays associ\u00e9 et peut soumettre une proposition au nom de cette PME ou de cette petite entreprise \u00e0 moyenne capitalisation, \u00e0 condition qu&#39;un accord pr\u00e9alable existe avec l&#39;entreprise. La convention de subvention et/ou la convention d\u2019investissement ne seront sign\u00e9es qu\u2019avec le b\u00e9n\u00e9ficiaire/b\u00e9n\u00e9ficiaire final de la soci\u00e9t\u00e9 de financement; ou</p><p class=\"ql-indent-2\">c. d\u2019un pays tiers non associ\u00e9 ayant l\u2019intention d\u2019\u00e9tablir une PME (y compris des jeunes pousses) ou de d\u00e9localiser une PME existante dans un \u00c9tat membre ou un pays associ\u00e9. Votre entreprise doit prouver son \u00e9tablissement effectif dans un \u00c9tat membre ou un pays associ\u00e9 au moment de la soumission de la proposition compl\u00e8te.</p><p>Les conditions types d\u2019admissibilit\u00e9 et d\u2019\u00e9ligibilit\u00e9 sont d\u00e9taill\u00e9es \u00e0 l\u2019annexe 2 du <a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">programme de travail du CEI pour 2026.</a></p><p>Le nombre de fois o\u00f9 vous pouvez soumettre une proposition d\u00e9crite dans la section\u00a0<strong>Limites de soumission des demandes</strong>\u00a0du programme de travail du CEI pour 2026 est limit\u00e9.</p><p>Si vous participez actuellement \u00e0 un projet \u00e9ligible financ\u00e9 par Horizon Europe ou Horizon 2020, vous pourrez peut-\u00eatre postuler par l\u2019interm\u00e9diaire de votre projet existant dans le cadre du programme Fast Track (voir l\u2019annexe 3 du\u00a0<a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">programme de travail du CEI pour 2026).</a> Ce r\u00e9gime est g\u00e9r\u00e9 par l\u2019organisme de financement responsable du projet existant et s\u2019applique aux organismes de financement \u00e9num\u00e9r\u00e9s \u00e0 l\u2019annexe 3 du <a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">programme de travail du CEI pour 2026.</a></p><p>Les candidats peuvent \u00e9galement pr\u00e9senter une demande s\u2019ils ont un projet financ\u00e9 par un programme \u00e9ligible g\u00e9r\u00e9 par un \u00c9tat membre ou un pays associ\u00e9 dans le cadre du programme pilote de plug-in. Le syst\u00e8me de plug-in \u00e0 appliquer \u00e0 l\u2019Acc\u00e9l\u00e9rateur du CEI est d\u00e9taill\u00e9 \u00e0 l\u2019annexe 4 du\u00a0<a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">programme de travail du CEI pour 2026.</a></p></div></div><div><h4>2. Pays \u00e9ligibles</h4><div class=\"eui-u-mt-s\"><p>D\u00e9crit \u00e0 l\u2019annexe 2(B. \u00c9ligibilit\u00e9) du <a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">programme de travail du CEI pour 2026.</a> Les demandeurs du Royaume-Uni peuvent introduire une demande aupr\u00e8s de l\u2019Acc\u00e9l\u00e9rateur du CEI, mais ne peuvent demander et recevoir un financement que sous la forme d\u2019une \u00absubvention uniquement\u00bb.</p></div></div><div><h4>3. Autres conditions admissibles</h4><div class=\"eui-u-mt-s\"><p>D\u00e9crit \u00e0 l\u2019annexe 2 (Conditions g\u00e9n\u00e9rales pour les propositions) du <a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">programme de travail du CEI pour 2026.</a></p></div></div><div><h4>4. Capacit\u00e9 financi\u00e8re et op\u00e9rationnelle et exclusion</h4><div class=\"eui-u-mt-s\"><p>D\u00e9crit \u00e0 l\u2019annexe 2 (C. Capacit\u00e9 financi\u00e8re et op\u00e9rationnelle) du <a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">programme de travail du CEI pour 2026.</a></p></div></div><div><h4>5 bis. \u00c9valuation et attribution: Crit\u00e8res d\u2019attribution, notation et seuils</h4><div class=\"eui-u-mt-s\"><p>D\u00e9crit \u00e0 la section IV du <a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">programme de travail du CEI pour 2026.</a></p></div></div><div><h4>5 ter. \u00c9valuation et attribution: Processus de soumission et d&#39;\u00e9valuation</h4><div class=\"eui-u-mt-s\"><p>D\u00e9crit \u00e0 la section IV du <a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">programme de travail du CEI pour 2026.</a></p></div></div><div><h4>5c. \u00c9valuation et attribution: Calendrier indicatif pour l\u2019\u00e9valuation et la convention de subvention</h4><div class=\"eui-u-mt-s\"><p>D\u00e9crit \u00e0 la section IV du <a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">programme de travail du CEI pour 2026.</a></p></div></div><div><h4>6. Structure juridique et financi\u00e8re des subventions</h4><div class=\"eui-u-mt-s\"><p>D\u00e9crit \u00e0 l\u2019annexe G du programme de travail principal de l\u2019ES <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2023-2024/wp-13-general-annexes_horizon-2023-2024_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">pour la p\u00e9riode 2023-2025 \u2013 13. Annexes g\u00e9n\u00e9rales .</a></p></div></div></div><div class=\"eui-u-mt-l\"><h4>Conditions sp\u00e9cifiques</h4> <div class=\"eui-u-mt-s\"><p>D\u00e9crit \u00e0 la section IV.1, \u00e0 la section IV.2.3 et \u00e0 la section IV.2.4 du <a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">programme de travail du CEI pour 2026.</a></p></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\"><h4><strong>Documents de l&#39;appel</strong></h4><p><a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Programme de travail du CEI pour 2026</a></p></div><h4>Formulaires de demande et d\u2019\u00e9valuation et mod\u00e8le de convention de subvention (MGA):</h4> <div class=\"eui-u-mt-s\"><p><strong>Mod\u00e8les de formulaire de</strong> <em>demande \u2014 le formulaire de demande sp\u00e9cifique au pr\u00e9sent appel est disponible dans le syst\u00e8me de soumission</em></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-eic-accelerator-short_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Formulaire de demande standard (HE EIC Accelerator phase 1 - proposition succincte)</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-eic-accelerator_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Formulaire de demande standard (HE EIC Accelerator phase 2 - proposition compl\u00e8te)</a></p><p><strong>Orientations</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Guide du programme HE</a></p><p><strong>Mod\u00e8les de convention de subvention (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Montant forfaitaire MGA</a></p><p><strong>Instructions sp\u00e9cifiques \u00e0 l&#39;appel</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/temp-form/af/detailed-budget-table_he-ls-euratom_en.xlsm\" rel=\"noopener noreferrer\" target=\"_blank\">Tableau budg\u00e9taire d\u00e9taill\u00e9 (HE LS)</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/information-on-clinical-studies_he_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Informations sur les \u00e9tudes cliniques (HE)</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-funding-what-do-i-need-to-know_he_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Orientations: \u00ab Sommes forfaitaires - que dois-je savoir ? \u00bb</a></p><h4><br> </br></h4></div><h4>Documents compl\u00e9mentaires:</h4> <div class=\"eui-u-mt-s\"><p>Programme de travail principal de l\u2019ES <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2023-2024/wp-13-general-annexes_horizon-2023-2024_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">pour la p\u00e9riode 2023-2025 \u2013 13. Annexes g\u00e9n\u00e9rales</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Guide du programme HE</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32018R1046\" rel=\"noopener noreferrer\" target=\"_blank\">R\u00e8glement financier de l\u2019UE 2018/1046</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">R\u00e8gles relatives \u00e0 la validation des entit\u00e9s juridiques, \u00e0 la d\u00e9signation du repr\u00e9sentant d\u00e9sign\u00e9 de l\u2019entit\u00e9 juridique et \u00e0 l\u2019\u00e9valuation de la capacit\u00e9 financi\u00e8re</a></p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Financement &amp; Portail des appels d&#39;offres Manuel en ligne</a>\u00a0</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Financement &amp; Conditions g\u00e9n\u00e9rales du portail des appels d&#39;offres</a>\u00a0</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Financement &amp; D\u00e9claration de confidentialit\u00e9 du portail des appels d&#39;offres</a></p></div></div>"
+        ],
+        "title": [
+          "Acc\u00e9l\u00e9rateur du CEI 2026 \u2013 Proposition succincte"
+        ],
+        "type": [
+          "1"
+        ],
+        "esST_checksum": [
+          "AA53C057273CA60270FCE261B1B9386217E14D6CED34AC1542FB6756EF378070"
+        ],
+        "focusArea": [],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "typeOfMGAs": [
+          "43027849"
+        ],
+        "callIdentifier": [
+          "HORIZON-EIC-2026-ACCELERATOR-01"
+        ],
+        "ccm2Id": [
+          "49662897"
+        ],
+        "callccm2Id": [
+          "49662906"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "49662897TOPICSfr"
+        ],
+        "links": [
+          "[{\"callIdentifier\":\"HORIZON-EIC-2026-ACCELERATOR-01\",\"criterionCode\":\"HORIZON-EIC-ACC\",\"criterionDescription\":\"HORIZON EIC Accelerator\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/42510?topic\\u003dHORIZON-EIC-2026-ACCELERATOR-01\",\"startDate\":\"1762387200000\",\"endDate\":\"1797465600000\",\"mgaDescription\":\"HORIZON Lump Sum Grant\",\"mgaCode\":\"HORIZON-AG-LS\"}]"
+        ],
+        "callTitle": [
+          "Acc\u00e9l\u00e9rateur du CEI 2026 \u2013 Application succincte"
+        ],
+        "frameworkProgramme": [
+          "43108390"
+        ],
+        "descriptionByte": [
+          "<p class=\"topicdescriptionkind\">Champ d\u2019application:</p><p>L\u2019Acc\u00e9l\u00e9rateur du CEI aide les entreprises (principalement les PME, y compris les jeunes pousses) \u00e0 d\u00e9velopper des innovations \u00e0 fort impact susceptibles de cr\u00e9er de nouveaux march\u00e9s ou de perturber les march\u00e9s existants. L\u2019Acc\u00e9l\u00e9rateur du CEI offre une combinaison unique de subventions et de financements d\u2019investissement et de services d\u2019acc\u00e9l\u00e9ration des entreprises (voir section VII du programme de travail du CEI pour 2026).</p><p>L\u2019Acc\u00e9l\u00e9rateur du CEI se concentre en particulier sur les innovations fond\u00e9es sur des d\u00e9couvertes scientifiques ou des perc\u00e9es technologiques (\u00abtechnologies approfondies\u00bb) et pour lesquelles un financement important est n\u00e9cessaire sur une longue p\u00e9riode avant que des rendements puissent \u00eatre g\u00e9n\u00e9r\u00e9s (\u00abcapital patient\u00bb). De telles innovations ont souvent du mal \u00e0 attirer des financements parce que les risques et la p\u00e9riode impliqu\u00e9s sont trop \u00e9lev\u00e9s. Le financement et le soutien de l\u2019Acc\u00e9l\u00e9rateur du CEI sont con\u00e7us pour permettre \u00e0 ces innovateurs d\u2019attirer l\u2019int\u00e9gralit\u00e9 des montants d\u2019investissement n\u00e9cessaires \u00e0 leur expansion dans un d\u00e9lai plus court.</p><p>L\u2019Acc\u00e9l\u00e9rateur du CEI soutient les \u00e9tapes ult\u00e9rieures du d\u00e9veloppement technologique ainsi que la mise \u00e0 l\u2019\u00e9chelle. La composante technologique de votre innovation doit donc avoir \u00e9t\u00e9 test\u00e9e et valid\u00e9e dans un laboratoire et dans un autre environnement pertinent (par exemple, au moins le niveau de maturit\u00e9 technologique 5 est termin\u00e9). L\u2019Acc\u00e9l\u00e9rateur du CEI vise \u00e0 soutenir les entreprises dans lesquelles le soutien du CEI servira de catalyseur pour attirer d\u2019autres investisseurs n\u00e9cessaires \u00e0 l\u2019expansion de l\u2019innovation.</p><p>Les candidats \u00e0 l\u2019Acc\u00e9l\u00e9rateur du CEI peuvent soumettre des propositions par l\u2019interm\u00e9diaire de:</p><ul level=\"0\"><li><strong>EIC Accelerator Open</strong> - qui n&#39;a pas de priorit\u00e9s th\u00e9matiques pr\u00e9d\u00e9finies et est ouvert aux propositions dans n&#39;importe quel domaine de technologie ou d&#39;application</li><li><strong>D\u00e9fis de l&#39;Acc\u00e9l\u00e9rateur du CEI</strong> - dans des domaines pr\u00e9d\u00e9finis de technologies \u00e9mergentes et strat\u00e9giques.</li> </ul><p>Pour de plus amples informations, veuillez consulter le <a href=\"http://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\">programme de travail du CEI pour 2026.</a></p>"
+        ],
+        "identifier": [
+          "HORIZON-EIC-2026-ACCELERATOR-01"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "programmeDivision": [
+          "43121682",
+          "43121666",
+          "43121633",
+          "43108390"
+        ],
+        "crossCuttingPriorities": [],
+        "esDA_FirstIngestDate": [
+          "2026-03-02T09:42:19.120+0100"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "deadlineDate": [
+          "2026-12-17T00:00:00.000+0000"
+        ],
+        "esDA_IngestDate": [
+          "2026-03-04T04:00:26.745+0100"
+        ],
+        "typesOfAction": [
+          "HORIZON EIC Accelerator"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2026-ACCELERATOR-01"
+        ],
+        "es_Combine": [
+          "1"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2026-ACCELERATOR-01"
+        ],
+        "tags": [
+          "STEP-Digital/deep tech"
+        ],
+        "esDA_QueueDate": [
+          "2026-03-04T04:00:26.732+0100"
+        ],
+        "actions": [
+          "[{\"types\":[{\"typeOfAction\":\"HORIZON-EIC-ACC HORIZON EIC Accelerator\",\"typeOfMGA\":[{\"id\":43027849,\"abbreviation\":\"HORIZON-AG-LS\",\"description\":\"HORIZON Lump Sum Grant\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2025-11-06\",\"submissionProcedure\":{\"id\":47164190,\"abbreviation\":\"continuous\",\"description\":\"continuous\"},\"deadlineDates\":[\"2026-12-17\"]}]"
+        ],
+        "allowPartnerSearch": [
+          "true"
+        ],
+        "budgetOverview": [
+          "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"112267\":[{\"action\":\"HORIZON-EIC-2026-ACCELERATOR-01 - HORIZON-EIC-ACC HORIZON EIC Accelerator\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"0\"},\"plannedOpeningDate\":\"2025-11-06\",\"deadlineModel\":\"continuous\",\"deadlineDates\":[\"2026-12-17\"]}]}}"
+        ],
+        "startDate": [
+          "2025-11-06T00:00:00.000+0000"
+        ],
+        "deadlineModel": [],
+        "specificObjective": [],
+        "supportInfo": [
+          "<p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Le manuel en ligne</a> est votre guide sur les proc\u00e9dures allant de la soumission de la proposition \u00e0 la gestion de votre subvention.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Le guide du programme Horizon Europe</a> contient des orientations d\u00e9taill\u00e9es sur la structure, le budget et les priorit\u00e9s politiques d\u2019Horizon Europe.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?isExactMatch=true&amp;status=0&amp;type=0,1&amp;order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=publicationDate\" rel=\"noopener noreferrer\" target=\"_blank\">FAQ sur le portail \u00abFinancement &amp; Appels d\u2019offres\u00bb \u2013</a> trouver les r\u00e9ponses aux questions les plus fr\u00e9quemment pos\u00e9es sur la soumission des propositions, l\u2019\u00e9valuation et la gestion des subventions.</p><p><a href=\"https://research-and-innovation.ec.europa.eu/contact-us/research-enquiry-service_en\" rel=\"noopener noreferrer\" target=\"_blank\">Service d\u2019information sur la recherche</a> \u2013 poser des questions sur tout aspect de la recherche europ\u00e9enne en g\u00e9n\u00e9ral et sur les programmes-cadres de recherche de l\u2019UE en particulier.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/ncp\" rel=\"noopener noreferrer\" target=\"_blank\">Points de contact nationaux (PCN) \u2013 obtenir des</a> orientations, des informations pratiques et une assistance sur la participation \u00e0 Horizon Europe. Il existe \u00e9galement des PCN dans de nombreux pays tiers et pays non associ\u00e9s (ci-apr\u00e8s les \u00abpays tiers\u00bb).</p><p><a href=\"https://een.ec.europa.eu/\" rel=\"noopener noreferrer\" target=\"_blank\">R\u00e9seau Entreprise Europe</a> \u2013 contactez votre contact national EEN pour obtenir des conseils aux entreprises, en mettant particuli\u00e8rement l\u2019accent sur les PME. Le soutien comprend des orientations sur le financement de la recherche par l\u2019UE.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">Helpdesk informatique \u2013 contacter le helpdesk</a> informatique du portail Funding &amp; Tenders pour des questions telles que les mots de passe oubli\u00e9s, les droits d\u2019acc\u00e8s et les r\u00f4les, les aspects techniques de la soumission des propositions, etc.</p><p><a href=\"https://intellectual-property-helpdesk.ec.europa.eu/index_en\" rel=\"noopener noreferrer\" target=\"_blank\">European IPR Helpdesk</a> vous assiste sur les questions de propri\u00e9t\u00e9 intellectuelle.</p><p><a href=\"mailto:research@cencenelec.eu\" rel=\"noopener noreferrer\" target=\"_blank\">CEN-CENELEC Research Helpdesk</a> et <a href=\"https://www.etsi.org/research/helpdesk\" rel=\"noopener noreferrer\" target=\"_blank\">ETSI Research Helpdesk</a> \u2013 les organismes europ\u00e9ens de normalisation vous conseillent sur la mani\u00e8re d\u2019aborder la normalisation dans votre proposition de projet.</p><p><a href=\"https://euraxess.ec.europa.eu/sites/default/files/am509774cee_en_e4.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">La charte europ\u00e9enne du chercheur et le code de conduite pour leur recrutement</a> \u2013 consulter les principes g\u00e9n\u00e9raux et les exigences pr\u00e9cisant les r\u00f4les, les responsabilit\u00e9s et les droits des chercheurs, des employeurs et des bailleurs de fonds des chercheurs.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/partner-search?order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=lastModified&amp;isExactMatch=true&amp;type=ORGANISATION,PERSON&amp;frameworkProgramme=43108390\" rel=\"noopener noreferrer\" target=\"_blank\">Partner Search</a> vous aide \u00e0 trouver une organisation partenaire pour votre proposition.</p>"
+        ],
+        "status": [
+          "31094502"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": []
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "44661445HORIZONEICAcceleratorBlendedFinance1646092800000fr",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2022-ACCELERATOROPEN-01",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "fr",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "EIC Accelerator Open",
+      "weight": 22.668839,
+      "groupById": "3",
+      "content": "<b>EIC</b> <b>Accelerator</b> Open",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "81991E51E2B9A3597C5AA0242B20B3B82DFC21ED6BB48ADE4918FFB01F7920D5",
+      "metadata": {
+        "latestInfos": [
+          "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2024-08-08T10:40:08.703\",\"content\":\"The submission session is now available for: HORIZON-EIC-2022-ACCELERATORCHALLENGES-02, HORIZON-EIC-2022-ACCELERATOROPEN-01, HORIZON-EIC-2022-ACCELERATORCHALLENGES-01\"},{\"approvalDate\":\"2022-03-31\",\"lastChangeDate\":\"2022-03-31T11:07:20.029\",\"content\":\"\\u003cp\\u003eA total number of 790 proposals were submitted in response to the EIC Accelerator Open Call cut off March 23rd, 2022  (HORIZON-EIC-2022-ACCELERATOROPEN-01).\\u003c/p\\u003e\\r\\n\\u003cp\\u003eA total number of 129 proposals were submitted in response to the EIC Accelerator \u2018Open Strategic Autonomy Challenge\u2019 Call cut off March 23rd, 2022  (HORIZON-EIC-2022-ACCELERATORCHALLENGES-01).\\u003c/p\\u003e\\r\\n\\u003cp\\u003eA total number of 174 proposals were submitted in response to the EIC Accelerator \u2018Fit for 55 Challenge\u2019 Call cut off March 23rd, 2022  (HORIZON-EIC-2022-ACCELERATORCHALLENGES-02).\\u003c/p\\u003e\"},{\"approvalDate\":\"2022-02-09\",\"lastChangeDate\":\"2022-02-09T12:00:00.915\",\"content\":\"The submission session is now available for: HORIZON-EIC-2022-ACCELERATORCHALLENGES-02(HORIZON-EIC-ACC-BF), HORIZON-EIC-2022-ACCELERATOROPEN-01(HORIZON-EIC-ACC-BF)\"},{\"approvalDate\":\"2022-02-09\",\"lastChangeDate\":\"2022-02-09T00:00:00.282\",\"content\":\"The submission session is now available for: HORIZON-EIC-2022-ACCELERATORCHALLENGES-01(HORIZON-EIC-ACC-BF)\"}]"
+        ],
+        "es_SortDate": [
+          "2022-03-01T00:00:00.000+0000"
+        ],
+        "sepTemplate": [
+          "<p>No submission system is open for this topic.</p>"
+        ],
+        "keywords": [
+          "HORIZON-EIC-2022-ACCELERATOROPEN-01",
+          "HORIZON-EIC-2022-ACCELERATOR-01",
+          "Business coaching and mentoring",
+          "Business development",
+          "Business management",
+          "Business model innovation",
+          "Business support services",
+          "Company valuation",
+          "Competitor analysis",
+          "Disruptive innovation",
+          "Due diligence",
+          "Entrepreneurship",
+          "Feasibility analysis",
+          "Financial & Investment management",
+          "IPR management",
+          "Innovation management",
+          "Innovation support services",
+          "Investment readiness",
+          "Market-creating innovation",
+          "Marketing strategy",
+          "Private investment",
+          "Product innovation",
+          "Project financing",
+          "Public sector innovation",
+          "Risk management",
+          "SME support",
+          "Spin-off companies",
+          "Sustainable innovation",
+          "Technological innovation",
+          "Technology management",
+          "Venture capital"
+        ],
+        "sortStatus": [
+          "3"
+        ],
+        "language": [
+          "fr"
+        ],
+        "topicConditions": [
+          "<div class=\"eui-u-mt-l>\"><h4>General conditions</h4><div><h4> </h4><div class=\"eui-u-mt-s\"><p><b>1. Admissibility conditions:</b>&#xa0;In order to apply you must meet one of the following eligibility conditions:</p>\r\n<ul>\r\n    <li>A single company classified as a SME and established within a Member State or an Associated Country (see&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2022/wp_horizon-eic-2022_en.pdf\" target=\"_blank\">Annex 3 of the EIC Work Programme 2022</a>);</li>\r\n    <li>A single company classified as a \u2018Small mid-cap\u2019 (up to 500 employees) established in a Member State or an Associated Country, but your application can only be for rapid scale up purposes (e.g. Technology Readiness Level 9) and only for the investment component;</li>\r\n    <li>One or more natural persons (including individual entrepreneurs) or legal entities, which are either:</li>\r\n</ul>\r\n<p>a. &#xa0; &#xa0;&#xa0;from a Member State or an Associated Country (for Associated Countries other than EEA, this possibility will be subject to the related association agreements) intending to establish an SME or small mid-cap (as defined above) in a Member State or Associated Country by the time of signing the Accelerator contract or, in the case blended finance is awarded, at the latest when agreeing on its investment component;</p>\r\n<p>b.&#xa0;&#xa0;&#xa0;&#xa0; intending to invest in an SME or small mid-cap in a Member State or an Associated Country and who may submit a proposal on behalf of that SME or small mid-cap, provided that a prior agreement exist with the company. The contract will be signed with the beneficiary company only;</p>\r\n<p>c.&#xa0;&#xa0;&#xa0;&#xa0; from a non-associated third country intending to establish an SME (including start-ups) or to relocate an existing SME to a Member State or an Associated Country, by the time of submitting a full application. Your company must prove its effective establishment in a Member State or an Associated Country. The Commission may set specific conditions and milestones in the contract to ensure that the interest of the Union is met.</p>\r\n<p>The standard admissibility and eligibility conditions are detailed in&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2022/wp_horizon-eic-2022_en.pdf\" target=\"_blank\">Annex 2 </a>&#xa0;and information on eligible Associated Countries in&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2022/wp_horizon-eic-2022_en.pdf\" target=\"_blank\">Annex 3 of the EIC Work Programme 2022</a>.</p>\r\n<p>There are limitations on the number of times you can submit an application described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2022/wp_horizon-eic-2022_en.pdf\" target=\"_blank\">section IV (Table 8) of the EIC Work Programme 2022</a>&#xa0;on resubmission&#xa0;limits.</p>\r\n<p>If you are currently a participant in an eligible project funded by&#xa0;<b>Horizon Europe</b>&#xa0;or&#xa0;<b>Horizon 2020</b>&#xa0;then you may be able to apply through your existing project under the&#xa0;<b>Fast Track scheme</b>&#xa0;(see&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2022/wp_horizon-eic-2022_en.pdf\" target=\"_blank\">Annex 4 of the EIC Work Programme 2022</a>). This scheme is managed by the funding body responsible for the existing project and for 2022 it applies to funding bodies managing grants under the&#xa0;<b>EIC Pathfinder</b>&#xa0;and&#xa0;<b>Transition</b>&#xa0;(including&#xa0;<b>EIC pilot 2018-20</b>);&#xa0;<b>ERC Proof of Concept</b>; and&#xa0;<b>Knowledge and Innovation Communities (KICs)</b>&#xa0;supported by the&#xa0;<b>European Institute of Innovation and Technology (EIT)</b>. Applicants may also be able to apply if they have a project financed by an eligible programme managed by a Member State or an Associated Country under the pilot&#xa0;<b>Plug-in scheme</b>. The Plug-in scheme to apply to the EIC Accelerator is detailed in&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2022/wp_horizon-eic-2022_en.pdf\" target=\"_blank\">Annex 5 of the EIC Work Programme 2022</a>.</p><p>&#xa0;</p>\r\n<p><b>Proposal page limits and layout:</b>&#xa0;You must prepare your application (Short and Full application) on the EIC artificial intelligence-based IT platform via on-line forms, by answering a series of questions:</p>\r\n<p><strong>Short applications:</strong></p>\r\n<ul>\r\n    <li>An on-line form where you must summarise your proposal and respond to a set of questions on your innovation, your potential market and your team;</li>\r\n    <li>A pitch-deck of up to 10 slides following a set format;</li>\r\n    <li>A (link to a) video pitch of up to 3 minutes where the core members of your team (up to three people) should provide the motivation for your application.</li>\r\n</ul>\r\n<p><strong>Full applications:</strong></p>\r\n<ul>\r\n    <li>An on-line form that follows a methodology embedded in the EIC artificial intelligence-based IT platform that produces a full and detailed business plan with information on you company\u2019s finances and structur;</li>\r\n    <li>A pitch-deck to be used if invited to the interviews</li>\r\n</ul>\r\n<p>&#xa0;</p></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><p><b>2. Eligible countries:&#xa0;</b>described in&#xa0;&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2022/wp_horizon-eic-2022_en.pdf\" target=\"_blank\">section IV&#xa0;</a>&#xa0;and in&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2022/wp_horizon-eic-2022_en.pdf\" target=\"_blank\">Annex 3 of the EIC Work Programme 2022.</a></p>\r\n<p>Applicants from the United Kingdom can apply to the EIC Accelerator, but can only request and receive funding in the form of \u201cgrant only\u201d. The signature of any grant agreement will be subject to the positive conclusion of the association negotiation with the United Kingdom.</p>\r\n<p>&#xa0;</p></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"> </div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><p><b>3. Financial and operational capacity and exclusion:&#xa0;</b>described in&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2022/wp_horizon-eic-2022_en.pdf\" target=\"_blank\">Annex 2 of the EIC Work Programme 2022</a>.</p>\r\n<p>&#xa0;</p></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"> </div></div><div><h4> </h4><div class=\"eui-u-mt-s\"> </div></div><div><h4> </h4><div class=\"eui-u-mt-s\"> </div></div><div><h4> </h4><div class=\"eui-u-mt-s\"> </div></div></div><div class=\"eui-u-mt-l\"><h4> </h4> <div class=\"eui-u-mt-s\"> </div></div><div class=\"eui-u-mt-l\"><h4> </h4> <div class=\"eui-u-mt-s\"> </div><h4> </h4> <div class=\"eui-u-mt-s\"><p><b>Call documents:</b></p>\r\n<p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2022/wp_horizon-eic-2022_en.pdf\" target=\"_blank\">EIC Work Programme 2022</a><br>\r\n<a href=\"https://eic.ec.europa.eu/guide-applicants_en\" target=\"_blank\">Guide for Applicants</a><br>\r\n<a href=\"https://eic.ec.europa.eu/eic-frequently-asked-questions_en#ecl-inpage-348\" target=\"_blank\">Frequently Asked Questions (FAQs)</a><br>\r\n<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf\" target=\"_blank\">MGA used for EIC actions under Horizon Europe (HE General MGA)<br>\r\n</br></a><a href=\"https://eic.ec.europa.eu/system/files/2021-05/EIC%20Fund%20Investment%20Guidelines%20-%20Horizon%20Europe.pdf\" target=\"_blank\">EIC&#xa0;Fund Investment Guidelines</a></br></br></br></p>\r\n<p>&#xa0;</p></div><h4> </h4> <div class=\"eui-u-mt-s\"><p><b>Additional documents:</b></p>\r\n<p><a href=\"http://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32018R1046&amp;qid=1535046024012\" target=\"_blank\">EU Financial Regulation 2018/1046</a><br>\r\n<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a><br>\r\n<a href=\"http://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a><br>\r\n<a href=\"http://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" target=\"_blank\">Funding &amp; Tenders Portal Terms &amp; Conditions</a><br>\r\n<a href=\"http://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/privacy-statement_en.pdf\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></br></br></br></br></p></div></div>"
+        ],
+        "title": [
+          "EIC Accelerator Open"
+        ],
+        "type": [
+          "1"
+        ],
+        "esST_checksum": [
+          "81991E51E2B9A3597C5AA0242B20B3B82DFC21ED6BB48ADE4918FFB01F7920D5"
+        ],
+        "focusArea": [],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "typeOfMGAs": [
+          "43027846"
+        ],
+        "callIdentifier": [
+          "HORIZON-EIC-2022-ACCELERATOR-01"
+        ],
+        "ccm2Id": [
+          "44661445"
+        ],
+        "callccm2Id": [
+          "44661453"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "44661445HORIZONEICAcceleratorBlendedFinance1646092800000fr"
+        ],
+        "links": [
+          "[]"
+        ],
+        "callTitle": [
+          "EIC Accelerator 2022"
+        ],
+        "frameworkProgramme": [
+          "43108390"
+        ],
+        "descriptionByte": [
+          "<p class=\"topicdescriptionkind\">Scope:</p><p>The EIC Accelerator supports companies (principally SMEs, including start-ups) to scale up high impact innovations with the potential to create new markets or disrupt existing ones. The EIC Accelerator provides a unique combination of funding from EUR 0.5 to EUR 17.5 million and Business Acceleration Services (see Section V).</p><p>The EIC Accelerator focuses in particular on innovations, building on scientific discovery or technological breakthroughs (\u2018deep tech\u2019) and where significant funding is needed over a long timeframe before returns can be generated (\u2018patient capital\u2019). Such innovations often struggle to attract financing because the risks and time period involved are too high. Funding and support from the EIC Accelerator is designed to enable such innovators to attract the full investment amounts needed for scale up in a shorter timeframe.</p><p>The EIC Accelerator supports the later stages of technology development as well as scale up. The technology component of your innovation must therefore have been tested and validated in a laboratory or other relevant environment (e.g. at least Technology Readiness Level 5/6 or higher and have fully completed Technology Readiness Level 4). The EIC Accelerator looks to support companies where the EIC support will act as a catalyst to crowd in other investors necessary for the scale up of the innovation.</p><p>EIC Accelerator Open, which has no predefined thematic priorities and is open to proposals in any field of technology or application.</p><p>For further information, please see the <strong><a href=\"http://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2022/wp_horizon-eic-2022_en.pdf\">EIC Work Programme 2022</a>.</strong></p>"
+        ],
+        "identifier": [
+          "HORIZON-EIC-2022-ACCELERATOROPEN-01"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "programmeDivision": [
+          "43121666",
+          "43121633",
+          "43108390"
+        ],
+        "crossCuttingPriorities": [],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "deadlineDate": [
+          "2022-03-23T00:00:00.000+0000",
+          "2022-06-15T00:00:00.000+0000",
+          "2022-10-05T00:00:00.000+0000"
+        ],
+        "esDA_IngestDate": [
+          "2026-02-17T18:04:22.563+0100"
+        ],
+        "typesOfAction": [
+          "HORIZON EIC Accelerator Blended Finance"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2022-ACCELERATOROPEN-01"
+        ],
+        "es_Combine": [
+          "3"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2022-ACCELERATOROPEN-01"
+        ],
+        "tags": [],
+        "esDA_QueueDate": [
+          "2026-02-17T18:04:22.550+0100"
+        ],
+        "actions": [
+          "[{\"types\":[{\"typeOfAction\":\"HORIZON-EIC-ACC-BF HORIZON EIC Accelerator Blended Finance\",\"typeOfMGA\":[{\"id\":43027846,\"abbreviation\":\"HORIZON-AG\",\"description\":\"HORIZON Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094503,\"abbreviation\":\"Closed\",\"description\":\"Closed\"},\"plannedOpeningDate\":\"2022-03-01\",\"submissionProcedure\":{\"id\":31094506,\"abbreviation\":\"multiple cut-off\",\"description\":\"multiple cut-off\"},\"deadlineDates\":[\"2022-03-23\",\"2022-06-15\",\"2022-10-05\"]}]"
+        ],
+        "allowPartnerSearch": [
+          "true"
+        ],
+        "budgetOverview": [
+          "{\"budgetYearsColumns\":[\"2022\"],\"budgetTopicActionMap\":{\"107065\":[{\"action\":\"HORIZON-EIC-2022-ACCELERATORCHALLENGES-02 - HORIZON-EIC-ACC-BF HORIZON EIC Accelerator Blended Finance\",\"expectedGrants\":80,\"minContribution\":500000,\"maxContribution\":17500000,\"budgetYearMap\":{\"2022\":\"1167846081\"},\"plannedOpeningDate\":\"2022-03-01\",\"deadlineModel\":\"multiple cut-off\",\"deadlineDates\":[\"2022-03-23\",\"2022-06-15\",\"2022-10-05\"]},{\"action\":\"HORIZON-EIC-2022-ACCELERATOROPEN-01 - HORIZON-EIC-ACC-BF HORIZON EIC Accelerator Blended Finance\",\"expectedGrants\":80,\"minContribution\":500000,\"maxContribution\":17500000,\"budgetYearMap\":{\"2022\":\"1167846081\"},\"plannedOpeningDate\":\"2022-03-01\",\"deadlineModel\":\"multiple cut-off\",\"deadlineDates\":[\"2022-03-23\",\"2022-06-15\",\"2022-10-05\"]},{\"action\":\"HORIZON-EIC-2022-ACCELERATORCHALLENGES-01 - HORIZON-EIC-ACC-BF HORIZON EIC Accelerator Blended Finance\",\"expectedGrants\":80,\"minContribution\":500000,\"maxContribution\":17500000,\"budgetYearMap\":{\"2022\":\"1167846081\"},\"plannedOpeningDate\":\"2022-03-01\",\"deadlineModel\":\"multiple cut-off\",\"deadlineDates\":[\"2022-03-23\",\"2022-06-15\",\"2022-10-05\"]}]}}"
+        ],
+        "startDate": [
+          "2022-03-01T00:00:00.000+0000"
+        ],
+        "deadlineModel": [
+          "multiple cut-off"
+        ],
+        "specificObjective": [],
+        "supportInfo": [
+          "<p><strong><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\"><b>Online Manual&#xa0;</b></a></strong>is your guide on the procedures from proposal submission to managing your grant.</p>\r\n<p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" target=\"_blank\"><b>Horizon Europe Programme Guide</b></a><strong>&#xa0;</strong><strong>contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.</strong></p>\r\n<p><b><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq;type=undefined;categories=;programme=H2020;actions=;keyword=\" target=\"_blank\">Funding &amp; Tenders Portal FAQ</a></b>&#xa0;\u2013 find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.</p>\r\n<p><b><a href=\"https://ec.europa.eu/info/research-and-innovation/contact/research-enquiry-service_en\" target=\"_blank\">Research Enquiry Service</a>&#xa0;</b>\u2013 ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.</p>\r\n\r\n<p><b><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/ncp\" target=\"_blank\">National Contact Points (NCPs)</a>&#xa0;</b>\u2013 get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (\u2018third-countries\u2019).</p>\r\n<p><a href=\"https://een.ec.europa.eu/\" target=\"_blank\"><b>Enterprise Europe Network</b></a><strong>&#xa0;</strong>\u2013 contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.</p>\r\n<p><b><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" target=\"_blank\">IT Helpdesk</a></b>&#xa0;\u2013&#xa0;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p>\r\n<p><b><a href=\"https://www.iprhelpdesk.eu/\" target=\"_blank\">European IPR Helpdesk</a></b>&#xa0;assists you on intellectual property issues.<br>\r\n<br>\r\n<b><a href=\"mailto:research@cencenelec.eu\" target=\"_blank\">CEN-CENELEC Research Helpdesk</a> and <a href=\"https://www.etsi.org/research/helpdesk\" target=\"_blank\">ETSI Research Helpdesk</a></b>&#xa0;\u2013&#xa0;&#xa0;the European Standards Organisations&#xa0;advise you how to tackle standardisation in your project proposal.&#xa0;&#xa0;</br></br></p>\r\n\r\n<p><b><a href=\"https://euraxess.ec.europa.eu/sites/default/files/am509774cee_en_e4.pdf\" target=\"_blank\">The European Charter for Researchers and the Code of Conduct for their recruitment</a></b><strong></strong><strong>\u2013 consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.</strong></p>\r\n<p><b><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/partner-search\" target=\"_blank\">Partner Search Services</a></b>&#xa0;help you find a partner organisation for your proposal.</p>\r\n<p>&#xa0;</p>"
+        ],
+        "status": [
+          "31094503"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "<b>EIC</b> <b>Accelerator</b> Open"
+      ]
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "44661445HORIZONEICAcceleratorBlendedFinance1646092800000cs",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2022-ACCELERATOROPEN-01",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "cs",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "EIC Accelerator Open",
+      "weight": 22.56824,
+      "groupById": "3",
+      "content": "<b>EIC</b> <b>Accelerator</b> Open",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "81991E51E2B9A3597C5AA0242B20B3B82DFC21ED6BB48ADE4918FFB01F7920D5",
+      "metadata": {
+        "latestInfos": [
+          "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2024-08-08T10:40:08.703\",\"content\":\"The submission session is now available for: HORIZON-EIC-2022-ACCELERATORCHALLENGES-02, HORIZON-EIC-2022-ACCELERATOROPEN-01, HORIZON-EIC-2022-ACCELERATORCHALLENGES-01\"},{\"approvalDate\":\"2022-03-31\",\"lastChangeDate\":\"2022-03-31T11:07:20.029\",\"content\":\"\\u003cp\\u003eA total number of 790 proposals were submitted in response to the EIC Accelerator Open Call cut off March 23rd, 2022  (HORIZON-EIC-2022-ACCELERATOROPEN-01).\\u003c/p\\u003e\\r\\n\\u003cp\\u003eA total number of 129 proposals were submitted in response to the EIC Accelerator \u2018Open Strategic Autonomy Challenge\u2019 Call cut off March 23rd, 2022  (HORIZON-EIC-2022-ACCELERATORCHALLENGES-01).\\u003c/p\\u003e\\r\\n\\u003cp\\u003eA total number of 174 proposals were submitted in response to the EIC Accelerator \u2018Fit for 55 Challenge\u2019 Call cut off March 23rd, 2022  (HORIZON-EIC-2022-ACCELERATORCHALLENGES-02).\\u003c/p\\u003e\"},{\"approvalDate\":\"2022-02-09\",\"lastChangeDate\":\"2022-02-09T12:00:00.915\",\"content\":\"The submission session is now available for: HORIZON-EIC-2022-ACCELERATORCHALLENGES-02(HORIZON-EIC-ACC-BF), HORIZON-EIC-2022-ACCELERATOROPEN-01(HORIZON-EIC-ACC-BF)\"},{\"approvalDate\":\"2022-02-09\",\"lastChangeDate\":\"2022-02-09T00:00:00.282\",\"content\":\"The submission session is now available for: HORIZON-EIC-2022-ACCELERATORCHALLENGES-01(HORIZON-EIC-ACC-BF)\"}]"
+        ],
+        "es_SortDate": [
+          "2022-03-01T00:00:00.000+0000"
+        ],
+        "sepTemplate": [
+          "<p>No submission system is open for this topic.</p>"
+        ],
+        "keywords": [
+          "HORIZON-EIC-2022-ACCELERATOROPEN-01",
+          "HORIZON-EIC-2022-ACCELERATOR-01",
+          "Business coaching and mentoring",
+          "Business development",
+          "Business management",
+          "Business model innovation",
+          "Business support services",
+          "Company valuation",
+          "Competitor analysis",
+          "Disruptive innovation",
+          "Due diligence",
+          "Entrepreneurship",
+          "Feasibility analysis",
+          "Financial & Investment management",
+          "IPR management",
+          "Innovation management",
+          "Innovation support services",
+          "Investment readiness",
+          "Market-creating innovation",
+          "Marketing strategy",
+          "Private investment",
+          "Product innovation",
+          "Project financing",
+          "Public sector innovation",
+          "Risk management",
+          "SME support",
+          "Spin-off companies",
+          "Sustainable innovation",
+          "Technological innovation",
+          "Technology management",
+          "Venture capital"
+        ],
+        "sortStatus": [
+          "3"
+        ],
+        "language": [
+          "cs"
+        ],
+        "topicConditions": [
+          "<div class=\"eui-u-mt-l>\"><h4>General conditions</h4><div><h4> </h4><div class=\"eui-u-mt-s\"><p><b>1. Admissibility conditions:</b>&#xa0;In order to apply you must meet one of the following eligibility conditions:</p>\r\n<ul>\r\n    <li>A single company classified as a SME and established within a Member State or an Associated Country (see&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2022/wp_horizon-eic-2022_en.pdf\" target=\"_blank\">Annex 3 of the EIC Work Programme 2022</a>);</li>\r\n    <li>A single company classified as a \u2018Small mid-cap\u2019 (up to 500 employees) established in a Member State or an Associated Country, but your application can only be for rapid scale up purposes (e.g. Technology Readiness Level 9) and only for the investment component;</li>\r\n    <li>One or more natural persons (including individual entrepreneurs) or legal entities, which are either:</li>\r\n</ul>\r\n<p>a. &#xa0; &#xa0;&#xa0;from a Member State or an Associated Country (for Associated Countries other than EEA, this possibility will be subject to the related association agreements) intending to establish an SME or small mid-cap (as defined above) in a Member State or Associated Country by the time of signing the Accelerator contract or, in the case blended finance is awarded, at the latest when agreeing on its investment component;</p>\r\n<p>b.&#xa0;&#xa0;&#xa0;&#xa0; intending to invest in an SME or small mid-cap in a Member State or an Associated Country and who may submit a proposal on behalf of that SME or small mid-cap, provided that a prior agreement exist with the company. The contract will be signed with the beneficiary company only;</p>\r\n<p>c.&#xa0;&#xa0;&#xa0;&#xa0; from a non-associated third country intending to establish an SME (including start-ups) or to relocate an existing SME to a Member State or an Associated Country, by the time of submitting a full application. Your company must prove its effective establishment in a Member State or an Associated Country. The Commission may set specific conditions and milestones in the contract to ensure that the interest of the Union is met.</p>\r\n<p>The standard admissibility and eligibility conditions are detailed in&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2022/wp_horizon-eic-2022_en.pdf\" target=\"_blank\">Annex 2 </a>&#xa0;and information on eligible Associated Countries in&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2022/wp_horizon-eic-2022_en.pdf\" target=\"_blank\">Annex 3 of the EIC Work Programme 2022</a>.</p>\r\n<p>There are limitations on the number of times you can submit an application described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2022/wp_horizon-eic-2022_en.pdf\" target=\"_blank\">section IV (Table 8) of the EIC Work Programme 2022</a>&#xa0;on resubmission&#xa0;limits.</p>\r\n<p>If you are currently a participant in an eligible project funded by&#xa0;<b>Horizon Europe</b>&#xa0;or&#xa0;<b>Horizon 2020</b>&#xa0;then you may be able to apply through your existing project under the&#xa0;<b>Fast Track scheme</b>&#xa0;(see&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2022/wp_horizon-eic-2022_en.pdf\" target=\"_blank\">Annex 4 of the EIC Work Programme 2022</a>). This scheme is managed by the funding body responsible for the existing project and for 2022 it applies to funding bodies managing grants under the&#xa0;<b>EIC Pathfinder</b>&#xa0;and&#xa0;<b>Transition</b>&#xa0;(including&#xa0;<b>EIC pilot 2018-20</b>);&#xa0;<b>ERC Proof of Concept</b>; and&#xa0;<b>Knowledge and Innovation Communities (KICs)</b>&#xa0;supported by the&#xa0;<b>European Institute of Innovation and Technology (EIT)</b>. Applicants may also be able to apply if they have a project financed by an eligible programme managed by a Member State or an Associated Country under the pilot&#xa0;<b>Plug-in scheme</b>. The Plug-in scheme to apply to the EIC Accelerator is detailed in&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2022/wp_horizon-eic-2022_en.pdf\" target=\"_blank\">Annex 5 of the EIC Work Programme 2022</a>.</p><p>&#xa0;</p>\r\n<p><b>Proposal page limits and layout:</b>&#xa0;You must prepare your application (Short and Full application) on the EIC artificial intelligence-based IT platform via on-line forms, by answering a series of questions:</p>\r\n<p><strong>Short applications:</strong></p>\r\n<ul>\r\n    <li>An on-line form where you must summarise your proposal and respond to a set of questions on your innovation, your potential market and your team;</li>\r\n    <li>A pitch-deck of up to 10 slides following a set format;</li>\r\n    <li>A (link to a) video pitch of up to 3 minutes where the core members of your team (up to three people) should provide the motivation for your application.</li>\r\n</ul>\r\n<p><strong>Full applications:</strong></p>\r\n<ul>\r\n    <li>An on-line form that follows a methodology embedded in the EIC artificial intelligence-based IT platform that produces a full and detailed business plan with information on you company\u2019s finances and structur;</li>\r\n    <li>A pitch-deck to be used if invited to the interviews</li>\r\n</ul>\r\n<p>&#xa0;</p></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><p><b>2. Eligible countries:&#xa0;</b>described in&#xa0;&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2022/wp_horizon-eic-2022_en.pdf\" target=\"_blank\">section IV&#xa0;</a>&#xa0;and in&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2022/wp_horizon-eic-2022_en.pdf\" target=\"_blank\">Annex 3 of the EIC Work Programme 2022.</a></p>\r\n<p>Applicants from the United Kingdom can apply to the EIC Accelerator, but can only request and receive funding in the form of \u201cgrant only\u201d. The signature of any grant agreement will be subject to the positive conclusion of the association negotiation with the United Kingdom.</p>\r\n<p>&#xa0;</p></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"> </div></div><div><h4> </h4><div class=\"eui-u-mt-s\"><p><b>3. Financial and operational capacity and exclusion:&#xa0;</b>described in&#xa0;<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2022/wp_horizon-eic-2022_en.pdf\" target=\"_blank\">Annex 2 of the EIC Work Programme 2022</a>.</p>\r\n<p>&#xa0;</p></div></div><div><h4> </h4><div class=\"eui-u-mt-s\"> </div></div><div><h4> </h4><div class=\"eui-u-mt-s\"> </div></div><div><h4> </h4><div class=\"eui-u-mt-s\"> </div></div><div><h4> </h4><div class=\"eui-u-mt-s\"> </div></div></div><div class=\"eui-u-mt-l\"><h4> </h4> <div class=\"eui-u-mt-s\"> </div></div><div class=\"eui-u-mt-l\"><h4> </h4> <div class=\"eui-u-mt-s\"> </div><h4> </h4> <div class=\"eui-u-mt-s\"><p><b>Call documents:</b></p>\r\n<p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2022/wp_horizon-eic-2022_en.pdf\" target=\"_blank\">EIC Work Programme 2022</a><br>\r\n<a href=\"https://eic.ec.europa.eu/guide-applicants_en\" target=\"_blank\">Guide for Applicants</a><br>\r\n<a href=\"https://eic.ec.europa.eu/eic-frequently-asked-questions_en#ecl-inpage-348\" target=\"_blank\">Frequently Asked Questions (FAQs)</a><br>\r\n<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf\" target=\"_blank\">MGA used for EIC actions under Horizon Europe (HE General MGA)<br>\r\n</br></a><a href=\"https://eic.ec.europa.eu/system/files/2021-05/EIC%20Fund%20Investment%20Guidelines%20-%20Horizon%20Europe.pdf\" target=\"_blank\">EIC&#xa0;Fund Investment Guidelines</a></br></br></br></p>\r\n<p>&#xa0;</p></div><h4> </h4> <div class=\"eui-u-mt-s\"><p><b>Additional documents:</b></p>\r\n<p><a href=\"http://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32018R1046&amp;qid=1535046024012\" target=\"_blank\">EU Financial Regulation 2018/1046</a><br>\r\n<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a><br>\r\n<a href=\"http://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a><br>\r\n<a href=\"http://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" target=\"_blank\">Funding &amp; Tenders Portal Terms &amp; Conditions</a><br>\r\n<a href=\"http://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/privacy-statement_en.pdf\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></br></br></br></br></p></div></div>"
+        ],
+        "title": [
+          "EIC Accelerator Open"
+        ],
+        "type": [
+          "1"
+        ],
+        "esST_checksum": [
+          "81991E51E2B9A3597C5AA0242B20B3B82DFC21ED6BB48ADE4918FFB01F7920D5"
+        ],
+        "focusArea": [],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "typeOfMGAs": [
+          "43027846"
+        ],
+        "callIdentifier": [
+          "HORIZON-EIC-2022-ACCELERATOR-01"
+        ],
+        "ccm2Id": [
+          "44661445"
+        ],
+        "callccm2Id": [
+          "44661453"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "44661445HORIZONEICAcceleratorBlendedFinance1646092800000cs"
+        ],
+        "links": [
+          "[]"
+        ],
+        "callTitle": [
+          "EIC Accelerator 2022"
+        ],
+        "frameworkProgramme": [
+          "43108390"
+        ],
+        "descriptionByte": [
+          "<p class=\"topicdescriptionkind\">Scope:</p><p>The EIC Accelerator supports companies (principally SMEs, including start-ups) to scale up high impact innovations with the potential to create new markets or disrupt existing ones. The EIC Accelerator provides a unique combination of funding from EUR 0.5 to EUR 17.5 million and Business Acceleration Services (see Section V).</p><p>The EIC Accelerator focuses in particular on innovations, building on scientific discovery or technological breakthroughs (\u2018deep tech\u2019) and where significant funding is needed over a long timeframe before returns can be generated (\u2018patient capital\u2019). Such innovations often struggle to attract financing because the risks and time period involved are too high. Funding and support from the EIC Accelerator is designed to enable such innovators to attract the full investment amounts needed for scale up in a shorter timeframe.</p><p>The EIC Accelerator supports the later stages of technology development as well as scale up. The technology component of your innovation must therefore have been tested and validated in a laboratory or other relevant environment (e.g. at least Technology Readiness Level 5/6 or higher and have fully completed Technology Readiness Level 4). The EIC Accelerator looks to support companies where the EIC support will act as a catalyst to crowd in other investors necessary for the scale up of the innovation.</p><p>EIC Accelerator Open, which has no predefined thematic priorities and is open to proposals in any field of technology or application.</p><p>For further information, please see the <strong><a href=\"http://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2022/wp_horizon-eic-2022_en.pdf\">EIC Work Programme 2022</a>.</strong></p>"
+        ],
+        "identifier": [
+          "HORIZON-EIC-2022-ACCELERATOROPEN-01"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "programmeDivision": [
+          "43121666",
+          "43121633",
+          "43108390"
+        ],
+        "crossCuttingPriorities": [],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "deadlineDate": [
+          "2022-03-23T00:00:00.000+0000",
+          "2022-06-15T00:00:00.000+0000",
+          "2022-10-05T00:00:00.000+0000"
+        ],
+        "esDA_IngestDate": [
+          "2026-02-17T18:04:22.305+0100"
+        ],
+        "typesOfAction": [
+          "HORIZON EIC Accelerator Blended Finance"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2022-ACCELERATOROPEN-01"
+        ],
+        "es_Combine": [
+          "3"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2022-ACCELERATOROPEN-01"
+        ],
+        "tags": [],
+        "esDA_QueueDate": [
+          "2026-02-17T18:04:22.295+0100"
+        ],
+        "actions": [
+          "[{\"types\":[{\"typeOfAction\":\"HORIZON-EIC-ACC-BF HORIZON EIC Accelerator Blended Finance\",\"typeOfMGA\":[{\"id\":43027846,\"abbreviation\":\"HORIZON-AG\",\"description\":\"HORIZON Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094503,\"abbreviation\":\"Closed\",\"description\":\"Closed\"},\"plannedOpeningDate\":\"2022-03-01\",\"submissionProcedure\":{\"id\":31094506,\"abbreviation\":\"multiple cut-off\",\"description\":\"multiple cut-off\"},\"deadlineDates\":[\"2022-03-23\",\"2022-06-15\",\"2022-10-05\"]}]"
+        ],
+        "allowPartnerSearch": [
+          "true"
+        ],
+        "budgetOverview": [
+          "{\"budgetYearsColumns\":[\"2022\"],\"budgetTopicActionMap\":{\"107065\":[{\"action\":\"HORIZON-EIC-2022-ACCELERATORCHALLENGES-02 - HORIZON-EIC-ACC-BF HORIZON EIC Accelerator Blended Finance\",\"expectedGrants\":80,\"minContribution\":500000,\"maxContribution\":17500000,\"budgetYearMap\":{\"2022\":\"1167846081\"},\"plannedOpeningDate\":\"2022-03-01\",\"deadlineModel\":\"multiple cut-off\",\"deadlineDates\":[\"2022-03-23\",\"2022-06-15\",\"2022-10-05\"]},{\"action\":\"HORIZON-EIC-2022-ACCELERATOROPEN-01 - HORIZON-EIC-ACC-BF HORIZON EIC Accelerator Blended Finance\",\"expectedGrants\":80,\"minContribution\":500000,\"maxContribution\":17500000,\"budgetYearMap\":{\"2022\":\"1167846081\"},\"plannedOpeningDate\":\"2022-03-01\",\"deadlineModel\":\"multiple cut-off\",\"deadlineDates\":[\"2022-03-23\",\"2022-06-15\",\"2022-10-05\"]},{\"action\":\"HORIZON-EIC-2022-ACCELERATORCHALLENGES-01 - HORIZON-EIC-ACC-BF HORIZON EIC Accelerator Blended Finance\",\"expectedGrants\":80,\"minContribution\":500000,\"maxContribution\":17500000,\"budgetYearMap\":{\"2022\":\"1167846081\"},\"plannedOpeningDate\":\"2022-03-01\",\"deadlineModel\":\"multiple cut-off\",\"deadlineDates\":[\"2022-03-23\",\"2022-06-15\",\"2022-10-05\"]}]}}"
+        ],
+        "startDate": [
+          "2022-03-01T00:00:00.000+0000"
+        ],
+        "deadlineModel": [
+          "multiple cut-off"
+        ],
+        "specificObjective": [],
+        "supportInfo": [
+          "<p><strong><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\"><b>Online Manual&#xa0;</b></a></strong>is your guide on the procedures from proposal submission to managing your grant.</p>\r\n<p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" target=\"_blank\"><b>Horizon Europe Programme Guide</b></a><strong>&#xa0;</strong><strong>contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.</strong></p>\r\n<p><b><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq;type=undefined;categories=;programme=H2020;actions=;keyword=\" target=\"_blank\">Funding &amp; Tenders Portal FAQ</a></b>&#xa0;\u2013 find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.</p>\r\n<p><b><a href=\"https://ec.europa.eu/info/research-and-innovation/contact/research-enquiry-service_en\" target=\"_blank\">Research Enquiry Service</a>&#xa0;</b>\u2013 ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.</p>\r\n\r\n<p><b><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/ncp\" target=\"_blank\">National Contact Points (NCPs)</a>&#xa0;</b>\u2013 get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (\u2018third-countries\u2019).</p>\r\n<p><a href=\"https://een.ec.europa.eu/\" target=\"_blank\"><b>Enterprise Europe Network</b></a><strong>&#xa0;</strong>\u2013 contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.</p>\r\n<p><b><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" target=\"_blank\">IT Helpdesk</a></b>&#xa0;\u2013&#xa0;contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p>\r\n<p><b><a href=\"https://www.iprhelpdesk.eu/\" target=\"_blank\">European IPR Helpdesk</a></b>&#xa0;assists you on intellectual property issues.<br>\r\n<br>\r\n<b><a href=\"mailto:research@cencenelec.eu\" target=\"_blank\">CEN-CENELEC Research Helpdesk</a> and <a href=\"https://www.etsi.org/research/helpdesk\" target=\"_blank\">ETSI Research Helpdesk</a></b>&#xa0;\u2013&#xa0;&#xa0;the European Standards Organisations&#xa0;advise you how to tackle standardisation in your project proposal.&#xa0;&#xa0;</br></br></p>\r\n\r\n<p><b><a href=\"https://euraxess.ec.europa.eu/sites/default/files/am509774cee_en_e4.pdf\" target=\"_blank\">The European Charter for Researchers and the Code of Conduct for their recruitment</a></b><strong></strong><strong>\u2013 consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.</strong></p>\r\n<p><b><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/partner-search\" target=\"_blank\">Partner Search Services</a></b>&#xa0;help you find a partner organisation for your proposal.</p>\r\n<p>&#xa0;</p>"
+        ],
+        "status": [
+          "31094503"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "<b>EIC</b> <b>Accelerator</b> Open"
+      ]
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "HORIZON-EIC-2022-ACCELERATOR-011648717640029",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/.json",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "",
+      "weight": 21.764786,
+      "groupById": null,
+      "content": "",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "metadata": {
+        "identifier": [],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "es_SortDate": [
+          "2022-03-31T09:07:20.029+0000"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "esDA_IngestDate": [
+          "2024-07-05T10:00:14.778+0200"
+        ],
+        "description": [
+          "<p>A total number of 790 proposals were submitted in response to the EIC Accelerator Open Call cut off March 23rd, 2022  (HORIZON-EIC-2022-ACCELERATOROPEN-01).</p>\r\n<p>A total number of 129 proposals were submitted in response to the EIC Accelerator &lsquo;Open Strategic Autonomy Challenge&rsquo; Call cut off March 23rd, 2022  (HORIZON-EIC-2022-ACCELERATORCHALLENGES-01).</p>\r\n<p>A total number of 174 proposals were submitted in response to the EIC Accelerator &lsquo;Fit for 55 Challenge&rsquo; Call cut off March 23rd, 2022  (HORIZON-EIC-2022-ACCELERATORCHALLENGES-02).</p>"
+        ],
+        "language": [
+          "en"
+        ],
+        "title": [],
+        "type": [
+          "6"
+        ],
+        "esST_checksum": [
+          "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/.json"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/.json"
+        ],
+        "esDA_QueueDate": [
+          "2024-07-05T10:00:14.592+0200"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "callIdentifier": [
+          "HORIZON-EIC-2022-ACCELERATOR-01"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "HORIZON-EIC-2022-ACCELERATOR-011648717640029"
+        ],
+        "callTitle": [
+          "EIC Accelerator 2022"
+        ],
+        "frameworkProgramme": [
+          "43108390"
+        ],
+        "startDate": [
+          "2022-03-31T09:07:20.029+0000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": []
+    }
+  ]
+}

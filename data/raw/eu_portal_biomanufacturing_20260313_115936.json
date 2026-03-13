@@ -1,0 +1,553 @@
+{
+  "apiVersion": "2.145.3",
+  "terms": "biomanufacturing",
+  "responseTime": 122,
+  "totalResults": 2071,
+  "pageNumber": 1,
+  "pageSize": 50,
+  "sort": "relevance",
+  "groupByField": "sortStatus",
+  "queryLanguage": {
+    "language": "en",
+    "probability": 0.0
+  },
+  "spellingSuggestion": "biomanufacturing",
+  "bestBets": [],
+  "warnings": [],
+  "results_sample": [
+    {
+      "apiVersion": "2.145.3",
+      "reference": "481274262991947",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CBE-2025-RIA-03.json",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Alternative biomanufacturing routes for natural and synthetic rubber",
+      "weight": 34.27163,
+      "groupById": null,
+      "content": "Alternative <b>biomanufacturing</b> routes for natural and synthetic rubber",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "40E477F2894C8E7A7CF48F88DE93E39327D09E7D2E9C883C1E38EBA97F352CCF",
+      "metadata": {
+        "identifier": [
+          "HORIZON-JU-CBE-2025-RIA-03"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "es_SortDate": [
+          "2025-04-02T22:01:01.045+0000"
+        ],
+        "esDA_FirstIngestDate": [
+          "2025-04-03T09:07:21.609+0200"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "esDA_IngestDate": [
+          "2026-01-15T17:56:16.445+0100"
+        ],
+        "description": [
+          "The submission session is now available for: HORIZON-JU-CBE-2025-RIA-02, HORIZON-JU-CBE-2025-RIA-01, HORIZON-JU-CBE-2025-IAFlag-03, HORIZON-JU-CBE-2025-IA-05, HORIZON-JU-CBE-2025-IA-03, HORIZON-JU-CBE-2025-IAFlag-02, HORIZON-JU-CBE-2025-IA-01, HORIZON-JU-CBE-2025-RIA-03, HORIZON-JU-CBE-2025-IA-02, HORIZON-JU-CBE-2025-IA-04, HORIZON-JU-CBE-2025-IAFlag-04, HORIZON-JU-CBE-2025-IAFlag-01, HORIZON-JU-CBE-2025-CSA-01"
+        ],
+        "language": [
+          "en"
+        ],
+        "title": [
+          "Alternative biomanufacturing routes for natural and synthetic rubber"
+        ],
+        "type": [
+          "6"
+        ],
+        "esST_checksum": [
+          "40E477F2894C8E7A7CF48F88DE93E39327D09E7D2E9C883C1E38EBA97F352CCF"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CBE-2025-RIA-03.json"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CBE-2025-RIA-03.json"
+        ],
+        "esDA_QueueDate": [
+          "2026-01-15T17:56:16.423+0100"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "callIdentifier": [
+          "HORIZON-JU-CBE-2025"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "481274262991947"
+        ],
+        "callTitle": [
+          "Circular Bio-based Europe Joint Undertaking"
+        ],
+        "frameworkProgramme": [
+          "43108390"
+        ],
+        "startDate": [
+          "2025-04-02T22:01:01.045+0000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "Alternative <b>biomanufacturing</b> routes for natural and synthetic rubber"
+      ]
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "481274263029847",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CBE-2025-RIA-03.json",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Alternative biomanufacturing routes for natural and synthetic rubber",
+      "weight": 34.27163,
+      "groupById": null,
+      "content": "Alternative <b>biomanufacturing</b> routes for natural and synthetic rubber",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "40E477F2894C8E7A7CF48F88DE93E39327D09E7D2E9C883C1E38EBA97F352CCF",
+      "metadata": {
+        "identifier": [
+          "HORIZON-JU-CBE-2025-RIA-03"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "es_SortDate": [
+          "2025-04-04T11:04:03.443+0000"
+        ],
+        "esDA_FirstIngestDate": [
+          "2025-04-04T13:08:22.645+0200"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "esDA_IngestDate": [
+          "2026-01-15T17:56:16.284+0100"
+        ],
+        "description": [
+          "<p>A new version of the Application Form (Part B) template is now available in the Submission System. Please ensure you use this version, which is updated as of 04/04/2025.</p>"
+        ],
+        "language": [
+          "en"
+        ],
+        "title": [
+          "Alternative biomanufacturing routes for natural and synthetic rubber"
+        ],
+        "type": [
+          "6"
+        ],
+        "esST_checksum": [
+          "40E477F2894C8E7A7CF48F88DE93E39327D09E7D2E9C883C1E38EBA97F352CCF"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CBE-2025-RIA-03.json"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CBE-2025-RIA-03.json"
+        ],
+        "esDA_QueueDate": [
+          "2026-01-15T17:56:16.274+0100"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "callIdentifier": [
+          "HORIZON-JU-CBE-2025"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "481274263029847"
+        ],
+        "callTitle": [
+          "Circular Bio-based Europe Joint Undertaking"
+        ],
+        "frameworkProgramme": [
+          "43108390"
+        ],
+        "startDate": [
+          "2025-04-04T11:04:03.443+0000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "Alternative <b>biomanufacturing</b> routes for natural and synthetic rubber"
+      ]
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "481274264677481",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CBE-2025-RIA-03.json",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Alternative biomanufacturing routes for natural and synthetic rubber",
+      "weight": 34.27163,
+      "groupById": null,
+      "content": "Alternative <b>biomanufacturing</b> routes for natural and synthetic rubber",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "40E477F2894C8E7A7CF48F88DE93E39327D09E7D2E9C883C1E38EBA97F352CCF",
+      "metadata": {
+        "identifier": [
+          "HORIZON-JU-CBE-2025-RIA-03"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "es_SortDate": [
+          "2025-09-23T14:05:00.680+0000"
+        ],
+        "esDA_FirstIngestDate": [
+          "2025-09-23T16:05:49.115+0200"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "esDA_IngestDate": [
+          "2026-01-15T17:56:22.428+0100"
+        ],
+        "description": [
+          "<p><strong>PROPOSAL NUMBERS </strong></p><p>Call HORIZON-JU-CBE-2025 has closed on 18/09/2025.</p><p>248 proposals have been submitted.</p><p>The breakdown per topic is:</p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>HORIZON-JU-CBE-2025-CSA-01: 18</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>HORIZON-JU-CBE-2025-IA-01: 12</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>HORIZON-JU-CBE-2025-IA-02: 15</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>HORIZON-JU-CBE-2025-IA-03: 38</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>HORIZON-JU-CBE-2025-IA-04: 16</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>HORIZON-JU-CBE-2025-IA-05: 18</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>HORIZON-JU-CBE-2025-IAFlag-01: 4</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>HORIZON-JU-CBE-2025-IAFlag-02: 2</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>HORIZON-JU-CBE-2025-IAFlag-03: 10</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>HORIZON-JU-CBE-2025-IAFlag-04: 2</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>HORIZON-JU-CBE-2025-RIA-01: 45</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>HORIZON-JU-CBE-2025-RIA-02: 54</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>HORIZON-JU-CBE-2025-RIA-03: 14</li></ol><p>Evaluation results are expected to be communicated in the second half of January 2026.</p>"
+        ],
+        "language": [
+          "en"
+        ],
+        "title": [
+          "Alternative biomanufacturing routes for natural and synthetic rubber"
+        ],
+        "type": [
+          "6"
+        ],
+        "esST_checksum": [
+          "40E477F2894C8E7A7CF48F88DE93E39327D09E7D2E9C883C1E38EBA97F352CCF"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CBE-2025-RIA-03.json"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CBE-2025-RIA-03.json"
+        ],
+        "esDA_QueueDate": [
+          "2026-01-15T17:56:22.416+0100"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "callIdentifier": [
+          "HORIZON-JU-CBE-2025"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "481274264677481"
+        ],
+        "callTitle": [
+          "Circular Bio-based Europe Joint Undertaking"
+        ],
+        "frameworkProgramme": [
+          "43108390"
+        ],
+        "startDate": [
+          "2025-09-23T14:05:00.680+0000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "Alternative <b>biomanufacturing</b> routes for natural and synthetic rubber"
+      ]
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "48127426TOPICSen",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CBE-2025-RIA-03",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Alternative biomanufacturing routes for natural and synthetic rubber",
+      "weight": 34.27163,
+      "groupById": "3",
+      "content": "Alternative <b>biomanufacturing</b> routes for natural and synthetic rubber",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "40E477F2894C8E7A7CF48F88DE93E39327D09E7D2E9C883C1E38EBA97F352CCF",
+      "metadata": {
+        "latestInfos": [
+          "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-01-15T17:55:01.078\",\"content\":\"\\u003cp\\u003e\\u003cstrong\\u003eEVALUATION results\\u003c/strong\\u003e\\u003c/p\\u003e\\u003cp\\u003ePublished: 03.04.2025\\u003c/p\\u003e\\u003cp\\u003eDeadline: 18.09.2025\\u003c/p\\u003e\\u003cp\\u003eAvailable budget: EUR 172 million\\u003c/p\\u003e\\u003cp\\u003eThe results of the evaluation for each topic are as follows:\\u003c/p\\u003e\\u003cdiv class\\u003d\\\"quill-better-table-wrapper\\\"\\u003e\\u003ctable class\\u003d\\\"quill-better-table\\\" style\\u003d\\\"width: 1400px;\\\"\\u003e\\u003ccolgroup\\u003e\\u003ccol width\\u003d\\\"100\\\"\\u003e\\u003ccol width\\u003d\\\"100\\\"\\u003e\\u003ccol width\\u003d\\\"100\\\"\\u003e\\u003ccol width\\u003d\\\"100\\\"\\u003e\\u003ccol width\\u003d\\\"100\\\"\\u003e\\u003ccol width\\u003d\\\"100\\\"\\u003e\\u003ccol width\\u003d\\\"100\\\"\\u003e\\u003ccol width\\u003d\\\"100\\\"\\u003e\\u003ccol width\\u003d\\\"100\\\"\\u003e\\u003ccol width\\u003d\\\"100\\\"\\u003e\\u003ccol width\\u003d\\\"100\\\"\\u003e\\u003ccol width\\u003d\\\"100\\\"\\u003e\\u003ccol width\\u003d\\\"100\\\"\\u003e\\u003ccol width\\u003d\\\"100\\\"\\u003e\\u003c/col\\u003e\\u003c/col\\u003e\\u003c/col\\u003e\\u003c/col\\u003e\\u003c/col\\u003e\\u003c/col\\u003e\\u003c/col\\u003e\\u003c/col\\u003e\\u003c/col\\u003e\\u003c/col\\u003e\\u003c/col\\u003e\\u003c/col\\u003e\\u003c/col\\u003e\\u003c/col\\u003e\\u003c/colgroup\\u003e\\u003ctbody\\u003e\\u003ctr data-row\\u003d\\\"1\\\"\\u003e\\u003ctd data-row\\u003d\\\"1\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"1\\\" data-cell\\u003d\\\"1\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eHORIZON-JU-CBE-2025-\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"1\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"1\\\" data-cell\\u003d\\\"2\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eIAFlag-01\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"1\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"1\\\" data-cell\\u003d\\\"3\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eIAFlag-02\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"1\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"1\\\" data-cell\\u003d\\\"4\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eIAFlag-03\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"1\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"1\\\" data-cell\\u003d\\\"5\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eIAFlag-04\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"1\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"1\\\" data-cell\\u003d\\\"6\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eIA-01\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"1\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"1\\\" data-cell\\u003d\\\"7\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eIA-02\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"1\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"1\\\" data-cell\\u003d\\\"8\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eIA-03\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"1\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"1\\\" data-cell\\u003d\\\"9\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eIA-04\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"1\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"1\\\" data-cell\\u003d\\\"10\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eIA-05\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"1\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"1\\\" data-cell\\u003d\\\"11\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eRIA-01\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"1\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"1\\\" data-cell\\u003d\\\"12\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eRIA-02\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"1\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"1\\\" data-cell\\u003d\\\"13\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eRIA-03\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"1\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"1\\\" data-cell\\u003d\\\"14\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eCSA-01\\u003c/p\\u003e\\u003c/td\\u003e\\u003c/tr\\u003e\\u003ctr data-row\\u003d\\\"2\\\"\\u003e\\u003ctd data-row\\u003d\\\"2\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"2\\\" data-cell\\u003d\\\"1\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eNumber of proposals submitted (including proposals transferred from or to other calls)\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"2\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"2\\\" data-cell\\u003d\\\"2\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e4\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"2\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"2\\\" data-cell\\u003d\\\"3\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e2\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"2\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"2\\\" data-cell\\u003d\\\"4\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e10\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"2\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"2\\\" data-cell\\u003d\\\"5\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e2\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"2\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"2\\\" data-cell\\u003d\\\"6\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e12\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"2\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"2\\\" data-cell\\u003d\\\"7\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e15\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"2\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"2\\\" data-cell\\u003d\\\"8\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e38\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"2\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"2\\\" data-cell\\u003d\\\"9\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e16\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"2\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"2\\\" data-cell\\u003d\\\"10\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e18\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"2\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"2\\\" data-cell\\u003d\\\"11\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e45\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"2\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"2\\\" data-cell\\u003d\\\"12\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e54\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"2\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"2\\\" data-cell\\u003d\\\"13\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e14\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"2\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"2\\\" data-cell\\u003d\\\"14\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e18\\u003c/p\\u003e\\u003c/td\\u003e\\u003c/tr\\u003e\\u003ctr data-row\\u003d\\\"3\\\"\\u003e\\u003ctd data-row\\u003d\\\"3\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"3\\\" data-cell\\u003d\\\"1\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eNumber of inadmissible proposals\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"3\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"3\\\" data-cell\\u003d\\\"2\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"3\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"3\\\" data-cell\\u003d\\\"3\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"3\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"3\\\" data-cell\\u003d\\\"4\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e1\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"3\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"3\\\" data-cell\\u003d\\\"5\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"3\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"3\\\" data-cell\\u003d\\\"6\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"3\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"3\\\" data-cell\\u003d\\\"7\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"3\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"3\\\" data-cell\\u003d\\\"8\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"3\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"3\\\" data-cell\\u003d\\\"9\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"3\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"3\\\" data-cell\\u003d\\\"10\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"3\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"3\\\" data-cell\\u003d\\\"11\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"3\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"3\\\" data-cell\\u003d\\\"12\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e1\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"3\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"3\\\" data-cell\\u003d\\\"13\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"3\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"3\\\" data-cell\\u003d\\\"14\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003c/td\\u003e\\u003c/tr\\u003e\\u003ctr data-row\\u003d\\\"4\\\"\\u003e\\u003ctd data-row\\u003d\\\"4\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"4\\\" data-cell\\u003d\\\"1\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eNumber of ineligible proposals\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"4\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"4\\\" data-cell\\u003d\\\"2\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e1\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"4\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"4\\\" data-cell\\u003d\\\"3\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"4\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"4\\\" data-cell\\u003d\\\"4\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e1\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"4\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"4\\\" data-cell\\u003d\\\"5\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"4\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"4\\\" data-cell\\u003d\\\"6\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e1\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"4\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"4\\\" data-cell\\u003d\\\"7\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"4\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"4\\\" data-cell\\u003d\\\"8\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e3\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"4\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"4\\\" data-cell\\u003d\\\"9\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e2\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"4\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"4\\\" data-cell\\u003d\\\"10\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e1\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"4\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"4\\\" data-cell\\u003d\\\"11\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e14\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"4\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"4\\\" data-cell\\u003d\\\"12\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e1\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"4\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"4\\\" data-cell\\u003d\\\"13\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"4\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"4\\\" data-cell\\u003d\\\"14\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003c/td\\u003e\\u003c/tr\\u003e\\u003ctr data-row\\u003d\\\"5\\\"\\u003e\\u003ctd data-row\\u003d\\\"5\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"5\\\" data-cell\\u003d\\\"1\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eNumber of above-threshold proposals\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"5\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"5\\\" data-cell\\u003d\\\"2\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e3\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"5\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"5\\\" data-cell\\u003d\\\"3\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e2\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"5\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"5\\\" data-cell\\u003d\\\"4\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e6\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"5\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"5\\\" data-cell\\u003d\\\"5\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e1\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"5\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"5\\\" data-cell\\u003d\\\"6\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e9\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"5\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"5\\\" data-cell\\u003d\\\"7\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e13\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"5\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"5\\\" data-cell\\u003d\\\"8\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e27\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"5\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"5\\\" data-cell\\u003d\\\"9\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e10\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"5\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"5\\\" data-cell\\u003d\\\"10\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e15\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"5\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"5\\\" data-cell\\u003d\\\"11\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e25\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"5\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"5\\\" data-cell\\u003d\\\"12\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e40\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"5\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"5\\\" data-cell\\u003d\\\"13\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e10\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"5\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"5\\\" data-cell\\u003d\\\"14\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e13\\u003c/p\\u003e\\u003c/td\\u003e\\u003c/tr\\u003e\\u003ctr data-row\\u003d\\\"6\\\"\\u003e\\u003ctd data-row\\u003d\\\"6\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"6\\\" data-cell\\u003d\\\"1\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eTotal budget requested for above-threshold proposals (M EUR)\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"6\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"6\\\" data-cell\\u003d\\\"2\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e54.6\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"6\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"6\\\" data-cell\\u003d\\\"3\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e37.7\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"6\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"6\\\" data-cell\\u003d\\\"4\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e111.5\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"6\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"6\\\" data-cell\\u003d\\\"5\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e20.0\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"6\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"6\\\" data-cell\\u003d\\\"6\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e63.1\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"6\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"6\\\" data-cell\\u003d\\\"7\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e78.8\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"6\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"6\\\" data-cell\\u003d\\\"8\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e178.1\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"6\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"6\\\" data-cell\\u003d\\\"9\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e66.9\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"6\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"6\\\" data-cell\\u003d\\\"10\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e98.8\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"6\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"6\\\" data-cell\\u003d\\\"11\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e86.6\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"6\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"6\\\" data-cell\\u003d\\\"12\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e138.4\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"6\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"6\\\" data-cell\\u003d\\\"13\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e34.7\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"6\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"6\\\" data-cell\\u003d\\\"14\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e13.1\\u003c/p\\u003e\\u003c/td\\u003e\\u003c/tr\\u003e\\u003ctr data-row\\u003d\\\"7\\\"\\u003e\\u003ctd data-row\\u003d\\\"7\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"7\\\" data-cell\\u003d\\\"1\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eNumber of proposals retained for funding\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"7\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"7\\\" data-cell\\u003d\\\"2\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e1\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"7\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"7\\\" data-cell\\u003d\\\"3\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e1\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"7\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"7\\\" data-cell\\u003d\\\"4\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e1\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"7\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"7\\\" data-cell\\u003d\\\"5\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e1\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"7\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"7\\\" data-cell\\u003d\\\"6\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e2\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"7\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"7\\\" data-cell\\u003d\\\"7\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e2\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"7\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"7\\\" data-cell\\u003d\\\"8\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e3\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"7\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"7\\\" data-cell\\u003d\\\"9\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e2\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"7\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"7\\\" data-cell\\u003d\\\"10\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e2\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"7\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"7\\\" data-cell\\u003d\\\"11\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e3\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"7\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"7\\\" data-cell\\u003d\\\"12\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e3\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"7\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"7\\\" data-cell\\u003d\\\"13\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e2\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"7\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"7\\\" data-cell\\u003d\\\"14\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e1\\u003c/p\\u003e\\u003c/td\\u003e\\u003c/tr\\u003e\\u003ctr data-row\\u003d\\\"8\\\"\\u003e\\u003ctd data-row\\u003d\\\"8\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"8\\\" data-cell\\u003d\\\"1\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eNumber of proposals in the reserve list\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"8\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"8\\\" data-cell\\u003d\\\"2\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e1\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"8\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"8\\\" data-cell\\u003d\\\"3\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e1\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"8\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"8\\\" data-cell\\u003d\\\"4\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e1\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"8\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"8\\\" data-cell\\u003d\\\"5\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"8\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"8\\\" data-cell\\u003d\\\"6\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e2\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"8\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"8\\\" data-cell\\u003d\\\"7\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e2\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"8\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"8\\\" data-cell\\u003d\\\"8\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e2\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"8\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"8\\\" data-cell\\u003d\\\"9\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e2\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"8\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"8\\\" data-cell\\u003d\\\"10\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e3\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"8\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"8\\\" data-cell\\u003d\\\"11\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e2\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"8\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"8\\\" data-cell\\u003d\\\"12\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e2\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"8\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"8\\\" data-cell\\u003d\\\"13\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e2\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"8\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"8\\\" data-cell\\u003d\\\"14\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e1\\u003c/p\\u003e\\u003c/td\\u003e\\u003c/tr\\u003e\\u003ctr data-row\\u003d\\\"9\\\"\\u003e\\u003ctd data-row\\u003d\\\"9\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"9\\\" data-cell\\u003d\\\"1\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eFunding threshold\\u003ca href\\u003d\\\"#_ftn1\\\" rel\\u003d\\\"noopener noreferrer\\\" target\\u003d\\\"_blank\\\"\\u003e[1]\\u003c/a\\u003e\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"9\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"9\\\" data-cell\\u003d\\\"2\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e14\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"9\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"9\\\" data-cell\\u003d\\\"3\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e14\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"9\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"9\\\" data-cell\\u003d\\\"4\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e14.5\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"9\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"9\\\" data-cell\\u003d\\\"5\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e13.5\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"9\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"9\\\" data-cell\\u003d\\\"6\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e15\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"9\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"9\\\" data-cell\\u003d\\\"7\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e14.5\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"9\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"9\\\" data-cell\\u003d\\\"8\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e15\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"9\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"9\\\" data-cell\\u003d\\\"9\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e14.5\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"9\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"9\\\" data-cell\\u003d\\\"10\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e15\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"9\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"9\\\" data-cell\\u003d\\\"11\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e15\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"9\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"9\\\" data-cell\\u003d\\\"12\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e15\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"9\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"9\\\" data-cell\\u003d\\\"13\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e14.5\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"9\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"9\\\" data-cell\\u003d\\\"14\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e15\\u003c/p\\u003e\\u003c/td\\u003e\\u003c/tr\\u003e\\u003ctr data-row\\u003d\\\"10\\\"\\u003e\\u003ctd data-row\\u003d\\\"10\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"14\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"10\\\" data-cell\\u003d\\\"1\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"14\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eRanking distribution\\u003c/p\\u003e\\u003c/td\\u003e\\u003c/tr\\u003e\\u003ctr data-row\\u003d\\\"11\\\"\\u003e\\u003ctd data-row\\u003d\\\"11\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"11\\\" data-cell\\u003d\\\"1\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eNumber of proposals with scores lower or equal to 15 and higher or equal to 14\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"11\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"11\\\" data-cell\\u003d\\\"2\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e1\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"11\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"11\\\" data-cell\\u003d\\\"3\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e1\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"11\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"11\\\" data-cell\\u003d\\\"4\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e3\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"11\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"11\\\" data-cell\\u003d\\\"5\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e0\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"11\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"11\\\" data-cell\\u003d\\\"6\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e4\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"11\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"11\\\" data-cell\\u003d\\\"7\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e7\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"11\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"11\\\" data-cell\\u003d\\\"8\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e15\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"11\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"11\\\" data-cell\\u003d\\\"9\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e3\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"11\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"11\\\" data-cell\\u003d\\\"10\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e9\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"11\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"11\\\" data-cell\\u003d\\\"11\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e6\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"11\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"11\\\" data-cell\\u003d\\\"12\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e12\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"11\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"11\\\" data-cell\\u003d\\\"13\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e3\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"11\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"11\\\" data-cell\\u003d\\\"14\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e3\\u003c/p\\u003e\\u003c/td\\u003e\\u003c/tr\\u003e\\u003ctr data-row\\u003d\\\"12\\\"\\u003e\\u003ctd data-row\\u003d\\\"12\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"12\\\" data-cell\\u003d\\\"1\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eNumber of proposals with scores lower than 14 and higher or equal to 13\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"12\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"12\\\" data-cell\\u003d\\\"2\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e1\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"12\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"12\\\" data-cell\\u003d\\\"3\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e1\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"12\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"12\\\" data-cell\\u003d\\\"4\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e1\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"12\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"12\\\" data-cell\\u003d\\\"5\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e1\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"12\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"12\\\" data-cell\\u003d\\\"6\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e2\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"12\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"12\\\" data-cell\\u003d\\\"7\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e3\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"12\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"12\\\" data-cell\\u003d\\\"8\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e5\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"12\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"12\\\" data-cell\\u003d\\\"9\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e2\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"12\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"12\\\" data-cell\\u003d\\\"10\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e1\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"12\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"12\\\" data-cell\\u003d\\\"11\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e5\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"12\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"12\\\" data-cell\\u003d\\\"12\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e12\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"12\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"12\\\" data-cell\\u003d\\\"13\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e2\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"12\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"12\\\" data-cell\\u003d\\\"14\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e3\\u003c/p\\u003e\\u003c/td\\u003e\\u003c/tr\\u003e\\u003ctr data-row\\u003d\\\"13\\\"\\u003e\\u003ctd data-row\\u003d\\\"13\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\" style\\u003d\\\"background-color: rgb(242, 242, 242);\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line\\\" data-row\\u003d\\\"13\\\" data-cell\\u003d\\\"1\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\" data-cell-bg\\u003d\\\"rgb(242, 242, 242)\\\"\\u003eNumber of proposals with scores lower than 13 and higher or equal to 10\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"13\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"13\\\" data-cell\\u003d\\\"2\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e1\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"13\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"13\\\" data-cell\\u003d\\\"3\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e0\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"13\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"13\\\" data-cell\\u003d\\\"4\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e2\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"13\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"13\\\" data-cell\\u003d\\\"5\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e0\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"13\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"13\\\" data-cell\\u003d\\\"6\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e4\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"13\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"13\\\" data-cell\\u003d\\\"7\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e3\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"13\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"13\\\" data-cell\\u003d\\\"8\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e12\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"13\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"13\\\" data-cell\\u003d\\\"9\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e6\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"13\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"13\\\" data-cell\\u003d\\\"10\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e6\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"13\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"13\\\" data-cell\\u003d\\\"11\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e17\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"13\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"13\\\" data-cell\\u003d\\\"12\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e17\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"13\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"13\\\" data-cell\\u003d\\\"13\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e6\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd data-row\\u003d\\\"13\\\" rowspan\\u003d\\\"1\\\" colspan\\u003d\\\"1\\\"\\u003e\\u003cp class\\u003d\\\"qlbt-cell-line ql-align-center\\\" data-row\\u003d\\\"13\\\" data-cell\\u003d\\\"14\\\" data-rowspan\\u003d\\\"1\\\" data-colspan\\u003d\\\"1\\\"\\u003e8\\u003c/p\\u003e\\u003c/td\\u003e\\u003c/tr\\u003e\\u003c/tbody\\u003e\\u003c/table\\u003e\\u003c/div\\u003e\\u003cp\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003cp\\u003e\\u003ca href\\u003d\\\"#_ftnref1\\\" rel\\u003d\\\"noopener noreferrer\\\" target\\u003d\\\"_blank\\\"\\u003e[1]\\u003c/a\\u003e Proposals with the same score were ranked according to the priority order procedure set out in the call conditions (for HE, in the General Annexes to the Work Programme or specific arrangements in the specific call/topic conditions). To determine the ranking for \u2018Innovation actions\u2019, the score for \u2018Impact\u2019 is given a weight of 1.5.\\u003c/p\\u003e\\u003cp\\u003eSummary of observer report:\\u003c/p\\u003e\\u003cp\\u003e\\u003cem\\u003eThe Circular Bio-based Europe Joint Undertaking (CBE JU) is a \u20ac2 billion partnership between the EU and the Bio-based Industries Consortium (BIC) that funds projects advancing competitive circular bio-based industries in Europe. CBE JU operates under the rules of Horizon Europe, the EU\u2019s research and innovation programme. \\u003c/em\\u003e\\u003c/p\\u003e\\u003cp\\u003e\\u003cem\\u003eThe 13 topics of call HORIZON-JU-CBE-2025 represent highly relevant focus areas to advance the circular bio-based sector. Many proposals were submitted, indicating a high level of interest across the different actions (RIA, IA, IA-Flag, and CSA). Of the 248 proposals received, 222 proposals passed the admissibility and eligibility criteria and were evaluated by 125 external expert evaluators across 33 panels. Other actors included 25 Rapporteurs, 4 Quality Controllers, 2 Ethics experts, and 1 Independent Observer. \\u003c/em\\u003e\\u003c/p\\u003e\\u003cp\\u003e\\u003cem\\u003eThe scale of the evaluation work required a rigorous management approach, which was very evident throughout the process. All evaluation activities were implemented in a fair and transparent manner to select proposals for funding. The process was governed in a professional manner, with clear leadership by the Head of Unit, supported by a very competent Call Coordinator, and a team of knowledgeable moderators. An impressive level of work was completed in a relatively short timeframe. All communications, briefings, consensus meetings, quality control activities, cross readings and ranking panel meetings were conducted to an excellent standard, with great integrity. There was a clear evidence-based rationale, based on expert reviews, for the final selection of proposals to be funded, and all applicants will receive clear and comprehensive feedback, fully aligned with the rules of Horizon Europe and CBE JU.\\u003c/em\\u003e\\u003c/p\\u003e\\u003cp\\u003eWe recently informed the applicants about the evaluation results for their proposals.\\u003c/p\\u003e\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2025-09-23T16:05:00.680\",\"content\":\"\\u003cp\\u003e\\u003cstrong\\u003ePROPOSAL NUMBERS \\u003c/strong\\u003e\\u003c/p\\u003e\\u003cp\\u003eCall HORIZON-JU-CBE-2025 has closed on 18/09/2025.\\u003c/p\\u003e\\u003cp\\u003e248 proposals have been submitted.\\u003c/p\\u003e\\u003cp\\u003eThe breakdown per topic is:\\u003c/p\\u003e\\u003cul\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eHORIZON-JU-CBE-2025-CSA-01: 18\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eHORIZON-JU-CBE-2025-IA-01: 12\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eHORIZON-JU-CBE-2025-IA-02: 15\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eHORIZON-JU-CBE-2025-IA-03: 38\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eHORIZON-JU-CBE-2025-IA-04: 16\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eHORIZON-JU-CBE-2025-IA-05: 18\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eHORIZON-JU-CBE-2025-IAFlag-01: 4\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eHORIZON-JU-CBE-2025-IAFlag-02: 2\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eHORIZON-JU-CBE-2025-IAFlag-03: 10\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eHORIZON-JU-CBE-2025-IAFlag-04: 2\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eHORIZON-JU-CBE-2025-RIA-01: 45\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eHORIZON-JU-CBE-2025-RIA-02: 54\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eHORIZON-JU-CBE-2025-RIA-03: 14\\u003c/li\\u003e\\u003c/ul\\u003e\\u003cp\\u003eEvaluation results are expected to be communicated in the second half of January 2026.\\u003c/p\\u003e\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2025-04-04T13:04:03.443\",\"content\":\"\\u003cp\\u003eA new version of the Application Form (Part B) template is now available in the Submission System. Please ensure you use this version, which is updated as of 04/04/2025.\\u003c/p\\u003e\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2025-04-03T00:01:01.045\",\"content\":\"The submission session is now available for: HORIZON-JU-CBE-2025-RIA-02, HORIZON-JU-CBE-2025-RIA-01, HORIZON-JU-CBE-2025-IAFlag-03, HORIZON-JU-CBE-2025-IA-05, HORIZON-JU-CBE-2025-IA-03, HORIZON-JU-CBE-2025-IAFlag-02, HORIZON-JU-CBE-2025-IA-01, HORIZON-JU-CBE-2025-RIA-03, HORIZON-JU-CBE-2025-IA-02, HORIZON-JU-CBE-2025-IA-04, HORIZON-JU-CBE-2025-IAFlag-04, HORIZON-JU-CBE-2025-IAFlag-01, HORIZON-JU-CBE-2025-CSA-01\"}]"
+        ],
+        "es_SortDate": [
+          "2025-04-03T00:00:00.000+0000"
+        ],
+        "sepTemplate": [
+          "<p>No submission system is open for this topic.</p>"
+        ],
+        "keywords": [
+          "HORIZON-JU-CBE-2025-RIA-03",
+          "HORIZON-JU-CBE-2025",
+          "Bio-based products (products that are manufactured using biological material as feedstock) bio-based materials, bio-based plastics, biofuels, bio-based and bio-derived bulk and fine chemicals, bio-based and bio-derived novel materials",
+          "Bioprocessing technologies (industrial processes relying on biological agents to drive the process) biocatalysis, fermentation",
+          "Plant genetic resources"
+        ],
+        "sortStatus": [
+          "3"
+        ],
+        "language": [
+          "en"
+        ],
+        "topicConditions": [
+          "<div class=\"eui-u-mt-l>\"><h4>General conditions</h4><div><h4>1. Admissibility Conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2023-2024/wp-13-general-annexes_horizon-2023-2024_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex A</a> and <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2023-2024/wp-13-general-annexes_horizon-2023-2024_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex E</a> of the Horizon Europe Work Programme General Annexes.</p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p></div></div><div><h4>2. Eligible Countries</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2023-2024/wp-13-general-annexes_horizon-2023-2024_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p><p>A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a>.</p></div></div><div><h4>3. Other Eligible Conditions</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2023-2024/wp-13-general-annexes_horizon-2023-2024_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2023-2024/wp-13-general-annexes_horizon-2023-2024_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex C</a> of the Work Programme General Annexes.</p></div></div><div><h4>5a. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2023-2024/wp-13-general-annexes_horizon-2023-2024_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex D</a> of the Work Programme General Annexes.</p></div></div><div><h4>5b. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2023-2024/wp-13-general-annexes_horizon-2023-2024_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2023-2024/wp-13-general-annexes_horizon-2023-2024_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2023-2024/wp-13-general-annexes_horizon-2023-2024_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex G</a> of the Work Programme General Annexes.</p></div></div></div><div class=\"eui-u-mt-l\"><h4>Specific conditions</h4> <div class=\"eui-u-mt-s\"><p>described in section 2.2.3 Calls for proposals in the <a href=\"http://www.cbe.europa.eu/reference-documents\" rel=\"noopener noreferrer\" target=\"_blank\">CBE JU Annual Work Programme 2025</a></p></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Application and evaluation forms and model grant agreement (MGA):</h4> <div class=\"eui-u-mt-s\"><p><strong>Application form templates</strong> <em>\u2014 the application form specific to this call is available in the Submission System</em></p><p><a href=\"http://www.cbe.europa.eu/open-calls-proposals\" rel=\"noopener noreferrer\" target=\"_blank\">CBE JU Call for proposals 2025</a></p><p><strong>Evaluation form templates</strong> <em>\u2014 will be used with the necessary adaptations</em></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/ef/ef_he-ria-ia_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard evaluation form (HE RIA, IA)</a> </p><p><strong>Guidance</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a>&#xa0;</p><p><strong>Model Grant Agreement (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE MGA</a>&#xa0;</p><p><strong>Call-specific instructions</strong>&#xa0;</p><p><a href=\"http://www.cbe.europa.eu/open-calls-proposals\" rel=\"noopener noreferrer\" target=\"_blank\">CBE JU Call for proposals 2025</a></p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2023-2024/wp-4-health_horizon-2023-2024_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2023\u20132025 \u2013 1. General Introduction</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2023-2024/wp-13-general-annexes_horizon-2023-2024_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2023\u20132025 \u2013 13. General Annexes</a> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a>&#xa0;</p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0695\" rel=\"noopener noreferrer\" target=\"_blank\">HE Framework Programme 2021/695</a>&#xa0;</p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021D0764\" rel=\"noopener noreferrer\" target=\"_blank\">HE Specific Programme Decision 2021/764</a>&#xa0;</p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA \u2014 Annotated Model Grant Agreement</a>&#xa0;</p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+        ],
+        "title": [
+          "Alternative biomanufacturing routes for natural and synthetic rubber"
+        ],
+        "type": [
+          "1"
+        ],
+        "esST_checksum": [
+          "40E477F2894C8E7A7CF48F88DE93E39327D09E7D2E9C883C1E38EBA97F352CCF"
+        ],
+        "focusArea": [],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "typeOfMGAs": [
+          "43027846"
+        ],
+        "callIdentifier": [
+          "HORIZON-JU-CBE-2025"
+        ],
+        "ccm2Id": [
+          "48127426"
+        ],
+        "callccm2Id": [
+          "48127468"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "48127426TOPICSen"
+        ],
+        "links": [
+          "[]"
+        ],
+        "callTitle": [
+          "Circular Bio-based Europe Joint Undertaking"
+        ],
+        "frameworkProgramme": [
+          "43108390"
+        ],
+        "descriptionByte": [
+          "<span class=\"topicdescriptionkind\">Expected Outcome:</span><p>Proposals under this topic are expected to support the <a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52024DC0137\">EU Initiative on Biotechnology and Biomanufacturing</a>, the <a href=\"https://data.europa.eu/doi/10.2777/086770\">EU Bioeconomy Strategy</a>, and its action plan, the EU Zero pollution ambition for a toxic-free environment under the <a href=\"https://environment.ec.europa.eu/strategy/chemicals-strategy_en\">Chemicals Strategy for Sustainability</a> and the <a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021DC0400\">Zero Pollution Action Plan</a>, the <a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52021DC0350\">EU Industrial strategy</a>, the <a href=\"https://environment.ec.europa.eu/strategy/biodiversity-strategy-2030_en\">EU Biodiversity strategy 2030</a>, the <a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R1115&amp;qid=1687867231461\">Regulation on Deforestation-free Products</a>.</p><p>Projects results are expected to contribute to the following expected outcomes:</p><ul level=\"0\"><li>Wider availability of sustainable sources of natural and/or bio-based synthetic rubber supporting European industrial competitiveness and strategic autonomy across various sectors of the (bio)economy.</li><li>Competitive and robust production routes for natural and/or synthetic rubber, with high environmental performance, resource efficiency and sustainability.</li><li>Biomanufactured alternatives to conventional natural and/or to fossil-based synthetic rubber meeting market requirements for targeted final applications</li> </ul><span class=\"topicdescriptionkind\">Scope:</span><p>Rubber-based products have a wide array of applications such as automotive, construction, industrial, healthcare products and consumer goods. The market is roughly equally divided between natural rubber and fossil-based synthetic rubber. Natural rubber (NR), included originally in 2017 on the list of \u2019critical European raw materials\u2019, as one of the few \u2018biotic\u2019 critical raw materials, is found in more than 40,000 products and in many applications. Increasing NR demand is linked with sustainability issues, including sustainable land use, deforestation and forest degradation, labour rights, and control of potentially devastating fungal diseases. For its NR supply, Europe fully relies on imports. Natural rubber is amongst the commodities covered by the EU Regulation on Deforestation-free products. Moreover fossil-based elastomeric polymers (synthetic rubber) are also widely imported from outside EU for applications into a variety of sectors including automotive, construction, etc\u2026</p><p>Considering the future market developments and related sustainability issues, and the issue of EU strategic autonomy for critical raw materials, European rubber manufacturers are urgently looking for resource diversification, taking care about the sourcing impacts on deforestation and forest degradation, to comply with the EU Regulation on Deforestation-free products. The focus is on broadening the range of sustainable natural rubber sources and alternatives to fossil based synthetic rubber for the European bio-based industry.</p><p>Proposals under this topic should:</p><ul level=\"0\"><li>Identify and characterise the suitable sources of rubber-bearing genetic backgrounds (e.g., plants, yeast, microbial hosts, etc\u2026) which are suitable for optimisation for natural and/or synthetic rubber biomanufacturing. When targeting plant-based sources, proposals should focus on implementing low-ILUC solutions.</li><li>Develop bio-based solutions aiming at high yield of isoprenoid and/or other elastomers, e.g. by deploying the modern tools of biotechnology or other biomanufacturing approaches.</li><li>Advance EU/AC-based production, extraction and/or processing methods, to enable high productivity and quality of high molecular weight natural rubber and/or other bio-based elastomers. Test the suitability of the developed biomanufactured alternatives into end-products.</li> </ul><p>In addition to the specific requirements applicable for the type of action, as described in section 2.2.3.1 of the CBE JU Annual Work Programme 2025<sup>[1]</sup>, proposals under this topic should:</p><ul level=\"0\"><li>Address environmental aspects, aiming at lowering the overall environmental impact of the natural and /or synthetic rubber production in the EU/AC (and potentially, in the long term, globally) and at achieving its high sustainability (e.g. resource efficiency), as well as prevention of microplastics release, as appropriate.</li><li>Ensure complementarities with past and ongoing R&amp;I projects addressing similar challenges, including projects funded under Horizon 2020 / Horizon Europe and BBI / CBE JU<sup>[2]</sup>.</li><li>Contribute to the global discussion<sup>[3]</sup> on the sustainability of natural rubber and the alternatives developed in the project, e.g. within the \u2018Dissemination and Exploitation plan\u2019 , as appropriate.</li> </ul><p class=\"eui-u-font-s\">[1] https://www.cbe.europa.eu/reference-documents</p><p class=\"eui-u-font-s\">[2] <sup> </sup>For example, project MIDAS, NORDIC BIO-RUBBER. The list is not exhaustive.</p><p class=\"eui-u-font-s\">[3] For example, in the International Bioeconomy Forum, Global Bioeconomy Summit, or other appropriate thematic platforms with global partners, especially from the Global South.</p>"
+        ],
+        "identifier": [
+          "HORIZON-JU-CBE-2025-RIA-03"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "programmeDivision": [
+          "43108541",
+          "43121563",
+          "43121593"
+        ],
+        "crossCuttingPriorities": [
+          "AI",
+          "DigitalAgenda",
+          "NEB"
+        ],
+        "esDA_FirstIngestDate": [
+          "2025-04-03T09:07:24.956+0200"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "deadlineDate": [
+          "2025-09-18T00:00:00.000+0000"
+        ],
+        "esDA_IngestDate": [
+          "2026-01-15T18:05:22.406+0100"
+        ],
+        "typesOfAction": [
+          "HORIZON JU Research and Innovation Actions"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CBE-2025-RIA-03"
+        ],
+        "es_Combine": [
+          "3"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-CBE-2025-RIA-03"
+        ],
+        "tags": [
+          "bio-based products",
+          "bio-based synthetic rubber",
+          "biomanufacturing",
+          "elastomers",
+          "isoprenoids",
+          "natural rubber",
+          "plant genetics",
+          "rubber"
+        ],
+        "cenTagsA": [
+          "TOPICS-006577",
+          "TOPICS-006578",
+          "TOPICS-006579",
+          "TOPICS-006580",
+          "TOPICS-006581",
+          "TOPICS-001505",
+          "TOPICS-000798",
+          "TOPICS-006582",
+          "TOPICS-006583",
+          "TOPICS-005385",
+          "TOPICS-002241",
+          "TOPICS-006584",
+          "TOPICS-006585",
+          "TOPICS-006586",
+          "TOPICS-006087",
+          "TOPICS-001775",
+          "TOPICS-001435"
+        ],
+        "esDA_QueueDate": [
+          "2026-01-15T18:05:22.368+0100"
+        ],
+        "actions": [
+          "[{\"types\":[{\"typeOfAction\":\"HORIZON-JU-RIA HORIZON JU Research and Innovation Actions\",\"typeOfMGA\":[{\"id\":43027846,\"abbreviation\":\"HORIZON-AG\",\"description\":\"HORIZON Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094503,\"abbreviation\":\"Closed\",\"description\":\"Closed\"},\"plannedOpeningDate\":\"2025-04-03\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2025-09-18\"]}]"
+        ],
+        "allowPartnerSearch": [
+          "true"
+        ],
+        "budgetOverview": [
+          "{\"budgetYearsColumns\":[\"2025\"],\"budgetTopicActionMap\":{\"110254\":[{\"action\":\"HORIZON-JU-CBE-2025-RIA-02 - HORIZON-JU-RIA HORIZON JU Research and Innovation Actions\",\"expectedGrants\":2,\"minContribution\":3500000,\"maxContribution\":3500000,\"budgetYearMap\":{\"2025\":\"172137258.88\"},\"plannedOpeningDate\":\"2025-04-03\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2025-09-18\"]},{\"action\":\"HORIZON-JU-CBE-2025-RIA-01 - HORIZON-JU-RIA HORIZON JU Research and Innovation Actions\",\"expectedGrants\":2,\"minContribution\":3500000,\"maxContribution\":3500000,\"budgetYearMap\":{\"2025\":\"172137258.88\"},\"plannedOpeningDate\":\"2025-04-03\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2025-09-18\"]},{\"action\":\"HORIZON-JU-CBE-2025-IAFlag-03 - HORIZON-JU-IA HORIZON JU Innovation Actions\",\"expectedGrants\":1,\"minContribution\":20000000,\"maxContribution\":20000000,\"budgetYearMap\":{\"2025\":\"172137258.88\"},\"plannedOpeningDate\":\"2025-04-03\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2025-09-18\"]},{\"action\":\"HORIZON-JU-CBE-2025-IA-05 - HORIZON-JU-IA HORIZON JU Innovation Actions\",\"expectedGrants\":2,\"minContribution\":7000000,\"maxContribution\":7000000,\"budgetYearMap\":{\"2025\":\"172137258.88\"},\"plannedOpeningDate\":\"2025-04-03\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2025-09-18\"]},{\"action\":\"HORIZON-JU-CBE-2025-IA-03 - HORIZON-JU-IA HORIZON JU Innovation Actions\",\"expectedGrants\":2,\"minContribution\":7000000,\"maxContribution\":7000000,\"budgetYearMap\":{\"2025\":\"172137258.88\"},\"plannedOpeningDate\":\"2025-04-03\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2025-09-18\"]},{\"action\":\"HORIZON-JU-CBE-2025-IAFlag-02 - HORIZON-JU-IA HORIZON JU Innovation Actions\",\"expectedGrants\":1,\"minContribution\":20000000,\"maxContribution\":20000000,\"budgetYearMap\":{\"2025\":\"172137258.88\"},\"plannedOpeningDate\":\"2025-04-03\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2025-09-18\"]},{\"action\":\"HORIZON-JU-CBE-2025-IA-01 - HORIZON-JU-IA HORIZON JU Innovation Actions\",\"expectedGrants\":2,\"minContribution\":7000000,\"maxContribution\":7000000,\"budgetYearMap\":{\"2025\":\"172137258.88\"},\"plannedOpeningDate\":\"2025-04-03\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2025-09-18\"]},{\"action\":\"HORIZON-JU-CBE-2025-RIA-03 - HORIZON-JU-RIA HORIZON JU Research and Innovation Actions\",\"expectedGrants\":2,\"minContribution\":3500000,\"maxContribution\":3500000,\"budgetYearMap\":{\"2025\":\"172137258.88\"},\"plannedOpeningDate\":\"2025-04-03\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2025-09-18\"]},{\"action\":\"HORIZON-JU-CBE-2025-IA-02 - HORIZON-JU-IA HORIZON JU Innovation Actions\",\"expectedGrants\":2,\"minContribution\":7000000,\"maxContribution\":7000000,\"budgetYearMap\":{\"2025\":\"172137258.88\"},\"plannedOpeningDate\":\"2025-04-03\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2025-09-18\"]},{\"action\":\"HORIZON-JU-CBE-2025-IA-04 - HORIZON-JU-IA HORIZON JU Innovation Actions\",\"expectedGrants\":2,\"minContribution\":7000000,\"maxContribution\":7000000,\"budgetYearMap\":{\"2025\":\"172137258.88\"},\"plannedOpeningDate\":\"2025-04-03\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2025-09-18\"]},{\"action\":\"HORIZON-JU-CBE-2025-IAFlag-04 - HORIZON-JU-IA HORIZON JU Innovation Actions\",\"expectedGrants\":1,\"minContribution\":20000000,\"maxContribution\":20000000,\"budgetYearMap\":{\"2025\":\"172137258.88\"},\"plannedOpeningDate\":\"2025-04-03\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2025-09-18\"]},{\"action\":\"HORIZON-JU-CBE-2025-IAFlag-01 - HORIZON-JU-IA HORIZON JU Innovation Actions\",\"expectedGrants\":1,\"minContribution\":20000000,\"maxContribution\":20000000,\"budgetYearMap\":{\"2025\":\"172137258.88\"},\"plannedOpeningDate\":\"2025-04-03\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2025-09-18\"]},{\"action\":\"HORIZON-JU-CBE-2025-CSA-01 - HORIZON-JU-CSA HORIZON JU Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":1000000,\"maxContribution\":1000000,\"budgetYearMap\":{\"2025\":\"172137258.88\"},\"plannedOpeningDate\":\"2025-04-03\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2025-09-18\"]}]}}"
+        ],
+        "startDate": [
+          "2025-04-03T00:00:00.000+0000"
+        ],
+        "deadlineModel": [
+          "single-stage"
+        ],
+        "specificObjective": [],
+        "supportInfo": [
+          "<p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> is your guide on the procedures from proposal submission to managing your grant.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a> contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?isExactMatch=true&amp;status=0&amp;type=0,1&amp;order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=publicationDate\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ</a> \u2013 find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.</p><p><a href=\"https://research-and-innovation.ec.europa.eu/contact-us/research-enquiry-service_en\" rel=\"noopener noreferrer\" target=\"_blank\">Research Enquiry Service</a> \u2013 ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/ncp\" rel=\"noopener noreferrer\" target=\"_blank\">National Contact Points (NCPs)</a> \u2013 get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (\u2018third-countries\u2019).</p><p><a href=\"https://een.ec.europa.eu/\" rel=\"noopener noreferrer\" target=\"_blank\">Enterprise Europe Network</a> \u2013 contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> \u2013 contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://intellectual-property-helpdesk.ec.europa.eu/index_en\" rel=\"noopener noreferrer\" target=\"_blank\">European IPR Helpdesk</a> assists you on intellectual property issues.</p><p><a href=\"mailto:research@cencenelec.eu\" rel=\"noopener noreferrer\" target=\"_blank\">CEN-CENELEC Research Helpdesk</a> and <a href=\"https://www.etsi.org/research/helpdesk\" rel=\"noopener noreferrer\" target=\"_blank\">ETSI Research Helpdesk</a> \u2013 the European Standards Organisations advise you how to tackle standardisation in your project proposal.</p><p><a href=\"https://euraxess.ec.europa.eu/sites/default/files/am509774cee_en_e4.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">The European Charter for Researchers and the Code of Conduct for their recruitment</a> \u2013 consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/partner-search?order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=lastModified&amp;isExactMatch=true&amp;type=ORGANISATION,PERSON&amp;frameworkProgramme=43108390\" rel=\"noopener noreferrer\" target=\"_blank\">Partner Search</a> help you find a partner organisation for your proposal.</p>"
+        ],
+        "status": [
+          "31094503"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "Alternative <b>biomanufacturing</b> routes for natural and synthetic rubber"
+      ]
+    },
+    {
+      "apiVersion": "2.145.3",
+      "reference": "474363354610435",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/HORIZON-EIC-2025-PATHFINDERCHALLENGES-01-01.json",
+      "title": null,
+      "contentType": "text/plain",
+      "language": "en",
+      "databaseLabel": "SEDIA",
+      "database": "SEDIA",
+      "summary": "Biotech for Climate Resilient Crops and Plant-Based Biomanufacturing",
+      "weight": 32.811325,
+      "groupById": null,
+      "content": "Biotech for Climate Resilient Crops and Plant-Based <b>Biomanufacturing</b>",
+      "accessRestriction": false,
+      "pages": null,
+      "checksum": "439ECEAAC76559778832DED23287EA1D3BC86B72C9A195D26E30E92B19481DF6",
+      "metadata": {
+        "identifier": [
+          "HORIZON-EIC-2025-PATHFINDERCHALLENGES-01-01"
+        ],
+        "es_ContentType": [
+          "text/plain"
+        ],
+        "es_SortDate": [
+          "2025-07-23T22:01:00.633+0000"
+        ],
+        "esDA_FirstIngestDate": [
+          "2025-07-24T00:01:12.311+0200"
+        ],
+        "programmePeriod": [
+          "2021 - 2027"
+        ],
+        "esDA_IngestDate": [
+          "2025-07-24T00:01:12.311+0200"
+        ],
+        "description": [
+          "The submission session is now available for: HORIZON-EIC-2025-PATHFINDERCHALLENGES-01-04, HORIZON-EIC-2025-PATHFINDERCHALLENGES-01-03, HORIZON-EIC-2025-PATHFINDERCHALLENGES-01-02, HORIZON-EIC-2025-PATHFINDERCHALLENGES-01-01"
+        ],
+        "language": [
+          "en"
+        ],
+        "title": [
+          "Biotech for Climate Resilient Crops and Plant-Based Biomanufacturing"
+        ],
+        "type": [
+          "6"
+        ],
+        "esST_checksum": [
+          "439ECEAAC76559778832DED23287EA1D3BC86B72C9A195D26E30E92B19481DF6"
+        ],
+        "url": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/HORIZON-EIC-2025-PATHFINDERCHALLENGES-01-01.json"
+        ],
+        "esST_URL": [
+          "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/HORIZON-EIC-2025-PATHFINDERCHALLENGES-01-01.json"
+        ],
+        "esDA_QueueDate": [
+          "2025-07-24T00:01:12.279+0200"
+        ],
+        "esST_FileName": [
+          "file.txt"
+        ],
+        "callIdentifier": [
+          "HORIZON-EIC-2025-PATHFINDERCHALLENGES-01"
+        ],
+        "DATASOURCE": [
+          "SEDIA"
+        ],
+        "REFERENCE": [
+          "474363354610435"
+        ],
+        "callTitle": [
+          "EIC Pathfinder Challenges 2025"
+        ],
+        "frameworkProgramme": [
+          "HORIZON"
+        ],
+        "startDate": [
+          "2025-07-23T22:01:00.633+0000"
+        ]
+      },
+      "enrichedMetadata": {},
+      "children": [],
+      "highlightedFragments": [
+        "Biotech for Climate Resilient Crops and Plant-Based <b>Biomanufacturing</b>"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1806 @@
+{
+  "errorcode": 0,
+  "msg": "Webservice Succeeds",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.IkZlcXBETTBmdHdXTFF1c1FKWkNGL2toSmZMcWg0bjR1WHNKVHNSSGdLbU09Ig.2F8BcT2OYJLcPVRFftoS-wDBbPHuyFig0n0lO7HvFmU",
+  "data": {
+    "searchParams": {
+      "resultType": "json",
+      "searchOnly": false,
+      "oppNum": "",
+      "cfda": "",
+      "sortBy": "openDate|desc",
+      "oppStatuses": "posted|forecasted",
+      "startRecordNum": 0,
+      "eligibilities": "",
+      "fundingInstruments": "",
+      "fundingCategories": "",
+      "agencies": "",
+      "rows": 100,
+      "keyword": "cancer oncology tumor",
+      "keywordEncoded": true
+    },
+    "hitCount": 119,
+    "startRecord": 0,
+    "oppHits": [
+      {
+        "id": "361458",
+        "number": "DE-FOA-0003620",
+        "title": "FY2026 Research Opportunities in Accelerator Stewardship and Accelerator Development",
+        "agencyCode": "PAMS-SC",
+        "agency": "Office of Science",
+        "openDate": "03/12/2026",
+        "closeDate": "05/21/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "81.049"
+        ]
+      },
+      {
+        "id": "361447",
+        "number": "PAR-26-129",
+        "title": "Systematic Testing of Radionuclides in Preclinical Experiments (STRIPE, RP1 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "03/11/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.395",
+          "93.394"
+        ]
+      },
+      {
+        "id": "361438",
+        "number": "PAR-26-150",
+        "title": "Early-Onset Cancers: Investigating Etiology, Mechanisms, and Early Detection Strategies (RP1 Clinical Trials Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "03/10/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.399",
+          "93.393",
+          "93.396"
+        ]
+      },
+      {
+        "id": "361439",
+        "number": "PAR-26-149",
+        "title": "Cancer Center Support Grants (CCSGs) for NCI-designated Cancer Centers (P30 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "03/10/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.397"
+        ]
+      },
+      {
+        "id": "361399",
+        "number": "PAR-26-152",
+        "title": "Precision Approaches in Radiation Synthetic Combinations (PAIRS, RP1 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "03/03/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.395"
+        ]
+      },
+      {
+        "id": "361276",
+        "number": "PAR-26-126",
+        "title": "Pancreatic Cancer Detection Consortium: Management and Data Coordination Unit (U24 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "02/11/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.394"
+        ]
+      },
+      {
+        "id": "361275",
+        "number": "PAR-26-120",
+        "title": "Pancreatic Cancer Detection Consortium: Research Units (U01 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "02/11/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.394"
+        ]
+      },
+      {
+        "id": "361263",
+        "number": "RFA-HG-26-002",
+        "title": "Genomic Community Resources (U24 Clinical Trials Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "02/09/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.172"
+        ]
+      },
+      {
+        "id": "359725",
+        "number": "PAR-26-134",
+        "title": "The Metastasis Research Network (MetNet): MetNet Research Projects (U01 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "02/04/2026",
+        "closeDate": "11/22/2028",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.396"
+        ]
+      },
+      {
+        "id": "359879",
+        "number": "RFA-RM-26-017",
+        "title": "Pilot Projects Enhancing Utility and Usage of Common Fund Data Sets (R03 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "01/30/2026",
+        "closeDate": "06/23/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.310"
+        ]
+      },
+      {
+        "id": "360581",
+        "number": "PA-26-002",
+        "title": "NIH Collaborative International Research Project (Parent PF5 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "01/20/2026",
+        "closeDate": "05/07/2029",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.310"
+        ]
+      },
+      {
+        "id": "361164",
+        "number": "PAR-26-107",
+        "title": "Discovery of the Genetic Basis of Childhood Cancers and of Congenital Anomalies: Gabriella Miller Kids First Pediatric Research Program (X01 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "01/20/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.310"
+        ]
+      },
+      {
+        "id": "361137",
+        "number": "HRSA-26-007",
+        "title": "Service Area Competition - Additional Area 1",
+        "agencyCode": "HHS-HRSA",
+        "agency": "Health Resources and Services Administration",
+        "openDate": "01/13/2026",
+        "closeDate": "03/16/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.224"
+        ]
+      },
+      {
+        "id": "361134",
+        "number": "RFA-CA-25-035",
+        "title": "Limited Competition: Biospecimen Banks to support NCI National Clinical Trials Network Biospecimen Banks (NCTN Biobanks) and the NCI Early-Phase and Experimental Clinical Trials Biospecimen Bank (EET Biobank) (U24 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "01/13/2026",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.394"
+        ]
+      },
+      {
+        "id": "358911",
+        "number": "RFA-DK-26-309",
+        "title": "Single Source Renewal for the Continuation of the Liver Cirrhosis Network: Scientific and Data Coordination Center (U24 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "01/09/2026",
+        "closeDate": "01/27/2027",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.847"
+        ]
+      },
+      {
+        "id": "361065",
+        "number": "RFA-AI-27-005",
+        "title": "Clinical Research Network on Antimicrobial Resistance",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "12/29/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.855"
+        ]
+      },
+      {
+        "id": "361053",
+        "number": "HRSA-26-009",
+        "title": "Fiscal Year (FY) 2026 National Technical Assistance Programs (NTAP) Cooperative Agreements",
+        "agencyCode": "HHS-HRSA",
+        "agency": "Health Resources and Services Administration",
+        "openDate": "12/23/2025",
+        "closeDate": "03/31/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.129"
+        ]
+      },
+      {
+        "id": "360946",
+        "number": "PAR-26-091",
+        "title": "Assay Validation of High Quality Markers for Clinical Studies in Cancer (UH2/UH3 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "12/08/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.394"
+        ]
+      },
+      {
+        "id": "359659",
+        "number": "PAR-26-116",
+        "title": "Opportunities for Collaborative Research at the NIH Clinical Center (U01 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "12/08/2025",
+        "closeDate": "03/06/2027",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.313"
+        ]
+      },
+      {
+        "id": "359646",
+        "number": "RFA-OD-25-011",
+        "title": "Animal and Biological Material Resource Centers (P40 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "12/05/2025",
+        "closeDate": "01/09/2029",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.351"
+        ]
+      },
+      {
+        "id": "358910",
+        "number": "RFA-DK-26-308",
+        "title": "Limited Competition Renewal for the Continuation of the Liver Cirrhosis Network: Clinical Research Centers (U01 Clinical Trial Required)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "12/05/2025",
+        "closeDate": "03/08/2027",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.847"
+        ]
+      },
+      {
+        "id": "359648",
+        "number": "RFA-OD-25-010",
+        "title": "Resource-Related Research Projects for Development of Models and Related Materials for Studying Human Health and Diseases (R24 Clinical Trials Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "12/05/2025",
+        "closeDate": "09/28/2028",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.351"
+        ]
+      },
+      {
+        "id": "360368",
+        "number": "PA-26-001",
+        "title": "Administrative Supplements to Existing NIH Grants and Cooperative Agreements (Parent Admin Supp Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "11/26/2025",
+        "closeDate": "11/30/2028",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.310"
+        ]
+      },
+      {
+        "id": "360918",
+        "number": "PAR-25-444",
+        "title": "Cancer Center Support Grants (CCSGs) for NCI-designated Cancer Centers (P30 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "11/26/2025",
+        "closeDate": "09/25/2028",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.397"
+        ]
+      },
+      {
+        "id": "360905",
+        "number": "RFA-CA-26-006",
+        "title": "Carcinogen Hazard Assessment Monographs Program (CHAMP) (R01 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "11/21/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.399",
+          "93.393",
+          "93.396"
+        ]
+      },
+      {
+        "id": "360881",
+        "number": "RFA-CA-25-031",
+        "title": "Metastasis Research Network (U54 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "11/19/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.396"
+        ]
+      },
+      {
+        "id": "358987",
+        "number": "CMS-2Q2-26-001",
+        "title": "Innovation in Behavioral Health (IBH)",
+        "agencyCode": "HHS-CMS",
+        "agency": "Center for Medicare and Medicaid Services",
+        "openDate": "10/16/2025",
+        "closeDate": "06/03/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.610"
+        ]
+      },
+      {
+        "id": "360720",
+        "number": "CDC-RFA-JG-26-0166",
+        "title": "Strengthening comprehensive HIV and TB services and health systems in high-burden areas of Namibia under the President's Emergency Plan for AIDS Relief (PEPFAR)",
+        "agencyCode": "HHS-CDC-GHC",
+        "agency": "Centers for Disease Control-GHC",
+        "openDate": "10/02/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.067"
+        ]
+      },
+      {
+        "id": "360715",
+        "number": "CDC-RFA-JG-26-0151",
+        "title": "Sustaining HIV and TB epidemic control in Lesotho through health system strengthening and technical assistance under the President's Emergency Plan for AIDS Relief (PEPFAR)",
+        "agencyCode": "HHS-CDC-GHC",
+        "agency": "Centers for Disease Control-GHC",
+        "openDate": "10/01/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.067"
+        ]
+      },
+      {
+        "id": "360702",
+        "number": "CDC-RFA-JG-26-0127",
+        "title": "Providing targeted technical assistance (TA) to strengthen Botswana's implementation of sustainable and comprehensive HIV clinical and prevention services for adults and children under the President's Emergency Plan for AIDS Relief (PEPFAR)",
+        "agencyCode": "HHS-CDC-GHC",
+        "agency": "Centers for Disease Control-GHC",
+        "openDate": "10/01/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.067"
+        ]
+      },
+      {
+        "id": "360707",
+        "number": "CDC-RFA-JG-26-0136",
+        "title": "Engaging faith-based organizations to sustain lifesaving HIV and TB services in Ethiopia",
+        "agencyCode": "HHS-CDC-GHC",
+        "agency": "Centers for Disease Control-GHC",
+        "openDate": "10/01/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.067"
+        ]
+      },
+      {
+        "id": "360606",
+        "number": "RFA-CA-25-033",
+        "title": "Glioblastoma Therapeutics Network (GTN; U19 Clinical Trial Required)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "09/17/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.394",
+          "93.395"
+        ]
+      },
+      {
+        "id": "360541",
+        "number": "PAR-26-064",
+        "title": "Specialized Programs of Research Excellence (SPOREs) in Human Cancers for Years 2027, 2028, and 2029 (P50 Clinical Trial Required)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "09/09/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.395"
+        ]
+      },
+      {
+        "id": "360536",
+        "number": "RFA-CA-26-001",
+        "title": "Early-Stage Innovative Technology Development for Basic and Clinical Cancer Research (R61 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "09/08/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.394"
+        ]
+      },
+      {
+        "id": "360534",
+        "number": "RFA-CA-26-002",
+        "title": "Advanced Development and Validation of Emerging Technologies for Basic and Clinical Cancer Research (R33 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "09/08/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.394"
+        ]
+      },
+      {
+        "id": "360393",
+        "number": "PAR-25-454",
+        "title": "Comprehensive Partnerships to Advance Cancer Health (CPACH) (U54 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "08/28/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.398",
+          "93.396",
+          "93.394",
+          "93.397",
+          "93.393",
+          "93.395",
+          "93.399"
+        ]
+      },
+      {
+        "id": "360258",
+        "number": "FA238424S2233",
+        "title": "Continuing Human Enabling Enhancing Restoring and Sustaining",
+        "agencyCode": "DOD-AFRL",
+        "agency": "Air Force -- Research Lab",
+        "openDate": "08/07/2025",
+        "closeDate": "08/22/2044",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "12.800"
+        ]
+      },
+      {
+        "id": "360223",
+        "number": "FOR-FD-26-004",
+        "title": "Novel approaches to support therapeutic development in ultra-rare cancers",
+        "agencyCode": "HHS-FDA",
+        "agency": "Food and Drug Administration",
+        "openDate": "08/04/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.103"
+        ]
+      },
+      {
+        "id": "360205",
+        "number": "USDA-NIFA-AFRI-011134",
+        "title": "Agriculture and Food Research Initiative Competitive Grants Program Foundational and Applied Science Program",
+        "agencyCode": "USDA-NIFA",
+        "agency": "National Institute of Food and Agriculture",
+        "openDate": "08/01/2025",
+        "closeDate": "12/31/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "10.310"
+        ]
+      },
+      {
+        "id": "360194",
+        "number": "RFA-OH-26-024",
+        "title": "Continuation and Expansion of the National Mesothelioma Virtual Bank for Translational Research (U24)",
+        "agencyCode": "HHS-CDC-HHSCDCERA",
+        "agency": "Centers for Disease Control and Prevention - ERA",
+        "openDate": "07/31/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.262"
+        ]
+      },
+      {
+        "id": "359853",
+        "number": "FOR-CA-25-075",
+        "title": "Forecast to Publish a Funding Opportunity Announcement for Sustained Support for Informatics Technologies for Cancer Research and Management (U24 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "07/02/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.395",
+          "93.396",
+          "93.393",
+          "93.394",
+          "93.399"
+        ]
+      },
+      {
+        "id": "359855",
+        "number": "FOR-CA-25-074",
+        "title": "Forecast to Publish a Funding Opportunity Announcement for Advanced Development of Informatics Technologies for Cancer Research and Management (U24 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "07/02/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.399",
+          "93.394",
+          "93.393",
+          "93.395",
+          "93.396"
+        ]
+      },
+      {
+        "id": "359892",
+        "number": "FOR-CA-25-073",
+        "title": "Forecast to Publish a Funding Opportunity Announcement for Early-Stage Development of Informatics Technologies for Cancer Research and Management (U01 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "07/02/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.399",
+          "93.394",
+          "93.393",
+          "93.395",
+          "93.396"
+        ]
+      },
+      {
+        "id": "359869",
+        "number": "NOT-CA-25-103",
+        "title": "Notice to Publish a Funding Opportunity Announcement for the Academic Career Excellence (ACE) Award (K32 - Independent Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "07/01/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.398"
+        ]
+      },
+      {
+        "id": "359894",
+        "number": "NOT-CA-25-102",
+        "title": "Forecast to Publish a Notice of Funding Opportunity for Academic Career Excellence (ACE) Award (K32 - Clinical Trial Required)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "07/01/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.398"
+        ]
+      },
+      {
+        "id": "359889",
+        "number": "NOT-CA-25-105",
+        "title": "Forecast to Publish a Notice of Funding Opportunity for Paul Calabresi Career Development Award in Clinical Oncology (K12 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "07/01/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.398"
+        ]
+      },
+      {
+        "id": "359852",
+        "number": "FOR-TR-27-003",
+        "title": "Selective Precision Targeting (SPoT)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "06/27/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.350"
+        ]
+      },
+      {
+        "id": "359854",
+        "number": "FOR-CA-25-090",
+        "title": "Forecast to Publish a Notice of Funding Opportunity for The Experimental Therapeutics Clinical Trials Network (ETCTN) Pharmacokinetic Resource Laboratory (U24 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "06/27/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.395"
+        ]
+      },
+      {
+        "id": "359827",
+        "number": "NOT-HD-25-006",
+        "title": "Notice of Intent to Publish a Funding Opportunity Announcement for ClinGen Genomic Curation Expert Panels",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "06/25/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.865"
+        ]
+      },
+      {
+        "id": "359726",
+        "number": "FOR-CA-25-086",
+        "title": "Forecast to Publish a Notice of Funding Opportunity for SBIR Phase IIB Bridge Awards to Accelerate the Development of Cancer-Relevant Technologies Toward Commercialization (R44 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "06/16/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.395",
+          "93.394"
+        ]
+      },
+      {
+        "id": "359733",
+        "number": "FOR-PAR-25-420",
+        "title": "Research Enhancement Award Program (REAP) for Health Professional Schools and Graduate Schools",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "06/16/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.866"
+        ]
+      },
+      {
+        "id": "359090",
+        "number": "FOR-CA-25-077",
+        "title": "Forecast to Publish a Funding Opportunity Announcement for Cancer Epidemiology Cohorts: Building the Next Generation of Research Cohorts (U01 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "06/16/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.399"
+        ]
+      },
+      {
+        "id": "359091",
+        "number": "FOR-CA-25-076",
+        "title": "Forecast to Publish a Funding Opportunity Announcement for Research Opportunities in Cancer Epidemiology Cohort Studies (U01 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "06/16/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.399"
+        ]
+      },
+      {
+        "id": "359724",
+        "number": "FOR-CA-25-087",
+        "title": "Forecast to Publish a Notice of Funding Opportunity for Small Business Transition Grant For Early Career Scientists (R41/R42 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "06/16/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.394",
+          "93.172",
+          "93.286"
+        ]
+      },
+      {
+        "id": "358886",
+        "number": "FOR-EB-26-001",
+        "title": "Notice of Intent to Publish a Funding Opportunity Announcement for Trailblazer Award for New and Early-Stage Investigators (R21 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "06/11/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.286"
+        ]
+      },
+      {
+        "id": "358963",
+        "number": "NOT-CA-25-042",
+        "title": "Forecast to Publish a Notice of Funding Opportunity (NOFO) for NCI Community Oncology Research Program (NCORP) Research Bases (UG1 Clinical Trial Required)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "05/28/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.399"
+        ]
+      },
+      {
+        "id": "359169",
+        "number": "NOT-RM-25-019",
+        "title": "Cellular Senescence Network (SenNet): SenNet Data Coordination, Integration and Organizational Center (U24 or UM1)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "05/28/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.310"
+        ]
+      },
+      {
+        "id": "359168",
+        "number": "NOT-RM-25-018",
+        "title": "Cellular Senescence Network (SenNet):Technology Projects (UG3/UH3 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "05/28/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.310"
+        ]
+      },
+      {
+        "id": "358964",
+        "number": "NOT-CA-25-043",
+        "title": "Forecast to Publish a Notice of Funding Opportunity (NOFO) for NCI Community Oncology Research Program (NCORP) Community Sites (UG1 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "05/28/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.399"
+        ]
+      },
+      {
+        "id": "359132",
+        "number": "NOT-CA-25-044",
+        "title": "Forecast to Publish a Notice of Funding Opportunity (NOFO) for NCI Community Oncology Research Program (NCORP) Academic Community Sites (UG1 Clinical Trials Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "05/28/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.399"
+        ]
+      },
+      {
+        "id": "359133",
+        "number": "FOR-CA-25-089",
+        "title": "Forecast to Publish a Notice of Funding Opportunity for The Experimental Therapeutics Clinical Trials Network (ETCTN) Lead Academic Organizations (UM1 Clinical Trial Required)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "05/27/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.395"
+        ]
+      },
+      {
+        "id": "359142",
+        "number": "NOT-AI-25-032",
+        "title": "Limited Competition: International epidemiology Databases to Evaluate AIDS (IeDEA) (U01 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "05/27/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.855"
+        ]
+      },
+      {
+        "id": "358959",
+        "number": "NOT-RM-25-035",
+        "title": "Continued Development of the Gabriella Miller Kids First Pediatric Data Resource Center (U2C Clinical Trials Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "05/14/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.310"
+        ]
+      },
+      {
+        "id": "358960",
+        "number": "NOT-RM-25-036",
+        "title": "Gabriella Miller Kids First Training and Outreach Core (U24 Clinical Trials Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "05/14/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.310"
+        ]
+      },
+      {
+        "id": "358954",
+        "number": "NOT-RM-25-034",
+        "title": "Genome Sequencing Center for the Gabriella Miller Kids First Pediatric Research Program (U24 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "05/14/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.310"
+        ]
+      },
+      {
+        "id": "358870",
+        "number": "FOR-MD-25-002",
+        "title": "Forecast to Renew the Notice of Funding Opportunity Announcement for the Multiple Chronic Disease Research Centers",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "05/12/2025",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.307"
+        ]
+      },
+      {
+        "id": "358024",
+        "number": "PAR-25-324",
+        "title": "Method to Extend Research in Time (MERIT) Award Extension Request (Type 4 eSubmission Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "01/06/2025",
+        "closeDate": "09/07/2028",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.393",
+          "93.396",
+          "93.395",
+          "93.399",
+          "93.394",
+          "93.397"
+        ]
+      },
+      {
+        "id": "357963",
+        "number": "PAR-25-337",
+        "title": "Academic-Industrial Partnerships for Translation of Technologies for Diagnosis and Treatment (R01 - Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "12/31/2024",
+        "closeDate": "01/07/2028",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.394",
+          "93.395"
+        ]
+      },
+      {
+        "id": "357962",
+        "number": "PAR-25-338",
+        "title": "Academic-Industrial Partnerships for Translation of Technologies for Diagnosis and Treatment (R01 - Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "12/31/2024",
+        "closeDate": "01/07/2028",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.395",
+          "93.867",
+          "93.121",
+          "93.313",
+          "93.394"
+        ]
+      },
+      {
+        "id": "357748",
+        "number": "PAR-25-336",
+        "title": "Toward Translation of Nanotechnology Cancer Interventions (TTNCI; R01 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "12/16/2024",
+        "closeDate": "11/15/2027",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.395"
+        ]
+      },
+      {
+        "id": "357712",
+        "number": "PAR-25-325",
+        "title": "Integrating Biospecimen Science Approaches into Clinical Assay Development (U01 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "12/13/2024",
+        "closeDate": "09/10/2027",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.393"
+        ]
+      },
+      {
+        "id": "357651",
+        "number": "PAR-25-346",
+        "title": "Exploratory/Developmental Bioengineering Research Grants (EBRG) (R21 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "12/11/2024",
+        "closeDate": "01/07/2028",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.394",
+          "93.393",
+          "93.121",
+          "93.396",
+          "93.395",
+          "93.399"
+        ]
+      },
+      {
+        "id": "357627",
+        "number": "PAR-25-321",
+        "title": "Exploratory/Developmental Bioengineering Research Grants (EBRG) (R21 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "12/10/2024",
+        "closeDate": "01/07/2028",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.394",
+          "93.395",
+          "93.393",
+          "93.399",
+          "93.396"
+        ]
+      },
+      {
+        "id": "357550",
+        "number": "PAR-25-299",
+        "title": "Interventions to Address Disparities in Liver Diseases and Liver Cancer (R01 - Clinical Trials Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "12/05/2024",
+        "closeDate": "01/07/2028",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.273",
+          "93.307",
+          "93.399"
+        ]
+      },
+      {
+        "id": "357493",
+        "number": "PAR-25-271",
+        "title": "NCCIH Natural Product Mid Phase Clinical Trial (R01 Clinical Trial Required)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "12/02/2024",
+        "closeDate": "11/13/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.213"
+        ]
+      },
+      {
+        "id": "357304",
+        "number": "PAR-25-254",
+        "title": "Understanding Expectancies in Cancer Symptom Management (R01 Clinical Trial Required)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "11/21/2024",
+        "closeDate": "05/07/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.399"
+        ]
+      },
+      {
+        "id": "357307",
+        "number": "PAR-25-248",
+        "title": "Utilizing the PLCO Biospecimens Resource to Bridge Gaps in Cancer Etiology and Early Detection Research (U01 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "11/21/2024",
+        "closeDate": "10/08/2027",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.393"
+        ]
+      },
+      {
+        "id": "357274",
+        "number": "PAR-25-106",
+        "title": "Innovative Research in Cancer Nanotechnology (IRCN; R01 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "11/21/2024",
+        "closeDate": "05/04/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.394",
+          "93.395"
+        ]
+      },
+      {
+        "id": "357261",
+        "number": "FOR-FD-25-015",
+        "title": "Applied regulatory science research to evaluate and treat cardiotoxicity of oncology therapeutics",
+        "agencyCode": "HHS-FDA",
+        "agency": "Food and Drug Administration",
+        "openDate": "11/20/2024",
+        "closeDate": "",
+        "oppStatus": "forecasted",
+        "docType": "forecast",
+        "cfdaList": [
+          "93.103"
+        ]
+      },
+      {
+        "id": "357202",
+        "number": "PAR-25-069",
+        "title": "Mechanisms that Impact Cancer Risk with Use of Incretin Mimetics (R01 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "11/18/2024",
+        "closeDate": "01/07/2027",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.393"
+        ]
+      },
+      {
+        "id": "357192",
+        "number": "PAR-25-243",
+        "title": "Basic Research in Cancer Health Disparities (R01 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "11/18/2024",
+        "closeDate": "01/07/2028",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.393"
+        ]
+      },
+      {
+        "id": "357204",
+        "number": "PAR-25-095",
+        "title": "Secondary Analysis and Integration of Existing Data to Elucidate Cancer Risk and Related Outcomes (R01 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "11/18/2024",
+        "closeDate": "09/07/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.121",
+          "93.866",
+          "93.393",
+          "93.172"
+        ]
+      },
+      {
+        "id": "357203",
+        "number": "PAR-25-070",
+        "title": "Mechanisms that Impact Cancer Risk with Use of Incretin Mimetics (R21 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "11/18/2024",
+        "closeDate": "01/07/2027",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.393"
+        ]
+      },
+      {
+        "id": "357205",
+        "number": "PAR-25-096",
+        "title": "Secondary Analysis and Integration of Existing Data to Elucidate Cancer Risk and Related Outcomes (R21 Clinical Trials Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "11/18/2024",
+        "closeDate": "09/07/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.121",
+          "93.866",
+          "93.172",
+          "93.393"
+        ]
+      },
+      {
+        "id": "357193",
+        "number": "PAR-25-244",
+        "title": "Basic Research in Cancer Health Disparities (R21 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "11/18/2024",
+        "closeDate": "11/16/2027",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.393"
+        ]
+      },
+      {
+        "id": "357067",
+        "number": "PA-25-253",
+        "title": "Exploratory Grants in Cancer Control (R21 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "11/12/2024",
+        "closeDate": "09/07/2028",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.399",
+          "93.393"
+        ]
+      },
+      {
+        "id": "357074",
+        "number": "PAR-25-167",
+        "title": "Cancer Prevention and Control Clinical Trials Grant Program (R01 Clinical Trial Required)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "11/12/2024",
+        "closeDate": "01/07/2027",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.399",
+          "93.393"
+        ]
+      },
+      {
+        "id": "357075",
+        "number": "PAR-25-081",
+        "title": "National Cancer Institute's Investigator-Initiated Early Phase Clinical Trials for Cancer Treatment and Diagnosis (R01 Clinical Trial Required)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "11/12/2024",
+        "closeDate": "01/07/2027",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.393",
+          "93.399",
+          "93.394",
+          "93.395"
+        ]
+      },
+      {
+        "id": "357030",
+        "number": "PA-25-172",
+        "title": "Modular R01s in Cancer Control and Population Sciences (R01 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "11/07/2024",
+        "closeDate": "01/07/2028",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.399",
+          "93.393"
+        ]
+      },
+      {
+        "id": "357021",
+        "number": "PAR-25-221",
+        "title": "Population Approaches to Reducing Alcohol-related Cancer Risk (R01 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "11/06/2024",
+        "closeDate": "01/07/2027",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.396",
+          "93.273"
+        ]
+      },
+      {
+        "id": "357015",
+        "number": "PAR-25-145",
+        "title": "Clinical Characterization of Cancer Therapy-induced Adverse Sequelae and Mechanism-based Interventional Strategies (R01 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "11/06/2024",
+        "closeDate": "01/07/2028",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.393"
+        ]
+      },
+      {
+        "id": "357005",
+        "number": "PAR-24-306",
+        "title": "Research Projects to Enhance Applicability of Mammalian Models for Translational Research (R01 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "11/06/2024",
+        "closeDate": "09/07/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.393",
+          "93.395",
+          "93.396",
+          "93.394"
+        ]
+      },
+      {
+        "id": "357014",
+        "number": "PAR-25-153",
+        "title": "Assay development and screening for discovery of chemical probes, drugs or immunomodulators (R01 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "11/06/2024",
+        "closeDate": "09/07/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.395"
+        ]
+      },
+      {
+        "id": "357002",
+        "number": "PAR-24-311",
+        "title": "Molecular Imaging of Inflammation in Cancer (R01 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "11/06/2024",
+        "closeDate": "01/07/2028",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.394",
+          "93.395",
+          "93.396"
+        ]
+      },
+      {
+        "id": "357003",
+        "number": "PAR-25-175",
+        "title": "Integration of Imaging and Fluid-Based Tumor Monitoring in Cancer Therapy (R01 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "11/06/2024",
+        "closeDate": "01/07/2028",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.393",
+          "93.395",
+          "93.394"
+        ]
+      },
+      {
+        "id": "357018",
+        "number": "PAR-25-079",
+        "title": "Academic-Industrial Partnerships (AIP) to Translate and Validate In Vivo Imaging Systems (R01 Clinical Trial Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "11/06/2024",
+        "closeDate": "01/07/2027",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.395",
+          "93.394"
+        ]
+      },
+      {
+        "id": "356978",
+        "number": "PAR-25-103",
+        "title": "Cancer Prevention and Control Clinical Trials Planning Grant Program (U34 Clinical Trials Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "11/05/2024",
+        "closeDate": "10/25/2027",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.399"
+        ]
+      },
+      {
+        "id": "356979",
+        "number": "PAR-25-104",
+        "title": "Cancer Prevention and Control Clinical Trials Planning Grant Program (R34 Clinical Trials Optional)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "11/05/2024",
+        "closeDate": "10/25/2027",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.399"
+        ]
+      },
+      {
+        "id": "356717",
+        "number": "PAR-25-075",
+        "title": "Assay Validation of High Quality Markers for Clinical Studies in Cancer (UH3 Clinical Trials Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "10/15/2024",
+        "closeDate": "10/14/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.394"
+        ]
+      },
+      {
+        "id": "356718",
+        "number": "PAR-25-074",
+        "title": "Assay Validation of High Quality Markers for Clinical Studies in Cancer (UH2/UH3 Clinical Trial Not Allowed)",
+        "agencyCode": "HHS-NIH11",
+        "agency": "National Institutes of Health",
+        "openDate": "10/15/2024",
+        "closeDate": "10/14/2026",
+        "oppStatus": "posted",
+        "docType": "synopsis",
+        "cfdaList": [
+          "93.394"
+        ]
+      }
+    ],
+    "oppStatusOptions": [
+      {
+        "label": "posted",
+        "value": "posted",
+        "count": 68
+      },
+      {
+        "label": "closed",
+        "value": "closed",
+        "count": 130
+      },
+      {
+        "label": "archived",
+        "value": "archived",
+        "count": 3544
+      },
+      {
+        "label": "forecasted",
+        "value": "forecasted",
+        "count": 51
+      }
+    ],
+    "dateRangeOptions": [
+      {
+        "label": "Posted Date - Last 3 Days",
+        "value": "3",
+        "count": 2
+      },
+      {
+        "label": "Posted Date - Last 1 Week",
+        "value": "7",
+        "count": 4
+      },
+      {
+        "label": "Posted Date - Last 2 Weeks",
+        "value": "14",
+        "count": 5
+      },
+      {
+        "label": "Posted Date - Last 3 Weeks",
+        "value": "21",
+        "count": 5
+      },
+      {
+        "label": "Posted Date - Last 4 Weeks",
+        "value": "28",
+        "count": 5
+      },
+      {
+        "label": "Posted Date - Last 5 Weeks",
+        "value": "35",
+        "count": 8
+      },
+      {
+        "label": "Posted Date - Last 6 Weeks",
+        "value": "42",
+        "count": 9
+      },
+      {
+        "label": "Posted Date - Last 7 Weeks",
+        "value": "49",
+        "count": 10
+      },
+      {
+        "label": "Posted Date - Last 8 Weeks",
+        "value": "56",
+        "count": 12
+      }
+    ],
+    "suggestion": "",
+    "eligibilities": [
+      {
+        "label": "City or township governments",
+        "value": "02",
+        "count": 79
+      },
+      {
+        "label": "County governments",
+        "value": "01",
+        "count": 100
+      },
+      {
+        "label": "For profit organizations other than small businesses",
+        "value": "22",
+        "count": 102
+      },
+      {
+        "label": "Independent school districts",
+        "value": "05",
+        "count": 95
+      },
+      {
+        "label": "Native American tribal governments (Federally recognized)",
+        "value": "07",
+        "count": 102
+      },
+      {
+        "label": "Native American tribal organizations (other than Federally recognized tribal governments)",
+        "value": "11",
+        "count": 100
+      },
+      {
+        "label": "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "value": "12",
+        "count": 107
+      },
+      {
+        "label": "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "value": "13",
+        "count": 81
+      },
+      {
+        "label": "Others (see text field entitled \"Additional Information on Eligibility\" for clarification)",
+        "value": "25",
+        "count": 81
+      },
+      {
+        "label": "Private institutions of higher education",
+        "value": "20",
+        "count": 107
+      },
+      {
+        "label": "Public and State controlled institutions of higher education",
+        "value": "06",
+        "count": 107
+      },
+      {
+        "label": "Public housing authorities/Indian housing authorities",
+        "value": "08",
+        "count": 95
+      },
+      {
+        "label": "Small businesses",
+        "value": "23",
+        "count": 102
+      },
+      {
+        "label": "Special district governments",
+        "value": "04",
+        "count": 79
+      },
+      {
+        "label": "State governments",
+        "value": "00",
+        "count": 102
+      },
+      {
+        "label": "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\"",
+        "value": "99",
+        "count": 12
+      }
+    ],
+    "fundingCategories": [
+      {
+        "label": "Agriculture",
+        "value": "AG",
+        "count": 3
+      },
+      {
+        "label": "Consumer Protection",
+        "value": "CP",
+        "count": 2
+      },
+      {
+        "label": "Education",
+        "value": "ED",
+        "count": 45
+      },
+      {
+        "label": "Food and Nutrition",
+        "value": "FN",
+        "count": 2
+      },
+      {
+        "label": "Health",
+        "value": "HL",
+        "count": 110
+      },
+      {
+        "label": "Other (see text field entitled \"Explanation of Other Category of Funding Activity\" for clarification)",
+        "value": "O",
+        "count": 1
+      },
+      {
+        "label": "Science and Technology and other Research and Development",
+        "value": "ST",
+        "count": 6
+      }
+    ],
+    "fundingInstruments": [
+      {
+        "label": "Cooperative Agreement",
+        "value": "CA",
+        "count": 49
+      },
+      {
+        "label": "Grant",
+        "value": "G",
+        "count": 70
+      },
+      {
+        "label": "Other",
+        "value": "O",
+        "count": 2
+      },
+      {
+        "label": "Procurement Contract",
+        "value": "PC",
+        "count": 2
+      }
+    ],
+    "agencies": [
+      {
+        "subAgencyOptions": [
+          {
+            "label": "National Institute of Food and Agriculture",
+            "value": "USDA-NIFA",
+            "count": 1
+          }
+        ],
+        "label": "Department of Agriculture",
+        "value": "USDA",
+        "count": 1
+      },
+      {
+        "subAgencyOptions": [
+          {
+            "label": "Air Force -- Research Lab",
+            "value": "DOD-AFRL",
+            "count": 1
+          },
+          {
+            "label": "Defense Threat Reduction Agency",
+            "value": "DOD-DTRA",
+            "count": 1
+          },
+          {
+            "label": "Dept. of the Army -- USAMRAA",
+            "value": "DOD-AMRAA",
+            "count": 2
+          }
+        ],
+        "label": "Department of Defense",
+        "value": "DOD",
+        "count": 4
+      },
+      {
+        "subAgencyOptions": [
+          {
+            "label": "Office of Science",
+            "value": "PAMS-SC",
+            "count": 1
+          }
+        ],
+        "label": "Department of Energy - Office of Science",
+        "value": "PAMS",
+        "count": 1
+      },
+      {
+        "subAgencyOptions": [
+          {
+            "label": "Center for Medicare and Medicaid Services",
+            "value": "HHS-CMS",
+            "count": 1
+          },
+          {
+            "label": "Centers for Disease Control and Prevention - ERA",
+            "value": "HHS-CDC-HHSCDCERA",
+            "count": 1
+          },
+          {
+            "label": "Centers for Disease Control-GHC",
+            "value": "HHS-CDC-GHC",
+            "count": 4
+          },
+          {
+            "label": "Food and Drug Administration",
+            "value": "HHS-FDA",
+            "count": 2
+          },
+          {
+            "label": "Health Resources and Services Administration",
+            "value": "HHS-HRSA",
+            "count": 2
+          },
+          {
+            "label": "National Institutes of Health",
+            "value": "HHS-NIH11",
+            "count": 100
+          },
+          {
+            "label": "Office of the National Coordinator",
+            "value": "HHS-OS-ONC",
+            "count": 1
+          }
+        ],
+        "label": "Department of Health and Human Services",
+        "value": "HHS",
+        "count": 111
+      },
+      {
+        "subAgencyOptions": [],
+        "label": "U.S. National Science Foundation",
+        "value": "NSF",
+        "count": 2
+      }
+    ],
+    "accessKey": "",
+    "errorMsgs": []
+  }
+}
