@@ -136,6 +136,290 @@ topic_groups:
       - encapsulation
       - formulation
 
+  # --- Broad biomedical & health topic groups ---
+  # Lower weights so June Bio niche topics rank higher
+
+  cancer_oncology:
+    label: "Cancer/Oncology"
+    weight: 0.4
+    keywords:
+      - cancer
+      - oncology
+      - tumor
+      - carcinoma
+      - neoplasm
+      - NCI
+      - malignancy
+      - chemotherapy
+      - radiation therapy
+      - immunotherapy
+
+  cardiovascular:
+    label: "Cardiovascular"
+    weight: 0.4
+    keywords:
+      - cardiovascular
+      - heart disease
+      - stroke
+      - cardiac
+      - vascular
+      - NHLBI
+      - hypertension
+      - atherosclerosis
+      - heart failure
+
+  neuroscience:
+    label: "Neuroscience"
+    weight: 0.4
+    keywords:
+      - neuroscience
+      - brain
+      - neurological
+      - Alzheimer
+      - dementia
+      - Parkinson
+      - NINDS
+      - neurodegenerative
+      - epilepsy
+      - traumatic brain injury
+
+  infectious_disease:
+    label: "Infectious Disease"
+    weight: 0.4
+    keywords:
+      - infectious disease
+      - pathogen
+      - antimicrobial resistance
+      - vaccine
+      - pandemic
+      - NIAID
+      - antiviral
+      - antibacterial
+      - emerging infectious
+      - HIV
+      - tuberculosis
+
+  digital_health_ai:
+    label: "Digital Health/AI"
+    weight: 0.5
+    keywords:
+      - digital health
+      - artificial intelligence
+      - machine learning
+      - telehealth
+      - health informatics
+      - mHealth
+      - electronic health record
+      - clinical decision support
+      - wearable
+      - remote monitoring
+
+  precision_medicine:
+    label: "Precision Medicine"
+    weight: 0.5
+    keywords:
+      - precision medicine
+      - genomics
+      - personalized medicine
+      - pharmacogenomics
+      - biobank
+      - whole genome
+      - exome
+      - multi-omics
+
+  medical_devices:
+    label: "Medical Devices"
+    weight: 0.5
+    keywords:
+      - medical device
+      - biomedical engineering
+      - imaging
+      - wearable device
+      - sensor
+      - NIBIB
+      - point-of-care device
+      - implantable
+      - biosensor
+
+  mental_health:
+    label: "Mental Health"
+    weight: 0.4
+    keywords:
+      - mental health
+      - psychiatry
+      - behavioral health
+      - depression
+      - anxiety
+      - NIMH
+      - psychosis
+      - PTSD
+      - suicide prevention
+
+  rare_diseases:
+    label: "Rare Diseases"
+    weight: 0.4
+    keywords:
+      - rare disease
+      - orphan drug
+      - genetic disorder
+      - NCATS
+      - undiagnosed disease
+      - rare condition
+
+  public_health:
+    label: "Public Health"
+    weight: 0.3
+    keywords:
+      - public health
+      - epidemiology
+      - population health
+      - health equity
+      - health disparities
+      - CDC
+      - social determinants
+      - community health
+
+  metabolic:
+    label: "Metabolic/Diabetes"
+    weight: 0.4
+    keywords:
+      - diabetes
+      - obesity
+      - metabolic
+      - endocrine
+      - NIDDK
+      - insulin
+      - type 2 diabetes
+      - metabolic syndrome
+
+  aging:
+    label: "Aging"
+    weight: 0.4
+    keywords:
+      - aging
+      - geriatric
+      - older adults
+      - longevity
+      - NIA
+      - age-related
+      - frailty
+      - healthy aging
+
+  regenerative_medicine:
+    label: "Regenerative Medicine"
+    weight: 0.4
+    keywords:
+      - regenerative medicine
+      - stem cell
+      - tissue engineering
+      - cell therapy
+      - gene therapy
+      - gene editing
+      - CRISPR
+
+  substance_abuse:
+    label: "Substance Abuse"
+    weight: 0.3
+    keywords:
+      - substance abuse
+      - addiction
+      - opioid
+      - alcohol
+      - NIDA
+      - NIAAA
+      - drug abuse
+      - overdose
+
+  maternal_child:
+    label: "Maternal/Child Health"
+    weight: 0.3
+    keywords:
+      - maternal health
+      - pediatric
+      - neonatal
+      - child health
+      - NICHD
+      - pregnancy
+      - prenatal
+      - infant health
+
+  respiratory:
+    label: "Respiratory"
+    weight: 0.4
+    keywords:
+      - respiratory
+      - pulmonary
+      - lung disease
+      - asthma
+      - COPD
+      - cystic fibrosis
+      - pneumonia
+
+  renal:
+    label: "Renal"
+    weight: 0.4
+    keywords:
+      - kidney
+      - renal
+      - nephrology
+      - dialysis
+      - chronic kidney disease
+      - glomerular
+
+  environmental_health:
+    label: "Environmental Health"
+    weight: 0.3
+    keywords:
+      - environmental health
+      - toxicology
+      - exposure
+      - NIEHS
+      - pollutant
+      - environmental justice
+
+  nutrition:
+    label: "Nutrition"
+    weight: 0.3
+    keywords:
+      - nutrition
+      - food safety
+      - dietary
+      - malnutrition
+      - obesity prevention
+      - food science
+
+  rehabilitation:
+    label: "Rehabilitation"
+    weight: 0.3
+    keywords:
+      - rehabilitation
+      - disability
+      - assistive technology
+      - physical therapy
+      - occupational therapy
+
+  # --- EU-specific topic groups ---
+
+  eu_programmes:
+    label: "EU Programmes"
+    weight: 0.3
+    keywords:
+      - Horizon Europe
+      - EU4Health
+      - EIC Accelerator
+      - EIC Pathfinder
+      - ERC Starting
+      - ERC Consolidator
+      - ERC Advanced
+      - MSCA
+      - Marie Curie
+      - IHI
+      - Innovative Health Initiative
+      - Digital Europe
+      - European Health Data Space
+      - Euratom
+      - Horizon 2020
+
 # Scoring settings
 scoring:
   keyword_weight: 0.6
