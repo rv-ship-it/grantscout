@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grant Scout Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="header-content">
+      <h1>Grant Scout Dashboard</h1>
+      <p class="subtitle">Biomedical &amp; Health Research Funding Opportunities</p>
+      <p class="last-updated" id="lastUpdated"></p>
+      <div class="header-actions">
+        <button id="refreshBtn" class="btn-refresh" title="Refresh grants from all sources">
+          <span class="refresh-icon" id="refreshIcon">&#x21bb;</span>
+          <span id="refreshLabel">Refresh Grants</span>
+        </button>
+        <button id="settingsBtn" class="btn-settings" title="Configure GitHub token">&#x2699;</button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <!-- Stats bar -->
+    <div class="stats-bar" id="statsBar">
+      <div class="stat">
+        <span class="stat-value" id="statTotal">-</span>
+        <span class="stat-label">Total</span>
+      </div>
+      <div class="stat">
+        <span class="stat-value" id="statFiltered">-</span>
+        <span class="stat-label">Showing</span>
+      </div>
+      <div class="stat source-stat">
+        <span class="stat-value" id="statGrantsGov">-</span>
+        <span class="stat-label">Grants.gov</span>
+      </div>
+      <div class="stat source-stat">
+        <span class="stat-value" id="statEU">-</span>
+        <span class="stat-label">EU Portal</span>
+      </div>
+      <div class="stat source-stat">
+        <span class="stat-value" id="statNIH">-</span>
+        <span class="stat-label">NIH Guide</span>
+      </div>
+      <div class="stat">
+        <span class="stat-value" id="statHighPriority">-</span>
+        <span class="stat-label">High Priority</span>
+      </div>
+    </div>
+
+    <!-- Controls -->
+    <div class="controls">
+      <div class="search-box">
+        <input type="text" id="searchInput" placeholder="Search title, agency, summary, opportunity number...">
+      </div>
+      <div class="filters">
+        <select id="filterSource">
+          <option value="">All Sources</option>
+          <option value="Grants.gov">Grants.gov</option>
+          <option value="EU Portal">EU Portal</option>
+          <option value="NIH Guide">NIH Guide</option>
+        </select>
+        <select id="filterAgency">
+          <option value="">All Agencies</option>
+        </select>
+        <select id="filterTopic">
+          <option value="">All Topics</option>
+        </select>
+        <select id="filterDeadline">
+          <option value="">Any Deadline</option>
+          <option value="30">Within 30 days</option>
+          <option value="60">Within 60 days</option>
+          <option value="90">Within 90 days</option>
+          <option value="180">Within 6 months</option>
+          <option value="365">Within 1 year</option>
+        </select>
+        <button id="clearFilters" class="btn-clear">Clear Filters</button>
+      </div>
+    </div>
+
+    <!-- Table -->
+    <div class="table-container">
+      <table id="opportunitiesTable">
+        <thead>
+          <tr>
+            <th data-sort="final_score" class="sortable sorted-desc">Score</th>
+            <th data-sort="title" class="sortable">Title</th>
+            <th data-sort="agency" class="sortable">Agency</th>
+            <th data-sort="source" class="sortable">Source</th>
+            <th data-sort="deadline" class="sortable">Deadline</th>
+            <th data-sort="matched_topics" class="sortable">Topics</th>
+          </tr>
+        </thead>
+        <tbody id="tableBody">
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Pagination -->
+    <div class="pagination" id="pagination">
+      <button id="prevPage" class="btn-page">Previous</button>
+      <span id="pageInfo"></span>
+      <button id="nextPage" class="btn-page">Next</button>
+    </div>
+
+    <!-- Loading / Error states -->
+    <div class="message" id="loadingMsg">Loading opportunities...</div>
+    <div class="message error" id="errorMsg" style="display:none"></div>
+  </main>
+
+  <!-- Detail modal -->
+  <div class="modal-overlay" id="modalOverlay">
+    <div class="modal" id="detailModal">
+      <button class="modal-close" id="modalClose">&times;</button>
+      <div id="modalContent"></div>
+    </div>
+  </div>
+
+  <!-- Token config modal -->
+  <div class="modal-overlay" id="tokenModalOverlay">
+    <div class="modal token-modal">
+      <button class="modal-close" id="tokenModalClose">&times;</button>
+      <div class="token-modal-content">
+        <h2>Configure GitHub Token</h2>
+        <p class="token-help">Enter a GitHub Personal Access Token with <strong>actions:write</strong> scope to trigger the grant scout pipeline from this dashboard.</p>
+        <div class="token-input-row">
+          <input type="password" id="tokenInput" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx">
+          <button id="tokenSave" class="btn-token-save">Save</button>
+        </div>
+        <p class="token-status" id="tokenStatus"></p>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <p>Grant Scout &mdash; Refresh on demand via dashboard</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

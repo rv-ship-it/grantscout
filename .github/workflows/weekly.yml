@@ -1,13 +1,12 @@
-name: Weekly Grant Scout
+name: Grant Scout
 
 on:
-  schedule:
-    # Run every Monday at 8:00 AM UTC
-    - cron: "0 8 * * 1"
-  workflow_dispatch: # Allow manual trigger from GitHub UI
+  workflow_dispatch: # Triggered from dashboard or GitHub UI
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   scout:
@@ -37,3 +36,38 @@ jobs:
           git add outputs/ data/raw/
           git diff --cached --quiet || git commit -m "chore: weekly grant scout update $(date +%Y-%m-%d)"
           git push
+
+  deploy-dashboard:
+    needs: scout
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Pull latest changes
+        run: git pull origin main
+
+      - name: Assemble dashboard site
+        run: |
+          mkdir -p _site/data
+          cp dashboard/index.html _site/
+          cp dashboard/style.css _site/
+          cp dashboard/app.js _site/
+          cp outputs/dashboard_data.json _site/data/
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

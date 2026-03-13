@@ -138,6 +138,41 @@ def export_json(opportunities: list[Opportunity], path=None) -> str:
     return str(path)
 
 
+def export_dashboard_json(opportunities: list[Opportunity], path=None) -> str:
+    """Write all opportunities as JSON for the web dashboard. Returns the file path."""
+    path = path or OUTPUTS_DIR / "dashboard_data.json"
+
+    now = now_utc()
+    data = {
+        "generated_at": now.isoformat(),
+        "total": len(opportunities),
+        "opportunities": [
+            {
+                "id": opp.id,
+                "source": opp.source,
+                "agency": opp.agency,
+                "title": opp.title,
+                "opportunity_number": opp.opportunity_number,
+                "posted_date": opp.posted_date,
+                "close_date": opp.close_date,
+                "deadline": opp.deadline,
+                "url": opp.url,
+                "summary": opp.summary,
+                "eligibility": opp.eligibility,
+                "final_score": opp.final_score,
+                "keyword_score": opp.keyword_score,
+                "matched_topics": opp.matched_topics,
+                "high_priority": opp.high_priority,
+            }
+            for opp in opportunities
+        ],
+    }
+
+    _write(path, json.dumps(data, indent=2, default=str))
+    log.info(f"Wrote {len(opportunities)} opportunities to dashboard JSON: {path}")
+    return str(path)
+
+
 def _write(path, content: str):
     """Write string content to a file."""
     with open(path, "w", encoding="utf-8") as f:

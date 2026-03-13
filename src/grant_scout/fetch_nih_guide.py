@@ -22,13 +22,11 @@ from grant_scout.utils import DATA_RAW_DIR, get_logger, now_utc
 log = get_logger(__name__)
 
 # NIH Guide RSS feeds for active notices
+# Note: The old per-type RSS URLs were deprecated. The main funding opps feed
+# is now the canonical source for NIH Guide notices.
 NIH_RSS_URLS = [
-    # Active RFAs (Requests for Applications)
-    "https://grants.nih.gov/funding/searchguide/rss/actnotices_rfa.xml",
-    # Active PAs (Program Announcements)
-    "https://grants.nih.gov/funding/searchguide/rss/actnotices_pa.xml",
-    # Active NOSIs (Notices of Special Interest)
-    "https://grants.nih.gov/funding/searchguide/rss/actnotices_nosi.xml",
+    # All funding opportunities (RFAs, PAs, NOSIs combined)
+    "https://grants.nih.gov/grants/guide/newsfeed/fundingopps.xml",
 ]
 
 # Fallback: NIH RePORTER API for open funding opportunities

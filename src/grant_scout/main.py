@@ -24,10 +24,30 @@ FETCHED_FILE = DATA_RAW_DIR / "fetched_opportunities.json"
 SCORED_FILE = DATA_RAW_DIR / "scored_opportunities.json"
 
 
+FOREIGN_KEYWORDS = [
+    "foreign", "international", "non-domestic",
+    "outside the united states", "non-u.s.", "non-us",
+]
+
+
+def filter_european_eligible(opps: list) -> list:
+    """Keep only opportunities where a European startup can apply."""
+    result = []
+    for opp in opps:
+        if opp.source == "EU Portal":
+            result.append(opp)
+            continue
+        text = f"{opp.eligibility} {opp.summary}".lower()
+        if any(kw in text for kw in FOREIGN_KEYWORDS):
+            result.append(opp)
+    return result
+
+
 def cmd_fetch() -> list[dict]:
     """Fetch opportunities from all configured sources."""
     from grant_scout.fetch_nih_guide import fetch_nih_opportunities
     from grant_scout.fetch_grants_gov import fetch_grants_gov_opportunities
+    from grant_scout.fetch_eu_grants import fetch_eu_opportunities
     from grant_scout.dedupe import deduplicate
 
     log.info("=" * 60)
@@ -50,6 +70,13 @@ def cmd_fetch() -> list[dict]:
     except Exception as e:
         log.error(f"Grants.gov fetch failed: {e}")
 
+    # EU Funding & Tenders Portal
+    try:
+        eu = fetch_eu_opportunities()
+        all_opps.extend(eu)
+    except Exception as e:
+        log.error(f"EU Portal fetch failed: {e}")
+
     if not all_opps:
         log.warning("No opportunities fetched from any source.")
         log.info("This may be due to API rate limits or network issues.")
@@ -57,8 +84,11 @@ def cmd_fetch() -> list[dict]:
 
     # Deduplicate
     all_opps = deduplicate(all_opps)
-
     log.info(f"Total unique opportunities after dedup: {len(all_opps)}")
+
+    # Filter to European-startup-eligible grants only
+    all_opps = filter_european_eligible(all_opps)
+    log.info(f"European-startup-eligible opportunities: {len(all_opps)}")
 
     # Save intermediate results
     data = [opp.to_dict() for opp in all_opps]
@@ -109,7 +139,7 @@ def cmd_score() -> list[dict]:
 def cmd_export() -> None:
     """Export scored opportunities to final output files."""
     from grant_scout.normalize import Opportunity
-    from grant_scout.report import export_csv, export_markdown, export_json
+    from grant_scout.report import export_csv, export_markdown, export_json, export_dashboard_json
 
     log.info("=" * 60)
     log.info("STEP 3: Exporting outputs")
@@ -131,10 +161,11 @@ def cmd_export() -> None:
     # Sort by score (should already be sorted, but ensure it)
     opps.sort(key=lambda o: o.final_score, reverse=True)
 
-    # Export all three formats
+    # Export all formats
     csv_path = export_csv(opps)
     md_path = export_markdown(opps)
     json_path = export_json(opps)
+    dash_path = export_dashboard_json(opps)
 
     hp_count = sum(1 for o in opps if o.high_priority)
 
@@ -143,6 +174,7 @@ def cmd_export() -> None:
     log.info(f"  CSV:      {csv_path}")
     log.info(f"  Markdown: {md_path}")
     log.info(f"  JSON:     {json_path}")
+    log.info(f"  Dashboard: {dash_path}")
     log.info(f"  Total:    {len(opps)} opportunities")
     log.info(f"  High priority: {hp_count}")
     log.info("=" * 60)
